@@ -21,7 +21,6 @@ var server = http.createServer (function (req, res) {
 server.listen(process.env.PORT || port);
 console.log('listening on 8080')
 
-// subroutines
 
 function sendFile(res, filename, contentType) {
   contentType = contentType || 'text/html'

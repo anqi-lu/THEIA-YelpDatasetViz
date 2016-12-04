@@ -1,0 +1,810 @@
+{
+ "name": "Categories",
+ "children": [
+  {
+   "name": "Restaurants",
+   "children": [
+     {
+       "name": "Fast Food",
+       "size": 3154
+     },
+     {
+       "name": "Pizza",
+       "size": 2881
+     },
+     {
+       "name": "Nightlife",
+       "size": 2806
+     },
+     {
+       "name": "Mexican",
+       "size": 2705
+     },
+     {
+       "name": "Bars",
+       "size": 2694
+     },
+     {
+       "name": "Sandwiches",
+       "size": 2666
+     },
+     {
+       "name": "American (Traditional)",
+       "size": 2608
+     },
+     {
+       "name": "Burgers",
+       "size": 1960
+     },
+     {
+       "name": "Italian",
+       "size": 1939
+     },
+     {
+       "name": "Chinese",
+       "size": 1714
+     },
+     {
+       "name": "American (New)",
+       "size": 1671
+     },
+     {
+       "name": "Breakfast & Brunch",
+       "size": 1609
+     },
+     {
+       "name": "Cafes",
+       "size": 1100
+     },
+     {
+       "name": "Japanese",
+       "size": 922
+     },
+     {
+       "name": "Sushi Bars",
+       "size": 859
+     },
+     {
+       "name": "Chicken Wings",
+       "size": 812
+     },
+     {
+       "name": "Seafood",
+       "size": 748
+     },
+     {
+       "name": "Delis",
+       "size": 730
+     },
+     {
+       "name": "Sports Bars",
+       "size": 649
+     },
+     {
+       "name": "Barbeque",
+       "size": 646
+     },
+     {
+       "name": "Steakhouses",
+       "size": 636
+     },
+     {
+       "name": "Coffee & Tea",
+       "size": 620
+     },
+     {
+       "name": "Mediterranean",
+       "size": 614
+     },
+     {
+       "name": "Thai",
+       "size": 554
+     },
+     {
+       "name": "Asian Fusion",
+       "size": 554
+     },
+     {
+       "name": "Salad",
+       "size": 540
+     },
+     {
+       "name": "French",
+       "size": 488
+     },
+     {
+       "name": "Indian",
+       "size": 461
+     },
+     {
+       "name": "Pubs",
+       "size": 446
+     },
+     {
+       "name": "Greek",
+       "size": 439
+     },
+     {
+       "name": "Buffets",
+       "size": 435
+     },
+     {
+       "name": "Diners",
+       "size": 396
+     },
+     {
+       "name": "Vietnamese",
+       "size": 389
+     },
+     {
+       "name": "Bakeries",
+       "size": 385
+     },
+     {
+       "name": "Tex-Mex",
+       "size": 348
+     },
+     {
+       "name": "Vegetarian",
+       "size": 311
+     },
+     {
+       "name": "Wine Bars",
+       "size": 296
+     },
+     {
+       "name": "Middle Eastern",
+       "size": 289
+     },
+     {
+       "name": "Hot Dogs",
+       "size": 287
+     },
+     {
+       "name": "Korean",
+       "size": 247
+     },
+     {
+       "name": "Canadian (New)",
+       "size": 232
+     },
+     {
+       "name": "Gluten-Free",
+       "size": 231
+     },
+     {
+       "name": "Lounges",
+       "size": 223
+     },
+     {
+       "name": "Vegan",
+       "size": 218
+     },
+     {
+       "name": "Desserts",
+       "size": 216
+     },
+     {
+       "name": "Specialty Food",
+       "size": 216
+     },
+     {
+       "name": "Latin American",
+       "size": 212
+     },
+     {
+       "name": "Ice Cream & Frozen Yogurt",
+       "size": 198
+     },
+     {
+       "name": "German",
+       "size": 190
+     },
+     {
+       "name": "Arts & Entertainment",
+       "size": 189
+     },
+     {
+       "name": "Event Planning & Services",
+       "size": 188
+     },
+     {
+       "name": "Juice Bars & Smoothies",
+       "size": 185
+     },
+     {
+       "name": "Southern",
+       "size": 185
+     },
+     {
+       "name": "British",
+       "size": 175
+     },
+     {
+       "name": "Gastropubs",
+       "size": 167
+     },
+     {
+       "name": "Soup",
+       "size": 161
+     },
+     {
+       "name": "Food Trucks",
+       "size": 160
+     },
+     {
+       "name": "Hawaiian",
+       "size": 150
+     },
+     {
+       "name": "Cocktail Bars",
+       "size": 148
+     },
+     {
+       "name": "Bagels",
+       "size": 132
+     },
+     {
+       "name": "Caribbean",
+       "size": 122
+     },
+     {
+       "name": "Tapas/Small Plates",
+       "size": 120
+     },
+     {
+       "name": "Soul Food",
+       "size": 117
+     },
+     {
+       "name": "Tapas Bars",
+       "size": 116
+     },
+     {
+       "name": "Fish & Chips",
+       "size": 113
+     },
+     {
+       "name": "Cajun/Creole",
+       "size": 104
+     },
+     {
+       "name": "Comfort Food",
+       "size": 101
+     },
+     {
+       "name": "Grocery",
+       "size": 99
+     },
+     {
+       "name": "Pakistani",
+       "size": 94
+     },
+     {
+       "name": "Ethnic Food",
+       "size": 92
+     },
+     {
+       "name": "Caterers",
+       "size": 91
+     },
+     {
+       "name": "Spanish",
+       "size": 90
+     },
+     {
+       "name": "Music Venues",
+       "size": 86
+     },
+     {
+       "name": "Filipino",
+       "size": 84
+     },
+     {
+       "name": "Creperies",
+       "size": 83
+     },
+     {
+       "name": "Food Stands",
+       "size": 81
+     },
+     {
+       "name": "Turkish",
+       "size": 80
+     },
+     {
+       "name": "Beer, Wine & Spirits",
+       "size": 75
+     },
+     {
+       "name": "Breweries",
+       "size": 74
+     },
+     {
+       "name": "Cheesesteaks",
+       "size": 73
+     },
+     {
+       "name": "Portuguese",
+       "size": 73
+     },
+     {
+       "name": "Brasseries",
+       "size": 71
+     },
+     {
+       "name": "Irish",
+       "size": 70
+     },
+     {
+       "name": "Dive Bars",
+       "size": 68
+     },
+     {
+       "name": "Modern European",
+       "size": 62
+     },
+     {
+       "name": "Noodles",
+       "size": 61
+     },
+     {
+       "name": "Halal",
+       "size": 60
+     },
+     {
+       "name": "Karaoke",
+       "size": 59
+     },
+     {
+       "name": "Dim Sum",
+       "size": 57
+     },
+     {
+       "name": "Lebanese",
+       "size": 57
+     },
+     {
+       "name": "Peruvian",
+       "size": 57
+     },
+     {
+       "name": "Venues & Event Spaces",
+       "size": 53
+     },
+     {
+       "name": "African",
+       "size": 48
+     },
+     {
+       "name": "Taiwanese",
+       "size": 48
+     },
+     {
+       "name": "Ramen",
+       "size": 47
+     },
+     {
+       "name": "Scottish",
+       "size": 47
+     },
+     {
+       "name": "Active Life",
+       "size": 45
+     },
+     {
+       "name": "Persian/Iranian",
+       "size": 45
+     },
+     {
+       "name": "Hotels & Travel",
+       "size": 44
+     },
+     {
+       "name": "Food Delivery Services",
+       "size": 42
+     }
+   ]
+  },
+  {
+    "name": "Shopping",
+    "size": 12406
+  },
+  {
+    "name": "Food",
+    "size": 7774
+  },
+  {
+    "name": "Beauty & Spas",
+    "size": 7488
+  },
+  {
+    "name": "Health & Medical",
+    "size": 6105
+  },
+  {
+    "name": "Home Services",
+    "size": 5866
+  },
+  {
+    "name": "Automotive",
+    "size": 4882
+  },
+  {
+    "name": "Local Services",
+    "size": 4040
+  },
+  {
+    "name": "Active Life",
+    "size": 3410
+  },
+  {
+    "name": "Fashion",
+    "size": 3392
+  },
+  {
+    "name": "Event Planning & Services",
+    "size": 3049
+  },
+  {
+    "name": "Nightlife",
+    "size": 2701
+  },
+  {
+    "name": "Hotels & Travel",
+    "size": 2629
+  },
+  {
+    "name": "Hair Salons",
+    "size": 2436
+  },
+  {
+    "name": "Arts & Entertainment",
+    "size": 2258
+  },
+  {
+    "name": "Doctors",
+    "size": 2061
+  },
+  {
+    "name": "Bars",
+    "size": 2033
+  },
+  {
+    "name": "Auto Repair",
+    "size": 1907
+  },
+  {
+    "name": "Home & Garden",
+    "size": 1900
+  },
+  {
+    "name": "Nail Salons",
+    "size": 1889
+  },
+  {
+    "name": "Coffee & Tea",
+    "size": 1779
+  },
+  {
+    "name": "Real Estate",
+    "size": 1692
+  },
+  {
+    "name": "Pets",
+    "size": 1664
+  },
+  {
+    "name": "Fitness & Instruction",
+    "size": 1624
+  },
+  {
+    "name": "Hotels",
+    "size": 1451
+  },
+  {
+    "name": "Grocery",
+    "size": 1426
+  },
+  {
+    "name": "Dentists",
+    "size": 1380
+  },
+  {
+    "name": "Women's Clothing",
+    "size": 1318
+  },
+  {
+    "name": "Financial Services",
+    "size": 1110
+  },
+  {
+    "name": "Professional Services",
+    "size": 1080
+  },
+  {
+    "name": "General Dentistry",
+    "size": 1025
+  },
+  {
+    "name": "Pet Services",
+    "size": 1000
+  },
+  {
+    "name": "Specialty Food",
+    "size": 1000
+  },
+  {
+    "name": "Hair Removal",
+    "size": 924
+  },
+  {
+    "name": "Ice Cream & Frozen Yogurt",
+    "size": 916
+  },
+  {
+    "name": "Apartments",
+    "size": 901
+  },
+  {
+    "name": "Education",
+    "size": 874
+  },
+  {
+    "name": "Skin Care",
+    "size": 829
+  },
+  {
+    "name": "Convenience Stores",
+    "size": 824
+  },
+  {
+    "name": "Bakeries",
+    "size": 818
+  },
+  {
+    "name": "Gyms",
+    "size": 807
+  },
+  {
+    "name": "Sporting Goods",
+    "size": 786
+  },
+  {
+    "name": "Cosmetics & Beauty Supply",
+    "size": 749
+  },
+  {
+    "name": "Accessories",
+    "size": 740
+  },
+  {
+    "name": "Drugstores",
+    "size": 735
+  },
+  {
+    "name": "Day Spas",
+    "size": 721
+  },
+  {
+    "name": "Department Stores",
+    "size": 704
+  },
+  {
+    "name": "Massage",
+    "size": 679
+  },
+  {
+    "name": "Flowers & Gifts",
+    "size": 671
+  },
+  {
+    "name": "Men's Clothing",
+    "size": 667
+  },
+  {
+    "name": "Banks & Credit Unions",
+    "size": 646
+  },
+  {
+    "name": "Arts & Crafts",
+    "size": 642
+  },
+  {
+    "name": "Tires",
+    "size": 633
+  },
+  {
+    "name": "Gas & Service Stations",
+    "size": 631
+  },
+  {
+    "name": "Dry Cleaning & Laundry",
+    "size": 624
+  },
+  {
+    "name": "Jewelry",
+    "size": 618
+  },
+  {
+    "name": "Barbers",
+    "size": 617
+  },
+  {
+    "name": "Books, Mags, Music & Video",
+    "size": 609
+  },
+  {
+    "name": "Furniture Stores",
+    "size": 593
+  },
+  {
+    "name": "Trainers",
+    "size": 585
+  },
+  {
+    "name": "Oil Change Stations",
+    "size": 580
+  },
+  {
+    "name": "Cosmetic Dentists",
+    "size": 580
+  },
+  {
+    "name": "Pet Groomers",
+    "size": 579
+  },
+  {
+    "name": "Public Services & Government",
+    "size": 572
+  },
+  {
+    "name": "Veterinarians",
+    "size": 558
+  },
+  {
+    "name": "Desserts",
+    "size": 555
+  },
+  {
+    "name": "Home Decor",
+    "size": 522
+  },
+  {
+    "name": "Optometrists",
+    "size": 510
+  },
+  {
+    "name": "Shoe Stores",
+    "size": 505
+  },
+  {
+    "name": "Hair Stylists",
+    "size": 486
+  },
+  {
+    "name": "Chiropractors",
+    "size": 478
+  },
+  {
+    "name": "Car Wash",
+    "size": 474
+  },
+  {
+    "name": "Performing Arts",
+    "size": 471
+  },
+  {
+    "name": "Venues & Event Spaces",
+    "size": 468
+  },
+  {
+    "name": "Beer, Wine & Spirits",
+    "size": 466
+  },
+  {
+    "name": "Auto Parts & Supplies",
+    "size": 454
+  },
+  {
+    "name": "Heating & Air Conditioning/HVAC",
+    "size": 453
+  },
+  {
+    "name": "Pubs",
+    "size": 452
+  },
+  {
+    "name": "Printing Services",
+    "size": 446
+  },
+  {
+    "name": "Waxing",
+    "size": 444
+  },
+  {
+    "name": "Parks",
+    "size": 441
+  },
+  {
+    "name": "Mobile Phones",
+    "size": 439
+  },
+  {
+    "name": "Shipping Centers",
+    "size": 404
+  },
+  {
+    "name": "Lounges",
+    "size": 401
+  },
+  {
+    "name": "Eyelash Service",
+    "size": 395
+  },
+  {
+    "name": "Eyewear & Opticians",
+    "size": 391
+  },
+  {
+    "name": "Car Dealers",
+    "size": 390
+  },
+  {
+    "name": "Medical Centers",
+    "size": 389
+  },
+  {
+    "name": "Pet Stores",
+    "size": 383
+  },
+  {
+    "name": "Pet Boarding/Pet Sitting",
+    "size": 378
+  },
+  {
+    "name": "Electronics",
+    "size": 377
+  },
+  {
+    "name": "Transportation",
+    "size": 363
+  },
+  {
+    "name": "Contractors",
+    "size": 362
+  },
+  {
+    "name": "IT Services & Computer Repair",
+    "size": 359
+  },
+  {
+    "name": "Plumbing",
+    "size": 350
+  },
+  {
+    "name": "Dance Clubs",
+    "size": 346
+  },
+  {
+    "name": "Tanning",
+    "size": 342
+  },
+  {
+    "name": "Specialty Schools",
+    "size": 340
+  },
+  {
+    "name": "Yoga",
+    "size": 339
+  },
+  {
+    "name": "Massage Therapy",
+    "size": 336
+  },
+  {
+    "name": "Body Shops",
+    "size": 329
+  }
+ ]
+}

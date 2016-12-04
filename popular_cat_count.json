@@ -1,102 +1,402 @@
-{
-  "Accessories": 740, 
-  "Active Life": 3410, 
-  "Apartments": 901, 
-  "Arts & Crafts": 642, 
-  "Arts & Entertainment": 2258, 
-  "Auto Parts & Supplies": 454, 
-  "Auto Repair": 1907, 
-  "Automotive": 4882, 
-  "Bakeries": 818, 
-  "Banks & Credit Unions": 646, 
-  "Barbers": 617, 
-  "Bars": 2033, 
-  "Beauty & Spas": 7488, 
-  "Beer, Wine & Spirits": 466, 
-  "Body Shops": 329, 
-  "Books, Mags, Music & Video": 609, 
-  "Car Dealers": 390, 
-  "Car Wash": 474, 
-  "Chiropractors": 478, 
-  "Coffee & Tea": 1779, 
-  "Contractors": 362, 
-  "Convenience Stores": 824, 
-  "Cosmetic Dentists": 580, 
-  "Cosmetics & Beauty Supply": 749, 
-  "Dance Clubs": 346, 
-  "Day Spas": 721, 
-  "Dentists": 1380, 
-  "Department Stores": 704, 
-  "Desserts": 555, 
-  "Doctors": 2061, 
-  "Drugstores": 735, 
-  "Dry Cleaning & Laundry": 624, 
-  "Education": 874, 
-  "Electronics": 377, 
-  "Event Planning & Services": 3049, 
-  "Eyelash Service": 395, 
-  "Eyewear & Opticians": 391, 
-  "Fashion": 3392, 
-  "Financial Services": 1110, 
-  "Fitness & Instruction": 1624, 
-  "Flowers & Gifts": 671, 
-  "Food": 7774, 
-  "Furniture Stores": 593, 
-  "Gas & Service Stations": 631, 
-  "General Dentistry": 1025, 
-  "Grocery": 1426, 
-  "Gyms": 807, 
-  "Hair Removal": 924, 
-  "Hair Salons": 2436, 
-  "Hair Stylists": 486, 
-  "Health & Medical": 6105, 
-  "Heating & Air Conditioning/HVAC": 453, 
-  "Home & Garden": 1900, 
-  "Home Decor": 522, 
-  "Home Services": 5866, 
-  "Hotels": 1451, 
-  "Hotels & Travel": 2629, 
-  "IT Services & Computer Repair": 359, 
-  "Ice Cream & Frozen Yogurt": 916, 
-  "Jewelry": 618, 
-  "Local Services": 4040, 
-  "Lounges": 401, 
-  "Massage": 679, 
-  "Massage Therapy": 336, 
-  "Medical Centers": 389, 
-  "Men's Clothing": 667, 
-  "Mobile Phones": 439, 
-  "Nail Salons": 1889, 
-  "Nightlife": 2701, 
-  "Oil Change Stations": 580, 
-  "Optometrists": 510, 
-  "Parks": 441, 
-  "Performing Arts": 471, 
-  "Pet Boarding/Pet Sitting": 378, 
-  "Pet Groomers": 579, 
-  "Pet Services": 1000, 
-  "Pet Stores": 383, 
-  "Pets": 1664, 
-  "Plumbing": 350, 
-  "Printing Services": 446, 
-  "Professional Services": 1080, 
-  "Public Services & Government": 572, 
-  "Pubs": 452, 
-  "Real Estate": 1692, 
-  "Shipping Centers": 404, 
-  "Shoe Stores": 505, 
-  "Shopping": 12406, 
-  "Skin Care": 829, 
-  "Specialty Food": 1000, 
-  "Specialty Schools": 340, 
-  "Sporting Goods": 786, 
-  "Tanning": 342, 
-  "Tires": 633, 
-  "Trainers": 585, 
-  "Transportation": 363, 
-  "Venues & Event Spaces": 468, 
-  "Veterinarians": 558, 
-  "Waxing": 444, 
-  "Women's Clothing": 1318, 
-  "Yoga": 339
-}
+[
+  {
+    "name": "Shopping", 
+    "size": 12406
+  }, 
+  {
+    "name": "Food", 
+    "size": 7774
+  }, 
+  {
+    "name": "Beauty & Spas", 
+    "size": 7488
+  }, 
+  {
+    "name": "Health & Medical", 
+    "size": 6105
+  }, 
+  {
+    "name": "Home Services", 
+    "size": 5866
+  }, 
+  {
+    "name": "Automotive", 
+    "size": 4882
+  }, 
+  {
+    "name": "Local Services", 
+    "size": 4040
+  }, 
+  {
+    "name": "Active Life", 
+    "size": 3410
+  }, 
+  {
+    "name": "Fashion", 
+    "size": 3392
+  }, 
+  {
+    "name": "Event Planning & Services", 
+    "size": 3049
+  }, 
+  {
+    "name": "Nightlife", 
+    "size": 2701
+  }, 
+  {
+    "name": "Hotels & Travel", 
+    "size": 2629
+  }, 
+  {
+    "name": "Hair Salons", 
+    "size": 2436
+  }, 
+  {
+    "name": "Arts & Entertainment", 
+    "size": 2258
+  }, 
+  {
+    "name": "Doctors", 
+    "size": 2061
+  }, 
+  {
+    "name": "Bars", 
+    "size": 2033
+  }, 
+  {
+    "name": "Auto Repair", 
+    "size": 1907
+  }, 
+  {
+    "name": "Home & Garden", 
+    "size": 1900
+  }, 
+  {
+    "name": "Nail Salons", 
+    "size": 1889
+  }, 
+  {
+    "name": "Coffee & Tea", 
+    "size": 1779
+  }, 
+  {
+    "name": "Real Estate", 
+    "size": 1692
+  }, 
+  {
+    "name": "Pets", 
+    "size": 1664
+  }, 
+  {
+    "name": "Fitness & Instruction", 
+    "size": 1624
+  }, 
+  {
+    "name": "Hotels", 
+    "size": 1451
+  }, 
+  {
+    "name": "Grocery", 
+    "size": 1426
+  }, 
+  {
+    "name": "Dentists", 
+    "size": 1380
+  }, 
+  {
+    "name": "Women's Clothing", 
+    "size": 1318
+  }, 
+  {
+    "name": "Financial Services", 
+    "size": 1110
+  }, 
+  {
+    "name": "Professional Services", 
+    "size": 1080
+  }, 
+  {
+    "name": "General Dentistry", 
+    "size": 1025
+  }, 
+  {
+    "name": "Pet Services", 
+    "size": 1000
+  }, 
+  {
+    "name": "Specialty Food", 
+    "size": 1000
+  }, 
+  {
+    "name": "Hair Removal", 
+    "size": 924
+  }, 
+  {
+    "name": "Ice Cream & Frozen Yogurt", 
+    "size": 916
+  }, 
+  {
+    "name": "Apartments", 
+    "size": 901
+  }, 
+  {
+    "name": "Education", 
+    "size": 874
+  }, 
+  {
+    "name": "Skin Care", 
+    "size": 829
+  }, 
+  {
+    "name": "Convenience Stores", 
+    "size": 824
+  }, 
+  {
+    "name": "Bakeries", 
+    "size": 818
+  }, 
+  {
+    "name": "Gyms", 
+    "size": 807
+  }, 
+  {
+    "name": "Sporting Goods", 
+    "size": 786
+  }, 
+  {
+    "name": "Cosmetics & Beauty Supply", 
+    "size": 749
+  }, 
+  {
+    "name": "Accessories", 
+    "size": 740
+  }, 
+  {
+    "name": "Drugstores", 
+    "size": 735
+  }, 
+  {
+    "name": "Day Spas", 
+    "size": 721
+  }, 
+  {
+    "name": "Department Stores", 
+    "size": 704
+  }, 
+  {
+    "name": "Massage", 
+    "size": 679
+  }, 
+  {
+    "name": "Flowers & Gifts", 
+    "size": 671
+  }, 
+  {
+    "name": "Men's Clothing", 
+    "size": 667
+  }, 
+  {
+    "name": "Banks & Credit Unions", 
+    "size": 646
+  }, 
+  {
+    "name": "Arts & Crafts", 
+    "size": 642
+  }, 
+  {
+    "name": "Tires", 
+    "size": 633
+  }, 
+  {
+    "name": "Gas & Service Stations", 
+    "size": 631
+  }, 
+  {
+    "name": "Dry Cleaning & Laundry", 
+    "size": 624
+  }, 
+  {
+    "name": "Jewelry", 
+    "size": 618
+  }, 
+  {
+    "name": "Barbers", 
+    "size": 617
+  }, 
+  {
+    "name": "Books, Mags, Music & Video", 
+    "size": 609
+  }, 
+  {
+    "name": "Furniture Stores", 
+    "size": 593
+  }, 
+  {
+    "name": "Trainers", 
+    "size": 585
+  }, 
+  {
+    "name": "Oil Change Stations", 
+    "size": 580
+  }, 
+  {
+    "name": "Cosmetic Dentists", 
+    "size": 580
+  }, 
+  {
+    "name": "Pet Groomers", 
+    "size": 579
+  }, 
+  {
+    "name": "Public Services & Government", 
+    "size": 572
+  }, 
+  {
+    "name": "Veterinarians", 
+    "size": 558
+  }, 
+  {
+    "name": "Desserts", 
+    "size": 555
+  }, 
+  {
+    "name": "Home Decor", 
+    "size": 522
+  }, 
+  {
+    "name": "Optometrists", 
+    "size": 510
+  }, 
+  {
+    "name": "Shoe Stores", 
+    "size": 505
+  }, 
+  {
+    "name": "Hair Stylists", 
+    "size": 486
+  }, 
+  {
+    "name": "Chiropractors", 
+    "size": 478
+  }, 
+  {
+    "name": "Car Wash", 
+    "size": 474
+  }, 
+  {
+    "name": "Performing Arts", 
+    "size": 471
+  }, 
+  {
+    "name": "Venues & Event Spaces", 
+    "size": 468
+  }, 
+  {
+    "name": "Beer, Wine & Spirits", 
+    "size": 466
+  }, 
+  {
+    "name": "Auto Parts & Supplies", 
+    "size": 454
+  }, 
+  {
+    "name": "Heating & Air Conditioning/HVAC", 
+    "size": 453
+  }, 
+  {
+    "name": "Pubs", 
+    "size": 452
+  }, 
+  {
+    "name": "Printing Services", 
+    "size": 446
+  }, 
+  {
+    "name": "Waxing", 
+    "size": 444
+  }, 
+  {
+    "name": "Parks", 
+    "size": 441
+  }, 
+  {
+    "name": "Mobile Phones", 
+    "size": 439
+  }, 
+  {
+    "name": "Shipping Centers", 
+    "size": 404
+  }, 
+  {
+    "name": "Lounges", 
+    "size": 401
+  }, 
+  {
+    "name": "Eyelash Service", 
+    "size": 395
+  }, 
+  {
+    "name": "Eyewear & Opticians", 
+    "size": 391
+  }, 
+  {
+    "name": "Car Dealers", 
+    "size": 390
+  }, 
+  {
+    "name": "Medical Centers", 
+    "size": 389
+  }, 
+  {
+    "name": "Pet Stores", 
+    "size": 383
+  }, 
+  {
+    "name": "Pet Boarding/Pet Sitting", 
+    "size": 378
+  }, 
+  {
+    "name": "Electronics", 
+    "size": 377
+  }, 
+  {
+    "name": "Transportation", 
+    "size": 363
+  }, 
+  {
+    "name": "Contractors", 
+    "size": 362
+  }, 
+  {
+    "name": "IT Services & Computer Repair", 
+    "size": 359
+  }, 
+  {
+    "name": "Plumbing", 
+    "size": 350
+  }, 
+  {
+    "name": "Dance Clubs", 
+    "size": 346
+  }, 
+  {
+    "name": "Tanning", 
+    "size": 342
+  }, 
+  {
+    "name": "Specialty Schools", 
+    "size": 340
+  }, 
+  {
+    "name": "Yoga", 
+    "size": 339
+  }, 
+  {
+    "name": "Massage Therapy", 
+    "size": 336
+  }, 
+  {
+    "name": "Body Shops", 
+    "size": 329
+  }
+]

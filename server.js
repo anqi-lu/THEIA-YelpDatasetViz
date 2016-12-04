@@ -13,6 +13,12 @@ var server = http.createServer (function (req, res) {
     case '/index.html':
       sendFile(res, 'index.html')
       break
+    case '/treemap.html':
+      sendFile(res, 'treemap.html')
+      break
+    case '/categories.json':
+      sendFile(res, 'categories.json')
+      break
     default:
       res.end('404 not found')
   }

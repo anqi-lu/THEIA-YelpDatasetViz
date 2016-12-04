@@ -32,17 +32,28 @@ for bus_data in list_business:
                 a[cat] += 1
 
 sorted_a = sorted(a, key=a.get, reverse=True)
+
+popular_cat_table = []
 # top 100 most popular categories
 for w in sorted_a[:100]:
+    _table = {}
+    _table["name"] = w
+    _table["size"] = a[w]
+    popular_cat_table.append(_table)
     _top_cat_count[w] = a[w]
 
 with open('popular_cat_count.json', 'w') as outfile:
-    json.dump(_top_cat_count, outfile, sort_keys = True, indent=2)
+    json.dump(popular_cat_table, outfile, sort_keys = True, indent=2)
 
-sorted_cat_count = sorted(restaurant_cat_count, key=restaurant_cat_count.get, reverse=True)
+sorted_rest_count = sorted(restaurant_cat_count, key=restaurant_cat_count.get, reverse=True)
 
-for w in sorted_cat_count[:100]:
+popular_rest_table = []
+for w in sorted_rest_count[:100]:
+    _table = {}
+    _table["name"] = w
+    _table["size"] = restaurant_cat_count[w]
+    popular_rest_table.append(_table)
     _restaurant_cat_count[w] = restaurant_cat_count[w]
 
 with open('restaurant_cat_count.json', 'w') as outfile:
-    json.dump(_restaurant_cat_count, outfile, sort_keys = True, indent=2)
+    json.dump(popular_rest_table, outfile, sort_keys = True, indent=2)

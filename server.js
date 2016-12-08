@@ -19,6 +19,13 @@ var server = http.createServer (function (req, res) {
     case '/categories.json':
       sendFile(res, 'categories.json')
       break
+    case '/zoomableTM.html':
+      sendFile(res, 'zoomableTM.html')
+      break
+    case '/test.json':
+      sendFile(res, 'test.json')
+      break
+     
     default:
       res.end('404 not found')
   }

@@ -4,8 +4,12 @@
 <html>
 <meta charset="utf-8">
 <title>Zoomable Treemaps</title>
-<style>
+<style>]
+    html {
+      font-family: sans-serif;
+    }
     h1{
+        font-family: sans-serif;
         text-align: center;
         padding: 10px;
     }
@@ -15,8 +19,9 @@
         background: white;
         margin:auto;
     }
-    
+
     #tooltip{
+        font-family: sans-serif;
          display: none;
          position: absolute;
           width: 220px;
@@ -27,6 +32,7 @@
     }
 
     text {
+      font-family: sans-serif;
       pointer-events: none;
     }
 
@@ -165,7 +171,7 @@ d3.json("bus_cat.json", function(root) {
       });
     }
   }
-  
+
   var mousemove = function(d){
       var x = d3.event.pageX + 5;
       var y = d3.event.pageY + 5;
@@ -174,11 +180,11 @@ d3.json("bus_cat.json", function(root) {
       d3.select("#tooltip #value").text("Number: "+d.value)
       d3.select("#tooltip").style("display", "inline");
   }
-    
+
   var mouseout = function() {
         d3.selectAll("#tooltip").style("display", "none");
     };
-    
+
   function display(d) {
     grandparent
         .datum(d.parent)
@@ -203,20 +209,20 @@ d3.json("bus_cat.json", function(root) {
       .enter().append("rect")
         .attr("class", "child")
         .call(rect)
-    
+
     g.append("rect")
         .attr("class", "parent")
-        .call(rect)    
+        .call(rect)
         .style("fill", function(d){return color(d.name)}) //adding color to parents
         .style("stroke", "#fff") //adding stroke to parents
       .append("title")
         .text(function(d) { return d.value; });
-  
+
     g.append("text")
         .attr("dy", ".75em")
         .text(function(d) { return d.name; })
         .call(text);
-    
+
     function transition(d) {
       if (transitioning || !d) return;
       transitioning = true;

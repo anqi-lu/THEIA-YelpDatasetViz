@@ -22,8 +22,8 @@ var server = http.createServer (function (req, res) {
     case '/zoomableTM.html':
       sendFile(res, 'zoomableTM.html')
       break
-    case '/test.json':
-      sendFile(res, 'test.json')
+    case '/bus_cat.json':
+      sendFile(res, 'bus_cat.json')
       break
      
     default:

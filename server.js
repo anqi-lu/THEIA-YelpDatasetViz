@@ -20,9 +20,6 @@ var server = http.createServer (function (req, res) {
     case '/index.html':
       sendFile(res, 'index.html')
       break
-    case '/treemap.html':
-      sendFile(res, 'treemap.html')
-      break
     case '/categories.json':
       sendFile(res, 'json/categories.json')
       break
@@ -34,7 +31,6 @@ var server = http.createServer (function (req, res) {
       break
     case '/test.html':
       sendFile(res, 'test.html')
-      break
     case '/table.html':
       res.end(JSON.stringify(table))
       break;

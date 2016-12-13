@@ -8,6 +8,7 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "express": "^4.14.0",
     "yelpv3": "^1.2.1"
   }
 }

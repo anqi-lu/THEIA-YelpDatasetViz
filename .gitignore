@@ -39,4 +39,11 @@ jspm_packages
 yelp_academic_dataset_business.json
 yelp_academic_dataset_review.json
 yelp_academic_dataset_checkin.json
-reviews.json
+business_dataset.json
+checkin_dataset.json
+
+*.pyc
+
+scripts
+env
+.py

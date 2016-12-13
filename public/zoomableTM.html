@@ -97,16 +97,18 @@
     </div>
   </div>
   <div class="bubbleChart bottom">
-    <svg id="bubbleChart"></svg>
+    <p id="bubbleChart"></p>
   </div>
 </div>
-<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
 <script>
 
 var city; //global variable to store the city
 var category; //global variable to store the category
 
 var color = d3.scale.category20()
+//var color = d3.scaleOrdinal(d3.schemeCategory20c);
+
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
     width = 960,
     height = 500 - margin.top - margin.bottom,
@@ -239,18 +241,17 @@ d3.json("bus_cat.json", function(root) {
         .append("title")
         .text(function(d) { return d.value; });
 
+    g.selectAll("rect")
+      .on("click", getBubbleChart);
+
     g.append("text")
         .attr("dy", ".75em")
         .text(function(d) { return d.name; })
         .call(text);
 
     function transition(d) {
-      console.log(d)
       if (d.parent != null && d.parent.name == "Business Categories") {
         city = d.name;
-      } else if (d.parent != null && d.parent.name != city) {
-        category = d.name;
-        console.log(category);
       }
       if (transitioning || !d) return;
       transitioning = true;
@@ -284,6 +285,14 @@ d3.json("bus_cat.json", function(root) {
         transitioning = false;
       });
     }
+
+    function getBubbleChart(d) {
+      // TODO: get the data and scroll to the bubble chart
+      category = d.name;
+
+      console.log(d);
+    }
+
     g.on("mousemove",mousemove).on("mouseout",mouseout)
     return g;
   }
@@ -315,7 +324,9 @@ d3.json("bus_cat.json", function(root) {
 var width2="960", height2="500"
 var margin2 = {top: 20, right: 0, bottom: 0, left: 0};
 
-var svg = d3.select("svg#bubbleChart")
+//var svg = d3.select("svg#bubbleChart")
+var svgbubble = d3.select("#bubbleChart")
+            .append("svg")
             .attr("width", width2 + margin2.left + margin2.right)
             .attr("height", height2 + margin2.bottom + margin2.top)
             .style("margin-left", -margin2.left + "px")
@@ -339,7 +350,7 @@ d3.csv("flare.csv", function(d) {
 }, function(error, classes) {
   if (error) throw error;
 
-  var root = d3.hierarchy({children: classes})
+  var rootb = d3.hierarchy({children: classes})
       .sum(function(d) { return d.value; })
       .each(function(d) {
         if (id = d.data.id) {
@@ -350,9 +361,11 @@ d3.csv("flare.csv", function(d) {
         }
       });
 
-  var node = svg.selectAll(".node")
-    .data(pack(root).leaves())
-    .enter().append("g")
+  //var node = svg.selectAll(".node")
+
+  var node = svgbubble.selectAll(".node")
+    .data(pack(rootb).leaves())
+      .enter().append("g")
       .attr("class", "node")
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 

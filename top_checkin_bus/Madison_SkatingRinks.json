@@ -1,0 +1,37 @@
+[
+  {
+    "business_id": "IPgqCGKLMc4HZ5KmDvL6tQ", 
+    "business_name": "Fast Forward Skate Center", 
+    "checkin_info": {
+      "0-6": 1, 
+      "11-6": 1, 
+      "12-1": 1, 
+      "13-4": 1, 
+      "13-5": 2, 
+      "14-5": 1, 
+      "17-2": 1, 
+      "17-3": 1, 
+      "17-5": 1, 
+      "18-4": 1, 
+      "18-5": 4, 
+      "22-2": 1, 
+      "7-6": 2, 
+      "8-4": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "A_5rEz0Z9yD9JngBbeZfWg", 
+    "business_name": "Madison Ice Arena", 
+    "checkin_info": {
+      "13-1": 1, 
+      "15-5": 1, 
+      "7-6": 1, 
+      "8-6": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

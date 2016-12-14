@@ -1,6 +1,7 @@
 [
   {
     "business_id": "wnOQw4nazfglLxwLogTlng", 
+    "business_name": "Hi-Liter Gentleman's Club", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 3, 
@@ -70,10 +71,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 109, 
     "type": "checkin"
   }, 
   {
     "business_id": "aToxIssFRGDGsTV4yJ9qbg", 
+    "business_name": "Bourbon Street", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -130,10 +133,12 @@
       "3-6": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 99, 
     "type": "checkin"
   }, 
   {
     "business_id": "e6i8v7VkD8yJk02PH4d9VA", 
+    "business_name": "Candy Store", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -199,10 +204,12 @@
       "7-2": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 99, 
     "type": "checkin"
   }, 
   {
     "business_id": "5yxVCYburaiqMaHPpWBUiw", 
+    "business_name": "The Great Alaskan Bush Company", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -263,10 +270,12 @@
       "8-4": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 98, 
     "type": "checkin"
   }, 
   {
     "business_id": "nFLzsN12DskfMWYNmcOhdw", 
+    "business_name": "Christie's Cabaret Phoenix", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -324,10 +333,12 @@
       "8-0": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 92, 
     "type": "checkin"
   }, 
   {
     "business_id": "FVpeXmiI8sa86fw63E0_0A", 
+    "business_name": "Jaguars Club", 
     "checkin_info": {
       "0-0": 2, 
       "0-3": 3, 
@@ -375,10 +386,12 @@
       "3-6": 2, 
       "4-6": 1
     }, 
+    "total_checkin": 76, 
     "type": "checkin"
   }, 
   {
     "business_id": "q9B1h5eGBvHjQLF10puUkQ", 
+    "business_name": "Bandaids Show Lounge", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 4, 
@@ -434,10 +447,12 @@
       "8-6": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }, 
   {
     "business_id": "DMMcgtxy3c8qsHFBABvhEg", 
+    "business_name": "The Cottage", 
     "checkin_info": {
       "0-5": 2, 
       "11-5": 1, 
@@ -475,10 +490,12 @@
       "8-6": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "I3q-yBxRJ0mly9T3LnCGKg", 
+    "business_name": "Bliss Showclub", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -507,10 +524,12 @@
       "23-6": 1, 
       "6-1": 1
     }, 
+    "total_checkin": 31, 
     "type": "checkin"
   }, 
   {
     "business_id": "HcQSVGAcb5c9kgBB49gvZw", 
+    "business_name": "Sugar 44", 
     "checkin_info": {
       "0-6": 1, 
       "1-6": 1, 
@@ -532,6 +551,7 @@
       "23-0": 2, 
       "7-4": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }
 ]

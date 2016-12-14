@@ -1,6 +1,7 @@
 [
   {
     "business_id": "BvFjNmTvz4xf9IQ3ANfz1g", 
+    "business_name": "Hondatronics", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -97,10 +98,12 @@
       "9-5": 18, 
       "9-6": 2
     }, 
+    "total_checkin": 1604, 
     "type": "checkin"
   }, 
   {
     "business_id": "zsAlOIoPCdVZO2kVAb5YJw", 
+    "business_name": "USA Auto Service", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -212,10 +215,12 @@
       "9-5": 22, 
       "9-6": 1
     }, 
+    "total_checkin": 1237, 
     "type": "checkin"
   }, 
   {
     "business_id": "Et15E65kUwYbVNYwiaTXeg", 
+    "business_name": "EcoWash Automotive Center", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 5, 
@@ -306,10 +311,12 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 971, 
     "type": "checkin"
   }, 
   {
     "business_id": "YkxyI2guuPcmgWFk0a0aDQ", 
+    "business_name": "Honda West", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 6, 
@@ -394,10 +401,12 @@
       "9-4": 4, 
       "9-5": 7
     }, 
+    "total_checkin": 344, 
     "type": "checkin"
   }, 
   {
     "business_id": "LoOtuNdj5miN_Pd3MPOiWQ", 
+    "business_name": "Lexus Of Las Vegas", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 6, 
@@ -486,10 +495,12 @@
       "9-4": 14, 
       "9-5": 16
     }, 
+    "total_checkin": 340, 
     "type": "checkin"
   }, 
   {
     "business_id": "kDn-Lk5fmjc7dLYZUlkEeA", 
+    "business_name": "Busy Buggy", 
     "checkin_info": {
       "0-4": 2, 
       "1-3": 1, 
@@ -580,10 +591,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 332, 
     "type": "checkin"
   }, 
   {
     "business_id": "8zHPP5TO9uGHh7ny05g0Iw", 
+    "business_name": "Subaru of Las Vegas", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 3, 
@@ -668,10 +681,12 @@
       "9-4": 5, 
       "9-5": 6
     }, 
+    "total_checkin": 317, 
     "type": "checkin"
   }, 
   {
     "business_id": "HmNXiIfi1qPgYnSmleXHrw", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -757,10 +772,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 246, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ubwquTfavXYSUlS1bMVqg", 
+    "business_name": "MINI of Las Vegas", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 5, 
@@ -846,10 +863,12 @@
       "9-4": 4, 
       "9-5": 9
     }, 
+    "total_checkin": 239, 
     "type": "checkin"
   }, 
   {
     "business_id": "BfqmxWbqNdKXCH-JaM_3xg", 
+    "business_name": "Purrfect Auto Service", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 4, 
@@ -926,6 +945,7 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 219, 
     "type": "checkin"
   }
 ]

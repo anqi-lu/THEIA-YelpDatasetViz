@@ -1,6 +1,7 @@
 [
   {
     "business_id": "jJi6f7xjkdDmiKnpJpd3KA", 
+    "business_name": "Lowe's Home Improvement", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -92,10 +93,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 283, 
     "type": "checkin"
   }, 
   {
     "business_id": "AJrEkWhxjljI_4We75XW5w", 
+    "business_name": "Bedrosians Tile and Stone", 
     "checkin_info": {
       "10-1": 1, 
       "11-1": 1, 
@@ -119,10 +122,12 @@
       "17-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }, 
   {
     "business_id": "XXBlPr1L0Bmw8dkkQdctjw", 
+    "business_name": "Faucets Galore of Nevada", 
     "checkin_info": {
       "10-5": 1, 
       "11-2": 1, 
@@ -137,10 +142,12 @@
       "17-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "qnaiZmgsi8tf9GeONcrzWA", 
+    "business_name": "Marble Express", 
     "checkin_info": {
       "10-2": 1, 
       "11-1": 1, 
@@ -153,10 +160,12 @@
       "18-3": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "MbMVmuulwPumRmLzZaPZlQ", 
+    "business_name": "Peterman Lumber Inc", 
     "checkin_info": {
       "10-1": 1, 
       "13-0": 1, 
@@ -168,10 +177,12 @@
       "8-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 9, 
     "type": "checkin"
   }, 
   {
     "business_id": "CAsgqS72DQkZxMNzuAzRXg", 
+    "business_name": "Meads Hardware", 
     "checkin_info": {
       "10-2": 1, 
       "12-0": 1, 
@@ -182,10 +193,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }, 
   {
     "business_id": "SqUzydDijMh7WL5ZnTCXaw", 
+    "business_name": "Curtis Steel Company", 
     "checkin_info": {
       "0-2": 1, 
       "10-4": 1, 
@@ -195,10 +208,12 @@
       "15-4": 1, 
       "16-1": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "98lNBg7GGmwYovGe2QScxw", 
+    "business_name": "84 Lumber", 
     "checkin_info": {
       "10-1": 1, 
       "13-3": 1, 
@@ -207,10 +222,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "L3xHz3gbFnk3E0s68vQeyw", 
+    "business_name": "Lumber Liquidators", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -218,10 +235,12 @@
       "11-6": 1, 
       "13-6": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "qWKFpTUBX-0Ws-v_2uxGuQ", 
+    "business_name": "Tuff Shed", 
     "checkin_info": {
       "10-2": 1, 
       "10-6": 1, 
@@ -229,6 +248,7 @@
       "18-4": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

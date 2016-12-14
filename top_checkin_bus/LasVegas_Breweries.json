@@ -1,6 +1,7 @@
 [
   {
     "business_id": "tqu42L0qXzkvYKSruOz0IA", 
+    "business_name": "Ellis Island Casino & Brewery", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 16, 
@@ -171,10 +172,12 @@
       "9-5": 23, 
       "9-6": 23
     }, 
+    "total_checkin": 5123, 
     "type": "checkin"
   }, 
   {
     "business_id": "zORdAIouXrGO1yU4sIMweg", 
+    "business_name": "BJ's Restaurant & Brewhouse", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -283,10 +286,12 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 2514, 
     "type": "checkin"
   }, 
   {
     "business_id": "aidjBZ-cLeRmrsAPM6ZkcA", 
+    "business_name": "Big Dog's Draft House", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 6, 
@@ -431,10 +436,12 @@
       "9-5": 12, 
       "9-6": 26
     }, 
+    "total_checkin": 2422, 
     "type": "checkin"
   }, 
   {
     "business_id": "WD5l9HdTjDbqPRocncCrEQ", 
+    "business_name": "BJ's Restaurant & Brewhouse", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 1, 
@@ -538,10 +545,12 @@
       "6-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1658, 
     "type": "checkin"
   }, 
   {
     "business_id": "U87W6T9vjwWnp28Zjnn4pQ", 
+    "business_name": "Triple 7 Restaurant & Microbrewery", 
     "checkin_info": {
       "0-0": 19, 
       "0-1": 4, 
@@ -688,10 +697,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 1648, 
     "type": "checkin"
   }, 
   {
     "business_id": "_UsqOvmgoNzb_0xWpzwZBg", 
+    "business_name": "Chicago Brewing Company", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 10, 
@@ -847,10 +858,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1562, 
     "type": "checkin"
   }, 
   {
     "business_id": "QvRK2dyv4EDxuJ-LuodE2Q", 
+    "business_name": "Gordon Biersch Brewery Restaurant", 
     "checkin_info": {
       "0-5": 2, 
       "0-6": 3, 
@@ -966,10 +979,12 @@
       "9-2": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 1558, 
     "type": "checkin"
   }, 
   {
     "business_id": "UXZJe7_wxL3mSJ_GpbS_0Q", 
+    "business_name": "Banger Brewing", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1069,10 +1084,12 @@
       "5-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1305, 
     "type": "checkin"
   }, 
   {
     "business_id": "rlMj1YMMQOPtGDkfz529Og", 
+    "business_name": "Tenaya Creek Brewery", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -1199,10 +1216,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 1078, 
     "type": "checkin"
   }, 
   {
     "business_id": "gvtwlFW29b92qcYUAH_v2w", 
+    "business_name": "Gordon Biersch Brewery Restaurant", 
     "checkin_info": {
       "0-1": 1, 
       "0-5": 1, 
@@ -1304,6 +1323,7 @@
       "7-5": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 976, 
     "type": "checkin"
   }
 ]

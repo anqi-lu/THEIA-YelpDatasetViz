@@ -1,6 +1,7 @@
 [
   {
     "business_id": "zsAlOIoPCdVZO2kVAb5YJw", 
+    "business_name": "USA Auto Service", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -112,10 +113,12 @@
       "9-5": 22, 
       "9-6": 1
     }, 
+    "total_checkin": 1237, 
     "type": "checkin"
   }, 
   {
     "business_id": "SXOwTbUJc9LfWosP49vB7Q", 
+    "business_name": "Go-Green Smog", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 7, 
@@ -193,10 +196,12 @@
       "9-5": 7, 
       "9-6": 7
     }, 
+    "total_checkin": 416, 
     "type": "checkin"
   }, 
   {
     "business_id": "duGNV-2mgDkfW3HNTRz-Sg", 
+    "business_name": "Sinclair Choice", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 3, 
@@ -305,10 +310,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 402, 
     "type": "checkin"
   }, 
   {
     "business_id": "288M7tbr_TGDgjAxLQsg7g", 
+    "business_name": "Country Club Auto Spa", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 7, 
@@ -403,10 +410,12 @@
       "9-5": 6, 
       "9-6": 2
     }, 
+    "total_checkin": 264, 
     "type": "checkin"
   }, 
   {
     "business_id": "G26TNpeGylPc4x9HsRtOww", 
+    "business_name": "Super Smog One", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 2, 
@@ -482,10 +491,12 @@
       "9-4": 5, 
       "9-5": 2
     }, 
+    "total_checkin": 227, 
     "type": "checkin"
   }, 
   {
     "business_id": "BfqmxWbqNdKXCH-JaM_3xg", 
+    "business_name": "Purrfect Auto Service", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 4, 
@@ -562,10 +573,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 219, 
     "type": "checkin"
   }, 
   {
     "business_id": "qk0giE2smdSN8WQs55riFw", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-3": 1, 
       "10-1": 1, 
@@ -637,10 +650,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 127, 
     "type": "checkin"
   }, 
   {
     "business_id": "wfponx7hGx0c-60jl9Uf-Q", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-6": 2, 
       "1-3": 2, 
@@ -706,10 +721,12 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 109, 
     "type": "checkin"
   }, 
   {
     "business_id": "1hUnvnkClPw-kS0bvzRfNw", 
+    "business_name": "Zip Zap Auto", 
     "checkin_info": {
       "1-0": 1, 
       "10-0": 3, 
@@ -759,10 +776,12 @@
       "8-5": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 89, 
     "type": "checkin"
   }, 
   {
     "business_id": "jFpG59kKT62F6hqdSjbnvg", 
+    "business_name": "Lee's Auto Care & Fleet Services", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -808,6 +827,7 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 61, 
     "type": "checkin"
   }
 ]

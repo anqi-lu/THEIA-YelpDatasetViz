@@ -1,6 +1,7 @@
 [
   {
     "business_id": "I6wpfXSVjUdj7wN3p_19OA", 
+    "business_name": "Call 4 Handyman", 
     "checkin_info": {
       "0-2": 2, 
       "10-0": 1, 
@@ -28,10 +29,12 @@
       "3-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "cFysUF8HrMgK0JfAST2vhQ", 
+    "business_name": "HNS", 
     "checkin_info": {
       "10-4": 1, 
       "11-2": 1, 
@@ -41,10 +44,12 @@
       "18-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "xM_hdQem6RS8EoEYwXM9LQ", 
+    "business_name": "Arturo The Handyman Repairs", 
     "checkin_info": {
       "13-1": 1, 
       "16-0": 1, 
@@ -53,6 +58,7 @@
       "18-2": 1, 
       "4-2": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }
 ]

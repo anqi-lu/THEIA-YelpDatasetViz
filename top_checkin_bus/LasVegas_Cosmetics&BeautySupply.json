@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ljA_tmsSz4DdvZhad-8OzQ", 
+    "business_name": "Sephora", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 1, 
@@ -99,10 +100,12 @@
       "9-5": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 1090, 
     "type": "checkin"
   }, 
   {
     "business_id": "61znmxVpxUROmB-c9v1Vcw", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -253,10 +256,12 @@
       "9-5": 5, 
       "9-6": 9
     }, 
+    "total_checkin": 695, 
     "type": "checkin"
   }, 
   {
     "business_id": "NqmbT5zcEpV52qx1bI1ZdQ", 
+    "business_name": "Ulta 3 Cosmetics & Salon", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 3, 
@@ -345,10 +350,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 669, 
     "type": "checkin"
   }, 
   {
     "business_id": "vdFktqVjR1cjs0fA8hA-7w", 
+    "business_name": "Lush Fresh Handmade Cosmetics", 
     "checkin_info": {
       "0-3": 2, 
       "0-4": 1, 
@@ -460,10 +467,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 596, 
     "type": "checkin"
   }, 
   {
     "business_id": "G1XxsyXD8Kc3RNeOXfJ_Bg", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-1": 2, 
       "1-0": 1, 
@@ -592,10 +601,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 593, 
     "type": "checkin"
   }, 
   {
     "business_id": "7vNqO6B20TOB2tV5quZPrg", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -722,10 +733,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 485, 
     "type": "checkin"
   }, 
   {
     "business_id": "D_4T1GxROKiUMP6xVFQ6ww", 
+    "business_name": "Sephora", 
     "checkin_info": {
       "0-3": 1, 
       "0-6": 1, 
@@ -823,10 +836,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 436, 
     "type": "checkin"
   }, 
   {
     "business_id": "dNiVLPPYFbzKsn8FDczyiw", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -960,10 +975,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 430, 
     "type": "checkin"
   }, 
   {
     "business_id": "9WcXRVLjNURGS24sP2GyrQ", 
+    "business_name": "Beauty To Beauty", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 5, 
@@ -1043,10 +1060,12 @@
       "9-4": 4, 
       "9-5": 7
     }, 
+    "total_checkin": 392, 
     "type": "checkin"
   }, 
   {
     "business_id": "A4SRnHJfPLkrS2eI_T-85Q", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 3, 
@@ -1194,6 +1213,7 @@
       "9-4": 6, 
       "9-5": 1
     }, 
+    "total_checkin": 381, 
     "type": "checkin"
   }
 ]

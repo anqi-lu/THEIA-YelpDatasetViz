@@ -1,6 +1,7 @@
 [
   {
     "business_id": "OesTe3GNqcnIk0ZGOhiM7A", 
+    "business_name": "An Elegant Smile Dentistry", 
     "checkin_info": {
       "10-3": 1, 
       "11-2": 2, 
@@ -27,10 +28,12 @@
       "8-3": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "QBhbW2En65rT8Vs1sDbCMw", 
+    "business_name": "Dental Specialty Associates", 
     "checkin_info": {
       "10-4": 2, 
       "11-2": 1, 
@@ -47,10 +50,12 @@
       "8-1": 2, 
       "8-2": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "O_0pKMBu7NbTPZnq0p3orQ", 
+    "business_name": "Paradise Ridge Dentistry", 
     "checkin_info": {
       "10-6": 1, 
       "12-0": 1, 
@@ -63,10 +68,12 @@
       "8-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "7aGRXdKyjhAilq3XnzZkiw", 
+    "business_name": "Kevin Ortale, DDS PLC - North Point Dentistry", 
     "checkin_info": {
       "14-0": 2, 
       "16-0": 1, 
@@ -78,10 +85,12 @@
       "9-0": 1, 
       "9-1": 3
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "V9sRitua5DBqQLvB9tgkcw", 
+    "business_name": "Northern Smiles Dentistry & Orthodontics", 
     "checkin_info": {
       "11-3": 1, 
       "12-2": 1, 
@@ -90,6 +99,7 @@
       "17-1": 2, 
       "7-3": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }
 ]

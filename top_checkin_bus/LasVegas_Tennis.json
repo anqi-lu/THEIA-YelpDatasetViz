@@ -1,6 +1,7 @@
 [
   {
     "business_id": "PTKCtODRBe4DC-2gWvTWkw", 
+    "business_name": "The Hills Park", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 3, 
@@ -79,10 +80,12 @@
       "9-5": 3, 
       "9-6": 5
     }, 
+    "total_checkin": 250, 
     "type": "checkin"
   }, 
   {
     "business_id": "3GTtkOthmbfipurFNwUZ7Q", 
+    "business_name": "Longevity Sports Center", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -144,10 +147,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }, 
   {
     "business_id": "dAIizSNdaayhZUVrAyLM6w", 
+    "business_name": "Bruce Trent Park", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -211,10 +216,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 142, 
     "type": "checkin"
   }, 
   {
     "business_id": "g4-Q5vjO-EButloH_9FQkg", 
+    "business_name": "Lorenzi Park", 
     "checkin_info": {
       "10-5": 2, 
       "10-6": 5, 
@@ -277,10 +284,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 137, 
     "type": "checkin"
   }, 
   {
     "business_id": "iau50i8iWmPdQVzn30M_jQ", 
+    "business_name": "Amanda and Stacy Darling Tennis Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -317,10 +326,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "x2rT0G6D72kOT-BDpGWzQA", 
+    "business_name": "Arbors Tennis and Play Park", 
     "checkin_info": {
       "0-0": 1, 
       "10-6": 1, 
@@ -358,10 +369,12 @@
       "9-1": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "c-uuCv70KQl1jUds3WUdDw", 
+    "business_name": "Angel Park", 
     "checkin_info": {
       "0-6": 1, 
       "10-6": 1, 
@@ -397,6 +410,7 @@
       "8-5": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }
 ]

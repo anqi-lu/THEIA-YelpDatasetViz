@@ -1,0 +1,116 @@
+[
+  {
+    "business_id": "dPhZT98LFtIzOyt9sEyf9A", 
+    "business_name": "American Home Water and Air", 
+    "checkin_info": {
+      "10-4": 1, 
+      "10-5": 1, 
+      "11-0": 1, 
+      "11-2": 2, 
+      "11-6": 1, 
+      "12-2": 1, 
+      "12-3": 2, 
+      "12-4": 2, 
+      "13-0": 1, 
+      "13-2": 1, 
+      "13-3": 2, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "14-3": 2, 
+      "14-5": 2, 
+      "15-0": 2, 
+      "15-2": 1, 
+      "15-4": 3, 
+      "15-5": 1, 
+      "15-6": 1, 
+      "16-0": 2, 
+      "16-1": 3, 
+      "16-4": 1, 
+      "17-3": 1, 
+      "17-5": 1, 
+      "18-0": 1, 
+      "18-1": 1, 
+      "18-2": 3, 
+      "18-4": 1, 
+      "18-6": 1, 
+      "19-0": 1, 
+      "19-1": 1, 
+      "19-3": 2, 
+      "20-3": 1, 
+      "21-1": 3, 
+      "21-6": 1, 
+      "5-2": 1, 
+      "6-1": 1, 
+      "6-2": 1, 
+      "6-3": 2, 
+      "7-0": 1, 
+      "7-1": 2, 
+      "7-3": 4, 
+      "7-5": 2, 
+      "8-0": 1, 
+      "8-1": 2, 
+      "8-2": 1, 
+      "8-3": 3, 
+      "8-4": 2, 
+      "8-5": 3, 
+      "9-1": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 81, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7jZPyx3CrnLn8l8V08fsCw", 
+    "business_name": "$59 Rooter & Plumbing Service", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-0": 1, 
+      "11-5": 1, 
+      "12-4": 1, 
+      "13-6": 1, 
+      "15-1": 1, 
+      "20-0": 1, 
+      "5-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Fb-fswktjPKZxkOSiikggg", 
+    "business_name": "Freddy Fox Rooter", 
+    "checkin_info": {
+      "1-0": 1, 
+      "10-4": 1, 
+      "13-0": 1, 
+      "16-5": 1, 
+      "19-3": 1, 
+      "9-3": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "qea7N8VfC9bLaC4BcnQ7Qg", 
+    "business_name": "Copperline Plumbing", 
+    "checkin_info": {
+      "11-1": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "16-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "legTAWPSLBTRVBvikPXATA", 
+    "business_name": "Clyde Hardware", 
+    "checkin_info": {
+      "13-0": 1, 
+      "13-2": 1, 
+      "15-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

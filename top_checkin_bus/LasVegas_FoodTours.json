@@ -1,6 +1,7 @@
 [
   {
     "business_id": "x4pHrDm97LsURs2GPKHE3Q", 
+    "business_name": "Nosh Las Vegas", 
     "checkin_info": {
       "14-4": 1, 
       "14-5": 1, 
@@ -15,10 +16,12 @@
       "8-6": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "eZvGr-rrm-Zkgd8swwfPtA", 
+    "business_name": "Anderson Dairy", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -33,10 +36,12 @@
       "9-1": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 15, 
     "type": "checkin"
   }, 
   {
     "business_id": "-xWhbfkDGpVqRTZcCefDIA", 
+    "business_name": "Vegas Valley Food Tours", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -47,6 +52,7 @@
       "6-3": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 9, 
     "type": "checkin"
   }
 ]

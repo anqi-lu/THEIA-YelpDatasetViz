@@ -1,6 +1,7 @@
 [
   {
     "business_id": "kTbWwRo7wq0DU1KV5GbtTw", 
+    "business_name": "Executive Las Vegas", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -61,10 +62,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 79, 
     "type": "checkin"
   }, 
   {
     "business_id": "V9ASUTcoNvtgPcq7pMfm4w", 
+    "business_name": "Uber Las Vegas", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 1, 
@@ -92,10 +95,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "ABED8k4aIdmpePfU-032Iw", 
+    "business_name": "Desert Cab", 
     "checkin_info": {
       "0-4": 1, 
       "1-4": 1, 
@@ -117,10 +122,12 @@
       "6-6": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "rgRZoUewUZA6Zm3XXlmjxQ", 
+    "business_name": "Lucky Cab Company of Nevada", 
     "checkin_info": {
       "10-4": 1, 
       "13-6": 1, 
@@ -139,10 +146,12 @@
       "8-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "59Qgq3qtziS57Dk1ukCwPw", 
+    "business_name": "Ace Cab Company", 
     "checkin_info": {
       "10-0": 1, 
       "11-0": 1, 
@@ -156,10 +165,12 @@
       "19-2": 1, 
       "21-1": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "X_Cx3rN7_FCZneb5PjoyDw", 
+    "business_name": "ABC Union Cab Co", 
     "checkin_info": {
       "1-5": 2, 
       "1-6": 1, 
@@ -172,10 +183,12 @@
       "16-3": 1, 
       "17-2": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "IrBIpxYoocg3yzGCvrcv0Q", 
+    "business_name": "Western Cab Company", 
     "checkin_info": {
       "11-3": 1, 
       "13-3": 1, 
@@ -184,10 +197,12 @@
       "8-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "7TowHZgTdQJ7awHE8nGyuQ", 
+    "business_name": "Nellis Cab Company", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -196,10 +211,12 @@
       "21-1": 1, 
       "22-6": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "sCvPp7Wg3ReNX0OCJguDIA", 
+    "business_name": "Whittlesea Blue Cab", 
     "checkin_info": {
       "13-4": 1, 
       "17-0": 1, 
@@ -208,10 +225,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ed8wRogZ6S-NJrWd2zPHeg", 
+    "business_name": "Nevada Yellow Cab Corporation", 
     "checkin_info": {
       "11-0": 1, 
       "15-2": 1, 
@@ -220,6 +239,7 @@
       "21-3": 1, 
       "21-6": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }
 ]

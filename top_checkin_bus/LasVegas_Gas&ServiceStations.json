@@ -1,6 +1,7 @@
 [
   {
     "business_id": "YEaCNq-Vl5gENqYmEf-lvg", 
+    "business_name": "Sam's Club", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 12, 
@@ -109,10 +110,12 @@
       "9-5": 20, 
       "9-6": 12
     }, 
+    "total_checkin": 2142, 
     "type": "checkin"
   }, 
   {
     "business_id": "JRldk1PR3yP5dE34SjxX3g", 
+    "business_name": "Sam's Club", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -216,10 +219,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 880, 
     "type": "checkin"
   }, 
   {
     "business_id": "m6zg9JRUZ-TMsSCT6IA9Uw", 
+    "business_name": "Costco Gas", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 6, 
@@ -334,10 +339,12 @@
       "9-5": 6, 
       "9-6": 3
     }, 
+    "total_checkin": 845, 
     "type": "checkin"
   }, 
   {
     "business_id": "Fk1ibRUPn67NHkxtVZUQ3Q", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 3, 
@@ -487,10 +494,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 696, 
     "type": "checkin"
   }, 
   {
     "business_id": "wpUhxNougI56EpVp5zutfw", 
+    "business_name": "Smith's", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 5, 
@@ -625,10 +634,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 656, 
     "type": "checkin"
   }, 
   {
     "business_id": "UIheA_lF0zqs4b8wLoLsTQ", 
+    "business_name": "Costco Gas", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 27, 
@@ -732,10 +743,12 @@
       "9-4": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 604, 
     "type": "checkin"
   }, 
   {
     "business_id": "R_r61_57_RyNpIxSx8obxw", 
+    "business_name": "Fabulous Freddy's", 
     "checkin_info": {
       "0-0": 2, 
       "0-5": 2, 
@@ -853,10 +866,12 @@
       "9-5": 9, 
       "9-6": 6
     }, 
+    "total_checkin": 557, 
     "type": "checkin"
   }, 
   {
     "business_id": "5S24WYeiE6lvMSt5sTSV5w", 
+    "business_name": "Sam's Club Gas Station", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 2, 
@@ -958,10 +973,12 @@
       "9-5": 4, 
       "9-6": 6
     }, 
+    "total_checkin": 525, 
     "type": "checkin"
   }, 
   {
     "business_id": "vJWiGqmOm_U4b3OFCa4-yw", 
+    "business_name": "ARCO ampm", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -1062,10 +1079,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 498, 
     "type": "checkin"
   }, 
   {
     "business_id": "v2_UrJwXRiJS9AFwdtY2fQ", 
+    "business_name": "Terrible's Chevron", 
     "checkin_info": {
       "0-1": 3, 
       "0-4": 5, 
@@ -1195,6 +1214,7 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 406, 
     "type": "checkin"
   }
 ]

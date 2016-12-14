@@ -1,6 +1,7 @@
 [
   {
     "business_id": "JpHE7yhMS5ehA9e8WG_ETg", 
+    "business_name": "ARIA Hotel & Casino", 
     "checkin_info": {
       "0-0": 83, 
       "0-1": 64, 
@@ -171,10 +172,12 @@
       "9-5": 154, 
       "9-6": 141
     }, 
+    "total_checkin": 19566, 
     "type": "checkin"
   }, 
   {
     "business_id": "34uJtlPnKicSaX1V8_tu1A", 
+    "business_name": "The Venetian Las Vegas", 
     "checkin_info": {
       "0-0": 72, 
       "0-1": 41, 
@@ -345,10 +348,12 @@
       "9-5": 185, 
       "9-6": 147
     }, 
+    "total_checkin": 19434, 
     "type": "checkin"
   }, 
   {
     "business_id": "-7yF42k0CcJhtPw51oaOqQ", 
+    "business_name": "Bellagio Hotel", 
     "checkin_info": {
       "0-0": 116, 
       "0-1": 76, 
@@ -519,10 +524,12 @@
       "9-5": 93, 
       "9-6": 85
     }, 
+    "total_checkin": 18914, 
     "type": "checkin"
   }, 
   {
     "business_id": "TWD8c5-P7w9v-2KX_GSNZQ", 
+    "business_name": "Mandalay Bay Resort & Casino", 
     "checkin_info": {
       "0-0": 44, 
       "0-1": 30, 
@@ -693,10 +700,12 @@
       "9-5": 122, 
       "9-6": 112
     }, 
+    "total_checkin": 15424, 
     "type": "checkin"
   }, 
   {
     "business_id": "5paMI5Hhciyl09yGpzdoJw", 
+    "business_name": "The Palazzo Las Vegas", 
     "checkin_info": {
       "0-0": 65, 
       "0-1": 27, 
@@ -867,10 +876,12 @@
       "9-5": 121, 
       "9-6": 93
     }, 
+    "total_checkin": 13425, 
     "type": "checkin"
   }, 
   {
     "business_id": "u9wjRhUjySkHPa_hG3kFOg", 
+    "business_name": "Wynn Las Vegas", 
     "checkin_info": {
       "0-0": 78, 
       "0-1": 45, 
@@ -1040,10 +1051,12 @@
       "9-5": 72, 
       "9-6": 80
     }, 
+    "total_checkin": 13342, 
     "type": "checkin"
   }, 
   {
     "business_id": "HMr_KN63f6MzM9h8Wije3Q", 
+    "business_name": "New York New York Hotel Casino", 
     "checkin_info": {
       "0-0": 45, 
       "0-1": 38, 
@@ -1214,10 +1227,12 @@
       "9-5": 60, 
       "9-6": 45
     }, 
+    "total_checkin": 10532, 
     "type": "checkin"
   }, 
   {
     "business_id": "DUdBbrvqfaqUe9GYKmYNtA", 
+    "business_name": "The Mirage", 
     "checkin_info": {
       "0-0": 59, 
       "0-1": 31, 
@@ -1388,10 +1403,12 @@
       "9-5": 88, 
       "9-6": 76
     }, 
+    "total_checkin": 10236, 
     "type": "checkin"
   }, 
   {
     "business_id": "6LM_Klmp3hOP0JmsMCKRqQ", 
+    "business_name": "Luxor Hotel And Casino Las Vegas", 
     "checkin_info": {
       "0-0": 60, 
       "0-1": 42, 
@@ -1562,10 +1579,12 @@
       "9-5": 65, 
       "9-6": 65
     }, 
+    "total_checkin": 10224, 
     "type": "checkin"
   }, 
   {
     "business_id": "eRRyfI6QVvSviirRF8UGzQ", 
+    "business_name": "Encore", 
     "checkin_info": {
       "0-0": 62, 
       "0-1": 42, 
@@ -1736,6 +1755,7 @@
       "9-5": 69, 
       "9-6": 57
     }, 
+    "total_checkin": 8236, 
     "type": "checkin"
   }
 ]

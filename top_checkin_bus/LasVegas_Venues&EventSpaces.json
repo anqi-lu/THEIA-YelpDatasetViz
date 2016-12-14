@@ -1,6 +1,7 @@
 [
   {
     "business_id": "tFU2Js_nbIZOrnKfYJYBBg", 
+    "business_name": "Bouchon at The Venetian", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 3, 
@@ -151,10 +152,12 @@
       "9-5": 149, 
       "9-6": 165
     }, 
+    "total_checkin": 8103, 
     "type": "checkin"
   }, 
   {
     "business_id": "Rnx0d7HExjZcd8q7PXmrPA", 
+    "business_name": "Las Vegas Convention Center", 
     "checkin_info": {
       "0-0": 3, 
       "0-3": 2, 
@@ -299,10 +302,12 @@
       "9-5": 57, 
       "9-6": 41
     }, 
+    "total_checkin": 4684, 
     "type": "checkin"
   }, 
   {
     "business_id": "Nqcl3hDLyiwNQBxQpKCdIQ", 
+    "business_name": "Born And Raised", 
     "checkin_info": {
       "0-0": 16, 
       "0-1": 10, 
@@ -468,10 +473,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 1902, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z8DIFc3QRgkoQ-IP9UeJ_g", 
+    "business_name": "Las Vegas Motor Speedway", 
     "checkin_info": {
       "0-0": 5, 
       "0-3": 1, 
@@ -618,10 +625,12 @@
       "9-5": 25, 
       "9-6": 31
     }, 
+    "total_checkin": 1763, 
     "type": "checkin"
   }, 
   {
     "business_id": "RHIIMuvu6xPNHxtZv_QWHg", 
+    "business_name": "Mandarin Oriental, Las Vegas", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 10, 
@@ -788,10 +797,12 @@
       "9-5": 12, 
       "9-6": 11
     }, 
+    "total_checkin": 1641, 
     "type": "checkin"
   }, 
   {
     "business_id": "A5H0zkR0GqE5NQLGjTBzDQ", 
+    "business_name": "Sands Expo", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 2, 
@@ -927,10 +938,12 @@
       "9-5": 13, 
       "9-6": 12
     }, 
+    "total_checkin": 1433, 
     "type": "checkin"
   }, 
   {
     "business_id": "DFOcVl-0-v32cSzkqK7G4g", 
+    "business_name": "Springs Preserve", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 12, 
@@ -1032,10 +1045,12 @@
       "9-5": 21, 
       "9-6": 6
     }, 
+    "total_checkin": 1356, 
     "type": "checkin"
   }, 
   {
     "business_id": "AblRhphlAtkTAW8SOLOyTg", 
+    "business_name": "Mandalay Bay Convention Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -1164,10 +1179,12 @@
       "9-5": 3, 
       "9-6": 6
     }, 
+    "total_checkin": 1087, 
     "type": "checkin"
   }, 
   {
     "business_id": "kexliej8P8VdxXfMQmyfyQ", 
+    "business_name": "JW Marriott Las Vegas Resort & Spa", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -1327,10 +1344,12 @@
       "9-5": 8, 
       "9-6": 2
     }, 
+    "total_checkin": 989, 
     "type": "checkin"
   }, 
   {
     "business_id": "bAUrZ0Kuk2nO-paUz7bYXg", 
+    "business_name": "Sam Boyd Stadium", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1425,6 +1444,7 @@
       "9-5": 22, 
       "9-6": 3
     }, 
+    "total_checkin": 811, 
     "type": "checkin"
   }
 ]

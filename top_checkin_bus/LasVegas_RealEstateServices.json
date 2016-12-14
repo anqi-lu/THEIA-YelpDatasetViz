@@ -1,6 +1,7 @@
 [
   {
     "business_id": "wM9kmqz_e3c8h4vWziSMTg", 
+    "business_name": "Las Vegas Property Experts", 
     "checkin_info": {
       "10-0": 20, 
       "10-1": 25, 
@@ -63,10 +64,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 392, 
     "type": "checkin"
   }, 
   {
     "business_id": "AqwvweUQO-Gsw0U9d7rItw", 
+    "business_name": "One Las Vegas", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -192,10 +195,12 @@
       "9-5": 5, 
       "9-6": 5
     }, 
+    "total_checkin": 267, 
     "type": "checkin"
   }, 
   {
     "business_id": "1uKYFUSNsrR6_tsirqvfXA", 
+    "business_name": "Allure Las Vegas", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -296,10 +301,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 195, 
     "type": "checkin"
   }, 
   {
     "business_id": "vapw4GFkRByQSpZ9WJTqOw", 
+    "business_name": "Key Realty School", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -370,10 +377,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 126, 
     "type": "checkin"
   }, 
   {
     "business_id": "EoB4FKstT_DWIh3C4gIRcg", 
+    "business_name": "Shane Nguyen - Top Agent- 1st Priority Realty", 
     "checkin_info": {
       "10-1": 3, 
       "10-3": 3, 
@@ -427,10 +436,12 @@
       "9-3": 4, 
       "9-4": 5
     }, 
+    "total_checkin": 114, 
     "type": "checkin"
   }, 
   {
     "business_id": "OI47e2EKmE7GWyR3ZY8dfw", 
+    "business_name": "The Martin", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -480,10 +491,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 60, 
     "type": "checkin"
   }, 
   {
     "business_id": "bG81MUWwdLXsS-iXybm1wg", 
+    "business_name": "Summerlin", 
     "checkin_info": {
       "0-0": 2, 
       "0-3": 1, 
@@ -521,10 +534,12 @@
       "5-3": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "qekZCkE2Oeo-NgMFUOIERw", 
+    "business_name": "Xpand Realty & Property Management", 
     "checkin_info": {
       "10-1": 2, 
       "11-2": 1, 
@@ -551,10 +566,12 @@
       "6-6": 2, 
       "7-0": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "LnapXPRb9IMeeK9Xc_haOg", 
+    "business_name": "Soho Lofts", 
     "checkin_info": {
       "0-4": 1, 
       "10-2": 1, 
@@ -585,10 +602,12 @@
       "8-1": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 29, 
     "type": "checkin"
   }, 
   {
     "business_id": "pUVi-5optZt5DlGOoeeI6Q", 
+    "business_name": "Signature Real Estate Group Northwest", 
     "checkin_info": {
       "10-3": 1, 
       "13-5": 2, 
@@ -606,6 +625,7 @@
       "8-6": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }
 ]

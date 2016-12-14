@@ -1,6 +1,7 @@
 [
   {
     "business_id": "J_3Z0OhfTe90vCG1ThaK_g", 
+    "business_name": "Las Vegas Monorail", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 1, 
@@ -140,10 +141,12 @@
       "9-5": 10, 
       "9-6": 4
     }, 
+    "total_checkin": 768, 
     "type": "checkin"
   }, 
   {
     "business_id": "qy5twUZ2mixomQTf-FoB5Q", 
+    "business_name": "Bonneville Transit Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 4, 
@@ -274,10 +277,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 409, 
     "type": "checkin"
   }, 
   {
     "business_id": "B6pDRl6HTMThtm6NprKyhA", 
+    "business_name": "CityCenter Tram", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 4, 
@@ -381,10 +386,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 239, 
     "type": "checkin"
   }, 
   {
     "business_id": "PkGkT8d4DFI74Nu-YnCcIw", 
+    "business_name": "The Deuce", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -497,10 +504,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 205, 
     "type": "checkin"
   }, 
   {
     "business_id": "AFocYrN5e8ShtgVM5SlhYw", 
+    "business_name": "Westcliff Airport Express", 
     "checkin_info": {
       "0-1": 1, 
       "10-1": 1, 
@@ -534,10 +543,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }, 
   {
     "business_id": "_LDxryc_mak0kbQAOxQufg", 
+    "business_name": "Gold Line", 
     "checkin_info": {
       "0-6": 1, 
       "10-5": 1, 
@@ -557,10 +568,12 @@
       "23-1": 2, 
       "23-2": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "b3FswywgcDZ2DkSNcEI2IA", 
+    "business_name": "Bolt Bus", 
     "checkin_info": {
       "13-6": 2, 
       "14-2": 1, 
@@ -575,10 +588,12 @@
       "9-4": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "AQ5jMCWDdWFv5PpcNCYM4g", 
+    "business_name": "Rtc Fixed Route Services", 
     "checkin_info": {
       "1-4": 1, 
       "12-3": 1, 
@@ -595,10 +610,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "HARAqQEt8E0fFDa2TSltHg", 
+    "business_name": "SDX Bus", 
     "checkin_info": {
       "10-0": 2, 
       "11-0": 1, 
@@ -610,10 +627,12 @@
       "20-5": 1, 
       "21-3": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "x3FCIs54fcSPqVuoFbeMIg", 
+    "business_name": "Regional Transportation Commission", 
     "checkin_info": {
       "1-1": 1, 
       "10-3": 1, 
@@ -621,6 +640,7 @@
       "8-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

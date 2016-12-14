@@ -1,6 +1,7 @@
 [
   {
     "business_id": "1y7Ypt3M3ER4PpdXh6CsNA", 
+    "business_name": "Cyclone Las Vegas", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 3, 
@@ -37,10 +38,12 @@
       "9-3": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 93, 
     "type": "checkin"
   }, 
   {
     "business_id": "JMLUi5LoNLiix4Fjx_rsQA", 
+    "business_name": "XCYCLE", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 2, 
@@ -55,6 +58,7 @@
       "8-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }
 ]

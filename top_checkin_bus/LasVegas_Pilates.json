@@ -1,6 +1,7 @@
 [
   {
     "business_id": "4_yqGLhfQJ-mRyH7i2-KNQ", 
+    "business_name": "Vegas Hot! Yoga & Pilates Studio", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 5, 
@@ -150,10 +151,12 @@
       "9-5": 53, 
       "9-6": 45
     }, 
+    "total_checkin": 2602, 
     "type": "checkin"
   }, 
   {
     "business_id": "QkAv4k5aB6SwNRNK7q19ug", 
+    "business_name": "TruFusion", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 31, 
@@ -281,10 +284,12 @@
       "9-5": 69, 
       "9-6": 45
     }, 
+    "total_checkin": 2401, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z0DD_sieK8ijAETu7OwGXw", 
+    "business_name": "Inferno Hot Pilates", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 22, 
@@ -395,10 +400,12 @@
       "9-5": 7, 
       "9-6": 6
     }, 
+    "total_checkin": 2043, 
     "type": "checkin"
   }, 
   {
     "business_id": "f7MFBQGPKbTBOZtlSCI3KA", 
+    "business_name": "103 Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 5, 
@@ -502,10 +509,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 877, 
     "type": "checkin"
   }, 
   {
     "business_id": "N3OLKrRAf3NKDFOG_SBNZQ", 
+    "business_name": "Core Pilates Studio", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -587,10 +596,12 @@
       "9-5": 19, 
       "9-6": 17
     }, 
+    "total_checkin": 400, 
     "type": "checkin"
   }, 
   {
     "business_id": "uDpgzJbmLCHltPXYcnRNwA", 
+    "business_name": "Body Heat Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -678,10 +689,12 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 271, 
     "type": "checkin"
   }, 
   {
     "business_id": "3l2rx67A8ZuTnFTQrl-75Q", 
+    "business_name": "Modo Yoga", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -759,10 +772,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 236, 
     "type": "checkin"
   }, 
   {
     "business_id": "UoFnLGEwYlXUezYFkxQ2Vw", 
+    "business_name": "Power Yoga + Pilates + Fitness", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 2, 
@@ -828,10 +843,12 @@
       "9-5": 10, 
       "9-6": 7
     }, 
+    "total_checkin": 191, 
     "type": "checkin"
   }, 
   {
     "business_id": "0zCvIS-8sv83p35yXaBS4Q", 
+    "business_name": "Barre Fitness Studio Las Vegas", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 2, 
@@ -883,10 +900,12 @@
       "9-5": 8, 
       "9-6": 8
     }, 
+    "total_checkin": 188, 
     "type": "checkin"
   }, 
   {
     "business_id": "tQMqKaXog0F-VHmNfWzrWA", 
+    "business_name": "Rapid Rehab", 
     "checkin_info": {
       "10-4": 2, 
       "10-5": 4, 
@@ -925,6 +944,7 @@
       "9-5": 6, 
       "9-6": 1
     }, 
+    "total_checkin": 105, 
     "type": "checkin"
   }
 ]

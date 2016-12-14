@@ -1,6 +1,7 @@
 [
   {
     "business_id": "JGeWyuOFdutslFBM3GxUcQ", 
+    "business_name": "Apple Store", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 4, 
@@ -128,10 +129,12 @@
       "9-5": 11, 
       "9-6": 2
     }, 
+    "total_checkin": 1108, 
     "type": "checkin"
   }, 
   {
     "business_id": "9j9yi9-8ZJ2t_IzumjjyXw", 
+    "business_name": "US Post Office", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -241,10 +244,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 768, 
     "type": "checkin"
   }, 
   {
     "business_id": "aGtU_Wkp_lOCs9VQTXC6sw", 
+    "business_name": "US Post Office", 
     "checkin_info": {
       "1-2": 1, 
       "1-5": 1, 
@@ -343,10 +348,12 @@
       "9-4": 4, 
       "9-5": 10
     }, 
+    "total_checkin": 694, 
     "type": "checkin"
   }, 
   {
     "business_id": "LUToWgPZ7zvTfN8zIl0ZoA", 
+    "business_name": "Desert Wireless iPhone Repair", 
     "checkin_info": {
       "0-2": 1, 
       "1-2": 2, 
@@ -455,10 +462,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 644, 
     "type": "checkin"
   }, 
   {
     "business_id": "DsT1MVcsQnA2-9qQO-DqPw", 
+    "business_name": "24 Hour Laundromat Twain", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 4, 
@@ -610,10 +619,12 @@
       "9-5": 4, 
       "9-6": 4
     }, 
+    "total_checkin": 599, 
     "type": "checkin"
   }, 
   {
     "business_id": "pGfKOHrflwRUQuUYd9hY0g", 
+    "business_name": "US Post Office", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -732,10 +743,12 @@
       "9-5": 6, 
       "9-6": 1
     }, 
+    "total_checkin": 591, 
     "type": "checkin"
   }, 
   {
     "business_id": "EwVBiaXu13SQAZfV0cddWA", 
+    "business_name": "Apple Store", 
     "checkin_info": {
       "0-2": 2, 
       "0-3": 2, 
@@ -846,10 +859,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 539, 
     "type": "checkin"
   }, 
   {
     "business_id": "JY770J8TzX479dP13KPOQQ", 
+    "business_name": "US Post Office", 
     "checkin_info": {
       "0-1": 1, 
       "0-5": 1, 
@@ -948,10 +963,12 @@
       "9-4": 9, 
       "9-5": 8
     }, 
+    "total_checkin": 522, 
     "type": "checkin"
   }, 
   {
     "business_id": "gZTOq_nBGsM_yBv4fIHpng", 
+    "business_name": "Storage West Rhodes Ranch", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 2, 
@@ -1094,10 +1111,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 457, 
     "type": "checkin"
   }, 
   {
     "business_id": "TmTB0Nel-U_zOr04OTUreA", 
+    "business_name": "US Post Office", 
     "checkin_info": {
       "1-2": 1, 
       "10-0": 5, 
@@ -1190,6 +1209,7 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 427, 
     "type": "checkin"
   }
 ]

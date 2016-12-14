@@ -1,0 +1,29 @@
+[
+  {
+    "business_id": "tI-2xKf_2WrUWeAn7BkdMA", 
+    "business_name": "Auto Inspector", 
+    "checkin_info": {
+      "10-1": 1, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "13-2": 1, 
+      "6-0": 1, 
+      "7-0": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MpIUx7bHm90sOvZ4VKxCyQ", 
+    "business_name": "Auto Inspector", 
+    "checkin_info": {
+      "11-3": 1, 
+      "13-2": 1, 
+      "14-3": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

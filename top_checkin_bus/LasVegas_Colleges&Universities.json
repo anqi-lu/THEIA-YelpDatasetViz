@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7iuHMJqKHzg3vZPHg3OeBw", 
+    "business_name": "University of Nevada, Las Vegas", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 4, 
@@ -157,10 +158,12 @@
       "9-5": 27, 
       "9-6": 13
     }, 
+    "total_checkin": 6712, 
     "type": "checkin"
   }, 
   {
     "business_id": "6rEJwB_xJXbThDH3zmR7tQ", 
+    "business_name": "College of Southern Nevada", 
     "checkin_info": {
       "0-1": 4, 
       "1-1": 1, 
@@ -281,10 +284,12 @@
       "9-4": 14, 
       "9-5": 9
     }, 
+    "total_checkin": 3341, 
     "type": "checkin"
   }, 
   {
     "business_id": "7m8oZJcsjHVyaBGZ1PDD4A", 
+    "business_name": "UNLV Student Recreation and Wellness Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 4, 
@@ -425,10 +430,12 @@
       "9-4": 13, 
       "9-5": 20
     }, 
+    "total_checkin": 2605, 
     "type": "checkin"
   }, 
   {
     "business_id": "_n9so2ktv9eiSVybh4tHaQ", 
+    "business_name": "Brightwood College", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 4, 
@@ -489,10 +496,12 @@
       "9-3": 7, 
       "9-4": 5
     }, 
+    "total_checkin": 224, 
     "type": "checkin"
   }, 
   {
     "business_id": "Y1Ei07n7DnR-1wVo2kzNNg", 
+    "business_name": "Alta Ham Fine Arts", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 6, 
@@ -544,10 +553,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 100, 
     "type": "checkin"
   }, 
   {
     "business_id": "CrTGb-WNjD9cBJ0X_fBloQ", 
+    "business_name": "Le Cordon Bleu", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -599,10 +610,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 82, 
     "type": "checkin"
   }, 
   {
     "business_id": "h-ToDjzZ3iZPPzDXE1GIzw", 
+    "business_name": "Euphoria Institute of Beauty Arts and Sciences", 
     "checkin_info": {
       "10-4": 1, 
       "11-0": 2, 
@@ -641,10 +654,12 @@
       "9-2": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 48, 
     "type": "checkin"
   }, 
   {
     "business_id": "kcRDqJKIARXOlzAQdfA8-g", 
+    "business_name": "Andre Agassi College Preparatory Academy", 
     "checkin_info": {
       "10-1": 2, 
       "10-4": 1, 
@@ -671,10 +686,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 32, 
     "type": "checkin"
   }, 
   {
     "business_id": "Kk4AaPz__hGWrcwGzEiHbw", 
+    "business_name": "Carrington College", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -693,10 +710,12 @@
       "18-1": 1, 
       "20-1": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "enHH6f4herzXxHN3VT6OrQ", 
+    "business_name": "Las Vegas Colon Hydrotherapy", 
     "checkin_info": {
       "10-2": 1, 
       "11-4": 1, 
@@ -715,6 +734,7 @@
       "20-5": 1, 
       "4-4": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }
 ]

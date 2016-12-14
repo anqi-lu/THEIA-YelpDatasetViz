@@ -1,6 +1,7 @@
 [
   {
     "business_id": "rNNEXp7CSRbReqUw5t6LEg", 
+    "business_name": "Las Vegas Ice Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 6, 
@@ -100,10 +101,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 572, 
     "type": "checkin"
   }, 
   {
     "business_id": "hLj1MIAUF0KL3xqRtATA9w", 
+    "business_name": "The Ice Rink at Boulevard Pool", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -194,10 +197,12 @@
       "8-5": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 356, 
     "type": "checkin"
   }, 
   {
     "business_id": "1boX71Ni6XGwMvzOLiekQg", 
+    "business_name": "Crystal Palace Skating Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -257,10 +262,12 @@
       "9-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 135, 
     "type": "checkin"
   }, 
   {
     "business_id": "JWMmcOFb55RqqWLi6oDjFw", 
+    "business_name": "Crystal Palace Skating Centers", 
     "checkin_info": {
       "1-0": 1, 
       "10-3": 1, 
@@ -321,10 +328,12 @@
       "6-0": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 134, 
     "type": "checkin"
   }, 
   {
     "business_id": "rD5Mf8yu5O5vHhGJ7F6gnw", 
+    "business_name": "Rock Rink", 
     "checkin_info": {
       "11-2": 1, 
       "12-5": 1, 
@@ -339,6 +348,7 @@
       "22-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }
 ]

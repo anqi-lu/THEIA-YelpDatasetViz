@@ -1,0 +1,20 @@
+[
+  {
+    "business_id": "ZU4-RfExkJlQEQcPrkuw2g", 
+    "business_name": "Tuesday Morning", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-5": 1, 
+      "11-6": 2, 
+      "12-0": 1, 
+      "13-3": 1, 
+      "13-6": 1, 
+      "7-3": 1, 
+      "9-0": 1, 
+      "9-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }
+]

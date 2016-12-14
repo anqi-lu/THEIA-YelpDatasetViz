@@ -1,6 +1,7 @@
 [
   {
     "business_id": "dILQ1N215cBYHseT0x7WHg", 
+    "business_name": "Nordstrom", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -110,10 +111,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1594, 
     "type": "checkin"
   }, 
   {
     "business_id": "6adohDAaAI8MS4OklmaUQw", 
+    "business_name": "H&M", 
     "checkin_info": {
       "0-4": 1, 
       "1-4": 2, 
@@ -227,10 +230,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1195, 
     "type": "checkin"
   }, 
   {
     "business_id": "tWEYt-sTRGHEaV8l27I14w", 
+    "business_name": "H&M", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -346,10 +351,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 1111, 
     "type": "checkin"
   }, 
   {
     "business_id": "NdWepl0uhdzWDLANul0Uqg", 
+    "business_name": "Forever 21", 
     "checkin_info": {
       "0-4": 1, 
       "1-3": 1, 
@@ -465,10 +472,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 991, 
     "type": "checkin"
   }, 
   {
     "business_id": "K6GtF1UpU49Oe3JhCtLuwg", 
+    "business_name": "Macy's", 
     "checkin_info": {
       "0-0": 1, 
       "0-4": 1, 
@@ -601,10 +610,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 872, 
     "type": "checkin"
   }, 
   {
     "business_id": "ToRsvdJR-QzAWmmEOHr9lw", 
+    "business_name": "Miu Miu", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -703,10 +714,12 @@
       "9-5": 23, 
       "9-6": 32
     }, 
+    "total_checkin": 791, 
     "type": "checkin"
   }, 
   {
     "business_id": "t-GgSYuw4VQU_9ZcL9_zGw", 
+    "business_name": "Topshop", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -819,10 +832,12 @@
       "9-4": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 743, 
     "type": "checkin"
   }, 
   {
     "business_id": "18J4l7oirwTCVK74nwZkyg", 
+    "business_name": "Kohl's", 
     "checkin_info": {
       "1-2": 1, 
       "1-4": 1, 
@@ -930,10 +945,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 519, 
     "type": "checkin"
   }, 
   {
     "business_id": "AB7oEY5ACn0JUfD114hcow", 
+    "business_name": "Neiman Marcus", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -1024,10 +1041,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 486, 
     "type": "checkin"
   }, 
   {
     "business_id": "2rjoSIEy49ED0tBqp7_Dpw", 
+    "business_name": "Urban Outfitters", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1135,6 +1154,7 @@
       "9-1": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 445, 
     "type": "checkin"
   }
 ]

@@ -1,0 +1,58 @@
+[
+  {
+    "business_id": "wVwox3QF_9KlumrhrHmSkA", 
+    "business_name": "South End Auto Inspections", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-5": 2, 
+      "11-4": 1, 
+      "12-1": 1, 
+      "12-3": 1, 
+      "13-0": 2, 
+      "13-1": 2, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "5-0": 1, 
+      "5-4": 1, 
+      "6-2": 1, 
+      "7-3": 2, 
+      "7-4": 1, 
+      "7-5": 1, 
+      "8-2": 1, 
+      "8-3": 1, 
+      "8-5": 2, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 26, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "tI-2xKf_2WrUWeAn7BkdMA", 
+    "business_name": "Auto Inspector", 
+    "checkin_info": {
+      "10-1": 1, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "13-2": 1, 
+      "6-0": 1, 
+      "7-0": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MpIUx7bHm90sOvZ4VKxCyQ", 
+    "business_name": "Auto Inspector", 
+    "checkin_info": {
+      "11-3": 1, 
+      "13-2": 1, 
+      "14-3": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

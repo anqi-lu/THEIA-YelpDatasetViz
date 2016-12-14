@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ZHDf8TUICsB2peQ9AmXeFw", 
+    "business_name": "Le Thai", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 2, 
@@ -128,6 +129,7 @@
       "9-3": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 4212, 
     "type": "checkin"
   }
 ]

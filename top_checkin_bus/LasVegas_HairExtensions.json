@@ -1,6 +1,7 @@
 [
   {
     "business_id": "GwBzzDNzPYAiN6QQrd37Sw", 
+    "business_name": "The Parlor", 
     "checkin_info": {
       "0-6": 1, 
       "1-2": 2, 
@@ -106,10 +107,12 @@
       "9-5": 14, 
       "9-6": 14
     }, 
+    "total_checkin": 971, 
     "type": "checkin"
   }, 
   {
     "business_id": "KrEgZZNudtVuW1n2Qu0mFg", 
+    "business_name": "Hair Color Xperts", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -193,10 +196,12 @@
       "9-5": 9, 
       "9-6": 2
     }, 
+    "total_checkin": 180, 
     "type": "checkin"
   }, 
   {
     "business_id": "WodLcqteSUD3fA26DKtwlQ", 
+    "business_name": "James and Gaye", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -259,10 +264,12 @@
       "9-4": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 178, 
     "type": "checkin"
   }, 
   {
     "business_id": "kZVmq-C5uEwZa3bgnPUr2g", 
+    "business_name": "9037 Salon", 
     "checkin_info": {
       "0-6": 1, 
       "1-3": 1, 
@@ -342,10 +349,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 172, 
     "type": "checkin"
   }, 
   {
     "business_id": "4AHkHlJx2foOkt9YMlHmJA", 
+    "business_name": "Viva Salon", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 2, 
@@ -408,10 +417,12 @@
       "9-4": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 123, 
     "type": "checkin"
   }, 
   {
     "business_id": "yF2AA3UObfO0SIk-HUM1kw", 
+    "business_name": "Hypnotic Salon", 
     "checkin_info": {
       "0-0": 1, 
       "10-1": 2, 
@@ -469,10 +480,12 @@
       "9-1": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 116, 
     "type": "checkin"
   }, 
   {
     "business_id": "GPjNTcCMGa_YYQv1CYPENA", 
+    "business_name": "Phoenix Salon By Matt Rose", 
     "checkin_info": {
       "1-4": 1, 
       "10-2": 4, 
@@ -516,10 +529,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "HnXiV02OGl1FHTyuhU8sLA", 
+    "business_name": "The Untouchables Hair Design", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -558,10 +573,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 71, 
     "type": "checkin"
   }, 
   {
     "business_id": "Fg6S0CK1cl5rmmm-7Zw5cw", 
+    "business_name": "Raul Stylist Doctor Blonde", 
     "checkin_info": {
       "10-1": 2, 
       "10-5": 1, 
@@ -598,10 +615,12 @@
       "18-4": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 65, 
     "type": "checkin"
   }, 
   {
     "business_id": "AmZwc3kG1lCI7vrJC1juhA", 
+    "business_name": "Studio Bronze", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -649,6 +668,7 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 65, 
     "type": "checkin"
   }
 ]

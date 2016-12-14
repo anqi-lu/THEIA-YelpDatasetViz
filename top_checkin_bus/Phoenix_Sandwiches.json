@@ -1,6 +1,7 @@
 [
   {
     "business_id": "pwpl-rxwNRQdgqFz_-qMPg", 
+    "business_name": "The Parlor", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -106,10 +107,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 3994, 
     "type": "checkin"
   }, 
   {
     "business_id": "-sC66z4SO3tR7nFCjfQwuQ", 
+    "business_name": "Gallo Blanco", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -236,10 +239,12 @@
       "9-5": 38, 
       "9-6": 36
     }, 
+    "total_checkin": 3325, 
     "type": "checkin"
   }, 
   {
     "business_id": "V1nEpIRmEa1768oj_tuxeQ", 
+    "business_name": "Cibo", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -349,10 +354,12 @@
       "9-5": 2, 
       "9-6": 6
     }, 
+    "total_checkin": 2778, 
     "type": "checkin"
   }, 
   {
     "business_id": "M6fjHpkL9IRI-nI0BattRw", 
+    "business_name": "The Main Ingredient Ale House And Caf\u00e9", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 2, 
@@ -471,10 +478,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 2695, 
     "type": "checkin"
   }, 
   {
     "business_id": "jCUOqEK8Lln0PK3GeUl6IQ", 
+    "business_name": "Copper Star Coffee", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -622,10 +631,12 @@
       "9-5": 71, 
       "9-6": 66
     }, 
+    "total_checkin": 2350, 
     "type": "checkin"
   }, 
   {
     "business_id": "F8q_9PUl-Lwjj9xIRPArcg", 
+    "business_name": "Rocket Burger & Subs", 
     "checkin_info": {
       "10-0": 24, 
       "10-1": 23, 
@@ -721,10 +732,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2343, 
     "type": "checkin"
   }, 
   {
     "business_id": "VVeogjZya58oiTxK7qUjAQ", 
+    "business_name": "Pizzeria Bianco", 
     "checkin_info": {
       "10-0": 9, 
       "10-1": 7, 
@@ -820,10 +833,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 2282, 
     "type": "checkin"
   }, 
   {
     "business_id": "VY_tvNUCCXGXQeSvJl757Q", 
+    "business_name": "Mellow Mushroom", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 8, 
@@ -941,10 +956,12 @@
       "9-2": 2, 
       "9-3": 3
     }, 
+    "total_checkin": 2261, 
     "type": "checkin"
   }, 
   {
     "business_id": "3UMcsN9IjoeV8JZvC4apag", 
+    "business_name": "Sunup Brewing", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 6, 
@@ -1043,10 +1060,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 1477, 
     "type": "checkin"
   }, 
   {
     "business_id": "e9QRvkzssPNRmBLlDem9ZQ", 
+    "business_name": "Zookz Sandwiches", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 38, 
@@ -1130,6 +1149,7 @@
       "9-5": 35, 
       "9-6": 28
     }, 
+    "total_checkin": 1302, 
     "type": "checkin"
   }
 ]

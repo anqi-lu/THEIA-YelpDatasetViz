@@ -1,6 +1,7 @@
 [
   {
     "business_id": "e4CSh0SfKoqlIiFlAFD5Qw", 
+    "business_name": "Wells Fargo Bank", 
     "checkin_info": {
       "0-3": 1, 
       "1-2": 1, 
@@ -109,10 +110,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 276, 
     "type": "checkin"
   }, 
   {
     "business_id": "-cVKo1S1B2jAs2Bgy2Lw_Q", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -214,10 +217,12 @@
       "9-4": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 276, 
     "type": "checkin"
   }, 
   {
     "business_id": "f7Mvvit8IaKBVY4EnPeymg", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -302,10 +307,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 245, 
     "type": "checkin"
   }, 
   {
     "business_id": "Pf8A8mlBcTs9RctMq_YA4A", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 2, 
@@ -396,10 +403,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 225, 
     "type": "checkin"
   }, 
   {
     "business_id": "dD4-NJBV9DtGApipWwoMTA", 
+    "business_name": "Centennial Toyota", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 2, 
@@ -482,10 +491,12 @@
       "9-4": 4, 
       "9-5": 9
     }, 
+    "total_checkin": 213, 
     "type": "checkin"
   }, 
   {
     "business_id": "K9hebbsYqNiWodxDX76klw", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 2, 
@@ -568,10 +579,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 203, 
     "type": "checkin"
   }, 
   {
     "business_id": "OVlmCGlUsLQVKYj4MyUPmw", 
+    "business_name": "Chase Bank", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 3, 
@@ -649,10 +662,12 @@
       "9-4": 5, 
       "9-5": 2
     }, 
+    "total_checkin": 201, 
     "type": "checkin"
   }, 
   {
     "business_id": "pg20esVxnKH6t8-qivj9ww", 
+    "business_name": "Wells Fargo Bank", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 1, 
@@ -752,10 +767,12 @@
       "9-4": 7, 
       "9-5": 4
     }, 
+    "total_checkin": 200, 
     "type": "checkin"
   }, 
   {
     "business_id": "uMws4-0JWifXKpKI8O-N_A", 
+    "business_name": "Wells Fargo Bank", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 3, 
@@ -834,10 +851,12 @@
       "9-4": 1, 
       "9-5": 6
     }, 
+    "total_checkin": 182, 
     "type": "checkin"
   }, 
   {
     "business_id": "-VxYYVB4Df7mUPyHZfkU2Q", 
+    "business_name": "Wells Fargo Bank", 
     "checkin_info": {
       "0-2": 1, 
       "1-0": 1, 
@@ -917,6 +936,7 @@
       "9-4": 4, 
       "9-5": 1
     }, 
+    "total_checkin": 175, 
     "type": "checkin"
   }
 ]

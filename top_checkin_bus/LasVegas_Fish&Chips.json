@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Oqb-MBYAmYUJLKwbwpQUEQ", 
+    "business_name": "Lazy Joe's Fish & Chips", 
     "checkin_info": {
       "1-1": 1, 
       "10-1": 1, 
@@ -78,10 +79,12 @@
       "7-2": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 427, 
     "type": "checkin"
   }, 
   {
     "business_id": "ghUbcxFKf5MfmnNxHmkixA", 
+    "business_name": "Off the Hook", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -163,10 +166,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 290, 
     "type": "checkin"
   }, 
   {
     "business_id": "USPVxT1jYvarxC8lZJeLMA", 
+    "business_name": "Seafood Shack", 
     "checkin_info": {
       "0-1": 1, 
       "12-0": 1, 
@@ -239,10 +244,12 @@
       "7-0": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 285, 
     "type": "checkin"
   }, 
   {
     "business_id": "aJMhN4fdsARaJCw-dGvNGw", 
+    "business_name": "USS Fish N Chips", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -276,6 +283,7 @@
       "19-0": 1, 
       "19-2": 3
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }
 ]

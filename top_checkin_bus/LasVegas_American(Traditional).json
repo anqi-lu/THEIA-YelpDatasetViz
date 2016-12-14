@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Xhg93cMdemu5pAMkDoEdtQ", 
+    "business_name": "Serendipity 3", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -153,10 +154,12 @@
       "9-5": 60, 
       "9-6": 54
     }, 
+    "total_checkin": 10721, 
     "type": "checkin"
   }, 
   {
     "business_id": "BqrTtox0JbG-P_DKBB5bBw", 
+    "business_name": "Holsteins Shakes and Buns", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 6, 
@@ -303,10 +306,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 9154, 
     "type": "checkin"
   }, 
   {
     "business_id": "1yx2zLskVTe5WQdYjL2Apw", 
+    "business_name": "Egg & I", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -419,10 +424,12 @@
       "9-5": 244, 
       "9-6": 236
     }, 
+    "total_checkin": 7671, 
     "type": "checkin"
   }, 
   {
     "business_id": "jOuERtVf7QePnK9ZcdH5XA", 
+    "business_name": "Grand Lux Cafe", 
     "checkin_info": {
       "0-0": 47, 
       "0-1": 17, 
@@ -593,10 +600,12 @@
       "9-5": 85, 
       "9-6": 52
     }, 
+    "total_checkin": 6762, 
     "type": "checkin"
   }, 
   {
     "business_id": "SsTxjxo8qvqBMvan1rzNzg", 
+    "business_name": "The Peppermill Restaurant & Fireside Lounge", 
     "checkin_info": {
       "0-0": 34, 
       "0-1": 28, 
@@ -767,10 +776,12 @@
       "9-5": 95, 
       "9-6": 90
     }, 
+    "total_checkin": 6322, 
     "type": "checkin"
   }, 
   {
     "business_id": "tqu42L0qXzkvYKSruOz0IA", 
+    "business_name": "Ellis Island Casino & Brewery", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 16, 
@@ -941,10 +952,12 @@
       "9-5": 23, 
       "9-6": 23
     }, 
+    "total_checkin": 5123, 
     "type": "checkin"
   }, 
   {
     "business_id": "co0vxQ8ecXiBy2sGDeHi8A", 
+    "business_name": "Jamms Restaurant", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -1039,10 +1052,12 @@
       "9-5": 174, 
       "9-6": 173
     }, 
+    "total_checkin": 4470, 
     "type": "checkin"
   }, 
   {
     "business_id": "OdKCcB8skRPVSk7yBGwang", 
+    "business_name": "Market Street Cafe", 
     "checkin_info": {
       "0-0": 82, 
       "0-1": 36, 
@@ -1213,10 +1228,12 @@
       "9-5": 29, 
       "9-6": 24
     }, 
+    "total_checkin": 3755, 
     "type": "checkin"
   }, 
   {
     "business_id": "K8dQr_82-DMpDudEv8PDmw", 
+    "business_name": "Egg Works", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -1312,10 +1329,12 @@
       "9-5": 153, 
       "9-6": 135
     }, 
+    "total_checkin": 3703, 
     "type": "checkin"
   }, 
   {
     "business_id": "kwEQ3uY9Jwmknb5kNg3UlA", 
+    "business_name": "Grand Lux Cafe", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 9, 
@@ -1482,6 +1501,7 @@
       "9-5": 38, 
       "9-6": 22
     }, 
+    "total_checkin": 3587, 
     "type": "checkin"
   }
 ]

@@ -1,0 +1,19 @@
+[
+  {
+    "business_id": "Gmadf91Sy9bj4XlCbOy_sA", 
+    "business_name": "AAA - Charlotte", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-3": 1, 
+      "13-0": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "5-1": 1, 
+      "6-3": 2, 
+      "9-0": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

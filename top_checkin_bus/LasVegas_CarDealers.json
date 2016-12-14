@@ -1,6 +1,7 @@
 [
   {
     "business_id": "t4jcxRRrIK3huUIHOaCjEg", 
+    "business_name": "United Nissan", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 10, 
@@ -81,10 +82,12 @@
       "9-4": 16, 
       "9-5": 2
     }, 
+    "total_checkin": 415, 
     "type": "checkin"
   }, 
   {
     "business_id": "fxeb8pLrl70u32tLFFJOfw", 
+    "business_name": "BMW of Las Vegas", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 7, 
@@ -176,10 +179,12 @@
       "9-4": 6, 
       "9-5": 5
     }, 
+    "total_checkin": 413, 
     "type": "checkin"
   }, 
   {
     "business_id": "YkxyI2guuPcmgWFk0a0aDQ", 
+    "business_name": "Honda West", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 6, 
@@ -264,10 +269,12 @@
       "9-4": 4, 
       "9-5": 7
     }, 
+    "total_checkin": 344, 
     "type": "checkin"
   }, 
   {
     "business_id": "LoOtuNdj5miN_Pd3MPOiWQ", 
+    "business_name": "Lexus Of Las Vegas", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 6, 
@@ -356,10 +363,12 @@
       "9-4": 14, 
       "9-5": 16
     }, 
+    "total_checkin": 340, 
     "type": "checkin"
   }, 
   {
     "business_id": "gwCWL6Vc9imaTNNpO7sfFg", 
+    "business_name": "AutoNation Toyota Las Vegas", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 3, 
@@ -446,10 +455,12 @@
       "9-4": 9, 
       "9-5": 5
     }, 
+    "total_checkin": 330, 
     "type": "checkin"
   }, 
   {
     "business_id": "8zHPP5TO9uGHh7ny05g0Iw", 
+    "business_name": "Subaru of Las Vegas", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 3, 
@@ -534,10 +545,12 @@
       "9-4": 5, 
       "9-5": 6
     }, 
+    "total_checkin": 317, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ubwquTfavXYSUlS1bMVqg", 
+    "business_name": "MINI of Las Vegas", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 5, 
@@ -623,10 +636,12 @@
       "9-4": 4, 
       "9-5": 9
     }, 
+    "total_checkin": 239, 
     "type": "checkin"
   }, 
   {
     "business_id": "dD4-NJBV9DtGApipWwoMTA", 
+    "business_name": "Centennial Toyota", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 2, 
@@ -709,10 +724,12 @@
       "9-4": 4, 
       "9-5": 9
     }, 
+    "total_checkin": 213, 
     "type": "checkin"
   }, 
   {
     "business_id": "u4yKZWsz84ifMmah2UAlDA", 
+    "business_name": "Findlay Honda", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 5, 
@@ -789,10 +806,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 208, 
     "type": "checkin"
   }, 
   {
     "business_id": "rO6VfAvV5-2oMc7ovuwcyA", 
+    "business_name": "Cardinaleway Acura Las Vegas", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 4, 
@@ -856,6 +875,7 @@
       "9-3": 1, 
       "9-5": 5
     }, 
+    "total_checkin": 169, 
     "type": "checkin"
   }
 ]

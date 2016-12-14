@@ -1,6 +1,7 @@
 [
   {
     "business_id": "dNuQ1rqfZs9tGe3dCyxw0Q", 
+    "business_name": "Nellis Air Force Base", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -147,10 +148,12 @@
       "9-5": 7, 
       "9-6": 5
     }, 
+    "total_checkin": 1224, 
     "type": "checkin"
   }, 
   {
     "business_id": "9u8OhMvCwj4T4obO15d5ng", 
+    "business_name": "Exotics Racing", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -235,10 +238,12 @@
       "9-5": 17, 
       "9-6": 7
     }, 
+    "total_checkin": 458, 
     "type": "checkin"
   }, 
   {
     "business_id": "X1kpawmKUuB8McxeYH2YTA", 
+    "business_name": "Pole Fitness Studio", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -334,10 +339,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 364, 
     "type": "checkin"
   }, 
   {
     "business_id": "Sp8uVjRoKEXEUbbysX-BFw", 
+    "business_name": "Water Wings Swim School", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 2, 
@@ -393,10 +400,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 169, 
     "type": "checkin"
   }, 
   {
     "business_id": "vPOE89l7_3BVHbDLjX0YJg", 
+    "business_name": "Water Wings Swim School", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 3, 
@@ -434,10 +443,12 @@
       "9-2": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 165, 
     "type": "checkin"
   }, 
   {
     "business_id": "rUbHg4tswlR5WeMqN-dtuw", 
+    "business_name": "Paul Mitchell The School Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -491,10 +502,12 @@
       "9-4": 1, 
       "9-5": 5
     }, 
+    "total_checkin": 160, 
     "type": "checkin"
   }, 
   {
     "business_id": "vT4NGcLsj-QXwoV4_-XgDQ", 
+    "business_name": "Nevada School of Massage", 
     "checkin_info": {
       "10-1": 1, 
       "10-5": 7, 
@@ -548,10 +561,12 @@
       "9-5": 5, 
       "9-6": 3
     }, 
+    "total_checkin": 143, 
     "type": "checkin"
   }, 
   {
     "business_id": "xYGwkujjNq9j94LBxc3niA", 
+    "business_name": "Studio One's - Southwest Dance Academy", 
     "checkin_info": {
       "1-2": 1, 
       "10-0": 4, 
@@ -588,10 +603,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 136, 
     "type": "checkin"
   }, 
   {
     "business_id": "vapw4GFkRByQSpZ9WJTqOw", 
+    "business_name": "Key Realty School", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -662,10 +679,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 126, 
     "type": "checkin"
   }, 
   {
     "business_id": "JBqbR5yt4zHCBmpidWHgAA", 
+    "business_name": "European Massage Therapy School", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -725,6 +744,7 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 100, 
     "type": "checkin"
   }
 ]

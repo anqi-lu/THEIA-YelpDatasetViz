@@ -1,6 +1,7 @@
 [
   {
     "business_id": "NZ0QNUAVGSKgjAFRQxdjUw", 
+    "business_name": "Fantastic Indoor Swapmeet", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 6, 
@@ -43,10 +44,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 552, 
     "type": "checkin"
   }, 
   {
     "business_id": "LuYVQCAUQtJavRX-WW07Qg", 
+    "business_name": "Savers", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -131,10 +134,12 @@
       "9-3": 6, 
       "9-4": 2
     }, 
+    "total_checkin": 263, 
     "type": "checkin"
   }, 
   {
     "business_id": "5w4RtAZbSRRkdGobx3I0rg", 
+    "business_name": "Savers", 
     "checkin_info": {
       "10-1": 5, 
       "10-2": 3, 
@@ -217,10 +222,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 249, 
     "type": "checkin"
   }, 
   {
     "business_id": "pkz9QpZ45Eyg_-G7WiaWMw", 
+    "business_name": "Savers", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 1, 
@@ -298,10 +305,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 176, 
     "type": "checkin"
   }, 
   {
     "business_id": "DbfjBFH5lsWGKdtuzdS3cQ", 
+    "business_name": "Goodwill Southern Nevada", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 2, 
@@ -372,10 +381,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 141, 
     "type": "checkin"
   }, 
   {
     "business_id": "0ebdO0_5W7WG7C84IN4dbQ", 
+    "business_name": "Goodwill Industries", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -437,10 +448,12 @@
       "9-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 125, 
     "type": "checkin"
   }, 
   {
     "business_id": "wrhcXt_xODSrk6nfcWzBpg", 
+    "business_name": "Epic Thrift", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -510,10 +523,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 122, 
     "type": "checkin"
   }, 
   {
     "business_id": "X1TPMYIAeZh7trieJc911g", 
+    "business_name": "Goodwill Southern Nevada", 
     "checkin_info": {
       "10-2": 1, 
       "11-0": 3, 
@@ -569,10 +584,12 @@
       "6-2": 1, 
       "7-0": 1
     }, 
+    "total_checkin": 92, 
     "type": "checkin"
   }, 
   {
     "business_id": "qum2AlqQbf08XN5BJt-cWw", 
+    "business_name": "Plato's Closet", 
     "checkin_info": {
       "10-4": 1, 
       "11-2": 1, 
@@ -624,10 +641,12 @@
       "8-5": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 85, 
     "type": "checkin"
   }, 
   {
     "business_id": "CklztI2wdRGiSS3ZONriBg", 
+    "business_name": "Savers", 
     "checkin_info": {
       "0-6": 1, 
       "10-2": 1, 
@@ -682,6 +701,7 @@
       "20-6": 1, 
       "21-1": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }
 ]

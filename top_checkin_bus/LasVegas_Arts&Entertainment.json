@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AtjsjFzalWqJ7S9DUFQ4bw", 
+    "business_name": "The Cosmopolitan of Las Vegas", 
     "checkin_info": {
       "0-0": 132, 
       "0-1": 143, 
@@ -171,10 +172,12 @@
       "9-5": 149, 
       "9-6": 124
     }, 
+    "total_checkin": 29095, 
     "type": "checkin"
   }, 
   {
     "business_id": "JpHE7yhMS5ehA9e8WG_ETg", 
+    "business_name": "ARIA Hotel & Casino", 
     "checkin_info": {
       "0-0": 83, 
       "0-1": 64, 
@@ -345,10 +348,12 @@
       "9-5": 154, 
       "9-6": 141
     }, 
+    "total_checkin": 19566, 
     "type": "checkin"
   }, 
   {
     "business_id": "34uJtlPnKicSaX1V8_tu1A", 
+    "business_name": "The Venetian Las Vegas", 
     "checkin_info": {
       "0-0": 72, 
       "0-1": 41, 
@@ -519,10 +524,12 @@
       "9-5": 185, 
       "9-6": 147
     }, 
+    "total_checkin": 19434, 
     "type": "checkin"
   }, 
   {
     "business_id": "z3SyT8blMIhsZNvKJgKcRA", 
+    "business_name": "Caesars Palace Las Vegas Hotel & Casino", 
     "checkin_info": {
       "0-0": 71, 
       "0-1": 46, 
@@ -693,10 +700,12 @@
       "9-5": 94, 
       "9-6": 95
     }, 
+    "total_checkin": 18948, 
     "type": "checkin"
   }, 
   {
     "business_id": "-7yF42k0CcJhtPw51oaOqQ", 
+    "business_name": "Bellagio Hotel", 
     "checkin_info": {
       "0-0": 116, 
       "0-1": 76, 
@@ -867,10 +876,12 @@
       "9-5": 93, 
       "9-6": 85
     }, 
+    "total_checkin": 18914, 
     "type": "checkin"
   }, 
   {
     "business_id": "uJYw4p59AKh8c8h5yWMdOw", 
+    "business_name": "Planet Hollywood Las Vegas Resort & Casino", 
     "checkin_info": {
       "0-0": 98, 
       "0-1": 71, 
@@ -1041,10 +1052,12 @@
       "9-5": 87, 
       "9-6": 70
     }, 
+    "total_checkin": 16474, 
     "type": "checkin"
   }, 
   {
     "business_id": "TWD8c5-P7w9v-2KX_GSNZQ", 
+    "business_name": "Mandalay Bay Resort & Casino", 
     "checkin_info": {
       "0-0": 44, 
       "0-1": 30, 
@@ -1215,10 +1228,12 @@
       "9-5": 122, 
       "9-6": 112
     }, 
+    "total_checkin": 15424, 
     "type": "checkin"
   }, 
   {
     "business_id": "5paMI5Hhciyl09yGpzdoJw", 
+    "business_name": "The Palazzo Las Vegas", 
     "checkin_info": {
       "0-0": 65, 
       "0-1": 27, 
@@ -1389,10 +1404,12 @@
       "9-5": 121, 
       "9-6": 93
     }, 
+    "total_checkin": 13425, 
     "type": "checkin"
   }, 
   {
     "business_id": "u9wjRhUjySkHPa_hG3kFOg", 
+    "business_name": "Wynn Las Vegas", 
     "checkin_info": {
       "0-0": 78, 
       "0-1": 45, 
@@ -1562,10 +1579,12 @@
       "9-5": 72, 
       "9-6": 80
     }, 
+    "total_checkin": 13342, 
     "type": "checkin"
   }, 
   {
     "business_id": "y4Qyf4PPSOHdQFTr3Zi_KA", 
+    "business_name": "Red Rock Casino Resort & Spa", 
     "checkin_info": {
       "0-0": 33, 
       "0-1": 31, 
@@ -1735,6 +1754,7 @@
       "9-5": 72, 
       "9-6": 72
     }, 
+    "total_checkin": 11838, 
     "type": "checkin"
   }
 ]

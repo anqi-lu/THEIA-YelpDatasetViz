@@ -1,6 +1,7 @@
 [
   {
     "business_id": "xbXKtlfUkM3Ve716dfch4Q", 
+    "business_name": "Rod Works", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -19,10 +20,12 @@
       "16-5": 1, 
       "18-4": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "Bfp0U0lrD79X9clT8gS7YQ", 
+    "business_name": "Arizona Tile", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -39,10 +42,12 @@
       "9-2": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "5dJBxsCks-tNQ0wVG00lpQ", 
+    "business_name": "La-Z-Boy Furniture Galleries", 
     "checkin_info": {
       "11-4": 1, 
       "11-5": 1, 
@@ -61,10 +66,12 @@
       "20-3": 1, 
       "3-3": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "KPPAy6Aa2OrvqzZmI8cDGw", 
+    "business_name": "Nest Featherings", 
     "checkin_info": {
       "10-5": 1, 
       "11-0": 1, 
@@ -81,10 +88,12 @@
       "20-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "syM6vmR7oByqLV7MAgR7Lw", 
+    "business_name": "La-Z-Boy Furniture Galleries", 
     "checkin_info": {
       "12-1": 1, 
       "12-3": 1, 
@@ -101,10 +110,12 @@
       "19-0": 1, 
       "20-1": 1
     }, 
+    "total_checkin": 15, 
     "type": "checkin"
   }, 
   {
     "business_id": "8AwS9Ggo5hcWiSd5e6WEww", 
+    "business_name": "Inside Style Home and Design", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -119,10 +130,12 @@
       "18-5": 1, 
       "19-0": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }, 
   {
     "business_id": "I4rQim3ii_4IHFV3c-oC7Q", 
+    "business_name": "Urban Ranch General Store", 
     "checkin_info": {
       "11-3": 2, 
       "13-0": 1, 
@@ -134,10 +147,12 @@
       "16-1": 1, 
       "17-3": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "e35pOiG3LKPd73aqtIpmTA", 
+    "business_name": "Best Buy Flooring Center", 
     "checkin_info": {
       "10-0": 1, 
       "11-0": 2, 
@@ -148,10 +163,12 @@
       "19-4": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "JPxrSgmRzAM6P9oekSQTZw", 
+    "business_name": "Ethan Allen", 
     "checkin_info": {
       "12-2": 2, 
       "15-5": 1, 
@@ -160,10 +177,12 @@
       "18-4": 1, 
       "20-4": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "fOE_mdKm69ganJBkMr1NKw", 
+    "business_name": "Artiques Unique Home Furnishings & Decor", 
     "checkin_info": {
       "13-6": 1, 
       "14-4": 1, 
@@ -172,6 +191,7 @@
       "16-4": 1, 
       "23-3": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }
 ]

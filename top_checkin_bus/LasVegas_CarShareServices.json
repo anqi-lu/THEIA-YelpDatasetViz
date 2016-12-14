@@ -1,12 +1,14 @@
 [
   {
     "business_id": "Nj2KiJtolSwHGPuaImrrBQ", 
+    "business_name": "Lyft", 
     "checkin_info": {
       "11-2": 1, 
       "17-5": 1, 
       "2-1": 1, 
       "23-6": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

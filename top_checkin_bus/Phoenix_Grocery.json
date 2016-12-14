@@ -1,6 +1,7 @@
 [
   {
     "business_id": "R8VwdLyvsp9iybNqRvm94g", 
+    "business_name": "La Grande Orange Grocery", 
     "checkin_info": {
       "10-0": 56, 
       "10-1": 32, 
@@ -130,10 +131,12 @@
       "9-5": 123, 
       "9-6": 150
     }, 
+    "total_checkin": 4955, 
     "type": "checkin"
   }, 
   {
     "business_id": "2e1jzfiHFGCRpV66gYNVbA", 
+    "business_name": "Whole Foods Market", 
     "checkin_info": {
       "10-0": 19, 
       "10-1": 16, 
@@ -253,10 +256,12 @@
       "9-5": 23, 
       "9-6": 25
     }, 
+    "total_checkin": 2884, 
     "type": "checkin"
   }, 
   {
     "business_id": "XLqnjlLYt0_q_NG7l_BpMA", 
+    "business_name": "Costco", 
     "checkin_info": {
       "10-0": 14, 
       "10-1": 20, 
@@ -362,10 +367,12 @@
       "9-5": 26, 
       "9-6": 27
     }, 
+    "total_checkin": 2620, 
     "type": "checkin"
   }, 
   {
     "business_id": "wfehmd8XHuptcoSQ64V9Mg", 
+    "business_name": "Whole Foods Market", 
     "checkin_info": {
       "10-0": 19, 
       "10-1": 13, 
@@ -483,10 +490,12 @@
       "9-5": 15, 
       "9-6": 27
     }, 
+    "total_checkin": 2427, 
     "type": "checkin"
   }, 
   {
     "business_id": "Sy-hmzSH1OmWpHmAfZtxRA", 
+    "business_name": "Trader Joe's", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 13, 
@@ -596,10 +605,12 @@
       "9-5": 14, 
       "9-6": 28
     }, 
+    "total_checkin": 2069, 
     "type": "checkin"
   }, 
   {
     "business_id": "iLODjOOpTExF69CdGPkuuA", 
+    "business_name": "Fry's", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 6, 
@@ -756,10 +767,12 @@
       "9-5": 4, 
       "9-6": 12
     }, 
+    "total_checkin": 1482, 
     "type": "checkin"
   }, 
   {
     "business_id": "2e3v5rl80j4pI3L2135xYg", 
+    "business_name": "Sprouts Farmers Market", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 10, 
@@ -882,10 +895,12 @@
       "9-5": 12, 
       "9-6": 9
     }, 
+    "total_checkin": 1449, 
     "type": "checkin"
   }, 
   {
     "business_id": "CgHcO651uEE3aalrkm4boQ", 
+    "business_name": "AJ's Purveyor of Fine Foods", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 4, 
@@ -1001,10 +1016,12 @@
       "9-5": 14, 
       "9-6": 13
     }, 
+    "total_checkin": 1279, 
     "type": "checkin"
   }, 
   {
     "business_id": "RHYJho19op3wdNfJOFUR0A", 
+    "business_name": "Costco", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 13, 
@@ -1102,10 +1119,12 @@
       "9-5": 18, 
       "9-6": 9
     }, 
+    "total_checkin": 1242, 
     "type": "checkin"
   }, 
   {
     "business_id": "hHE4OHAc8dONTV8QsGLbWg", 
+    "business_name": "Sprouts Farmers Market", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 11, 
@@ -1216,6 +1235,7 @@
       "9-5": 7, 
       "9-6": 11
     }, 
+    "total_checkin": 1100, 
     "type": "checkin"
   }
 ]

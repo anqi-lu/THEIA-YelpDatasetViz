@@ -1,6 +1,7 @@
 [
   {
     "business_id": "pPfQ73--Y_h5Or0aqDgEGA", 
+    "business_name": "BabyStacks Cafe", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -114,10 +115,12 @@
       "9-5": 198, 
       "9-6": 171
     }, 
+    "total_checkin": 5109, 
     "type": "checkin"
   }, 
   {
     "business_id": "k-ZTmIRDeZUvwiCGN51szA", 
+    "business_name": "Gold Spike", 
     "checkin_info": {
       "0-0": 37, 
       "0-1": 27, 
@@ -275,10 +278,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 2898, 
     "type": "checkin"
   }, 
   {
     "business_id": "d4bXnfbUc1SLu3jVcr-w1w", 
+    "business_name": "MTO Caf\u00e9", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -362,10 +367,12 @@
       "9-5": 79, 
       "9-6": 92
     }, 
+    "total_checkin": 2654, 
     "type": "checkin"
   }, 
   {
     "business_id": "BQjGE1Z3nk253XzIZqt8Gg", 
+    "business_name": "Jean Philippe Patisserie", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 1, 
@@ -508,10 +515,12 @@
       "9-5": 17, 
       "9-6": 27
     }, 
+    "total_checkin": 2476, 
     "type": "checkin"
   }, 
   {
     "business_id": "pQSkGB3HIunzNn_vIRWUNQ", 
+    "business_name": "The Bagel Cafe", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -626,10 +635,12 @@
       "9-5": 66, 
       "9-6": 52
     }, 
+    "total_checkin": 2333, 
     "type": "checkin"
   }, 
   {
     "business_id": "25fxw_jOqZtJwl18cCarIA", 
+    "business_name": "Honey Salt", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 2, 
@@ -741,10 +752,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2295, 
     "type": "checkin"
   }, 
   {
     "business_id": "L-NzaroskDG7cwW9OJJadw", 
+    "business_name": "Sambalatte", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 44, 
@@ -855,10 +868,12 @@
       "9-5": 19, 
       "9-6": 27
     }, 
+    "total_checkin": 2050, 
     "type": "checkin"
   }, 
   {
     "business_id": "CGYOPcYTfwXFu-Sn0MsgGQ", 
+    "business_name": "La Belle Terre Bread French Bakery Caf\u00e9", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -969,10 +984,12 @@
       "9-5": 40, 
       "9-6": 50
     }, 
+    "total_checkin": 1913, 
     "type": "checkin"
   }, 
   {
     "business_id": "UpMR63WZgIn8VDKnYpDwXA", 
+    "business_name": "Cafe Bellagio", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 8, 
@@ -1140,10 +1157,12 @@
       "9-5": 21, 
       "9-6": 33
     }, 
+    "total_checkin": 1712, 
     "type": "checkin"
   }, 
   {
     "business_id": "bGj9djLAHjNR55OXsIDrAg", 
+    "business_name": "ARIA Cafe", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 8, 
@@ -1310,6 +1329,7 @@
       "9-5": 24, 
       "9-6": 21
     }, 
+    "total_checkin": 1616, 
     "type": "checkin"
   }
 ]

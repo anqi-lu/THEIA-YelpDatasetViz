@@ -1,6 +1,7 @@
 [
   {
     "business_id": "5FuO7ScUXU0kmfCZGfom5A", 
+    "business_name": "Fresh & Easy", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 1, 
@@ -153,10 +154,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 1049, 
     "type": "checkin"
   }, 
   {
     "business_id": "Fk1ibRUPn67NHkxtVZUQ3Q", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 3, 
@@ -306,10 +309,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 696, 
     "type": "checkin"
   }, 
   {
     "business_id": "61znmxVpxUROmB-c9v1Vcw", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -460,10 +465,12 @@
       "9-5": 5, 
       "9-6": 9
     }, 
+    "total_checkin": 695, 
     "type": "checkin"
   }, 
   {
     "business_id": "593Sg-q-RdAhtXL5WSiCqw", 
+    "business_name": "Fabulous Freddy's", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 8, 
@@ -602,10 +609,12 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 689, 
     "type": "checkin"
   }, 
   {
     "business_id": "wpUhxNougI56EpVp5zutfw", 
+    "business_name": "Smith's", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 5, 
@@ -740,10 +749,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 656, 
     "type": "checkin"
   }, 
   {
     "business_id": "0xgZNzSpKJgrZTDH7e6DfQ", 
+    "business_name": "Fresh & Easy", 
     "checkin_info": {
       "0-4": 1, 
       "1-1": 2, 
@@ -866,10 +877,12 @@
       "9-5": 5, 
       "9-6": 11
     }, 
+    "total_checkin": 636, 
     "type": "checkin"
   }, 
   {
     "business_id": "8c5wJ8VmsPR-QJwFigIddw", 
+    "business_name": "Fresh & Easy", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -1002,10 +1015,12 @@
       "9-5": 4, 
       "9-6": 6
     }, 
+    "total_checkin": 621, 
     "type": "checkin"
   }, 
   {
     "business_id": "G1XxsyXD8Kc3RNeOXfJ_Bg", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-1": 2, 
       "1-0": 1, 
@@ -1134,10 +1149,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 593, 
     "type": "checkin"
   }, 
   {
     "business_id": "P5HKB8HcrOjiWWS-7rd9UA", 
+    "business_name": "Fresh & Easy", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1263,10 +1280,12 @@
       "9-5": 6, 
       "9-6": 3
     }, 
+    "total_checkin": 519, 
     "type": "checkin"
   }, 
   {
     "business_id": "vJWiGqmOm_U4b3OFCa4-yw", 
+    "business_name": "ARCO ampm", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -1367,6 +1386,7 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 498, 
     "type": "checkin"
   }
 ]

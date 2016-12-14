@@ -1,6 +1,7 @@
 [
   {
     "business_id": "A3Jv-FFRsDEWXxKJ6ZIxfg", 
+    "business_name": "Gordon Ramsay Pub & Grill", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 2, 
@@ -136,10 +137,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 3415, 
     "type": "checkin"
   }, 
   {
     "business_id": "jmgKs7CTqSWWwJnFnPIf4A", 
+    "business_name": "R\u00ed R\u00e1 Irish Pub", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 15, 
@@ -284,10 +287,12 @@
       "9-5": 14, 
       "9-6": 7
     }, 
+    "total_checkin": 2469, 
     "type": "checkin"
   }, 
   {
     "business_id": "05tazaFQt1EnQ_Gk_1AFyg", 
+    "business_name": "Nine Fine Irishmen", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -426,10 +431,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 2142, 
     "type": "checkin"
   }, 
   {
     "business_id": "Nqcl3hDLyiwNQBxQpKCdIQ", 
+    "business_name": "Born And Raised", 
     "checkin_info": {
       "0-0": 16, 
       "0-1": 10, 
@@ -595,10 +602,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 1902, 
     "type": "checkin"
   }, 
   {
     "business_id": "4KwEzJyeuHqna7_A_eeI3g", 
+    "business_name": "Cornish Pasty Co.", 
     "checkin_info": {
       "0-4": 3, 
       "0-5": 1, 
@@ -710,10 +719,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1822, 
     "type": "checkin"
   }, 
   {
     "business_id": "k-D2NUfaUbuQzPaMXniXcA", 
+    "business_name": "The Pub at Monte Carlo", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -844,10 +855,12 @@
       "9-5": 6, 
       "9-6": 12
     }, 
+    "total_checkin": 1660, 
     "type": "checkin"
   }, 
   {
     "business_id": "hAgtic2abji61215w8_OVw", 
+    "business_name": "Aces & Ales", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 6, 
@@ -998,10 +1011,12 @@
       "9-2": 3, 
       "9-5": 4
     }, 
+    "total_checkin": 1597, 
     "type": "checkin"
   }, 
   {
     "business_id": "r70nuDpkR5-g1oShW2ANvA", 
+    "business_name": "Crown & Anchor British Pub", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 10, 
@@ -1163,10 +1178,12 @@
       "9-5": 9, 
       "9-6": 6
     }, 
+    "total_checkin": 1566, 
     "type": "checkin"
   }, 
   {
     "business_id": "fZVZeZJkziJ7B1rIcmT3Iw", 
+    "business_name": "Sierra Gold", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 18, 
@@ -1324,10 +1341,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1510, 
     "type": "checkin"
   }, 
   {
     "business_id": "lzl3cfgVEGMtezF8oRqXDA", 
+    "business_name": "Steiner's A Nevada Style Pub", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 5, 
@@ -1484,6 +1503,7 @@
       "9-5": 8, 
       "9-6": 16
     }, 
+    "total_checkin": 1443, 
     "type": "checkin"
   }
 ]

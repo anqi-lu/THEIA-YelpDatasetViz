@@ -1,6 +1,7 @@
 [
   {
     "business_id": "t1sCvl0nSbWeRj0ZgsolRA", 
+    "business_name": "Double Down Saloon", 
     "checkin_info": {
       "0-0": 19, 
       "0-1": 11, 
@@ -152,10 +153,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1171, 
     "type": "checkin"
   }, 
   {
     "business_id": "_9BqmRowpWfy4wDPXLSDHA", 
+    "business_name": "Dino's Lounge", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 2, 
@@ -268,10 +271,12 @@
       "7-3": 2, 
       "9-1": 1
     }, 
+    "total_checkin": 706, 
     "type": "checkin"
   }, 
   {
     "business_id": "o20LJBWR6NUEuwQLs7z3Hg", 
+    "business_name": "The Rockhouse", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 2, 
@@ -391,10 +396,12 @@
       "9-0": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 664, 
     "type": "checkin"
   }, 
   {
     "business_id": "d9ZAurAnQSiYaUowoYP5UQ", 
+    "business_name": "Money Plays", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 6, 
@@ -509,10 +516,12 @@
       "8-6": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 570, 
     "type": "checkin"
   }, 
   {
     "business_id": "6RGD8kxrLwW1PztxZIPXlQ", 
+    "business_name": "Stage Door", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 5, 
@@ -653,10 +662,12 @@
       "8-6": 1, 
       "9-0": 3
     }, 
+    "total_checkin": 558, 
     "type": "checkin"
   }, 
   {
     "business_id": "XGBK1_iyfPC2_0nmAo12WQ", 
+    "business_name": "Bunkhouse Saloon", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -739,10 +750,12 @@
       "9-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 441, 
     "type": "checkin"
   }, 
   {
     "business_id": "at3I3txb7I7TE7Qvl3yIZA", 
+    "business_name": "Huntridge Tavern", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -869,10 +882,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 428, 
     "type": "checkin"
   }, 
   {
     "business_id": "aHGcljVZPA1PAOZdbMhuaA", 
+    "business_name": "Moon Doggies", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 5, 
@@ -983,10 +998,12 @@
       "5-0": 1, 
       "7-4": 1
     }, 
+    "total_checkin": 396, 
     "type": "checkin"
   }, 
   {
     "business_id": "DEg-YquqSx_-Klk_cyafDA", 
+    "business_name": "The Rockhouse", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -1105,10 +1122,12 @@
       "7-6": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 394, 
     "type": "checkin"
   }, 
   {
     "business_id": "YxN8TC0rCVr_1EkpnKsaAw", 
+    "business_name": "Champagne's Cafe", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -1197,6 +1216,7 @@
       "7-0": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 322, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "sR9lSQiTuBg8zsIw9Zd-Dg", 
+    "business_name": "Camelback Village Racquet & Health Club", 
     "checkin_info": {
       "10-0": 12, 
       "10-1": 15, 
@@ -128,10 +129,12 @@
       "9-5": 90, 
       "9-6": 65
     }, 
+    "total_checkin": 4873, 
     "type": "checkin"
   }, 
   {
     "business_id": "tz7FNOyd0QY6f1vudq8Wlg", 
+    "business_name": "Gold's Gym Elite", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 25, 
@@ -265,10 +268,12 @@
       "9-5": 26, 
       "9-6": 20
     }, 
+    "total_checkin": 2386, 
     "type": "checkin"
   }, 
   {
     "business_id": "yRga-WpyfZRz8Es4OpyMhA", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 21, 
@@ -399,10 +404,12 @@
       "9-5": 40, 
       "9-6": 38
     }, 
+    "total_checkin": 2025, 
     "type": "checkin"
   }, 
   {
     "business_id": "P5S53mTS907bkym4kd7qFQ", 
+    "business_name": "Pure Barre Phoenix", 
     "checkin_info": {
       "10-0": 40, 
       "10-1": 9, 
@@ -507,10 +514,12 @@
       "9-5": 35, 
       "9-6": 20
     }, 
+    "total_checkin": 1943, 
     "type": "checkin"
   }, 
   {
     "business_id": "Dy8d1vPTTutHUaqfI5-8Lg", 
+    "business_name": "The Madison Improvement Club", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 3, 
@@ -612,10 +621,12 @@
       "9-5": 58, 
       "9-6": 49
     }, 
+    "total_checkin": 1937, 
     "type": "checkin"
   }, 
   {
     "business_id": "cPTTiNWQA8PFvba9iXzi-w", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "10-0": 15, 
       "10-1": 18, 
@@ -743,10 +754,12 @@
       "9-5": 19, 
       "9-6": 18
     }, 
+    "total_checkin": 1646, 
     "type": "checkin"
   }, 
   {
     "business_id": "5OQU8r5sWiwtBHqOIEqUdA", 
+    "business_name": "Orangetheory Fitness Arcadia", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -852,10 +865,12 @@
       "9-5": 39, 
       "9-6": 49
     }, 
+    "total_checkin": 1475, 
     "type": "checkin"
   }, 
   {
     "business_id": "xAWJunZXC52816iWyDLbNw", 
+    "business_name": "Youfit Health Clubs", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 11, 
@@ -986,10 +1001,12 @@
       "9-5": 14, 
       "9-6": 21
     }, 
+    "total_checkin": 1461, 
     "type": "checkin"
   }, 
   {
     "business_id": "bN2Gn_fZuSUhxvKUGrW3zw", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 6, 
@@ -1112,10 +1129,12 @@
       "9-5": 26, 
       "9-6": 13
     }, 
+    "total_checkin": 1458, 
     "type": "checkin"
   }, 
   {
     "business_id": "l812thCTj-pIi3-cMaSiCQ", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -1248,6 +1267,7 @@
       "9-5": 14, 
       "9-6": 31
     }, 
+    "total_checkin": 1429, 
     "type": "checkin"
   }
 ]

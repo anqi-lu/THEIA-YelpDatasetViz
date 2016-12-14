@@ -1,0 +1,144 @@
+[
+  {
+    "business_id": "5EsRuaqDdka8J2m2j8X9rg", 
+    "business_name": "A 1 Minute Key Service", 
+    "checkin_info": {
+      "14-0": 1, 
+      "14-5": 1, 
+      "15-0": 1, 
+      "15-6": 1, 
+      "17-0": 1, 
+      "17-5": 1, 
+      "18-5": 1, 
+      "18-6": 1, 
+      "19-6": 1, 
+      "21-3": 1, 
+      "22-1": 1, 
+      "8-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "y0_Yc9NS-nro-pDGKhiFjw", 
+    "business_name": "Alcatraz Locksmith", 
+    "checkin_info": {
+      "1-2": 1, 
+      "10-3": 1, 
+      "12-5": 1, 
+      "13-5": 1, 
+      "14-5": 1, 
+      "18-4": 1, 
+      "2-3": 1, 
+      "22-4": 1, 
+      "23-6": 1, 
+      "6-4": 1, 
+      "7-1": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "cB9fdS4INRNyKkgYY6Dkog", 
+    "business_name": "Anderson Lock & Safe", 
+    "checkin_info": {
+      "10-5": 1, 
+      "12-1": 1, 
+      "12-3": 1, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "14-4": 1, 
+      "15-0": 1, 
+      "15-2": 1, 
+      "16-1": 1, 
+      "9-0": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "nVAP0Q0x7XA3rlvWJBxI0w", 
+    "business_name": "ABC Lock & Safe", 
+    "checkin_info": {
+      "10-1": 2, 
+      "10-4": 1, 
+      "11-1": 1, 
+      "12-0": 1, 
+      "13-5": 1, 
+      "14-0": 1, 
+      "16-2": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "qjaYXh_Ets-GN0r7QQAK6g", 
+    "business_name": "Stagecoach Locksmiths", 
+    "checkin_info": {
+      "14-1": 2, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "14-4": 1, 
+      "15-0": 1, 
+      "19-2": 1, 
+      "9-2": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pQJCGbYDO1Q1XLAn3q19GQ", 
+    "business_name": "Lockaid USA", 
+    "checkin_info": {
+      "11-2": 1, 
+      "13-4": 1, 
+      "14-0": 1, 
+      "14-4": 1, 
+      "15-2": 1, 
+      "20-5": 1, 
+      "21-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ev8vAH833VRrhTKmj7ruSg", 
+    "business_name": "Downtown Locksmith", 
+    "checkin_info": {
+      "11-4": 1, 
+      "13-0": 1, 
+      "16-4": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "G_Ytz8gKasuDgfRPQ4LPDQ", 
+    "business_name": "Hicks Safe & Locks", 
+    "checkin_info": {
+      "10-0": 1, 
+      "13-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "FOinIKi1_4kB4ULy9kIM6g", 
+    "business_name": "Johnny Locksmith", 
+    "checkin_info": {
+      "13-6": 1, 
+      "20-2": 1, 
+      "22-3": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

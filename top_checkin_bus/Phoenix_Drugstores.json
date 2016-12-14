@@ -1,6 +1,7 @@
 [
   {
     "business_id": "VxnV1uMZURUQMNUaPdB8QA", 
+    "business_name": "Target", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 10, 
@@ -122,10 +123,12 @@
       "9-5": 23, 
       "9-6": 14
     }, 
+    "total_checkin": 1767, 
     "type": "checkin"
   }, 
   {
     "business_id": "7vviQbJwTqs8qXi-KwcXZA", 
+    "business_name": "Target", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 6, 
@@ -234,10 +237,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 982, 
     "type": "checkin"
   }, 
   {
     "business_id": "LWtoosGlzTOp8A73Jh7cQw", 
+    "business_name": "Fry's Food Stores", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -376,10 +381,12 @@
       "9-5": 18, 
       "9-6": 16
     }, 
+    "total_checkin": 951, 
     "type": "checkin"
   }, 
   {
     "business_id": "7Z7IkR_-94AjUuDw0fbI7g", 
+    "business_name": "Safeway", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 1, 
@@ -509,10 +516,12 @@
       "9-5": 5, 
       "9-6": 9
     }, 
+    "total_checkin": 897, 
     "type": "checkin"
   }, 
   {
     "business_id": "L7pERyEB70Vo_sb4T5dLrQ", 
+    "business_name": "Safeway", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -641,10 +650,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 792, 
     "type": "checkin"
   }, 
   {
     "business_id": "VK54dQNl1VlwtDxjTocxhA", 
+    "business_name": "Safeway", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 1, 
@@ -770,10 +781,12 @@
       "9-5": 12, 
       "9-6": 6
     }, 
+    "total_checkin": 782, 
     "type": "checkin"
   }, 
   {
     "business_id": "TKaRCDwEhJ_qdEy5qUvKmQ", 
+    "business_name": "Safeway", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 6, 
@@ -908,10 +921,12 @@
       "9-5": 6, 
       "9-6": 9
     }, 
+    "total_checkin": 713, 
     "type": "checkin"
   }, 
   {
     "business_id": "-8PVP-Pnv232xPOUgPrxmg", 
+    "business_name": "Target Stores", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -1018,10 +1033,12 @@
       "9-5": 10, 
       "9-6": 4
     }, 
+    "total_checkin": 509, 
     "type": "checkin"
   }, 
   {
     "business_id": "h-Ospc-uiMH8TLquTeAr3A", 
+    "business_name": "CVS/pharmacy", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 1, 
@@ -1167,10 +1184,12 @@
       "9-5": 7, 
       "9-6": 4
     }, 
+    "total_checkin": 461, 
     "type": "checkin"
   }, 
   {
     "business_id": "5hNN7abwwQwmMh7c7rHi6A", 
+    "business_name": "Fry's Food & Drug Stores", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -1293,6 +1312,7 @@
       "9-5": 5, 
       "9-6": 7
     }, 
+    "total_checkin": 456, 
     "type": "checkin"
   }
 ]

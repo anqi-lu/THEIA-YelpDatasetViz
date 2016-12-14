@@ -1,6 +1,7 @@
 [
   {
     "business_id": "y4Qyf4PPSOHdQFTr3Zi_KA", 
+    "business_name": "Red Rock Casino Resort & Spa", 
     "checkin_info": {
       "0-0": 33, 
       "0-1": 31, 
@@ -170,10 +171,12 @@
       "9-5": 72, 
       "9-6": 72
     }, 
+    "total_checkin": 11838, 
     "type": "checkin"
   }, 
   {
     "business_id": "WIlklz81DcJkUWJThbnJbQ", 
+    "business_name": "Vdara Hotel", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 18, 
@@ -344,10 +347,12 @@
       "9-5": 66, 
       "9-6": 57
     }, 
+    "total_checkin": 5758, 
     "type": "checkin"
   }, 
   {
     "business_id": "KpZLxHrp2PIP8tLBsPLiww", 
+    "business_name": "The Signature at MGM Grand", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 10, 
@@ -517,10 +522,12 @@
       "9-5": 30, 
       "9-6": 25
     }, 
+    "total_checkin": 2968, 
     "type": "checkin"
   }, 
   {
     "business_id": "Db75Zr2zrKyiWzVUPkG2OQ", 
+    "business_name": "Best Foot Spa", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -667,10 +674,12 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 2036, 
     "type": "checkin"
   }, 
   {
     "business_id": "EM4gmlsOVfXT4faEkp8IzQ", 
+    "business_name": "The Birthday Suit", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 2, 
@@ -778,10 +787,12 @@
       "9-5": 29, 
       "9-6": 8
     }, 
+    "total_checkin": 1567, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ytf0fFlRb0vB0YlFAvT3w", 
+    "business_name": "The Foot Spa", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -908,10 +919,12 @@
       "9-4": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 1533, 
     "type": "checkin"
   }, 
   {
     "business_id": "Zi-dpvV3879RgW_LeZ49uQ", 
+    "business_name": "CC Nail Spa", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -1001,10 +1014,12 @@
       "9-5": 9, 
       "9-6": 1
     }, 
+    "total_checkin": 1327, 
     "type": "checkin"
   }, 
   {
     "business_id": "PEKK0vIkERhRcw8VE-PxMA", 
+    "business_name": "EDGE Fitness 24/7 & Tanning", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 1, 
@@ -1153,10 +1168,12 @@
       "9-5": 31, 
       "9-6": 20
     }, 
+    "total_checkin": 1209, 
     "type": "checkin"
   }, 
   {
     "business_id": "7ujIaG-_RDrBC4739RncSA", 
+    "business_name": "Cherry Lash Lounge", 
     "checkin_info": {
       "0-4": 2, 
       "0-5": 1, 
@@ -1282,10 +1299,12 @@
       "9-5": 8, 
       "9-6": 5
     }, 
+    "total_checkin": 1122, 
     "type": "checkin"
   }, 
   {
     "business_id": "qcF6SHcGRML7gihfpNl_zA", 
+    "business_name": "Fabulous Eyebrow Threading", 
     "checkin_info": {
       "0-3": 1, 
       "1-1": 1, 
@@ -1388,6 +1407,7 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 1102, 
     "type": "checkin"
   }
 ]

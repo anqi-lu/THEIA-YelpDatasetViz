@@ -1,0 +1,18 @@
+[
+  {
+    "business_id": "L9JdSVhpalQr2zKuHeSDyQ", 
+    "business_name": "Doc Porter's Distillery", 
+    "checkin_info": {
+      "13-5": 2, 
+      "14-4": 1, 
+      "14-5": 1, 
+      "15-1": 1, 
+      "16-1": 4, 
+      "16-6": 1, 
+      "18-1": 1, 
+      "6-4": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }
+]

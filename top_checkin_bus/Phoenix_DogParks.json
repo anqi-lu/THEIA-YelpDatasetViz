@@ -1,6 +1,7 @@
 [
   {
     "business_id": "lQpdn4RvgG9vT5CHv3qj9w", 
+    "business_name": "Rose Mofford Sports Complex Dog Park", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 16, 
@@ -112,10 +113,12 @@
       "9-5": 11, 
       "9-6": 17
     }, 
+    "total_checkin": 662, 
     "type": "checkin"
   }, 
   {
     "business_id": "jPsSPQpDd_x1AFw6Ts4wKw", 
+    "business_name": "Grovers Basin Dog Park", 
     "checkin_info": {
       "10-2": 5, 
       "10-3": 3, 
@@ -224,10 +227,12 @@
       "9-5": 7, 
       "9-6": 7
     }, 
+    "total_checkin": 658, 
     "type": "checkin"
   }, 
   {
     "business_id": "_lanRtzQGRkbhd2b6pQleQ", 
+    "business_name": "Papago Park", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 8, 
@@ -346,10 +351,12 @@
       "9-5": 12, 
       "9-6": 11
     }, 
+    "total_checkin": 569, 
     "type": "checkin"
   }, 
   {
     "business_id": "DL_TRPudyWNgzWISXGBWOA", 
+    "business_name": "Steele Indian School Park Dog Park", 
     "checkin_info": {
       "1-5": 1, 
       "1-6": 1, 
@@ -440,10 +447,12 @@
       "9-5": 5, 
       "9-6": 7
     }, 
+    "total_checkin": 262, 
     "type": "checkin"
   }, 
   {
     "business_id": "omvfEh-Bhp1ZCfAkDGBp5A", 
+    "business_name": "Friends of Hance Dog Park", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -531,10 +540,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 234, 
     "type": "checkin"
   }, 
   {
     "business_id": "ldyS8f473wv4o9-AHO0ZIQ", 
+    "business_name": "RJ Dog Park at Pecos Park", 
     "checkin_info": {
       "0-4": 1, 
       "1-3": 1, 
@@ -623,10 +634,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 178, 
     "type": "checkin"
   }, 
   {
     "business_id": "AlspsoZqH1LGCIBgnCAEuQ", 
+    "business_name": "Cesar Chavez Park", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -699,10 +712,12 @@
       "9-5": 2, 
       "9-6": 5
     }, 
+    "total_checkin": 120, 
     "type": "checkin"
   }, 
   {
     "business_id": "eGj1NnvbIUVWgDYQWEOwQg", 
+    "business_name": "PetSmart Dog Park at Washington Park", 
     "checkin_info": {
       "10-3": 1, 
       "10-5": 2, 
@@ -759,10 +774,12 @@
       "9-2": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 88, 
     "type": "checkin"
   }, 
   {
     "business_id": "8Oxonp7rTTZt_J-ROoXgeg", 
+    "business_name": "Hance Dog Park", 
     "checkin_info": {
       "11-3": 1, 
       "11-6": 1, 
@@ -774,6 +791,7 @@
       "19-3": 1, 
       "20-0": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }
 ]

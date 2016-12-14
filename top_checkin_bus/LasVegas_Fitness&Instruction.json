@@ -1,6 +1,7 @@
 [
   {
     "business_id": "CsNOg-u_wCuXSt9Z-xU92Q", 
+    "business_name": "Las Vegas Athletic Club", 
     "checkin_info": {
       "0-0": 31, 
       "0-1": 68, 
@@ -171,10 +172,12 @@
       "9-5": 111, 
       "9-6": 99
     }, 
+    "total_checkin": 14267, 
     "type": "checkin"
   }, 
   {
     "business_id": "q0BDMSKAsBKpdt1AnFOeaQ", 
+    "business_name": "Las Vegas Athletic Club", 
     "checkin_info": {
       "0-0": 21, 
       "0-1": 18, 
@@ -345,10 +348,12 @@
       "9-5": 58, 
       "9-6": 46
     }, 
+    "total_checkin": 9636, 
     "type": "checkin"
   }, 
   {
     "business_id": "C7hN8QQUxC8uQk2YwiQ53A", 
+    "business_name": "Las Vegas Athletic Club", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 14, 
@@ -519,10 +524,12 @@
       "9-5": 62, 
       "9-6": 70
     }, 
+    "total_checkin": 7654, 
     "type": "checkin"
   }, 
   {
     "business_id": "bcjTnJvhHvuksE0HFyg_Zw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 10, 
@@ -693,10 +700,12 @@
       "9-5": 43, 
       "9-6": 48
     }, 
+    "total_checkin": 5232, 
     "type": "checkin"
   }, 
   {
     "business_id": "MMxGxPL4Jkhmkho9NAQbiw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 15, 
@@ -864,10 +873,12 @@
       "9-5": 30, 
       "9-6": 30
     }, 
+    "total_checkin": 3965, 
     "type": "checkin"
   }, 
   {
     "business_id": "JKlseDiOGiQ0B9BjXocW3w", 
+    "business_name": "Life Time Athletic", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 9, 
@@ -1032,10 +1043,12 @@
       "9-5": 75, 
       "9-6": 12
     }, 
+    "total_checkin": 3731, 
     "type": "checkin"
   }, 
   {
     "business_id": "P3TuI95fj6uf-v1puQrkGw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 7, 
@@ -1203,10 +1216,12 @@
       "9-5": 52, 
       "9-6": 86
     }, 
+    "total_checkin": 2849, 
     "type": "checkin"
   }, 
   {
     "business_id": "EYZQoAnbF0nT_xrBUqsgrQ", 
+    "business_name": "Las Vegas Athletic Club", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 9, 
@@ -1375,10 +1390,12 @@
       "9-5": 15, 
       "9-6": 10
     }, 
+    "total_checkin": 2739, 
     "type": "checkin"
   }, 
   {
     "business_id": "cED3wAMpqTJKJ05ixUTgiw", 
+    "business_name": "Planet Fitness - Las Vegas - Rainbow/215 Hwy", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 23, 
@@ -1543,10 +1560,12 @@
       "9-5": 20, 
       "9-6": 18
     }, 
+    "total_checkin": 2729, 
     "type": "checkin"
   }, 
   {
     "business_id": "axa4191R9VuMaGtyxrd77Q", 
+    "business_name": "Las Vegas Athletic Club", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 6, 
@@ -1707,6 +1726,7 @@
       "9-5": 10, 
       "9-6": 7
     }, 
+    "total_checkin": 2673, 
     "type": "checkin"
   }
 ]

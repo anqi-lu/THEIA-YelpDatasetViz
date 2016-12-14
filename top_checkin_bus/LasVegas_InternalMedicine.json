@@ -1,6 +1,7 @@
 [
   {
     "business_id": "LJV6DQ7NhJuZcSYaFsTqQQ", 
+    "business_name": "Fremont Medical Centers", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -60,10 +61,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "obK3SUnSwT_OaReGPJ9Thw", 
+    "business_name": "Constantine George, MD", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 7, 
@@ -97,10 +100,12 @@
       "9-2": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 72, 
     "type": "checkin"
   }, 
   {
     "business_id": "Gpx43ng1GJP9P-5WGzqeIQ", 
+    "business_name": "Diagnostic Center of Medicine", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -135,10 +140,12 @@
       "9-2": 4, 
       "9-3": 2
     }, 
+    "total_checkin": 49, 
     "type": "checkin"
   }, 
   {
     "business_id": "N9Kf6MS_dIq3t_ZNC4e07w", 
+    "business_name": "Diagnostic Center of Medicine", 
     "checkin_info": {
       "10-3": 2, 
       "10-4": 1, 
@@ -167,10 +174,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 40, 
     "type": "checkin"
   }, 
   {
     "business_id": "oKxLsMO0j1vJI8xMWdGYvg", 
+    "business_name": "CareMore Medical Group Of Nevada", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -195,10 +204,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 34, 
     "type": "checkin"
   }, 
   {
     "business_id": "mTDsvY5m8tgCeYbVaQspFA", 
+    "business_name": "Internal Medicine Specialists", 
     "checkin_info": {
       "10-0": 2, 
       "10-3": 5, 
@@ -215,10 +226,12 @@
       "9-2": 1, 
       "9-3": 7
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "sPuviif2A4RRnAVnHptzsQ", 
+    "business_name": "Chaney Naomi MD", 
     "checkin_info": {
       "0-6": 1, 
       "10-4": 5, 
@@ -238,10 +251,12 @@
       "9-3": 1, 
       "9-4": 4
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }, 
   {
     "business_id": "037Nr9p0OiWrC467S9u9eg", 
+    "business_name": "Internal Medicine Specialists of Southern Nevada", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -261,10 +276,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }, 
   {
     "business_id": "4jsZpB_vs3xW61tmB_Ovmg", 
+    "business_name": "Calderon Medical Group", 
     "checkin_info": {
       "10-2": 1, 
       "11-3": 1, 
@@ -284,10 +301,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 22, 
     "type": "checkin"
   }, 
   {
     "business_id": "WKetFuaCwACWElzx6ZkvfQ", 
+    "business_name": "Creative Health Solutions", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -305,6 +324,7 @@
       "7-5": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 21, 
     "type": "checkin"
   }
 ]

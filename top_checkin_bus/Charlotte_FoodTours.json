@@ -1,0 +1,13 @@
+[
+  {
+    "business_id": "5NtQ-AGnoXow3F3tRXREOA", 
+    "business_name": "Feast Food Tours & Culinary Events", 
+    "checkin_info": {
+      "13-5": 1, 
+      "18-4": 1, 
+      "8-5": 2
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

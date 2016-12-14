@@ -1,6 +1,7 @@
 [
   {
     "business_id": "-KDCNt72VIuhV1rSUlF-eg", 
+    "business_name": "Southwest Airlines", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -160,10 +161,12 @@
       "9-5": 71, 
       "9-6": 97
     }, 
+    "total_checkin": 8102, 
     "type": "checkin"
   }, 
   {
     "business_id": "wn-o3DMFUeId6pZie2gs7w", 
+    "business_name": "Virgin America", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -300,10 +303,12 @@
       "9-5": 7, 
       "9-6": 12
     }, 
+    "total_checkin": 1052, 
     "type": "checkin"
   }, 
   {
     "business_id": "HPDPVWggWq3m49oOLw8IDA", 
+    "business_name": "United Airlines", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -455,10 +460,12 @@
       "9-5": 3, 
       "9-6": 14
     }, 
+    "total_checkin": 699, 
     "type": "checkin"
   }, 
   {
     "business_id": "JZs2UccHM68IK_YLuPRRDA", 
+    "business_name": "JetBlue", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 3, 
@@ -598,10 +605,12 @@
       "9-5": 14, 
       "9-6": 8
     }, 
+    "total_checkin": 683, 
     "type": "checkin"
   }, 
   {
     "business_id": "GhQQsSApIRfUmIcqzmSaGA", 
+    "business_name": "Spirit Airlines", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -741,10 +750,12 @@
       "9-5": 7, 
       "9-6": 6
     }, 
+    "total_checkin": 677, 
     "type": "checkin"
   }, 
   {
     "business_id": "XG7izXBfvxrZNtjgQWA8tA", 
+    "business_name": "Delta Air Lines", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -888,10 +899,12 @@
       "9-5": 9, 
       "9-6": 5
     }, 
+    "total_checkin": 565, 
     "type": "checkin"
   }, 
   {
     "business_id": "pDEg2bhby0RENvkywXvH5A", 
+    "business_name": "US Airways", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -1030,10 +1043,12 @@
       "9-5": 4, 
       "9-6": 4
     }, 
+    "total_checkin": 503, 
     "type": "checkin"
   }, 
   {
     "business_id": "I2qlGl0a9ZICt7cyfPf3jQ", 
+    "business_name": "American Airlines", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1173,10 +1188,12 @@
       "9-5": 6, 
       "9-6": 5
     }, 
+    "total_checkin": 472, 
     "type": "checkin"
   }, 
   {
     "business_id": "XhnrcZz4DNviBPOMFv4njw", 
+    "business_name": "Hawaiian Airlines", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 11, 
@@ -1276,10 +1293,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 381, 
     "type": "checkin"
   }, 
   {
     "business_id": "JmDaVXGl_0IQl8sOat8ysA", 
+    "business_name": "Alaska Airlines", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 4, 
@@ -1388,6 +1407,7 @@
       "9-4": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 283, 
     "type": "checkin"
   }
 ]

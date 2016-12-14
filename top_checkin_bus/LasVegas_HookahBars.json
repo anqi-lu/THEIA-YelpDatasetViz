@@ -1,6 +1,7 @@
 [
   {
     "business_id": "n9He4HN_Ce06riRiyzFJ4w", 
+    "business_name": "Hookah Master's Lounge", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 9, 
@@ -149,10 +150,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1861, 
     "type": "checkin"
   }, 
   {
     "business_id": "gs-3cqCnK_R4R_ApBaRhYw", 
+    "business_name": "Rhumbar", 
     "checkin_info": {
       "0-0": 8, 
       "0-2": 4, 
@@ -272,10 +275,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1044, 
     "type": "checkin"
   }, 
   {
     "business_id": "eiYDLEWkGY6df3sb1z6evw", 
+    "business_name": "Luna Lounge", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 14, 
@@ -398,10 +403,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 986, 
     "type": "checkin"
   }, 
   {
     "business_id": "iAmIyYVuQ8rDfbM-serqHA", 
+    "business_name": "The Olive Mediterranean Grill", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 2, 
@@ -499,10 +506,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 689, 
     "type": "checkin"
   }, 
   {
     "business_id": "3ovqR1z7Imm7uY41m8_iIQ", 
+    "business_name": "Azuza Hookah Lounge & Cafe", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 8, 
@@ -606,10 +615,12 @@
       "7-5": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 646, 
     "type": "checkin"
   }, 
   {
     "business_id": "xE9-TVvDM9qp_eh0oGCpTA", 
+    "business_name": "Oracle Nightclub", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 1, 
@@ -690,10 +701,12 @@
       "8-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 583, 
     "type": "checkin"
   }, 
   {
     "business_id": "sJpv6MouGQhQOt0V0W0UYw", 
+    "business_name": "Layla Grill & Hookah", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 8, 
@@ -803,10 +816,12 @@
       "7-1": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 457, 
     "type": "checkin"
   }, 
   {
     "business_id": "3rJffDiEpgSMXesNUjCdLw", 
+    "business_name": "Blaqcat Ultra Hookah Lounge", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 9, 
@@ -894,10 +909,12 @@
       "4-0": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 455, 
     "type": "checkin"
   }, 
   {
     "business_id": "1pfZv9dYlV7roNhcp7_PJw", 
+    "business_name": "Starbuzz Vegas Hookah Lounge", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 7, 
@@ -978,10 +995,12 @@
       "3-6": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 420, 
     "type": "checkin"
   }, 
   {
     "business_id": "ne44CkXiTPRCx0UQrP4AsQ", 
+    "business_name": "Sitara Hookah Lounge", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 5, 
@@ -1037,6 +1056,7 @@
       "23-6": 2, 
       "4-4": 1
     }, 
+    "total_checkin": 225, 
     "type": "checkin"
   }
 ]

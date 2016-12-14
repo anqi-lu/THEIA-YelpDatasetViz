@@ -1,6 +1,7 @@
 [
   {
     "business_id": "adv1-kA6k2N4L-e4zULuNg", 
+    "business_name": "Fremont Street Experience", 
     "checkin_info": {
       "0-0": 34, 
       "0-1": 20, 
@@ -170,10 +171,12 @@
       "9-5": 25, 
       "9-6": 15
     }, 
+    "total_checkin": 6908, 
     "type": "checkin"
   }, 
   {
     "business_id": "j_pce4pG9krrBeYwUni8Pg", 
+    "business_name": "Yard House Town Square", 
     "checkin_info": {
       "0-0": 35, 
       "0-1": 32, 
@@ -302,10 +305,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 6465, 
     "type": "checkin"
   }, 
   {
     "business_id": "SsTxjxo8qvqBMvan1rzNzg", 
+    "business_name": "The Peppermill Restaurant & Fireside Lounge", 
     "checkin_info": {
       "0-0": 34, 
       "0-1": 28, 
@@ -476,10 +481,12 @@
       "9-5": 95, 
       "9-6": 90
     }, 
+    "total_checkin": 6322, 
     "type": "checkin"
   }, 
   {
     "business_id": "r1YB-iVpNM8oP2eEqyaVbg", 
+    "business_name": "El Dorado Cantina", 
     "checkin_info": {
       "0-0": 21, 
       "0-1": 22, 
@@ -644,10 +651,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 6115, 
     "type": "checkin"
   }, 
   {
     "business_id": "HyfFenprdpIA4rmKu6DW3g", 
+    "business_name": "Oyster Bar", 
     "checkin_info": {
       "0-0": 43, 
       "0-1": 29, 
@@ -818,10 +827,12 @@
       "9-5": 30, 
       "9-6": 39
     }, 
+    "total_checkin": 5437, 
     "type": "checkin"
   }, 
   {
     "business_id": "vSf0pqvaLp5sVSjJPeOqqQ", 
+    "business_name": "Todd English P.U.B.", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 5, 
@@ -961,10 +972,12 @@
       "9-5": 6, 
       "9-6": 12
     }, 
+    "total_checkin": 4741, 
     "type": "checkin"
   }, 
   {
     "business_id": "OoeTGTkxvSZqqicZ8ljJjw", 
+    "business_name": "Hakkasan Nightclub", 
     "checkin_info": {
       "0-0": 156, 
       "0-1": 9, 
@@ -1112,10 +1125,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 4413, 
     "type": "checkin"
   }, 
   {
     "business_id": "nrtQ1MbahiNDSRn5CyA-Sw", 
+    "business_name": "The Chandelier", 
     "checkin_info": {
       "0-0": 74, 
       "0-1": 27, 
@@ -1281,10 +1296,12 @@
       "9-5": 3, 
       "9-6": 6
     }, 
+    "total_checkin": 4335, 
     "type": "checkin"
   }, 
   {
     "business_id": "6IRoWd6N__OVMNQfvu1Ccw", 
+    "business_name": "Yard House Red Rock Resort", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -1407,10 +1424,12 @@
       "9-3": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 4258, 
     "type": "checkin"
   }, 
   {
     "business_id": "xyTJYlbE_MLouK6rCou6zg", 
+    "business_name": "Burger Bar", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1541,6 +1560,7 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 4080, 
     "type": "checkin"
   }
 ]

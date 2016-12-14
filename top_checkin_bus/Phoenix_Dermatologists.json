@@ -1,6 +1,7 @@
 [
   {
     "business_id": "lIADD0TqUw7UBEAD-6XbBw", 
+    "business_name": "Camelback Health Care", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -55,10 +56,12 @@
       "9-3": 4, 
       "9-4": 1
     }, 
+    "total_checkin": 126, 
     "type": "checkin"
   }, 
   {
     "business_id": "1_ksgP_VSwFx0yBUAV3T4A", 
+    "business_name": "Phoenix Skin Medical Surgical Group", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -92,10 +95,12 @@
       "9-1": 3, 
       "9-3": 3
     }, 
+    "total_checkin": 77, 
     "type": "checkin"
   }, 
   {
     "business_id": "q5hqzMWNklZrOb_av8HPTw", 
+    "business_name": "Derma Aura", 
     "checkin_info": {
       "10-0": 3, 
       "10-3": 1, 
@@ -119,10 +124,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 40, 
     "type": "checkin"
   }, 
   {
     "business_id": "tGTw5eeAwLmaSFKLVasb7w", 
+    "business_name": "Camelback Dermatology & Skin Surgery", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -145,10 +152,12 @@
       "9-1": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "ILR7O-7tbfcLTlUume3vGQ", 
+    "business_name": "Ahwatukee Skin and Laser", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -168,10 +177,12 @@
       "8-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 21, 
     "type": "checkin"
   }, 
   {
     "business_id": "8GCl8kn9Nt8ifp2jdEemdw", 
+    "business_name": "Stockton Dermatology", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -191,10 +202,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "EhjHFxhcmlIa8cWax-l9xg", 
+    "business_name": "Southwest Skin Specialists", 
     "checkin_info": {
       "11-4": 1, 
       "12-0": 2, 
@@ -210,10 +223,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "usloqnO8zBW8m1s9q9TT0Q", 
+    "business_name": "Paul English, MD", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -229,10 +244,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "JrwDhgonxbXqwZ_Jn0YXyQ", 
+    "business_name": "Spectrum Dermatology Arcadia", 
     "checkin_info": {
       "10-0": 2, 
       "11-3": 1, 
@@ -245,10 +262,12 @@
       "9-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "GQuUFerQlnyRoOGdA63EKA", 
+    "business_name": "Omni Dermatology Corporation", 
     "checkin_info": {
       "11-1": 1, 
       "12-0": 1, 
@@ -262,6 +281,7 @@
       "7-3": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }
 ]

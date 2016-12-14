@@ -1,6 +1,7 @@
 [
   {
     "business_id": "FSK_pCLBx0juu9yQIEQArw", 
+    "business_name": "Procare Medical Center", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 2, 
@@ -85,10 +86,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 262, 
     "type": "checkin"
   }, 
   {
     "business_id": "i2enuXSmvcpA6h3e59Imbw", 
+    "business_name": "Concentra Urgent Care - Las Vegas Polaris", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -193,10 +196,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 187, 
     "type": "checkin"
   }, 
   {
     "business_id": "FLEgS3ljM7Wy9mxtA9BS4w", 
+    "business_name": "UMC Quick Care - Peccole Ranch", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -261,10 +266,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 102, 
     "type": "checkin"
   }, 
   {
     "business_id": "YWAc-nMsUw6suELTjmYGiA", 
+    "business_name": "Urgent Care Extra", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -321,10 +328,12 @@
       "9-2": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 84, 
     "type": "checkin"
   }, 
   {
     "business_id": "P4DFt08-0d9uvsjh6oDh8w", 
+    "business_name": "UMC Quick Care - Spring Valley", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 4, 
@@ -376,10 +385,12 @@
       "9-3": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 83, 
     "type": "checkin"
   }, 
   {
     "business_id": "AaTQEcN3Tt9tspQoPDVpMg", 
+    "business_name": "Las Vegas Urgent Care", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -424,10 +435,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 70, 
     "type": "checkin"
   }, 
   {
     "business_id": "_jvevtzOritUu8ihwnToIA", 
+    "business_name": "Urgent Care Extra", 
     "checkin_info": {
       "10-3": 3, 
       "10-5": 2, 
@@ -474,10 +487,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 62, 
     "type": "checkin"
   }, 
   {
     "business_id": "M9iAeKY3TH-aGOYfi3Kdgw", 
+    "business_name": "UMC Quick Care - Summerlin", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -520,10 +535,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "oCGjD7Y69Os4QL-aW-HuNg", 
+    "business_name": "Healthcare Partner", 
     "checkin_info": {
       "1-6": 1, 
       "10-2": 2, 
@@ -560,10 +577,12 @@
       "8-5": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "HX2_vmsgen7zlpe225NU5A", 
+    "business_name": "Urgent Care Extra", 
     "checkin_info": {
       "10-0": 1, 
       "11-1": 1, 
@@ -598,6 +617,7 @@
       "9-1": 1, 
       "9-2": 2
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }
 ]

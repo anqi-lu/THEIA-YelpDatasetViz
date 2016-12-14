@@ -1,6 +1,7 @@
 [
   {
     "business_id": "iRkmwaLjMRNmWztxHdUtUg", 
+    "business_name": "Sunset Park", 
     "checkin_info": {
       "0-5": 2, 
       "0-6": 2, 
@@ -137,10 +138,12 @@
       "9-5": 33, 
       "9-6": 20
     }, 
+    "total_checkin": 2007, 
     "type": "checkin"
   }, 
   {
     "business_id": "imTJSiPVtrLXfp8ALQNXBQ", 
+    "business_name": "Horseman & Dog Fancier's Park", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 7, 
@@ -257,10 +260,12 @@
       "9-5": 7, 
       "9-6": 8
     }, 
+    "total_checkin": 493, 
     "type": "checkin"
   }, 
   {
     "business_id": "haYsVL9A0sS_PKt2R5FTRw", 
+    "business_name": "Sunset Park Dog Park", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 3, 
@@ -364,10 +369,12 @@
       "9-5": 3, 
       "9-6": 6
     }, 
+    "total_checkin": 443, 
     "type": "checkin"
   }, 
   {
     "business_id": "FoiZ2TliuRGnItieGjdiow", 
+    "business_name": "Barkin' Basin Dog Park", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -497,10 +504,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 440, 
     "type": "checkin"
   }, 
   {
     "business_id": "ls9fzjfcfjnbuQ0TkVj1fA", 
+    "business_name": "Spring Valley Community Park", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 1, 
@@ -602,10 +611,12 @@
       "9-5": 7, 
       "9-6": 3
     }, 
+    "total_checkin": 428, 
     "type": "checkin"
   }, 
   {
     "business_id": "BBpdYFljzkjUL2rjQy5F1g", 
+    "business_name": "Charlie Frias Park", 
     "checkin_info": {
       "0-4": 2, 
       "1-3": 1, 
@@ -725,10 +736,12 @@
       "9-5": 5, 
       "9-6": 4
     }, 
+    "total_checkin": 393, 
     "type": "checkin"
   }, 
   {
     "business_id": "VuWawKRjTovBxM8_jVF0Ow", 
+    "business_name": "Kellogg Zaher Dog Park", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 4, 
@@ -833,10 +846,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 380, 
     "type": "checkin"
   }, 
   {
     "business_id": "7W0rtsbu6DNECkAbAbbfxw", 
+    "business_name": "Knickerbocker Park", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -954,10 +969,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 306, 
     "type": "checkin"
   }, 
   {
     "business_id": "LTnjfBeOyoCBvjDxbF7dGA", 
+    "business_name": "Western Trails", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1063,10 +1080,12 @@
       "9-4": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 227, 
     "type": "checkin"
   }, 
   {
     "business_id": "5wIaxV_-xzbFSAjOt8ptRA", 
+    "business_name": "All American Park", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 1, 
@@ -1155,6 +1174,7 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }
 ]

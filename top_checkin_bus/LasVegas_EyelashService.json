@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7ujIaG-_RDrBC4739RncSA", 
+    "business_name": "Cherry Lash Lounge", 
     "checkin_info": {
       "0-4": 2, 
       "0-5": 1, 
@@ -126,10 +127,12 @@
       "9-5": 8, 
       "9-6": 5
     }, 
+    "total_checkin": 1122, 
     "type": "checkin"
   }, 
   {
     "business_id": "QkakO2FKDbhisQmdeEV8gw", 
+    "business_name": "Divine Threading", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 8, 
@@ -225,10 +228,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 855, 
     "type": "checkin"
   }, 
   {
     "business_id": "EUeNB6nu1E8AZMT2X4l-Uw", 
+    "business_name": "Nailed and Lashed", 
     "checkin_info": {
       "0-4": 1, 
       "1-6": 1, 
@@ -323,10 +328,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 449, 
     "type": "checkin"
   }, 
   {
     "business_id": "rXxoHGbC_oOIIVenlAr63A", 
+    "business_name": "Diya Eyebrow Threading", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 5, 
@@ -405,10 +412,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 386, 
     "type": "checkin"
   }, 
   {
     "business_id": "XAWDT6cv5aADi-TG2rKyFw", 
+    "business_name": "Professor Nails & Spa", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 3, 
@@ -489,10 +498,12 @@
       "9-4": 2, 
       "9-5": 5
     }, 
+    "total_checkin": 356, 
     "type": "checkin"
   }, 
   {
     "business_id": "5345hAizq8oLRJlXHqSScA", 
+    "business_name": "Pop Lash & Nails", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -578,10 +589,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 320, 
     "type": "checkin"
   }, 
   {
     "business_id": "Km6yIS2QcOKjdbIqYMoHBw", 
+    "business_name": "My Pedi Nails & Spa", 
     "checkin_info": {
       "0-2": 1, 
       "1-0": 1, 
@@ -665,10 +678,12 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 316, 
     "type": "checkin"
   }, 
   {
     "business_id": "wuMno2zM6nxLinBZ0ug03g", 
+    "business_name": "Candy Nails Spa", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -741,10 +756,12 @@
       "9-4": 7, 
       "9-5": 9
     }, 
+    "total_checkin": 281, 
     "type": "checkin"
   }, 
   {
     "business_id": "1qz9hDBtEPyvUlbMq5gacg", 
+    "business_name": "Miki Nail Bar", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -818,10 +835,12 @@
       "9-3": 1, 
       "9-5": 6
     }, 
+    "total_checkin": 274, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZEV4C2QAnjQZb3fQ4M0fBA", 
+    "business_name": "Divine Threading West Sahara", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 3, 
@@ -894,6 +913,7 @@
       "23-2": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 258, 
     "type": "checkin"
   }
 ]

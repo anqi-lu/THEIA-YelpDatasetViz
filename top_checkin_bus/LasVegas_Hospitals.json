@@ -1,6 +1,7 @@
 [
   {
     "business_id": "mBGzE7gsSwsnVSAhsdvSJQ", 
+    "business_name": "Sunrise Hospital & Medical Center", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -160,10 +161,12 @@
       "9-5": 4, 
       "9-6": 4
     }, 
+    "total_checkin": 913, 
     "type": "checkin"
   }, 
   {
     "business_id": "YWIDquDD5n7L7VWD6D4mig", 
+    "business_name": "MountainView Hospital", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -319,10 +322,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 863, 
     "type": "checkin"
   }, 
   {
     "business_id": "d-S7YIbeKqUAuspIoOedmQ", 
+    "business_name": "Southern Hills Hospital and Medical Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -470,10 +475,12 @@
       "9-5": 6, 
       "9-6": 1
     }, 
+    "total_checkin": 702, 
     "type": "checkin"
   }, 
   {
     "business_id": "9hVzaBp2yjSWX04GGA0Yqw", 
+    "business_name": "Mike O'Callaghan Federal Medical Center - Nellis AFB", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 7, 
@@ -581,10 +588,12 @@
       "9-4": 14, 
       "9-6": 1
     }, 
+    "total_checkin": 638, 
     "type": "checkin"
   }, 
   {
     "business_id": "5FTEU6KCvMeZyuqkbLAWtw", 
+    "business_name": "St. Rose Dominican Hospitals - San Martin Campus", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -726,10 +735,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 504, 
     "type": "checkin"
   }, 
   {
     "business_id": "Wl9ism5uR8mhrV0aaxzg8w", 
+    "business_name": "Centennial Hills Hospital Medical Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -864,10 +875,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 407, 
     "type": "checkin"
   }, 
   {
     "business_id": "UNrrAT8kMHRbWRwoUZXAyg", 
+    "business_name": "Desert Springs Hospital Medical Center", 
     "checkin_info": {
       "0-1": 3, 
       "0-2": 4, 
@@ -997,10 +1010,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 351, 
     "type": "checkin"
   }, 
   {
     "business_id": "brRLTlAA3Y_KW4paeN7wYA", 
+    "business_name": "UMC Trauma Center", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -1068,10 +1083,12 @@
       "9-2": 7, 
       "9-5": 3
     }, 
+    "total_checkin": 112, 
     "type": "checkin"
   }, 
   {
     "business_id": "dCQgoWBmRPxUL0624yIdzg", 
+    "business_name": "Sunrise Children's Hospital", 
     "checkin_info": {
       "0-1": 1, 
       "10-2": 1, 
@@ -1143,10 +1160,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 111, 
     "type": "checkin"
   }, 
   {
     "business_id": "DnG1YSxm5VhOIOCb5Lgfgw", 
+    "business_name": "HealthSouth Rehabilitation Hospital of Las Vegas", 
     "checkin_info": {
       "10-2": 3, 
       "10-3": 2, 
@@ -1206,6 +1225,7 @@
       "8-6": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 109, 
     "type": "checkin"
   }
 ]

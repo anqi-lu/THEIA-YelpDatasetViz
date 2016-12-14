@@ -1,6 +1,7 @@
 [
   {
     "business_id": "0QaG1HETVFRRZJNiCgQRNQ", 
+    "business_name": "Gondola Ride at the Venetian", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 1, 
@@ -113,10 +114,12 @@
       "9-4": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 404, 
     "type": "checkin"
   }, 
   {
     "business_id": "qUgFAYILw921-bEKV_iArw", 
+    "business_name": "Maverick Helicopters", 
     "checkin_info": {
       "0-1": 1, 
       "1-3": 1, 
@@ -226,10 +229,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 277, 
     "type": "checkin"
   }, 
   {
     "business_id": "w_S8lPctPeol2uV5qo3m0Q", 
+    "business_name": "Mcghie's Ski, Bike & Board", 
     "checkin_info": {
       "10-2": 3, 
       "10-4": 2, 
@@ -300,10 +305,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 186, 
     "type": "checkin"
   }, 
   {
     "business_id": "GmDvLLJRjuStWeHuvkgSqg", 
+    "business_name": "Rick's Restorations", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 3, 
@@ -368,10 +375,12 @@
       "9-2": 2, 
       "9-3": 2
     }, 
+    "total_checkin": 170, 
     "type": "checkin"
   }, 
   {
     "business_id": "7-QPxPWR5hEmqfJ_9AJ99g", 
+    "business_name": "Zappos Tour Experience", 
     "checkin_info": {
       "0-1": 1, 
       "1-6": 1, 
@@ -434,10 +443,12 @@
       "9-3": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 129, 
     "type": "checkin"
   }, 
   {
     "business_id": "7vs9_Z9_m6Ko9soSivY9bQ", 
+    "business_name": "Sundance Helicopters", 
     "checkin_info": {
       "1-3": 1, 
       "10-0": 4, 
@@ -511,10 +522,12 @@
       "9-0": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 116, 
     "type": "checkin"
   }, 
   {
     "business_id": "upmnxJvYe5aOYE9wVNkGaw", 
+    "business_name": "Presidential Limousine", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -571,10 +584,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 104, 
     "type": "checkin"
   }, 
   {
     "business_id": "BoTqCA4HAYwl0NRhoP6cqw", 
+    "business_name": "Sin City Club Crawl", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -628,10 +643,12 @@
       "9-3": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 72, 
     "type": "checkin"
   }, 
   {
     "business_id": "26ecLqpDHrB3socZGfDuhQ", 
+    "business_name": "Showtime Tours", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -684,10 +701,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 68, 
     "type": "checkin"
   }, 
   {
     "business_id": "7WOe9Gj5vbdjimK0lSuQaw", 
+    "business_name": "702 Helicopter", 
     "checkin_info": {
       "0-5": 1, 
       "10-1": 1, 
@@ -732,6 +751,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 55, 
     "type": "checkin"
   }
 ]

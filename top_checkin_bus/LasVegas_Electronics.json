@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AAc1_oMz2mYbfBbhFcRxFQ", 
+    "business_name": "Fry's", 
     "checkin_info": {
       "0-3": 1, 
       "1-0": 2, 
@@ -125,10 +126,12 @@
       "9-5": 20, 
       "9-6": 11
     }, 
+    "total_checkin": 2824, 
     "type": "checkin"
   }, 
   {
     "business_id": "BMnG5WBW1UyyjrzTYbF0Tw", 
+    "business_name": "Best Buy - SW Las Vegas", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -240,10 +243,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 1098, 
     "type": "checkin"
   }, 
   {
     "business_id": "1IN5FXxw8GIC1aruX9c1_w", 
+    "business_name": "Best Buy", 
     "checkin_info": {
       "0-4": 1, 
       "1-1": 1, 
@@ -355,10 +360,12 @@
       "9-5": 12, 
       "9-6": 8
     }, 
+    "total_checkin": 551, 
     "type": "checkin"
   }, 
   {
     "business_id": "SEgEwPLfFJgqEoiJHP5bLg", 
+    "business_name": "Verizon", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -413,10 +420,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 80, 
     "type": "checkin"
   }, 
   {
     "business_id": "vx_tBhmrdlorJ6WvbrEgFw", 
+    "business_name": "Microsoft Store", 
     "checkin_info": {
       "10-0": 1, 
       "10-5": 3, 
@@ -466,10 +475,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 73, 
     "type": "checkin"
   }, 
   {
     "business_id": "tHhHTTZwxLiMCPEpuewiRg", 
+    "business_name": "Vertu", 
     "checkin_info": {
       "0-2": 1, 
       "10-4": 1, 
@@ -520,10 +531,12 @@
       "9-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 68, 
     "type": "checkin"
   }, 
   {
     "business_id": "0f5fk8F-kFXlQ3nWsQqWdg", 
+    "business_name": "Verizon", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -567,10 +580,12 @@
       "2-4": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 58, 
     "type": "checkin"
   }, 
   {
     "business_id": "YQVJnHhbgmr2vQEnmzc5Kg", 
+    "business_name": "Sprint Store", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -605,10 +620,12 @@
       "18-3": 3, 
       "19-4": 1
     }, 
+    "total_checkin": 50, 
     "type": "checkin"
   }, 
   {
     "business_id": "z3T-zA3v1eJ8v7j3RWCCXA", 
+    "business_name": "Brookstone", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -647,10 +664,12 @@
       "21-3": 1, 
       "5-6": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "TQajm0rdu_VtDqR0LU9uvA", 
+    "business_name": "Verizon", 
     "checkin_info": {
       "10-3": 1, 
       "11-1": 1, 
@@ -679,6 +698,7 @@
       "19-2": 1, 
       "19-5": 1
     }, 
+    "total_checkin": 40, 
     "type": "checkin"
   }
 ]

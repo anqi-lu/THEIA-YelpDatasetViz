@@ -1,6 +1,7 @@
 [
   {
     "business_id": "I1FRsqEw78xUR2gZBheHOQ", 
+    "business_name": "Fukuburger Truck", 
     "checkin_info": {
       "0-0": 4, 
       "0-2": 2, 
@@ -112,10 +113,12 @@
       "6-5": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 839, 
     "type": "checkin"
   }, 
   {
     "business_id": "LnCbpxipUrA165zvfaePGw", 
+    "business_name": "Slidin' Thru", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -227,10 +230,12 @@
       "9-4": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 795, 
     "type": "checkin"
   }, 
   {
     "business_id": "VW8ljqxXd1CZ5pdSxQzmsQ", 
+    "business_name": "Las Vegas Foodie Fest - Silverton Casino", 
     "checkin_info": {
       "0-5": 1, 
       "1-2": 1, 
@@ -294,10 +299,12 @@
       "8-0": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 649, 
     "type": "checkin"
   }, 
   {
     "business_id": "fmd5fMiBxiqnMm6UhpmxeA", 
+    "business_name": "Dragon Grille", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -378,10 +385,12 @@
       "9-0": 1, 
       "9-2": 2
     }, 
+    "total_checkin": 150, 
     "type": "checkin"
   }, 
   {
     "business_id": "_qr-o4j4a_9OMIWhmaZqVA", 
+    "business_name": "Taqueria La Casa Del Pastor", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 5, 
@@ -420,10 +429,12 @@
       "23-5": 8, 
       "23-6": 5
     }, 
+    "total_checkin": 131, 
     "type": "checkin"
   }, 
   {
     "business_id": "svq8Q7bN4TkfDnTgVkSVWQ", 
+    "business_name": "Purple Penguin Snowcone Shack", 
     "checkin_info": {
       "11-5": 1, 
       "12-0": 2, 
@@ -480,10 +491,12 @@
       "23-4": 1, 
       "3-6": 1
     }, 
+    "total_checkin": 123, 
     "type": "checkin"
   }, 
   {
     "business_id": "Xf4tL5KAtoGoQ_TDSzMTrw", 
+    "business_name": "Curbside Cafe", 
     "checkin_info": {
       "0-1": 1, 
       "0-5": 1, 
@@ -543,10 +556,12 @@
       "7-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 114, 
     "type": "checkin"
   }, 
   {
     "business_id": "WWDHBppRDnU_rNGH-tI1xA", 
+    "business_name": "Tacos La Carreta", 
     "checkin_info": {
       "0-0": 3, 
       "0-2": 1, 
@@ -586,10 +601,12 @@
       "23-6": 6, 
       "4-5": 1
     }, 
+    "total_checkin": 97, 
     "type": "checkin"
   }, 
   {
     "business_id": "BkJNRWjqsoLDXuuchBlDWA", 
+    "business_name": "The Cookie Bar", 
     "checkin_info": {
       "10-2": 1, 
       "11-1": 2, 
@@ -634,10 +651,12 @@
       "9-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 85, 
     "type": "checkin"
   }, 
   {
     "business_id": "NmEXZjVH9Mq0Vy63hSDMDA", 
+    "business_name": "Sinaloa", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 3, 
@@ -672,6 +691,7 @@
       "23-5": 3, 
       "23-6": 1
     }, 
+    "total_checkin": 79, 
     "type": "checkin"
   }
 ]

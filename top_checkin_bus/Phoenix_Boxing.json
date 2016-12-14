@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ryAw5JuwvtuAQsLn3Ojr5A", 
+    "business_name": "Title Boxing Club", 
     "checkin_info": {
       "10-5": 1, 
       "12-5": 1, 
@@ -28,10 +29,12 @@
       "8-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 47, 
     "type": "checkin"
   }, 
   {
     "business_id": "-jukd8pliJDVMgtbgsoxgQ", 
+    "business_name": "TITLE Boxing Club Ahwatukee", 
     "checkin_info": {
       "10-0": 2, 
       "10-3": 2, 
@@ -62,10 +65,12 @@
       "9-2": 3, 
       "9-3": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "CxUmDKNO0sw-QKdYa5ykcA", 
+    "business_name": "Knockout Fitness", 
     "checkin_info": {
       "10-0": 1, 
       "11-4": 2, 
@@ -95,10 +100,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "DcOjJOIY0mG5Ng_0B0mgjg", 
+    "business_name": "Amenzone Fitness", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -120,10 +127,12 @@
       "8-1": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ss-Q3p9QdkGqDlpPkRTqlQ", 
+    "business_name": "UFC GYM Glendale", 
     "checkin_info": {
       "10-2": 1, 
       "10-6": 1, 
@@ -147,10 +156,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 21, 
     "type": "checkin"
   }, 
   {
     "business_id": "TOc-HncVhF6vX-FATW7vrA", 
+    "business_name": "Camelback Boxing Gym", 
     "checkin_info": {
       "10-2": 1, 
       "10-5": 1, 
@@ -169,10 +180,12 @@
       "8-5": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "2dF5zaR-5dxymzlMjmxEfg", 
+    "business_name": "Jabz Boxing Fitness For Women- North Phoenix", 
     "checkin_info": {
       "16-4": 1, 
       "17-0": 1, 
@@ -189,10 +202,12 @@
       "7-5": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "GMBvzlG0DWKwkYroDsdrwg", 
+    "business_name": "Pro Edge Boxing", 
     "checkin_info": {
       "10-4": 1, 
       "13-4": 1, 
@@ -203,6 +218,7 @@
       "7-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }
 ]

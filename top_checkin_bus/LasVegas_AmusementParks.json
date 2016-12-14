@@ -1,6 +1,7 @@
 [
   {
     "business_id": "TXHdGKBw-vzmhcpSciagaw", 
+    "business_name": "High Roller", 
     "checkin_info": {
       "0-0": 37, 
       "0-1": 21, 
@@ -147,10 +148,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 3177, 
     "type": "checkin"
   }, 
   {
     "business_id": "9Ywv51iCL_QSIGzFA6vqiQ", 
+    "business_name": "Pinball Hall Of Fame", 
     "checkin_info": {
       "0-5": 2, 
       "0-6": 2, 
@@ -260,10 +263,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2137, 
     "type": "checkin"
   }, 
   {
     "business_id": "XZc403LVGPuIHCTQiZHlRA", 
+    "business_name": "Adventuredome Theme Park", 
     "checkin_info": {
       "0-2": 2, 
       "0-4": 2, 
@@ -380,10 +385,12 @@
       "9-5": 5, 
       "9-6": 4
     }, 
+    "total_checkin": 1144, 
     "type": "checkin"
   }, 
   {
     "business_id": "ril2PCGrL8OrXhTE8yZG4w", 
+    "business_name": "Wet'n'Wild Las Vegas", 
     "checkin_info": {
       "0-0": 2, 
       "0-5": 1, 
@@ -494,10 +501,12 @@
       "9-5": 12, 
       "9-6": 1
     }, 
+    "total_checkin": 893, 
     "type": "checkin"
   }, 
   {
     "business_id": "s6DB2eqwmzV6sz_dNMyZBg", 
+    "business_name": "Siegfried & Roy's Secret Garden and Dolphin Habitat", 
     "checkin_info": {
       "0-4": 1, 
       "1-2": 1, 
@@ -609,10 +618,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 834, 
     "type": "checkin"
   }, 
   {
     "business_id": "-QLM5JtqHN8ditQQyqi8zg", 
+    "business_name": "The Roller Coaster", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -740,10 +751,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 817, 
     "type": "checkin"
   }, 
   {
     "business_id": "szjTCVd5An2m1KEjO0aLqA", 
+    "business_name": "Las Vegas Mini Gran Prix Family Fun Center", 
     "checkin_info": {
       "0-2": 2, 
       "0-6": 1, 
@@ -853,10 +866,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 712, 
     "type": "checkin"
   }, 
   {
     "business_id": "9u8OhMvCwj4T4obO15d5ng", 
+    "business_name": "Exotics Racing", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -941,10 +956,12 @@
       "9-5": 17, 
       "9-6": 7
     }, 
+    "total_checkin": 458, 
     "type": "checkin"
   }, 
   {
     "business_id": "38zjidDyoj44e0SJHl3lBw", 
+    "business_name": "Fast Lap Indoor Kart Racing", 
     "checkin_info": {
       "0-1": 2, 
       "0-4": 1, 
@@ -1046,10 +1063,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 416, 
     "type": "checkin"
   }, 
   {
     "business_id": "KnupWjGXl65mhyCSHhN6mw", 
+    "business_name": "Stratosphere Tower Tour", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1176,6 +1195,7 @@
       "9-1": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 401, 
     "type": "checkin"
   }
 ]

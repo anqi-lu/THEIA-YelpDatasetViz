@@ -1,6 +1,7 @@
 [
   {
     "business_id": "uJPzhPtVl-68Jdcp5EIbRw", 
+    "business_name": "Primp and Blow - A Blow Dry Bar", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -69,10 +70,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 160, 
     "type": "checkin"
   }, 
   {
     "business_id": "yZ6t7vkPPNzBj-EPKMqaqA", 
+    "business_name": "Snapdragon Salon", 
     "checkin_info": {
       "10-1": 4, 
       "10-2": 3, 
@@ -134,10 +137,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 152, 
     "type": "checkin"
   }, 
   {
     "business_id": "DMceg2k0Nnif0ljgP3U_KA", 
+    "business_name": "Hair Pollution", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -189,10 +194,12 @@
       "9-2": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 103, 
     "type": "checkin"
   }, 
   {
     "business_id": "Q7BOD3Fu4DcBPLzENgmXcw", 
+    "business_name": "Sa'Nia Salon", 
     "checkin_info": {
       "1-0": 1, 
       "10-0": 1, 
@@ -242,10 +249,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 62, 
     "type": "checkin"
   }, 
   {
     "business_id": "B9YCD0_m8nLqp5XWFWeOEA", 
+    "business_name": "Niza Lideo", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -282,10 +291,12 @@
       "8-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 50, 
     "type": "checkin"
   }, 
   {
     "business_id": "JzM46CxWsR5DZGsbBObzaQ", 
+    "business_name": "Saskia Salon", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -312,10 +323,12 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "IjpNspbeFf21HRA2bGjthQ", 
+    "business_name": "Yes Beauty Supply", 
     "checkin_info": {
       "10-1": 1, 
       "10-5": 2, 
@@ -348,10 +361,12 @@
       "8-3": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "1AwGHz9TIvYp3PE3BDF_FA", 
+    "business_name": "Primp and Blow - A Blow Dry Bar", 
     "checkin_info": {
       "11-4": 2, 
       "12-1": 1, 
@@ -380,10 +395,12 @@
       "7-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "HRGW4mCXC4GX3eEMl0u3HQ", 
+    "business_name": "Luxxi Salon", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -411,10 +428,12 @@
       "18-5": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 35, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ig8YWJZGhnNmd5fFKgC2-w", 
+    "business_name": "The Salon Spot", 
     "checkin_info": {
       "10-5": 1, 
       "11-5": 1, 
@@ -438,6 +457,7 @@
       "20-3": 1, 
       "21-2": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }
 ]

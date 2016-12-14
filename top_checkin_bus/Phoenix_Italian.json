@@ -1,6 +1,7 @@
 [
   {
     "business_id": "pwpl-rxwNRQdgqFz_-qMPg", 
+    "business_name": "The Parlor", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -106,10 +107,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 3994, 
     "type": "checkin"
   }, 
   {
     "business_id": "SDwYQ6eSu1htn8vHWv128g", 
+    "business_name": "Postino Arcadia", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -223,10 +226,12 @@
       "9-5": 14, 
       "9-6": 23
     }, 
+    "total_checkin": 3723, 
     "type": "checkin"
   }, 
   {
     "business_id": "3n9mSKySEv3G03YjcU-YOQ", 
+    "business_name": "Postino Central", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 4, 
@@ -344,10 +349,12 @@
       "9-5": 26, 
       "9-6": 28
     }, 
+    "total_checkin": 3561, 
     "type": "checkin"
   }, 
   {
     "business_id": "V1nEpIRmEa1768oj_tuxeQ", 
+    "business_name": "Cibo", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -457,10 +464,12 @@
       "9-5": 2, 
       "9-6": 6
     }, 
+    "total_checkin": 2778, 
     "type": "checkin"
   }, 
   {
     "business_id": "m9haUi2_1lHR2eAKBhKwDg", 
+    "business_name": "Federal Pizza", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -565,10 +574,12 @@
       "8-5": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 2544, 
     "type": "checkin"
   }, 
   {
     "business_id": "VVeogjZya58oiTxK7qUjAQ", 
+    "business_name": "Pizzeria Bianco", 
     "checkin_info": {
       "10-0": 9, 
       "10-1": 7, 
@@ -664,10 +675,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 2282, 
     "type": "checkin"
   }, 
   {
     "business_id": "CSoURupWEyuyzkjMOExKPg", 
+    "business_name": "North Italia", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 2, 
@@ -776,10 +789,12 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 2224, 
     "type": "checkin"
   }, 
   {
     "business_id": "mFBBtUrWMqikBS-Jn-RiIw", 
+    "business_name": "SOLO Trattoria", 
     "checkin_info": {
       "0-6": 1, 
       "1-6": 1, 
@@ -874,10 +889,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 1393, 
     "type": "checkin"
   }, 
   {
     "business_id": "ML1RJdeZ7bbfMrHvJ7m99A", 
+    "business_name": "Oregano's Pizza Bistro", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 1, 
@@ -974,10 +991,12 @@
       "9-1": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 1352, 
     "type": "checkin"
   }, 
   {
     "business_id": "XfVGU6WGZKc867spn2TImw", 
+    "business_name": "Pomo Pizzeria - Downtown Phoenix", 
     "checkin_info": {
       "0-4": 1, 
       "1-5": 1, 
@@ -1063,6 +1082,7 @@
       "8-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1148, 
     "type": "checkin"
   }
 ]

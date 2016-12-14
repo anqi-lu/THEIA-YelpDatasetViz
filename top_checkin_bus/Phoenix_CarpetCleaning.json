@@ -1,0 +1,149 @@
+[
+  {
+    "business_id": "vyNaPRtVl-2PUT1cztqFbA", 
+    "business_name": "McFarland's Carpet Service", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 2, 
+      "10-3": 2, 
+      "10-4": 1, 
+      "10-5": 1, 
+      "11-0": 2, 
+      "11-1": 1, 
+      "11-4": 3, 
+      "11-5": 3, 
+      "12-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "12-5": 1, 
+      "13-2": 1, 
+      "14-0": 1, 
+      "14-4": 1, 
+      "15-1": 2, 
+      "15-2": 1, 
+      "15-4": 1, 
+      "16-1": 1, 
+      "8-0": 1, 
+      "8-1": 3, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-1": 1, 
+      "9-2": 1, 
+      "9-3": 1, 
+      "9-4": 1, 
+      "9-5": 4
+    }, 
+    "total_checkin": 43, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Us-93TD-lG_kVJzDPvmppw", 
+    "business_name": "I Clean Carpets", 
+    "checkin_info": {
+      "0-2": 1, 
+      "10-5": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "13-4": 1, 
+      "15-3": 1, 
+      "17-2": 1, 
+      "17-4": 1, 
+      "18-0": 1, 
+      "18-4": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "WNf3HjoQ4Ld1qVi3id39qQ", 
+    "business_name": "Paradise Carpet Cleaning", 
+    "checkin_info": {
+      "10-1": 2, 
+      "11-0": 1, 
+      "11-1": 1, 
+      "12-3": 3, 
+      "15-2": 1, 
+      "17-4": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "6o7x3ayUIzQbiFZ8pFTNZw", 
+    "business_name": "Organic Living/Eco Clean", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-4": 1, 
+      "12-4": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "14-5": 1, 
+      "15-1": 1, 
+      "15-5": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-CNVouVxjcgmb1JMs-kexw", 
+    "business_name": "Eco King", 
+    "checkin_info": {
+      "13-1": 1, 
+      "13-2": 1, 
+      "15-3": 1, 
+      "16-3": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-sGPRV4SoS8rXdQ4z2620Q", 
+    "business_name": "HydroCare Services", 
+    "checkin_info": {
+      "10-4": 1, 
+      "14-4": 1, 
+      "15-1": 1, 
+      "8-1": 1, 
+      "8-6": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "4HX6BEY8wsVZKGrd1Os8QA", 
+    "business_name": "Epic Carpet & Tile Care", 
+    "checkin_info": {
+      "10-0": 1, 
+      "13-4": 1, 
+      "14-4": 1, 
+      "18-2": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "sVIQ6qCLjLY19IUE1LrNvA", 
+    "business_name": "Zerorez- Phoenix", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-1": 1, 
+      "8-3": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "rF8Qeqdu3gEdm8Am-NeHxQ", 
+    "business_name": "Phoenix Carpet Repair & Cleaning", 
+    "checkin_info": {
+      "12-4": 1, 
+      "15-5": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "kCyR9oviJZYohR-JYvqvSQ", 
+    "business_name": "Wet Republic Ultra Pool", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -128,10 +129,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 1680, 
     "type": "checkin"
   }, 
   {
     "business_id": "tPqGi4Bb5plWgNxwGCEa3A", 
+    "business_name": "TAO Beach", 
     "checkin_info": {
       "0-4": 7, 
       "0-5": 3, 
@@ -248,10 +251,12 @@
       "9-5": 5, 
       "9-6": 4
     }, 
+    "total_checkin": 1127, 
     "type": "checkin"
   }, 
   {
     "business_id": "kinCOTBDllw3wZ7BoQlVYw", 
+    "business_name": "Mandalay Bay Beach", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 1, 
@@ -375,10 +380,12 @@
       "9-5": 12, 
       "9-6": 16
     }, 
+    "total_checkin": 1064, 
     "type": "checkin"
   }, 
   {
     "business_id": "cocDiR5JjV0Y63iE0cc7pw", 
+    "business_name": "Boulevard Pool", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 7, 
@@ -507,10 +514,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 857, 
     "type": "checkin"
   }, 
   {
     "business_id": "3gPEKDsMklt9-W-EPDj9ag", 
+    "business_name": "DAYLIGHT Beach Club", 
     "checkin_info": {
       "0-0": 14, 
       "0-3": 13, 
@@ -602,10 +611,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 848, 
     "type": "checkin"
   }, 
   {
     "business_id": "gy5jh1qLZGanvNKJh2GTdQ", 
+    "business_name": "Rehab Beach Club", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -721,10 +732,12 @@
       "9-5": 2, 
       "9-6": 12
     }, 
+    "total_checkin": 729, 
     "type": "checkin"
   }, 
   {
     "business_id": "2-PC9ej876O-YZWj5naxGQ", 
+    "business_name": "Drai's Beach Club", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 1, 
@@ -826,10 +839,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 558, 
     "type": "checkin"
   }, 
   {
     "business_id": "iYFAQAF_Y2XCHuXL_Dgg3w", 
+    "business_name": "Grand Pool Complex", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -939,10 +954,12 @@
       "9-5": 4, 
       "9-6": 9
     }, 
+    "total_checkin": 552, 
     "type": "checkin"
   }, 
   {
     "business_id": "xzNNNPUmFhzuLDcMYowdvg", 
+    "business_name": "Liquid Pool Lounge", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -1029,10 +1046,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 495, 
     "type": "checkin"
   }, 
   {
     "business_id": "UUwfLMowHkIGcwIRvR1bKw", 
+    "business_name": "Golden Nugget Pool", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 3, 
@@ -1152,6 +1171,7 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 426, 
     "type": "checkin"
   }
 ]

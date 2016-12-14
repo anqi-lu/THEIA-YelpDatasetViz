@@ -1,6 +1,7 @@
 [
   {
     "business_id": "3Jq1h0OX5U5JEsvXuT_puA", 
+    "business_name": "RTC Park & Ride", 
     "checkin_info": {
       "11-4": 1, 
       "11-5": 1, 
@@ -37,10 +38,12 @@
       "8-1": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZCDCLEiEa6AvaZe7tTqQKw", 
+    "business_name": "Westcliff Transit Center", 
     "checkin_info": {
       "15-1": 1, 
       "17-3": 1, 
@@ -58,6 +61,7 @@
       "6-3": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }
 ]

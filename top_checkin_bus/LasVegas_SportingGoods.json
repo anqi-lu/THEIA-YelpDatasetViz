@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ving2hoAcBC_4DaYdWtfvw", 
+    "business_name": "Bass Pro Shops", 
     "checkin_info": {
       "10-0": 18, 
       "10-1": 15, 
@@ -114,10 +115,12 @@
       "9-5": 12, 
       "9-6": 21
     }, 
+    "total_checkin": 2001, 
     "type": "checkin"
   }, 
   {
     "business_id": "QWM4xfjd4WCx_Ci2UG-i3A", 
+    "business_name": "REI", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 1, 
@@ -214,10 +217,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 912, 
     "type": "checkin"
   }, 
   {
     "business_id": "CSouUEXi0rPE-Dc1MwTrZg", 
+    "business_name": "Nike Brand", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -335,10 +340,12 @@
       "9-4": 1, 
       "9-5": 9
     }, 
+    "total_checkin": 795, 
     "type": "checkin"
   }, 
   {
     "business_id": "Lz4e2G6rzWd6olANPzXvCw", 
+    "business_name": "TaylorMade Golf Experience", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -459,10 +466,12 @@
       "9-5": 6, 
       "9-6": 4
     }, 
+    "total_checkin": 678, 
     "type": "checkin"
   }, 
   {
     "business_id": "TXasnB1kgwddTf5AaLfUsA", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 4, 
@@ -567,10 +576,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 659, 
     "type": "checkin"
   }, 
   {
     "business_id": "iwH1w56ArxuOKNmSJgMiVA", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "0-2": 1, 
       "1-4": 1, 
@@ -667,10 +678,12 @@
       "9-2": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 638, 
     "type": "checkin"
   }, 
   {
     "business_id": "RlrqwlKKAwzyxBAVoFMwBA", 
+    "business_name": "American Shooters", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -761,10 +774,12 @@
       "9-5": 5, 
       "9-6": 3
     }, 
+    "total_checkin": 558, 
     "type": "checkin"
   }, 
   {
     "business_id": "mKu09TwMtE9nKNeHDJQvyw", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -865,10 +880,12 @@
       "9-3": 1, 
       "9-4": 5
     }, 
+    "total_checkin": 463, 
     "type": "checkin"
   }, 
   {
     "business_id": "IGuzWAgo0MQkzQZW03kE7w", 
+    "business_name": "Sportsman's Warehouse", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -958,10 +975,12 @@
       "9-4": 4, 
       "9-5": 4
     }, 
+    "total_checkin": 375, 
     "type": "checkin"
   }, 
   {
     "business_id": "s4jDBV2yZ4lC--MJ3ekRig", 
+    "business_name": "Sports Authority", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 2, 
@@ -1058,6 +1077,7 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 325, 
     "type": "checkin"
   }
 ]

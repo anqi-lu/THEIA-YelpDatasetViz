@@ -1,6 +1,7 @@
 [
   {
     "business_id": "KjymOs12Mpy0Kd54b7T9MA", 
+    "business_name": "Olives", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -125,10 +126,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2038, 
     "type": "checkin"
   }, 
   {
     "business_id": "wtD7EvFhxt8EeNODbl1G_A", 
+    "business_name": "Market Grille Cafe", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 2, 
@@ -228,10 +231,12 @@
       "9-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 1868, 
     "type": "checkin"
   }, 
   {
     "business_id": "y6sNNP97UCSl_p2o5Wm40A", 
+    "business_name": "Paymon's Mediterranean Cafe & Lounge", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 3, 
@@ -339,10 +344,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 1611, 
     "type": "checkin"
   }, 
   {
     "business_id": "LsArM1PhbqvXK3lDK-Ch_w", 
+    "business_name": "Stephano's Greek & Mediterranean Grill", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -437,10 +444,12 @@
       "9-3": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 1562, 
     "type": "checkin"
   }, 
   {
     "business_id": "OiCxoAIoBvEWxf7p1qVVmA", 
+    "business_name": "Sage", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 3, 
@@ -545,10 +554,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 1472, 
     "type": "checkin"
   }, 
   {
     "business_id": "8lLkZOfXbSMumZC-v08GaA", 
+    "business_name": "Paymons Mediterranean Cafe & Hookah Lounge", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -661,10 +672,12 @@
       "23-6": 5, 
       "8-4": 1
     }, 
+    "total_checkin": 1374, 
     "type": "checkin"
   }, 
   {
     "business_id": "cmf4fKU9D6XIvciQj7RjoQ", 
+    "business_name": "Yassou", 
     "checkin_info": {
       "10-0": 1, 
       "11-0": 23, 
@@ -741,10 +754,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 1331, 
     "type": "checkin"
   }, 
   {
     "business_id": "Cl6KfeDfh9FfWYV5cbz-zw", 
+    "business_name": "Khoury's Mediterranean Restaurant", 
     "checkin_info": {
       "0-4": 1, 
       "1-2": 1, 
@@ -849,10 +864,12 @@
       "9-4": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 1145, 
     "type": "checkin"
   }, 
   {
     "business_id": "2Fn5-x5IX7CfhCKFYaZGyA", 
+    "business_name": "Market Grille Cafe", 
     "checkin_info": {
       "1-1": 1, 
       "10-1": 2, 
@@ -941,10 +958,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 930, 
     "type": "checkin"
   }, 
   {
     "business_id": "ky6c1bhp1695tWLfnyKOyQ", 
+    "business_name": "Kabob Grill", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 2, 
@@ -1032,6 +1051,7 @@
       "9-1": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 877, 
     "type": "checkin"
   }
 ]

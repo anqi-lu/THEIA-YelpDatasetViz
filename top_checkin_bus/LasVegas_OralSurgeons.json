@@ -1,6 +1,7 @@
 [
   {
     "business_id": "_d88O-Kt-709ocy09rpp0g", 
+    "business_name": "Smiles For Life Family Dentistry", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -41,10 +42,12 @@
       "9-3": 7, 
       "9-4": 2
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "74tsgBed3EJuKUqJkshVXQ", 
+    "business_name": "Nevada Oral & Facial Surgery", 
     "checkin_info": {
       "10-1": 7, 
       "10-2": 1, 
@@ -76,10 +79,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "pfl19h-z3kC63cl3AzSp2g", 
+    "business_name": "Flamingo Smiles Dentistry", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -120,10 +125,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 53, 
     "type": "checkin"
   }, 
   {
     "business_id": "gfsJsEg9Px2Bt6ZO7ehDPQ", 
+    "business_name": "Island Dental Center of Summerlin", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -152,10 +159,12 @@
       "9-2": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "RuexxVbvKlENMFzBMGE60A", 
+    "business_name": "Rocksprings Dental Group", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -185,10 +194,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 34, 
     "type": "checkin"
   }, 
   {
     "business_id": "CCzQdRLTjXhC2kNZbUcOjw", 
+    "business_name": "Azimi Afshin, DDS", 
     "checkin_info": {
       "11-0": 2, 
       "11-1": 2, 
@@ -209,10 +220,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 31, 
     "type": "checkin"
   }, 
   {
     "business_id": "cX6yHVRIl9V1t2wCKaGq2w", 
+    "business_name": "Gentle Dental", 
     "checkin_info": {
       "10-1": 2, 
       "11-4": 1, 
@@ -236,10 +249,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "jgZwJMDmQzlvYO7qen85Bw", 
+    "business_name": "Mont M Ringer, DDS, MS", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -260,10 +275,12 @@
       "9-0": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 23, 
     "type": "checkin"
   }, 
   {
     "business_id": "vadwfwsVMjMuBI-H3QY1yA", 
+    "business_name": "Just Smiles", 
     "checkin_info": {
       "0-2": 1, 
       "10-1": 1, 
@@ -282,10 +299,12 @@
       "8-4": 3, 
       "9-0": 2
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "WjgP70Q6CZRlgJ5r_ZzWnA", 
+    "business_name": "Smiles Dental Group", 
     "checkin_info": {
       "10-5": 2, 
       "11-1": 1, 
@@ -302,6 +321,7 @@
       "9-2": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }
 ]

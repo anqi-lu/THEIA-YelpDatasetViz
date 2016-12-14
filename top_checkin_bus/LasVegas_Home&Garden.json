@@ -1,6 +1,7 @@
 [
   {
     "business_id": "NsEgU5gpkGehIt71at4FHg", 
+    "business_name": "IKEA - Las Vegas", 
     "checkin_info": {
       "0-1": 1, 
       "1-3": 1, 
@@ -108,10 +109,12 @@
       "9-5": 8, 
       "9-6": 4
     }, 
+    "total_checkin": 995, 
     "type": "checkin"
   }, 
   {
     "business_id": "Am4LBbOU2aNTGt0-uwf6GQ", 
+    "business_name": "The Home Depot", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -220,10 +223,12 @@
       "9-5": 11, 
       "9-6": 12
     }, 
+    "total_checkin": 987, 
     "type": "checkin"
   }, 
   {
     "business_id": "zJD-9VmhFNq4BWDbGbJSzA", 
+    "business_name": "Best Buy", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 8, 
@@ -325,10 +330,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 831, 
     "type": "checkin"
   }, 
   {
     "business_id": "E3YZww_r2SDiAKGILb6stg", 
+    "business_name": "World Market Center Las Vegas", 
     "checkin_info": {
       "0-5": 1, 
       "1-4": 1, 
@@ -446,10 +453,12 @@
       "9-5": 2, 
       "9-6": 6
     }, 
+    "total_checkin": 779, 
     "type": "checkin"
   }, 
   {
     "business_id": "vha8-1iVade3hshLU0Co4Q", 
+    "business_name": "World Market", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 10, 
@@ -542,10 +551,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 749, 
     "type": "checkin"
   }, 
   {
     "business_id": "M0XslBxASIwNHrAuz_xWEQ", 
+    "business_name": "Hobby Lobby", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 14, 
@@ -628,10 +639,12 @@
       "9-4": 7, 
       "9-5": 4
     }, 
+    "total_checkin": 629, 
     "type": "checkin"
   }, 
   {
     "business_id": "pMEGeVeuhL9g5PRBPckReg", 
+    "business_name": "The Container Store", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 5, 
@@ -721,10 +734,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 628, 
     "type": "checkin"
   }, 
   {
     "business_id": "sL2bnQIHhFPaCYzoUi7N1Q", 
+    "business_name": "The Home Depot", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 3, 
@@ -833,10 +848,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 612, 
     "type": "checkin"
   }, 
   {
     "business_id": "1R4HcJuJdkkIUK-vKhCYkQ", 
+    "business_name": "Bed Bath & Beyond", 
     "checkin_info": {
       "0-2": 1, 
       "1-5": 1, 
@@ -936,10 +953,12 @@
       "9-5": 7, 
       "9-6": 2
     }, 
+    "total_checkin": 573, 
     "type": "checkin"
   }, 
   {
     "business_id": "1IN5FXxw8GIC1aruX9c1_w", 
+    "business_name": "Best Buy", 
     "checkin_info": {
       "0-4": 1, 
       "1-1": 1, 
@@ -1051,6 +1070,7 @@
       "9-5": 12, 
       "9-6": 8
     }, 
+    "total_checkin": 551, 
     "type": "checkin"
   }
 ]

@@ -1,0 +1,99 @@
+[
+  {
+    "business_id": "W90bRiGawkJgQzs6npy5cw", 
+    "business_name": "Elevation Salon & Spa", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-1": 1, 
+      "10-4": 2, 
+      "11-0": 1, 
+      "11-1": 2, 
+      "11-2": 1, 
+      "11-4": 3, 
+      "11-5": 3, 
+      "12-1": 2, 
+      "12-3": 2, 
+      "12-4": 1, 
+      "12-5": 2, 
+      "12-6": 1, 
+      "13-4": 1, 
+      "14-1": 1, 
+      "14-2": 6, 
+      "15-0": 2, 
+      "15-1": 1, 
+      "15-2": 2, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "16-1": 4, 
+      "16-2": 4, 
+      "16-3": 2, 
+      "16-4": 2, 
+      "17-1": 1, 
+      "18-2": 1, 
+      "5-5": 1, 
+      "6-5": 1, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "7-5": 3, 
+      "8-5": 1, 
+      "9-0": 1, 
+      "9-3": 2, 
+      "9-4": 2, 
+      "9-5": 2
+    }, 
+    "total_checkin": 67, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "cJ4P2k6hfBvZUXqRWtwmaw", 
+    "business_name": "HAIR", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-5": 1, 
+      "11-1": 1, 
+      "11-4": 1, 
+      "12-0": 2, 
+      "12-2": 2, 
+      "12-4": 3, 
+      "12-5": 2, 
+      "12-6": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "15-1": 1, 
+      "15-3": 2, 
+      "16-3": 1, 
+      "17-3": 1, 
+      "7-4": 1, 
+      "7-5": 1, 
+      "8-4": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 26, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "GaZ0Rq2St2QQjBD1jjWDxg", 
+    "business_name": "Hachi Barber & Salon", 
+    "checkin_info": {
+      "10-5": 1, 
+      "12-5": 1, 
+      "14-4": 1, 
+      "15-1": 1, 
+      "18-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "dpuSL_nJzRpeQaP5MK9tCQ", 
+    "business_name": "Concourse Roffler Family Hair Center", 
+    "checkin_info": {
+      "11-3": 1, 
+      "14-3": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,129 @@
+[
+  {
+    "business_id": "mqPmjFACOPAgjeL_tGas7Q", 
+    "business_name": "Ma Cha Teahouse and Art Gallery", 
+    "checkin_info": {
+      "10-4": 2, 
+      "10-5": 1, 
+      "10-6": 2, 
+      "11-1": 2, 
+      "11-3": 3, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "11-6": 1, 
+      "12-4": 2, 
+      "12-5": 3, 
+      "12-6": 4, 
+      "13-1": 1, 
+      "13-5": 5, 
+      "13-6": 3, 
+      "14-4": 2, 
+      "14-6": 1, 
+      "15-3": 1, 
+      "15-4": 1, 
+      "15-6": 1, 
+      "16-5": 1, 
+      "20-5": 1, 
+      "8-3": 1, 
+      "9-3": 1, 
+      "9-4": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 44, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "OYZOzzipfXdWrYe1A2zeKw", 
+    "business_name": "The Coffee Gallerie", 
+    "checkin_info": {
+      "10-1": 2, 
+      "11-0": 1, 
+      "11-3": 1, 
+      "12-2": 1, 
+      "13-1": 1, 
+      "4-4": 1, 
+      "5-0": 1, 
+      "5-1": 1, 
+      "5-4": 1, 
+      "6-0": 1, 
+      "6-3": 1, 
+      "6-5": 1, 
+      "6-6": 1, 
+      "7-5": 1, 
+      "8-6": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 17, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7CoEq0l62ysXcJuKibgENA", 
+    "business_name": "Odana Antiques & Fine Arts Center", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-5": 1, 
+      "11-6": 3, 
+      "12-4": 1, 
+      "12-6": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "8-5": 2, 
+      "9-1": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "1gBrtZJADfXw4rkoTDSq8w", 
+    "business_name": "Juneberry Studio & Marketplace", 
+    "checkin_info": {
+      "10-2": 1, 
+      "16-3": 3, 
+      "17-3": 3, 
+      "17-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0SI8uf2eMgzzvIsckSVxbA", 
+    "business_name": "Hatch Art House", 
+    "checkin_info": {
+      "10-5": 2, 
+      "10-6": 1, 
+      "12-5": 1, 
+      "14-2": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "qRQXWEib6OM8N20d3XgGpg", 
+    "business_name": "The Project Lodge", 
+    "checkin_info": {
+      "12-0": 1, 
+      "17-1": 1, 
+      "18-4": 1, 
+      "20-3": 1, 
+      "8-0": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8T62y41_xnOqh8dCaDGEmA", 
+    "business_name": "Fanny Garver Gallery", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-2": 1, 
+      "13-3": 1, 
+      "18-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

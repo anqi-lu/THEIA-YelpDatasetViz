@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ipfPzCphX5cbfVE4rOUY6Q", 
+    "business_name": "MAC Cosmetics", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -67,10 +68,12 @@
       "19-5": 1, 
       "20-5": 1
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }, 
   {
     "business_id": "uJPzhPtVl-68Jdcp5EIbRw", 
+    "business_name": "Primp and Blow - A Blow Dry Bar", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -139,10 +142,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 160, 
     "type": "checkin"
   }, 
   {
     "business_id": "SkZU7zgLx2t008jhRxKJdQ", 
+    "business_name": "E's Urban Hair", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -178,10 +183,12 @@
       "8-1": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 50, 
     "type": "checkin"
   }, 
   {
     "business_id": "i3xdrZ7T5FZR9moJO-IzhA", 
+    "business_name": "Skin Frenzy", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -216,10 +223,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 48, 
     "type": "checkin"
   }, 
   {
     "business_id": "1AwGHz9TIvYp3PE3BDF_FA", 
+    "business_name": "Primp and Blow - A Blow Dry Bar", 
     "checkin_info": {
       "11-4": 2, 
       "12-1": 1, 
@@ -248,10 +257,12 @@
       "7-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "wxmAyesUGKad6ZFLuihiog", 
+    "business_name": "Primp and Blow - A Blow Dry Bar", 
     "checkin_info": {
       "0-6": 1, 
       "10-3": 1, 
@@ -276,10 +287,12 @@
       "21-4": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 23, 
     "type": "checkin"
   }, 
   {
     "business_id": "CGX59cEzGXpyCrawv5xfUQ", 
+    "business_name": "Model Citizen", 
     "checkin_info": {
       "11-5": 4, 
       "12-1": 1, 
@@ -295,10 +308,12 @@
       "21-6": 1, 
       "8-5": 2
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "nS2Aj_bmd_GfCzwOCesmKg", 
+    "business_name": "The Organic Glow", 
     "checkin_info": {
       "11-1": 2, 
       "13-1": 1, 
@@ -313,10 +328,12 @@
       "21-1": 1, 
       "7-2": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "BxqRovZ76pJudWJE1tNXbg", 
+    "business_name": "Aries Unisex Salon", 
     "checkin_info": {
       "10-5": 2, 
       "11-4": 1, 
@@ -328,10 +345,12 @@
       "13-4": 1, 
       "14-4": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "dkp49eYgIN8iqWcQDvqYmg", 
+    "business_name": "MAC Cosmetics", 
     "checkin_info": {
       "13-5": 1, 
       "15-4": 1, 
@@ -340,6 +359,7 @@
       "17-3": 1, 
       "19-6": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }
 ]

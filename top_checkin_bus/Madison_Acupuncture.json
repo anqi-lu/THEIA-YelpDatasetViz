@@ -1,0 +1,19 @@
+[
+  {
+    "business_id": "HvnLM5Z6UXc838cCLUfrZQ", 
+    "business_name": "Red Sage Health", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-0": 1, 
+      "12-0": 1, 
+      "12-2": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "8-6": 1, 
+      "9-0": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }
+]

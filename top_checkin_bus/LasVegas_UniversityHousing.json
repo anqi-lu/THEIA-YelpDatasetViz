@@ -1,6 +1,7 @@
 [
   {
     "business_id": "lYcDvjaHWf_DVZogx_FE3Q", 
+    "business_name": "The Palms at Peccole Ranch", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -54,6 +55,7 @@
       "23-6": 1, 
       "8-6": 3
     }, 
+    "total_checkin": 71, 
     "type": "checkin"
   }
 ]

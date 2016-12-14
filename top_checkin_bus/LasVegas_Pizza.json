@@ -1,6 +1,7 @@
 [
   {
     "business_id": "eq6lQI039SBLC6sHm3idGA", 
+    "business_name": "Secret Pizza", 
     "checkin_info": {
       "0-0": 110, 
       "0-1": 81, 
@@ -167,10 +168,12 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 11077, 
     "type": "checkin"
   }, 
   {
     "business_id": "MN0OLvP8i0SirMJ7AMuMzA", 
+    "business_name": "Pizza Rock", 
     "checkin_info": {
       "0-0": 5, 
       "0-2": 2, 
@@ -305,10 +308,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 6267, 
     "type": "checkin"
   }, 
   {
     "business_id": "i3ogCoQD4MY_sR73GCk-BA", 
+    "business_name": "Nora's Italian Cuisine", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -420,10 +425,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 2943, 
     "type": "checkin"
   }, 
   {
     "business_id": "zORdAIouXrGO1yU4sIMweg", 
+    "business_name": "BJ's Restaurant & Brewhouse", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -532,10 +539,12 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 2514, 
     "type": "checkin"
   }, 
   {
     "business_id": "cQMfAN2YVUcJn8wK2M_wGw", 
+    "business_name": "Grimaldi's Pizzeria", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -657,10 +666,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 1953, 
     "type": "checkin"
   }, 
   {
     "business_id": "z67yrh03lRSANrpPsRcTfw", 
+    "business_name": "Grimaldi's Pizzeria", 
     "checkin_info": {
       "0-1": 1, 
       "0-5": 1, 
@@ -763,10 +774,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 1889, 
     "type": "checkin"
   }, 
   {
     "business_id": "OVU0pQ85Zf74OVgDyPFvGQ", 
+    "business_name": "Grimaldi's - Coal Brick-Oven Pizzeria", 
     "checkin_info": {
       "0-6": 1, 
       "1-5": 1, 
@@ -869,10 +882,12 @@
       "7-6": 2, 
       "9-2": 2
     }, 
+    "total_checkin": 1793, 
     "type": "checkin"
   }, 
   {
     "business_id": "kePxkm183BDiOiDcsjgAhg", 
+    "business_name": "Novecento Pizzeria", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -966,10 +981,12 @@
       "8-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 1693, 
     "type": "checkin"
   }, 
   {
     "business_id": "MhgYfihkb1QZfVpSNLb2uA", 
+    "business_name": "Grimaldi's Pizzeria", 
     "checkin_info": {
       "0-1": 1, 
       "10-3": 1, 
@@ -1064,10 +1081,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1683, 
     "type": "checkin"
   }, 
   {
     "business_id": "WD5l9HdTjDbqPRocncCrEQ", 
+    "business_name": "BJ's Restaurant & Brewhouse", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 1, 
@@ -1171,6 +1190,7 @@
       "6-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1658, 
     "type": "checkin"
   }
 ]

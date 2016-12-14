@@ -1,6 +1,7 @@
 [
   {
     "business_id": "bts6jVczHJuWzpT8Y26UsQ", 
+    "business_name": "METRO light rail", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -124,10 +125,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 392, 
     "type": "checkin"
   }, 
   {
     "business_id": "d633ssiPu4AWyVvTkpw0ag", 
+    "business_name": "Valley Metro Light Roosevelt Station", 
     "checkin_info": {
       "0-6": 1, 
       "10-6": 1, 
@@ -177,10 +180,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 76, 
     "type": "checkin"
   }, 
   {
     "business_id": "er20L6Wzviiin8OS9FqFmg", 
+    "business_name": "Valley Metro", 
     "checkin_info": {
       "10-5": 1, 
       "10-6": 1, 
@@ -224,10 +229,12 @@
       "9-2": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 50, 
     "type": "checkin"
   }, 
   {
     "business_id": "SDKcoNw9Euee7JZPID0SNA", 
+    "business_name": "Downtown Valley Metro Light Rail Station", 
     "checkin_info": {
       "11-0": 1, 
       "12-5": 2, 
@@ -246,10 +253,12 @@
       "7-4": 2, 
       "8-4": 1
     }, 
+    "total_checkin": 23, 
     "type": "checkin"
   }, 
   {
     "business_id": "tVFFD5wldht-JHiUkGAaYw", 
+    "business_name": "Tufesa", 
     "checkin_info": {
       "1-2": 1, 
       "11-2": 1, 
@@ -267,6 +276,7 @@
       "6-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }
 ]

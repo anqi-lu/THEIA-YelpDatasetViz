@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Ealot_FO7rSMNUKk9Qk_FA", 
+    "business_name": "U-Haul Moving & Trailer Hitch Center of Las Vegas", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -40,10 +41,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "r5FiW-EM9WT1aYd68R8f6g", 
+    "business_name": "U-Haul Moving & Storage", 
     "checkin_info": {
       "10-3": 1, 
       "11-0": 2, 
@@ -78,10 +81,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "-yFhla8kMStJHdwpxujjDA", 
+    "business_name": "U-Haul Moving & Storage At Oso Blanca", 
     "checkin_info": {
       "1-2": 1, 
       "1-5": 1, 
@@ -108,10 +113,12 @@
       "8-5": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "dMjgeMlsI3k4KNSpiXVsoA", 
+    "business_name": "All Storage - Canyon Gate", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -136,10 +143,12 @@
       "22-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 23, 
     "type": "checkin"
   }, 
   {
     "business_id": "zefTdKh-jBegyC0gVHHWSA", 
+    "business_name": "U-Haul Moving & Storage at Boulder Hwy", 
     "checkin_info": {
       "10-1": 1, 
       "11-3": 1, 
@@ -154,10 +163,12 @@
       "18-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "jYOc4kyC1rQ48jw-zT0nkA", 
+    "business_name": "Penske Truck Rental", 
     "checkin_info": {
       "0-6": 1, 
       "11-0": 1, 
@@ -169,10 +180,12 @@
       "14-0": 1, 
       "15-0": 1
     }, 
+    "total_checkin": 9, 
     "type": "checkin"
   }, 
   {
     "business_id": "pRhyCKh5sw-CKL6s5-c8kg", 
+    "business_name": "U-Haul", 
     "checkin_info": {
       "10-5": 1, 
       "11-0": 1, 
@@ -184,10 +197,12 @@
       "18-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 9, 
     "type": "checkin"
   }, 
   {
     "business_id": "qUFw5n9QlbKCSqvzlfVk8A", 
+    "business_name": "Thomas Automotive", 
     "checkin_info": {
       "10-5": 1, 
       "13-3": 1, 
@@ -196,10 +211,12 @@
       "8-4": 1, 
       "9-2": 2
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "1Y_QnWorJI4RzrNiYzuysg", 
+    "business_name": "U-Haul Moving & Storage at E Fremont St", 
     "checkin_info": {
       "10-0": 1, 
       "11-3": 1, 
@@ -208,10 +225,12 @@
       "15-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ujm_F8W7w6FY5P6uyMN5xw", 
+    "business_name": "U-Haul Moving & Storage at W Bonanza Rd", 
     "checkin_info": {
       "11-4": 2, 
       "12-3": 1, 
@@ -220,6 +239,7 @@
       "22-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "4_yqGLhfQJ-mRyH7i2-KNQ", 
+    "business_name": "Vegas Hot! Yoga & Pilates Studio", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 5, 
@@ -150,10 +151,12 @@
       "9-5": 53, 
       "9-6": 45
     }, 
+    "total_checkin": 2602, 
     "type": "checkin"
   }, 
   {
     "business_id": "QkAv4k5aB6SwNRNK7q19ug", 
+    "business_name": "TruFusion", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 31, 
@@ -281,10 +284,12 @@
       "9-5": 69, 
       "9-6": 45
     }, 
+    "total_checkin": 2401, 
     "type": "checkin"
   }, 
   {
     "business_id": "f7MFBQGPKbTBOZtlSCI3KA", 
+    "business_name": "103 Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 5, 
@@ -388,10 +393,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 877, 
     "type": "checkin"
   }, 
   {
     "business_id": "TJLyA2G89uG2hbyMelIVNw", 
+    "business_name": "Bikram Yoga Westside", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 6, 
@@ -483,10 +490,12 @@
       "9-3": 2, 
       "9-4": 2
     }, 
+    "total_checkin": 467, 
     "type": "checkin"
   }, 
   {
     "business_id": "XjZOzMFcgLCF8r2cxxJbqQ", 
+    "business_name": "Sherry Goldstein's Yoga Sanctuary", 
     "checkin_info": {
       "10-5": 6, 
       "10-6": 2, 
@@ -537,10 +546,12 @@
       "9-5": 8, 
       "9-6": 2
     }, 
+    "total_checkin": 368, 
     "type": "checkin"
   }, 
   {
     "business_id": "E_NKYEOhR-RR_Xqx9kMChQ", 
+    "business_name": "The Z Spot LV", 
     "checkin_info": {
       "10-3": 2, 
       "10-4": 1, 
@@ -590,10 +601,12 @@
       "9-4": 6, 
       "9-5": 12
     }, 
+    "total_checkin": 346, 
     "type": "checkin"
   }, 
   {
     "business_id": "1vR76VQwxnmCTIOwgcQbcA", 
+    "business_name": "Bikram Yoga Las Vegas", 
     "checkin_info": {
       "10-2": 1, 
       "10-5": 1, 
@@ -678,10 +691,12 @@
       "9-5": 12, 
       "9-6": 7
     }, 
+    "total_checkin": 337, 
     "type": "checkin"
   }, 
   {
     "business_id": "2eXRcLkP65MjeUIQBu9-lg", 
+    "business_name": "Sherry Goldstein's Yoga Sanctuary", 
     "checkin_info": {
       "10-1": 2, 
       "10-3": 1, 
@@ -719,10 +734,12 @@
       "9-5": 7, 
       "9-6": 4
     }, 
+    "total_checkin": 282, 
     "type": "checkin"
   }, 
   {
     "business_id": "ywTb9KCw_PHvk0Ts0v_UxA", 
+    "business_name": "Lululemon Athletica", 
     "checkin_info": {
       "10-0": 9, 
       "10-2": 1, 
@@ -798,10 +815,12 @@
       "8-4": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 277, 
     "type": "checkin"
   }, 
   {
     "business_id": "uDpgzJbmLCHltPXYcnRNwA", 
+    "business_name": "Body Heat Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -889,6 +908,7 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 271, 
     "type": "checkin"
   }
 ]

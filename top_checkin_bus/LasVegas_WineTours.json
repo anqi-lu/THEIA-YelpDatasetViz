@@ -1,11 +1,13 @@
 [
   {
     "business_id": "6K-b6CNbGrj_hJwrBaMGTg", 
+    "business_name": "Imbibe Tours", 
     "checkin_info": {
       "10-4": 1, 
       "10-5": 1, 
       "16-3": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

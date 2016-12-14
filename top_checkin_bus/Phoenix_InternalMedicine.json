@@ -1,0 +1,186 @@
+[
+  {
+    "business_id": "SHOF1J3_V1z_HjsXqnIxqA", 
+    "business_name": "Foothills Neurology", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-2": 3, 
+      "10-3": 1, 
+      "10-4": 2, 
+      "11-3": 1, 
+      "12-0": 1, 
+      "12-2": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "13-4": 1, 
+      "14-0": 3, 
+      "14-2": 1, 
+      "15-2": 2, 
+      "16-2": 1, 
+      "17-1": 1, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "8-0": 2, 
+      "8-1": 1, 
+      "8-3": 1, 
+      "8-4": 1, 
+      "9-0": 1, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 32, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "9f5WxUG_Vc-PzBmX6SeTew", 
+    "business_name": "Anasazi Internal Medicine", 
+    "checkin_info": {
+      "10-3": 1, 
+      "10-4": 1, 
+      "11-1": 1, 
+      "12-2": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "15-1": 2, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "7-4": 1, 
+      "8-1": 2, 
+      "8-3": 2, 
+      "9-1": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "_SZwP-ddcBpw7aZsCQKSww", 
+    "business_name": "North Phoenix Medical Clinic", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-4": 1, 
+      "11-0": 1, 
+      "11-1": 1, 
+      "11-2": 1, 
+      "11-4": 1, 
+      "12-1": 2, 
+      "15-0": 1, 
+      "15-3": 1, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "8-1": 1, 
+      "8-4": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 15, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "5mz8CUNzBGOhrkvRqcWOzA", 
+    "business_name": "Internal Medicine of Arizona PC", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "12-0": 2, 
+      "12-2": 1, 
+      "15-3": 2, 
+      "6-1": 1, 
+      "7-2": 1, 
+      "8-0": 1, 
+      "9-1": 1, 
+      "9-2": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HdSFTtUjYeAp42zfXfSz6w", 
+    "business_name": "Internal Medicine Specialists", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-2": 1, 
+      "10-4": 1, 
+      "17-1": 1, 
+      "8-0": 3, 
+      "8-4": 1, 
+      "9-0": 4
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "azCUQngq7gg5gUxYHpIpag", 
+    "business_name": "One Medical Group", 
+    "checkin_info": {
+      "11-0": 1, 
+      "12-1": 1, 
+      "15-2": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "17-4": 1, 
+      "8-4": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "EjfPCVuJefSa5EJptKw5Dw", 
+    "business_name": "Community Medical Clinic", 
+    "checkin_info": {
+      "11-2": 2, 
+      "12-1": 1, 
+      "13-4": 1, 
+      "14-3": 1, 
+      "15-1": 1, 
+      "15-5": 1, 
+      "16-1": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "oI9P3nO2J6p1yDfkUvQXEg", 
+    "business_name": "Acacia Internal Medicine Specialists", 
+    "checkin_info": {
+      "13-3": 1, 
+      "15-0": 2, 
+      "15-1": 1, 
+      "8-3": 1, 
+      "8-4": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "AffD8LJ--KrlIoKb8p4AJg", 
+    "business_name": "Christine Harter, MD PC", 
+    "checkin_info": {
+      "13-1": 1, 
+      "13-2": 1, 
+      "14-2": 1, 
+      "15-1": 1, 
+      "15-4": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "i9LWPgDrCRaHfXpSk4TjUQ", 
+    "business_name": "Associated Internists of Ahwatukee", 
+    "checkin_info": {
+      "17-1": 1, 
+      "8-2": 1, 
+      "8-5": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

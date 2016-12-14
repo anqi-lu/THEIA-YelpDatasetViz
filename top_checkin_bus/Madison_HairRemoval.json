@@ -1,0 +1,179 @@
+[
+  {
+    "business_id": "nFnM6-LvKUa5S-JvtCP0uA", 
+    "business_name": "Lotus Nails Bar & Spa", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-4": 1, 
+      "10-5": 2, 
+      "11-3": 1, 
+      "11-5": 1, 
+      "12-1": 1, 
+      "12-6": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "14-2": 1, 
+      "14-5": 1, 
+      "14-6": 1, 
+      "15-4": 1, 
+      "16-1": 2, 
+      "16-2": 1, 
+      "16-4": 2, 
+      "16-5": 1, 
+      "7-5": 2, 
+      "8-0": 1, 
+      "8-3": 1, 
+      "8-5": 3, 
+      "9-2": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 30, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "jrTLGX0d57NqYJ6NscZHaA", 
+    "business_name": "Cha Cha Beauty & Barber", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-4": 1, 
+      "10-5": 2, 
+      "11-2": 1, 
+      "12-1": 1, 
+      "12-2": 2, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-4": 1, 
+      "14-5": 1, 
+      "15-2": 1, 
+      "15-4": 1, 
+      "17-2": 1, 
+      "17-4": 1, 
+      "7-5": 1, 
+      "8-0": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "g-lhHfhIDKFWwEEG0pk1dg", 
+    "business_name": "Velvet Waxing Studio", 
+    "checkin_info": {
+      "10-3": 2, 
+      "10-4": 1, 
+      "11-0": 1, 
+      "11-2": 1, 
+      "13-1": 1, 
+      "13-4": 1, 
+      "14-1": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "15-1": 1, 
+      "16-1": 3, 
+      "16-2": 1, 
+      "17-3": 1, 
+      "18-2": 1, 
+      "21-6": 1, 
+      "23-3": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "smyLbniwZVO-ujNbgO62iw", 
+    "business_name": "The Brow Boutique", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-6": 3, 
+      "11-6": 1, 
+      "12-1": 1, 
+      "12-5": 2, 
+      "13-2": 1, 
+      "15-5": 2, 
+      "16-2": 1, 
+      "9-2": 2, 
+      "9-3": 1, 
+      "9-4": 3, 
+      "9-6": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "j3Blq-_3GyMJqkQ8mAyGOQ", 
+    "business_name": "Envy Nails", 
+    "checkin_info": {
+      "10-0": 1, 
+      "11-1": 1, 
+      "11-2": 2, 
+      "11-3": 1, 
+      "11-4": 2, 
+      "11-5": 1, 
+      "11-6": 1, 
+      "13-1": 1, 
+      "13-6": 1, 
+      "14-2": 1, 
+      "17-0": 1, 
+      "18-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 15, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ZMS7ZWA3hPtouHFKaAwsGg", 
+    "business_name": "The Brow Boutique", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-4": 1, 
+      "10-5": 1, 
+      "11-5": 1, 
+      "15-2": 2, 
+      "16-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "R4Z7wIDuhw0NZIdcGcQ6hg", 
+    "business_name": "Foxy's Salon Hair & Wax Specialist LLC", 
+    "checkin_info": {
+      "13-4": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "20-2": 1, 
+      "8-2": 1, 
+      "8-5": 2
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "u6Lvyq0Rgt6XcDsEV0SXEA", 
+    "business_name": "Arch Apothecary", 
+    "checkin_info": {
+      "11-1": 1, 
+      "11-6": 2, 
+      "13-2": 1, 
+      "15-2": 1, 
+      "16-1": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Ff40Cw2gMyXA4QbcaFaTFA", 
+    "business_name": "HoneyComb Salon Collective", 
+    "checkin_info": {
+      "12-2": 1, 
+      "12-4": 2, 
+      "9-2": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

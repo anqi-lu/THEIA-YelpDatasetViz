@@ -1,6 +1,7 @@
 [
   {
     "business_id": "DjOxXobyGDwWt89q4z1twg", 
+    "business_name": "Monta Ramen", 
     "checkin_info": {
       "0-1": 2, 
       "0-3": 1, 
@@ -125,10 +126,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 9111, 
     "type": "checkin"
   }, 
   {
     "business_id": "AeKTQBtPRDHLAFL9bzbUnA", 
+    "business_name": "Sushi House Goyemon", 
     "checkin_info": {
       "0-0": 75, 
       "0-1": 47, 
@@ -268,10 +271,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 8227, 
     "type": "checkin"
   }, 
   {
     "business_id": "kgt13cwkP03NS8FJKgdLMw", 
+    "business_name": "Ramen Sora", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -373,10 +378,12 @@
       "7-5": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 5478, 
     "type": "checkin"
   }, 
   {
     "business_id": "4UVhuOLaMm2-34SrW8y-ag", 
+    "business_name": "Ichiza", 
     "checkin_info": {
       "0-0": 63, 
       "0-1": 59, 
@@ -501,10 +508,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 5105, 
     "type": "checkin"
   }, 
   {
     "business_id": "2lF_8RZRBd9STfk_QwAtmg", 
+    "business_name": "Umiya Sushi", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 23, 
@@ -635,10 +644,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 4852, 
     "type": "checkin"
   }, 
   {
     "business_id": "BVCDPqlHMDPLWn9EhdDXNg", 
+    "business_name": "Japanese Curry Zen", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 2, 
@@ -748,10 +759,12 @@
       "7-5": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 4199, 
     "type": "checkin"
   }, 
   {
     "business_id": "h83afVKqwBlA-zOu_vdtEw", 
+    "business_name": "Kyara Japanese Tapas", 
     "checkin_info": {
       "0-0": 44, 
       "0-1": 33, 
@@ -870,10 +883,12 @@
       "9-3": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 3727, 
     "type": "checkin"
   }, 
   {
     "business_id": "ySpNcdz0tSpaPNqefAbfOw", 
+    "business_name": "JINYA Ramen Bar", 
     "checkin_info": {
       "0-0": 51, 
       "0-1": 25, 
@@ -1002,10 +1017,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3682, 
     "type": "checkin"
   }, 
   {
     "business_id": "OwBPjUz2o0J5K3DzcHkBtg", 
+    "business_name": "Soho Japanese Restaurant", 
     "checkin_info": {
       "0-3": 2, 
       "0-5": 1, 
@@ -1122,10 +1139,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3258, 
     "type": "checkin"
   }, 
   {
     "business_id": "yD1dRYi7USzhYVKiqZ7JVg", 
+    "business_name": "Sushi Mon", 
     "checkin_info": {
       "0-0": 13, 
       "0-1": 13, 
@@ -1243,6 +1262,7 @@
       "7-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 3223, 
     "type": "checkin"
   }
 ]

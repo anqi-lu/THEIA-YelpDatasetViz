@@ -1,0 +1,48 @@
+[
+  {
+    "business_id": "h5_W6IBTVySDkJHy8oZUdQ", 
+    "business_name": "U-Haul Moving & Storage of W Towne", 
+    "checkin_info": {
+      "11-5": 1, 
+      "13-4": 1, 
+      "15-0": 1, 
+      "15-3": 1, 
+      "6-0": 1, 
+      "6-3": 1, 
+      "6-4": 1, 
+      "6-5": 2, 
+      "7-0": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MIP-qZ2VW2QlMonxe76k3Q", 
+    "business_name": "U-Haul Moving & Storage at Downtown Campus", 
+    "checkin_info": {
+      "10-5": 1, 
+      "12-2": 1, 
+      "5-5": 1, 
+      "8-0": 1, 
+      "8-5": 1, 
+      "8-6": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "DbwG75e1GSQi0erSIR5aHA", 
+    "business_name": "U-Haul", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-5": 1, 
+      "13-5": 1, 
+      "14-4": 1, 
+      "14-5": 1, 
+      "7-6": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

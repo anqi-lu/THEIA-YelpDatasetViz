@@ -1,6 +1,7 @@
 [
   {
     "business_id": "fkVBloMEFJG2HTgeCxeNDg", 
+    "business_name": "Black Bear Diner", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 2, 
@@ -132,10 +133,12 @@
       "9-5": 68, 
       "9-6": 66
     }, 
+    "total_checkin": 2718, 
     "type": "checkin"
   }, 
   {
     "business_id": "_VN5hYv1VgNIBgwxTQZ_1Q", 
+    "business_name": "Mr. Lucky's 24-7", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 11, 
@@ -305,10 +308,12 @@
       "9-5": 25, 
       "9-6": 19
     }, 
+    "total_checkin": 2131, 
     "type": "checkin"
   }, 
   {
     "business_id": "9c_9SX-7hB7HW8KatQbD8g", 
+    "business_name": "Coronado Cafe", 
     "checkin_info": {
       "0-0": 38, 
       "0-1": 43, 
@@ -475,10 +480,12 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 1957, 
     "type": "checkin"
   }, 
   {
     "business_id": "aLWvaNTOUr1wdOizitoOuA", 
+    "business_name": "Blueberry Hill Family Restaurant", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -645,10 +652,12 @@
       "9-5": 46, 
       "9-6": 51
     }, 
+    "total_checkin": 1817, 
     "type": "checkin"
   }, 
   {
     "business_id": "SBvw-IpLThBeiJF5qs9oMQ", 
+    "business_name": "Marketplace Cafe", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 4, 
@@ -741,10 +750,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 1168, 
     "type": "checkin"
   }, 
   {
     "business_id": "SfrHdU4NCkYWvERnWaOUqQ", 
+    "business_name": "Blueberry Hill Family Restaurant", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -901,10 +912,12 @@
       "9-5": 24, 
       "9-6": 29
     }, 
+    "total_checkin": 1156, 
     "type": "checkin"
   }, 
   {
     "business_id": "Cvfi5N4zR9G05Pbg-Ud-KQ", 
+    "business_name": "Distill - A Local Bar", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 10, 
@@ -1031,10 +1044,12 @@
       "9-3": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 972, 
     "type": "checkin"
   }, 
   {
     "business_id": "RhqrOvy6Zr8vn5pJ9PkF1A", 
+    "business_name": "Wazuzu", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -1141,10 +1156,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 791, 
     "type": "checkin"
   }, 
   {
     "business_id": "TzOTe6yecv99lZuKQ6fPfA", 
+    "business_name": "Raffles Cafe", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -1289,10 +1306,12 @@
       "9-5": 16, 
       "9-6": 15
     }, 
+    "total_checkin": 771, 
     "type": "checkin"
   }, 
   {
     "business_id": "PEsJsa3hXs-lsIPMag0mEg", 
+    "business_name": "Beach Cafe", 
     "checkin_info": {
       "1-4": 1, 
       "1-5": 2, 
@@ -1369,6 +1388,7 @@
       "9-5": 23, 
       "9-6": 45
     }, 
+    "total_checkin": 759, 
     "type": "checkin"
   }
 ]

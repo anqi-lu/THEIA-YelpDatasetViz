@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Fh6OndE60vzvyhCX1Wg7Aw", 
+    "business_name": "In-N-Out Burger", 
     "checkin_info": {
       "0-0": 26, 
       "0-1": 26, 
@@ -149,10 +150,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 4791, 
     "type": "checkin"
   }, 
   {
     "business_id": "Xc8QYWMnGd0KkkJw4CL8-A", 
+    "business_name": "White Castle", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 11, 
@@ -317,10 +320,12 @@
       "9-5": 11, 
       "9-6": 10
     }, 
+    "total_checkin": 2664, 
     "type": "checkin"
   }, 
   {
     "business_id": "u7-9OD_9qc6PDYlMk0-VcA", 
+    "business_name": "Raising Cane's", 
     "checkin_info": {
       "0-0": 4, 
       "0-2": 2, 
@@ -445,10 +450,12 @@
       "9-5": 11, 
       "9-6": 11
     }, 
+    "total_checkin": 2635, 
     "type": "checkin"
   }, 
   {
     "business_id": "npfVfumxVAkQNYpY1fSvew", 
+    "business_name": "Steak 'n Shake", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 5, 
@@ -586,10 +593,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 2577, 
     "type": "checkin"
   }, 
   {
     "business_id": "KcSJUq1kwO8awZRMS6Q49g", 
+    "business_name": "Pink's Hot Dogs", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 4, 
@@ -730,10 +739,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 2456, 
     "type": "checkin"
   }, 
   {
     "business_id": "qQNjHyoFL3_0xugLf8sM2A", 
+    "business_name": "In-N-Out Burger", 
     "checkin_info": {
       "0-0": 16, 
       "0-1": 19, 
@@ -855,10 +866,12 @@
       "9-1": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 2266, 
     "type": "checkin"
   }, 
   {
     "business_id": "K9hZAkRFuyfmLwceX8K4wg", 
+    "business_name": "Chipotle Mexican Grill", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 1, 
@@ -954,10 +967,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 2165, 
     "type": "checkin"
   }, 
   {
     "business_id": "N8cJk5s9yW3fLeJyHQeRAA", 
+    "business_name": "Strip N Dip Chicken Strips", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -1053,10 +1068,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2109, 
     "type": "checkin"
   }, 
   {
     "business_id": "JsPe2EU2oP5eGyEkX1tYLw", 
+    "business_name": "In-N-Out Burger", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 12, 
@@ -1175,10 +1192,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2054, 
     "type": "checkin"
   }, 
   {
     "business_id": "8hnjKa0-bQtvbESv51LoFQ", 
+    "business_name": "Raising Cane's", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -1302,6 +1321,7 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 1908, 
     "type": "checkin"
   }
 ]

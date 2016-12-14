@@ -1,6 +1,7 @@
 [
   {
     "business_id": "WVhTtjj6hPwxbpsK2gs4HQ", 
+    "business_name": "Leatherneck Club of Greater Nv 186", 
     "checkin_info": {
       "0-4": 1, 
       "11-3": 2, 
@@ -52,10 +53,12 @@
       "9-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 80, 
     "type": "checkin"
   }, 
   {
     "business_id": "HtMtetD-F5qYhBxlGMqJkg", 
+    "business_name": "Southern Highlands Golf Club", 
     "checkin_info": {
       "10-1": 1, 
       "10-5": 1, 
@@ -94,10 +97,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "xuomZFq8coa2Mhe08ya4Sw", 
+    "business_name": "Las Vegas Elks Lodge No 1468", 
     "checkin_info": {
       "10-6": 1, 
       "15-1": 1, 
@@ -110,10 +115,12 @@
       "18-5": 4, 
       "19-5": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "L6MFi0QIpdtwdehmJ4H27w", 
+    "business_name": "Caesars Chalet", 
     "checkin_info": {
       "13-3": 1, 
       "15-2": 1, 
@@ -126,10 +133,12 @@
       "23-6": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "HPvdRxMEk7C7XfSFj1dPMw", 
+    "business_name": "Serenity Club", 
     "checkin_info": {
       "12-3": 1, 
       "18-4": 1, 
@@ -139,16 +148,19 @@
       "21-3": 1, 
       "22-3": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "WFmsKiPN-1SaWO16XgpsIA", 
+    "business_name": "Club Oasis", 
     "checkin_info": {
       "1-6": 1, 
       "10-6": 1, 
       "22-5": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

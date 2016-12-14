@@ -1,6 +1,7 @@
 [
   {
     "business_id": "EM4gmlsOVfXT4faEkp8IzQ", 
+    "business_name": "The Birthday Suit", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 2, 
@@ -108,10 +109,12 @@
       "9-5": 29, 
       "9-6": 8
     }, 
+    "total_checkin": 1567, 
     "type": "checkin"
   }, 
   {
     "business_id": "Zi-dpvV3879RgW_LeZ49uQ", 
+    "business_name": "CC Nail Spa", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -201,10 +204,12 @@
       "9-5": 9, 
       "9-6": 1
     }, 
+    "total_checkin": 1327, 
     "type": "checkin"
   }, 
   {
     "business_id": "qcF6SHcGRML7gihfpNl_zA", 
+    "business_name": "Fabulous Eyebrow Threading", 
     "checkin_info": {
       "0-3": 1, 
       "1-1": 1, 
@@ -307,10 +312,12 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 1102, 
     "type": "checkin"
   }, 
   {
     "business_id": "-1tQu_yKCOgOj-WtXmMYIA", 
+    "business_name": "Diamond Nails & Spa", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 7, 
@@ -411,10 +418,12 @@
       "9-4": 15, 
       "9-5": 17
     }, 
+    "total_checkin": 1099, 
     "type": "checkin"
   }, 
   {
     "business_id": "eojCmqNcITAlgy5m0dA7jA", 
+    "business_name": "Creative Nails", 
     "checkin_info": {
       "1-3": 1, 
       "10-0": 4, 
@@ -513,10 +522,12 @@
       "9-5": 10, 
       "9-6": 1
     }, 
+    "total_checkin": 862, 
     "type": "checkin"
   }, 
   {
     "business_id": "QkakO2FKDbhisQmdeEV8gw", 
+    "business_name": "Divine Threading", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 8, 
@@ -612,10 +623,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 855, 
     "type": "checkin"
   }, 
   {
     "business_id": "5tsqcZEvZYTpqux7_IGHVw", 
+    "business_name": "Polished Nails & Spa", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 6, 
@@ -704,10 +717,12 @@
       "9-5": 6, 
       "9-6": 14
     }, 
+    "total_checkin": 755, 
     "type": "checkin"
   }, 
   {
     "business_id": "UC18Q3WOo5jALPtsVaN5UQ", 
+    "business_name": "Modern Nails - Las Vegas", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -813,10 +828,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 748, 
     "type": "checkin"
   }, 
   {
     "business_id": "JOfre9j63Yw9wEWkggxQQw", 
+    "business_name": "Simply Skin Las Vegas", 
     "checkin_info": {
       "0-4": 2, 
       "0-6": 1, 
@@ -910,10 +927,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 548, 
     "type": "checkin"
   }, 
   {
     "business_id": "NC1xlLH-6If4PraDPQaHOQ", 
+    "business_name": "Ulta Beauty", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -997,6 +1016,7 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 460, 
     "type": "checkin"
   }
 ]

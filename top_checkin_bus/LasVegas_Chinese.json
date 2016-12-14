@@ -1,6 +1,7 @@
 [
   {
     "business_id": "FV16IeXJp2W6pnghTz2FAw", 
+    "business_name": "Pho Kim Long", 
     "checkin_info": {
       "0-0": 71, 
       "0-1": 79, 
@@ -171,10 +172,12 @@
       "9-5": 37, 
       "9-6": 61
     }, 
+    "total_checkin": 11597, 
     "type": "checkin"
   }, 
   {
     "business_id": "23SJEjfyU5gxY2chAKhgcw", 
+    "business_name": "Orchids Garden Chinese Restaurant", 
     "checkin_info": {
       "0-2": 1, 
       "1-4": 1, 
@@ -276,10 +279,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3010, 
     "type": "checkin"
   }, 
   {
     "business_id": "cMvN1j-LK64zqmT4vnl8NA", 
+    "business_name": "China Poblano", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -405,10 +410,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2522, 
     "type": "checkin"
   }, 
   {
     "business_id": "MhMFi7hae_KsaK8lHcg0iQ", 
+    "business_name": "Big Wong Restaurant", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -514,10 +521,12 @@
       "8-5": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 2478, 
     "type": "checkin"
   }, 
   {
     "business_id": "8HCC8NuJmdHnEg2XC00NPg", 
+    "business_name": "Pan Asian", 
     "checkin_info": {
       "0-2": 1, 
       "1-5": 1, 
@@ -615,10 +624,12 @@
       "8-1": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 2363, 
     "type": "checkin"
   }, 
   {
     "business_id": "tcphcsPONrP82kUyvcELoA", 
+    "business_name": "Noodle Asia", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 9, 
@@ -755,10 +766,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 2303, 
     "type": "checkin"
   }, 
   {
     "business_id": "P8DQlNd4ZVCtxFsH_QARFQ", 
+    "business_name": "Asian BBQ & Noodles", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -859,10 +872,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 2246, 
     "type": "checkin"
   }, 
   {
     "business_id": "2sn5BECdlYxqQlw1VODDoA", 
+    "business_name": "Wendy's Noodle Cafe", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -960,10 +975,12 @@
       "23-6": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 2176, 
     "type": "checkin"
   }, 
   {
     "business_id": "tI3J5jomrBs--n7r92186g", 
+    "business_name": "Ping Pang Pong", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 2, 
@@ -1105,10 +1122,12 @@
       "9-5": 6, 
       "9-6": 5
     }, 
+    "total_checkin": 1906, 
     "type": "checkin"
   }, 
   {
     "business_id": "QY8CBhPwv6dE4onjhj6MDg", 
+    "business_name": "Veggie House", 
     "checkin_info": {
       "0-1": 1, 
       "1-0": 1, 
@@ -1209,6 +1228,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1897, 
     "type": "checkin"
   }
 ]

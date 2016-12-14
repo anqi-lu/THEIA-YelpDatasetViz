@@ -1,6 +1,7 @@
 [
   {
     "business_id": "szw8OGJlsqaA3i2oe7dn9A", 
+    "business_name": "Jean Philippe Patisserie", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 6, 
@@ -153,10 +154,12 @@
       "9-5": 55, 
       "9-6": 46
     }, 
+    "total_checkin": 4680, 
     "type": "checkin"
   }, 
   {
     "business_id": "GEKcRNoBCISSKDS8531xmg", 
+    "business_name": "Whole Foods Market", 
     "checkin_info": {
       "0-2": 1, 
       "1-0": 1, 
@@ -282,10 +285,12 @@
       "9-5": 46, 
       "9-6": 24
     }, 
+    "total_checkin": 4528, 
     "type": "checkin"
   }, 
   {
     "business_id": "o-0IU3bcuXnxflPo14cjUQ", 
+    "business_name": "Whole Foods Market", 
     "checkin_info": {
       "10-0": 13, 
       "10-1": 13, 
@@ -402,10 +407,12 @@
       "9-5": 17, 
       "9-6": 13
     }, 
+    "total_checkin": 3474, 
     "type": "checkin"
   }, 
   {
     "business_id": "_CHH9KN1bO5cs_GHjQ-r1A", 
+    "business_name": "Max Brenner", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -526,10 +533,12 @@
       "9-5": 21, 
       "9-6": 10
     }, 
+    "total_checkin": 3406, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZgWUM594Yqk52IvBgoIrdA", 
+    "business_name": "M&M's World", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -668,10 +677,12 @@
       "9-5": 14, 
       "9-6": 10
     }, 
+    "total_checkin": 3380, 
     "type": "checkin"
   }, 
   {
     "business_id": "41zxbLn6HZQfME3uWbyM4A", 
+    "business_name": "Sugar Factory", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 14, 
@@ -835,10 +846,12 @@
       "9-5": 17, 
       "9-6": 22
     }, 
+    "total_checkin": 3087, 
     "type": "checkin"
   }, 
   {
     "business_id": "bkm38p8gjvYqzNROj3oYrQ", 
+    "business_name": "Seafood City Supermarket", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -963,10 +976,12 @@
       "9-5": 13, 
       "9-6": 13
     }, 
+    "total_checkin": 2278, 
     "type": "checkin"
   }, 
   {
     "business_id": "4KwEzJyeuHqna7_A_eeI3g", 
+    "business_name": "Cornish Pasty Co.", 
     "checkin_info": {
       "0-4": 3, 
       "0-5": 1, 
@@ -1078,10 +1093,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1822, 
     "type": "checkin"
   }, 
   {
     "business_id": "YxQ1ssiSvjmprGHKygKfcg", 
+    "business_name": "Tonkatsu Kiyoshi", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -1173,10 +1190,12 @@
       "7-4": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 1672, 
     "type": "checkin"
   }, 
   {
     "business_id": "0sktvP-VFkPXvqNHG889Bg", 
+    "business_name": "168 Market", 
     "checkin_info": {
       "0-1": 1, 
       "1-2": 1, 
@@ -1285,6 +1304,7 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 1657, 
     "type": "checkin"
   }
 ]

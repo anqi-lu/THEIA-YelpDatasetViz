@@ -1,6 +1,7 @@
 [
   {
     "business_id": "y4Qyf4PPSOHdQFTr3Zi_KA", 
+    "business_name": "Red Rock Casino Resort & Spa", 
     "checkin_info": {
       "0-0": 33, 
       "0-1": 31, 
@@ -170,10 +171,12 @@
       "9-5": 72, 
       "9-6": 72
     }, 
+    "total_checkin": 11838, 
     "type": "checkin"
   }, 
   {
     "business_id": "WIlklz81DcJkUWJThbnJbQ", 
+    "business_name": "Vdara Hotel", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 18, 
@@ -344,10 +347,12 @@
       "9-5": 66, 
       "9-6": 57
     }, 
+    "total_checkin": 5758, 
     "type": "checkin"
   }, 
   {
     "business_id": "KpZLxHrp2PIP8tLBsPLiww", 
+    "business_name": "The Signature at MGM Grand", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 10, 
@@ -517,10 +522,12 @@
       "9-5": 30, 
       "9-6": 25
     }, 
+    "total_checkin": 2968, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ytf0fFlRb0vB0YlFAvT3w", 
+    "business_name": "The Foot Spa", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -647,10 +654,12 @@
       "9-4": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 1533, 
     "type": "checkin"
   }, 
   {
     "business_id": "-1tQu_yKCOgOj-WtXmMYIA", 
+    "business_name": "Diamond Nails & Spa", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 7, 
@@ -751,10 +760,12 @@
       "9-4": 15, 
       "9-5": 17
     }, 
+    "total_checkin": 1099, 
     "type": "checkin"
   }, 
   {
     "business_id": "dXhrxTIatUPskg7Jn12iXQ", 
+    "business_name": "Imperial Health Spa", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -871,10 +882,12 @@
       "9-5": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 728, 
     "type": "checkin"
   }, 
   {
     "business_id": "dfOFgjhuEp5GdHJhVzjOAA", 
+    "business_name": "Star Foot Spa", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 2, 
@@ -988,10 +1001,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 634, 
     "type": "checkin"
   }, 
   {
     "business_id": "ta6GXjcGAhMlC-KtxX6VfQ", 
+    "business_name": "Canyon Ranch SpaClub", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -1106,10 +1121,12 @@
       "9-5": 21, 
       "9-6": 6
     }, 
+    "total_checkin": 584, 
     "type": "checkin"
   }, 
   {
     "business_id": "cti7RxX1ZLiE8T3OnnQPyw", 
+    "business_name": "Spa & Salon At ARIA", 
     "checkin_info": {
       "0-0": 1, 
       "0-4": 1, 
@@ -1221,10 +1238,12 @@
       "9-5": 9, 
       "9-6": 9
     }, 
+    "total_checkin": 491, 
     "type": "checkin"
   }, 
   {
     "business_id": "kAGNmuKkjcWaWE_wVCjp_w", 
+    "business_name": "Square Colour Salon + Spa", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -1301,6 +1320,7 @@
       "9-4": 3, 
       "9-5": 5
     }, 
+    "total_checkin": 443, 
     "type": "checkin"
   }
 ]

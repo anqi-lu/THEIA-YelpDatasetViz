@@ -1,6 +1,7 @@
 [
   {
     "business_id": "XLN9VC-T3cLW4LVAcFATLw", 
+    "business_name": "Raw Fitness", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -68,10 +69,12 @@
       "9-4": 2, 
       "9-5": 4
     }, 
+    "total_checkin": 236, 
     "type": "checkin"
   }, 
   {
     "business_id": "Cpjt0CxAEmVSgUVsaB30DA", 
+    "business_name": "Vivacity Clinic of Las Vegas", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 9, 
@@ -124,10 +127,12 @@
       "9-4": 7, 
       "9-5": 2
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ob_hSrzS16_JagyTY6vQcw", 
+    "business_name": "TrimBody M.D.", 
     "checkin_info": {
       "0-1": 1, 
       "10-2": 2, 
@@ -179,10 +184,12 @@
       "9-3": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 104, 
     "type": "checkin"
   }, 
   {
     "business_id": "InDIGhu05gRr0lU9Z5Jpfg", 
+    "business_name": "Medi-Slim Weight Loss", 
     "checkin_info": {
       "10-1": 3, 
       "10-4": 5, 
@@ -220,10 +227,12 @@
       "9-4": 4, 
       "9-5": 4
     }, 
+    "total_checkin": 96, 
     "type": "checkin"
   }, 
   {
     "business_id": "qOLmAoYm6Af1PLtsEt9B1g", 
+    "business_name": "Vitality Medical & Wellness Center", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 4, 
@@ -271,10 +280,12 @@
       "9-0": 2, 
       "9-1": 6
     }, 
+    "total_checkin": 95, 
     "type": "checkin"
   }, 
   {
     "business_id": "derO9fAJ0wjv7qqwdPPHsQ", 
+    "business_name": "Wellness Body Wraps Health Studio", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -311,10 +322,12 @@
       "20-4": 2, 
       "21-2": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "HZo4NMFuPO3qqJ5aUfF3JA", 
+    "business_name": "Trimcare", 
     "checkin_info": {
       "10-2": 2, 
       "10-3": 1, 
@@ -349,10 +362,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 47, 
     "type": "checkin"
   }, 
   {
     "business_id": "ApuOPfPPoudDMxzibux8rQ", 
+    "business_name": "TrimBody M.D.", 
     "checkin_info": {
       "10-3": 1, 
       "11-3": 1, 
@@ -385,10 +400,12 @@
       "9-3": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 41, 
     "type": "checkin"
   }, 
   {
     "business_id": "1XQYmShPxp9OrOAei3AyhA", 
+    "business_name": "Crossfit Culmination", 
     "checkin_info": {
       "10-1": 1, 
       "11-4": 2, 
@@ -419,10 +436,12 @@
       "9-1": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 35, 
     "type": "checkin"
   }, 
   {
     "business_id": "a_Bi0FsLOBO_FVYHAql5KQ", 
+    "business_name": "American Laser Skincare", 
     "checkin_info": {
       "10-5": 4, 
       "11-4": 1, 
@@ -445,6 +464,7 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 35, 
     "type": "checkin"
   }
 ]

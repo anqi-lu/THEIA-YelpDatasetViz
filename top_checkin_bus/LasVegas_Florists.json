@@ -1,6 +1,7 @@
 [
   {
     "business_id": "rwyKez8MVAsAjG_edvqBrw", 
+    "business_name": "Trader Joe's", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 4, 
@@ -99,10 +100,12 @@
       "9-5": 9, 
       "9-6": 9
     }, 
+    "total_checkin": 1142, 
     "type": "checkin"
   }, 
   {
     "business_id": "2DoTQ_lN_OvmZUUsd1abDA", 
+    "business_name": "Vons", 
     "checkin_info": {
       "0-0": 4, 
       "0-2": 2, 
@@ -242,10 +245,12 @@
       "9-5": 6, 
       "9-6": 8
     }, 
+    "total_checkin": 647, 
     "type": "checkin"
   }, 
   {
     "business_id": "JCLdgY_YHI0hRMK6iKLITQ", 
+    "business_name": "Vons", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -348,10 +353,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 196, 
     "type": "checkin"
   }, 
   {
     "business_id": "zTZblEEk30OHzIaO1mgvOw", 
+    "business_name": "Flowers of the Field", 
     "checkin_info": {
       "0-3": 1, 
       "10-2": 1, 
@@ -408,10 +415,12 @@
       "9-4": 4, 
       "9-5": 3
     }, 
+    "total_checkin": 87, 
     "type": "checkin"
   }, 
   {
     "business_id": "ORapLduM9k-ra5WV8H-sQA", 
+    "business_name": "Fresh & Easy Neighborhood Market", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 1, 
@@ -442,10 +451,12 @@
       "20-0": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "5hc4-EyYjo1yJZzQaAStTg", 
+    "business_name": "English Garden Florist", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 3, 
@@ -475,10 +486,12 @@
       "18-0": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 41, 
     "type": "checkin"
   }, 
   {
     "business_id": "7ObdQwOf_WB3PDNOIoKudQ", 
+    "business_name": "The Dancing Dandelion Flower Shop", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -508,10 +521,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "9nPCKf268xToQ-eHK_cx3g", 
+    "business_name": "Thimbleberry House", 
     "checkin_info": {
       "10-3": 1, 
       "11-1": 2, 
@@ -538,10 +553,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "k0VEyL0Fk7QCGM-ffDme4A", 
+    "business_name": "Edible Arrangements", 
     "checkin_info": {
       "10-4": 2, 
       "11-1": 1, 
@@ -563,10 +580,12 @@
       "8-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "3LfH5A6ZpA8pI5Yh8Rt1tg", 
+    "business_name": "Mayesh Wholesale Florist", 
     "checkin_info": {
       "10-4": 1, 
       "11-0": 1, 
@@ -587,6 +606,7 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 22, 
     "type": "checkin"
   }
 ]

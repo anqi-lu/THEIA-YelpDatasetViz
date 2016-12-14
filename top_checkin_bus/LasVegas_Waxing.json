@@ -1,6 +1,7 @@
 [
   {
     "business_id": "EM4gmlsOVfXT4faEkp8IzQ", 
+    "business_name": "The Birthday Suit", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 2, 
@@ -108,10 +109,12 @@
       "9-5": 29, 
       "9-6": 8
     }, 
+    "total_checkin": 1567, 
     "type": "checkin"
   }, 
   {
     "business_id": "5tsqcZEvZYTpqux7_IGHVw", 
+    "business_name": "Polished Nails & Spa", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 6, 
@@ -200,10 +203,12 @@
       "9-5": 6, 
       "9-6": 14
     }, 
+    "total_checkin": 755, 
     "type": "checkin"
   }, 
   {
     "business_id": "UC18Q3WOo5jALPtsVaN5UQ", 
+    "business_name": "Modern Nails - Las Vegas", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -309,10 +314,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 748, 
     "type": "checkin"
   }, 
   {
     "business_id": "EUeNB6nu1E8AZMT2X4l-Uw", 
+    "business_name": "Nailed and Lashed", 
     "checkin_info": {
       "0-4": 1, 
       "1-6": 1, 
@@ -407,10 +414,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 449, 
     "type": "checkin"
   }, 
   {
     "business_id": "roymvpm55gNjDRf-es2PKg", 
+    "business_name": "Elan Nails & Spa", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 2, 
@@ -491,10 +500,12 @@
       "9-1": 2, 
       "9-2": 1
     }, 
+    "total_checkin": 322, 
     "type": "checkin"
   }, 
   {
     "business_id": "Km6yIS2QcOKjdbIqYMoHBw", 
+    "business_name": "My Pedi Nails & Spa", 
     "checkin_info": {
       "0-2": 1, 
       "1-0": 1, 
@@ -578,10 +589,12 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 316, 
     "type": "checkin"
   }, 
   {
     "business_id": "wuMno2zM6nxLinBZ0ug03g", 
+    "business_name": "Candy Nails Spa", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -654,10 +667,12 @@
       "9-4": 7, 
       "9-5": 9
     }, 
+    "total_checkin": 281, 
     "type": "checkin"
   }, 
   {
     "business_id": "1qz9hDBtEPyvUlbMq5gacg", 
+    "business_name": "Miki Nail Bar", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -731,10 +746,12 @@
       "9-3": 1, 
       "9-5": 6
     }, 
+    "total_checkin": 274, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZEV4C2QAnjQZb3fQ4M0fBA", 
+    "business_name": "Divine Threading West Sahara", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 3, 
@@ -807,10 +824,12 @@
       "23-2": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 258, 
     "type": "checkin"
   }, 
   {
     "business_id": "dKdOLwdpXiDGIZ3-rGl48Q", 
+    "business_name": "WAX Hair Removal Bar", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -882,6 +901,7 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 222, 
     "type": "checkin"
   }
 ]

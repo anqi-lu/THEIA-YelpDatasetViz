@@ -1,6 +1,7 @@
 [
   {
     "business_id": "DWU6qqrlrC4wDkxhbHo8Tw", 
+    "business_name": "Kung Fu Tea", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -124,10 +125,12 @@
       "8-6": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 17810, 
     "type": "checkin"
   }, 
   {
     "business_id": "2lt03ZLGvgPApOKS7eKGOQ", 
+    "business_name": "Grouchy John's Coffee Shop", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -263,10 +266,12 @@
       "9-5": 100, 
       "9-6": 104
     }, 
+    "total_checkin": 7756, 
     "type": "checkin"
   }, 
   {
     "business_id": "pwF_phwjD1ZHsY1xC9H7mA", 
+    "business_name": "Sunrise Coffee", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -399,10 +404,12 @@
       "9-5": 134, 
       "9-6": 127
     }, 
+    "total_checkin": 5913, 
     "type": "checkin"
   }, 
   {
     "business_id": "bqYrEwL5xjqv0u8XAij--Q", 
+    "business_name": "Tea Station", 
     "checkin_info": {
       "0-0": 55, 
       "0-1": 52, 
@@ -532,10 +539,12 @@
       "9-1": 1, 
       "9-2": 3
     }, 
+    "total_checkin": 5006, 
     "type": "checkin"
   }, 
   {
     "business_id": "59U8McUEjsRC_7h4ALk12Q", 
+    "business_name": "Easy Life Boba Tea", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 1, 
@@ -630,10 +639,12 @@
       "4-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 4124, 
     "type": "checkin"
   }, 
   {
     "business_id": "YppzR-sn8y15dmUd1lLcfw", 
+    "business_name": "Sambalatte Torrefazione", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -763,10 +774,12 @@
       "9-5": 36, 
       "9-6": 47
     }, 
+    "total_checkin": 3887, 
     "type": "checkin"
   }, 
   {
     "business_id": "OHsuvX4rmhnPvvRBb-QK7A", 
+    "business_name": "Baguette Cafe", 
     "checkin_info": {
       "1-1": 1, 
       "1-2": 1, 
@@ -871,10 +884,12 @@
       "9-5": 36, 
       "9-6": 24
     }, 
+    "total_checkin": 3516, 
     "type": "checkin"
   }, 
   {
     "business_id": "pmPqJ6N35WgibLWivJ0p2g", 
+    "business_name": "BAMBU", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -980,10 +995,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3459, 
     "type": "checkin"
   }, 
   {
     "business_id": "yXMvhCmUADlaHabo-DiUYw", 
+    "business_name": "Starbucks", 
     "checkin_info": {
       "0-0": 13, 
       "0-1": 9, 
@@ -1154,10 +1171,12 @@
       "9-5": 31, 
       "9-6": 13
     }, 
+    "total_checkin": 2885, 
     "type": "checkin"
   }, 
   {
     "business_id": "lcq2CBlGdnVWzTDlrBAJ7w", 
+    "business_name": "Serenade", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 20, 
@@ -1287,6 +1306,7 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 2598, 
     "type": "checkin"
   }
 ]

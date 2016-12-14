@@ -1,6 +1,7 @@
 [
   {
     "business_id": "vypbBexHcr-5k4l8LQIF6w", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 6, 
@@ -66,10 +67,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 150, 
     "type": "checkin"
   }, 
   {
     "business_id": "I3AF57q9EyNALE9rA37o6A", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -134,10 +137,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 120, 
     "type": "checkin"
   }, 
   {
     "business_id": "XTBnnAdwiSGRbj_epYcxeg", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-3": 1, 
       "0-6": 1, 
@@ -183,10 +188,12 @@
       "7-2": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "ejx-rekLkZ2RkNgSejf0pA", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -231,10 +238,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 54, 
     "type": "checkin"
   }, 
   {
     "business_id": "rnAMWPtRbV75IPMpLgAyVA", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-3": 2, 
       "10-5": 1, 
@@ -271,10 +280,12 @@
       "9-2": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "EvkHHcaECY_SpWVKlhZ5Iw", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "11-3": 1, 
       "11-4": 1, 
@@ -319,10 +330,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 49, 
     "type": "checkin"
   }, 
   {
     "business_id": "XT0JZh05eofb-eSkoxJfJw", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -355,10 +368,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "WIDZSGjX4GGKIp1nZoHepg", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-5": 3, 
       "11-0": 1, 
@@ -390,10 +405,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "oL5o4xUsLHubHDOTbWVo9Q", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-1": 2, 
       "10-3": 2, 
@@ -420,10 +437,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "EnRZNWcH8sziqEnbRnIFsQ", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "11-1": 1, 
       "13-5": 1, 
@@ -447,6 +466,7 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }
 ]

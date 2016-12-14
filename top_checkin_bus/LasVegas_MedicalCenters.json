@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7m8oZJcsjHVyaBGZ1PDD4A", 
+    "business_name": "UNLV Student Recreation and Wellness Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 4, 
@@ -141,10 +142,12 @@
       "9-4": 13, 
       "9-5": 20
     }, 
+    "total_checkin": 2605, 
     "type": "checkin"
   }, 
   {
     "business_id": "XzInO2PCkP-e3_Y2dpYSRw", 
+    "business_name": "Summerlin Hospital Medical Center", 
     "checkin_info": {
       "0-3": 3, 
       "0-4": 2, 
@@ -305,10 +308,12 @@
       "9-5": 19, 
       "9-6": 18
     }, 
+    "total_checkin": 1739, 
     "type": "checkin"
   }, 
   {
     "business_id": "LwUxmAZ_l3yvRPnrQi6n3w", 
+    "business_name": "Valley Hospital Medical Center", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -455,10 +460,12 @@
       "9-5": 5, 
       "9-6": 4
     }, 
+    "total_checkin": 1219, 
     "type": "checkin"
   }, 
   {
     "business_id": "xKUlhZEaPzYMjWy5BLq7IQ", 
+    "business_name": "University Medical Center", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -613,10 +620,12 @@
       "9-5": 9, 
       "9-6": 5
     }, 
+    "total_checkin": 975, 
     "type": "checkin"
   }, 
   {
     "business_id": "mBGzE7gsSwsnVSAhsdvSJQ", 
+    "business_name": "Sunrise Hospital & Medical Center", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -776,10 +785,12 @@
       "9-5": 4, 
       "9-6": 4
     }, 
+    "total_checkin": 913, 
     "type": "checkin"
   }, 
   {
     "business_id": "LnJ06mW_7M68POxVzlXPPg", 
+    "business_name": "Spring Valley Hospital Medical Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -941,10 +952,12 @@
       "9-5": 6, 
       "9-6": 3
     }, 
+    "total_checkin": 767, 
     "type": "checkin"
   }, 
   {
     "business_id": "GGJ40NHgrrhgb2kWfDo0yw", 
+    "business_name": "Southwest Medical Associates at Eastern", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 1, 
@@ -1021,10 +1034,12 @@
       "9-4": 10, 
       "9-5": 3
     }, 
+    "total_checkin": 377, 
     "type": "checkin"
   }, 
   {
     "business_id": "FSK_pCLBx0juu9yQIEQArw", 
+    "business_name": "Procare Medical Center", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 2, 
@@ -1109,10 +1124,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 262, 
     "type": "checkin"
   }, 
   {
     "business_id": "kiaLMaCfT3_PntQdsAcUHA", 
+    "business_name": "Southern Nevada Health District", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 2, 
@@ -1168,10 +1185,12 @@
       "9-3": 1, 
       "9-4": 8
     }, 
+    "total_checkin": 241, 
     "type": "checkin"
   }, 
   {
     "business_id": "_-Zvvo3rHcD7fEnnj40ESA", 
+    "business_name": "CSL Plasma", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -1233,6 +1252,7 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 176, 
     "type": "checkin"
   }
 ]

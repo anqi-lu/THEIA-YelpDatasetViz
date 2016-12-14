@@ -1,0 +1,38 @@
+[
+  {
+    "business_id": "7SZTBxMLeVAZ7s_Qqelc1w", 
+    "business_name": "Carolina Sports Clinic", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-2": 1, 
+      "11-4": 1, 
+      "13-3": 1, 
+      "15-1": 1, 
+      "6-0": 1, 
+      "6-5": 1, 
+      "7-3": 1, 
+      "7-4": 1, 
+      "8-0": 1, 
+      "8-3": 1, 
+      "8-4": 1, 
+      "9-1": 1, 
+      "9-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 15, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "kVCDJNrMSOaKfJVN7oy6Rg", 
+    "business_name": "Steele Creek Physical Therapy & Balance Center", 
+    "checkin_info": {
+      "10-4": 1, 
+      "12-4": 1, 
+      "6-2": 1, 
+      "6-3": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

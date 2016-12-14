@@ -1,6 +1,7 @@
 [
   {
     "business_id": "gGlsWf8-rYHv7XvAdI7h8g", 
+    "business_name": "Moon Valley's Plant World Nursery", 
     "checkin_info": {
       "10-0": 3, 
       "10-4": 1, 
@@ -51,10 +52,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 140, 
     "type": "checkin"
   }, 
   {
     "business_id": "tDbgNLNxTOrV1ZIPkKOVNA", 
+    "business_name": "Moon Valley Nurseries", 
     "checkin_info": {
       "0-3": 1, 
       "10-5": 1, 
@@ -74,10 +77,12 @@
       "17-5": 1, 
       "21-2": 1
     }, 
+    "total_checkin": 25, 
     "type": "checkin"
   }, 
   {
     "business_id": "630nWU80ip-p4ecdiIQceA", 
+    "business_name": "Affordable Tree Service", 
     "checkin_info": {
       "10-5": 1, 
       "11-4": 1, 
@@ -85,6 +90,7 @@
       "21-1": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

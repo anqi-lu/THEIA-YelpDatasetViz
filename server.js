@@ -41,11 +41,10 @@ app.listen(process.env.PORT || port, function() {
 //function to handle requests from table.html
 function search(req, res){
     yelp.search({term:'food', location:'Carlifornia', limit: 10})
-        .then(function (data) { 
+        .then(function (data) {
             //console.log(data);
             var output = JSON.parse(data);
-            //console.log(output);
-            console.log(output.total)
+            //console.log(output.total)
             res.end(JSON.stringify(output))
         })
         .catch(function (err) { console.error(err);});
@@ -69,7 +68,6 @@ function getInfo(req, res){
         chunk += data;
     })
     req.on('end', function(data) {
-        //console.log(chunk)
         var obj = chunk.split(",")
         var busInfoPromise = obj.map(getSingleBus)
         Promise.all(busInfoPromise).then(function(businfo){
@@ -78,7 +76,5 @@ function getInfo(req, res){
         }).catch(function(businfo){
             console.log("Error Occurs")
         })
-    }) 
+    })
 }
-
-

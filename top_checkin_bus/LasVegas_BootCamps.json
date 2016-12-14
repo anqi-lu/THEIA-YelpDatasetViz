@@ -1,6 +1,7 @@
 [
   {
     "business_id": "QkAv4k5aB6SwNRNK7q19ug", 
+    "business_name": "TruFusion", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 31, 
@@ -128,10 +129,12 @@
       "9-5": 69, 
       "9-6": 45
     }, 
+    "total_checkin": 2401, 
     "type": "checkin"
   }, 
   {
     "business_id": "f7MFBQGPKbTBOZtlSCI3KA", 
+    "business_name": "103 Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 5, 
@@ -235,10 +238,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 877, 
     "type": "checkin"
   }, 
   {
     "business_id": "gbyfI_qUI7soClnUhpiNoQ", 
+    "business_name": "Shine Alternative Fitness", 
     "checkin_info": {
       "0-1": 1, 
       "1-4": 1, 
@@ -318,10 +323,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 289, 
     "type": "checkin"
   }, 
   {
     "business_id": "uDpgzJbmLCHltPXYcnRNwA", 
+    "business_name": "Body Heat Hot Pilates & Yoga", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -409,10 +416,12 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 271, 
     "type": "checkin"
   }, 
   {
     "business_id": "XLN9VC-T3cLW4LVAcFATLw", 
+    "business_name": "Raw Fitness", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -480,10 +489,12 @@
       "9-4": 2, 
       "9-5": 4
     }, 
+    "total_checkin": 236, 
     "type": "checkin"
   }, 
   {
     "business_id": "0PvX7W9aW52qAsSKE5Fxvw", 
+    "business_name": "CAC CrossFit", 
     "checkin_info": {
       "11-0": 11, 
       "11-1": 8, 
@@ -550,10 +561,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 223, 
     "type": "checkin"
   }, 
   {
     "business_id": "DfmbZZYHCo5Ny9dg6Oc_kA", 
+    "business_name": "CrossFit New You", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 4, 
@@ -611,10 +624,12 @@
       "9-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 145, 
     "type": "checkin"
   }, 
   {
     "business_id": "avfI9KbFc82eDQb7RoOpLQ", 
+    "business_name": "Body Focus Fitness", 
     "checkin_info": {
       "0-3": 1, 
       "10-3": 1, 
@@ -673,10 +688,12 @@
       "8-3": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 92, 
     "type": "checkin"
   }, 
   {
     "business_id": "c8gFVFTTAVXLuPUbmsxObw", 
+    "business_name": "Rhino CrossFit", 
     "checkin_info": {
       "10-2": 2, 
       "10-4": 1, 
@@ -740,10 +757,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 87, 
     "type": "checkin"
   }, 
   {
     "business_id": "QuUsXBrzxY-5usXqzRgEcw", 
+    "business_name": "Sweat Body Lounge", 
     "checkin_info": {
       "10-1": 2, 
       "10-5": 6, 
@@ -791,6 +810,7 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 73, 
     "type": "checkin"
   }
 ]

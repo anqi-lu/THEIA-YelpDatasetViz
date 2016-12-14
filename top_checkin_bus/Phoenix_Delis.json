@@ -1,6 +1,7 @@
 [
   {
     "business_id": "KV-yJLmlODfUG1Mkds6kYw", 
+    "business_name": "Chompie's Deli", 
     "checkin_info": {
       "10-0": 16, 
       "10-1": 10, 
@@ -113,10 +114,12 @@
       "9-5": 45, 
       "9-6": 38
     }, 
+    "total_checkin": 1229, 
     "type": "checkin"
   }, 
   {
     "business_id": "Kh7cW1rcbxzsgTzAfqEcGw", 
+    "business_name": "The Bagel Man", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 10, 
@@ -197,10 +200,12 @@
       "9-5": 46, 
       "9-6": 44
     }, 
+    "total_checkin": 940, 
     "type": "checkin"
   }, 
   {
     "business_id": "4ekebF5aRXdIFeHkDggixg", 
+    "business_name": "McAlister's Deli", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 3, 
@@ -281,10 +286,12 @@
       "7-4": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 685, 
     "type": "checkin"
   }, 
   {
     "business_id": "Lo0dRIDKXc5mlE-coVZrtQ", 
+    "business_name": "Chloe's Corner", 
     "checkin_info": {
       "10-0": 8, 
       "10-1": 6, 
@@ -374,10 +381,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 660, 
     "type": "checkin"
   }, 
   {
     "business_id": "fmuj7u1gflmEjW-h0v9bwg", 
+    "business_name": "Miracle Mile Delicatessen", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 4, 
@@ -462,10 +471,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 563, 
     "type": "checkin"
   }, 
   {
     "business_id": "-4RFDwrW_OI39zA55FqDpw", 
+    "business_name": "Miracle Mile Delicatessen", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 7, 
@@ -548,10 +559,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 462, 
     "type": "checkin"
   }, 
   {
     "business_id": "-NOet8xJLGhX-eUzSIDc2Q", 
+    "business_name": "Firehouse Subs", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 9, 
@@ -637,10 +650,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 460, 
     "type": "checkin"
   }, 
   {
     "business_id": "KNIw6kwf8LZkrS1lEnaLiw", 
+    "business_name": "Einstein Bros Bagels", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -702,10 +717,12 @@
       "9-5": 50, 
       "9-6": 22
     }, 
+    "total_checkin": 449, 
     "type": "checkin"
   }, 
   {
     "business_id": "5Js9G0axfWhbYlB9UgXLww", 
+    "business_name": "Einstein Bros Bagels", 
     "checkin_info": {
       "10-0": 4, 
       "10-2": 1, 
@@ -772,10 +789,12 @@
       "9-5": 27, 
       "9-6": 24
     }, 
+    "total_checkin": 427, 
     "type": "checkin"
   }, 
   {
     "business_id": "IPsG_71MD8pwB9i3TKOJYg", 
+    "business_name": "Middle Eastern Bakery & Deli", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 2, 
@@ -850,6 +869,7 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 413, 
     "type": "checkin"
   }
 ]

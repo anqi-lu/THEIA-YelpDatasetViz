@@ -1,6 +1,7 @@
 [
   {
     "business_id": "CzHM_a2Y7OHIjpkMPciM-A", 
+    "business_name": "UFC Gym", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -106,10 +107,12 @@
       "9-5": 8, 
       "9-6": 4
     }, 
+    "total_checkin": 737, 
     "type": "checkin"
   }, 
   {
     "business_id": "QpxsouAalw9-u3xqL_Q2Dw", 
+    "business_name": "Revolution Fitness", 
     "checkin_info": {
       "10-0": 9, 
       "10-1": 9, 
@@ -215,10 +218,12 @@
       "9-5": 13, 
       "9-6": 7
     }, 
+    "total_checkin": 656, 
     "type": "checkin"
   }, 
   {
     "business_id": "UVOVOdUTrIGnoX38G8LkQA", 
+    "business_name": "iLoveKickboxing.com", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -283,10 +288,12 @@
       "9-5": 28, 
       "9-6": 8
     }, 
+    "total_checkin": 403, 
     "type": "checkin"
   }, 
   {
     "business_id": "G946CmZ2NtOeOSftF8tbxg", 
+    "business_name": "Cobra Kai Jiu-Jitsu", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 2, 
@@ -344,10 +351,12 @@
       "8-1": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 157, 
     "type": "checkin"
   }, 
   {
     "business_id": "4dm-u67RqxEqEFvAEERLuA", 
+    "business_name": "Gracie Brazilian Jiu Jitsu Las Vegas", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -398,10 +407,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 105, 
     "type": "checkin"
   }, 
   {
     "business_id": "XV41BBRRzP3wZjqsulqUQQ", 
+    "business_name": "Mayweather Boxing Club", 
     "checkin_info": {
       "0-5": 1, 
       "1-6": 1, 
@@ -455,10 +466,12 @@
       "8-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 73, 
     "type": "checkin"
   }, 
   {
     "business_id": "KqnFpi5Y1PnojuOAw1PHMg", 
+    "business_name": "UFC GYM North Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -498,10 +511,12 @@
       "9-4": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 60, 
     "type": "checkin"
   }, 
   {
     "business_id": "MbAfyW5ub0z1czZgG2jKDA", 
+    "business_name": "Dethrone Basecamp Fitness Studio", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -523,10 +538,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 41, 
     "type": "checkin"
   }, 
   {
     "business_id": "jnrZy5M1wiO88pp-1seh0w", 
+    "business_name": "One Kick's Gym", 
     "checkin_info": {
       "10-3": 1, 
       "12-1": 1, 
@@ -548,10 +565,12 @@
       "20-5": 1, 
       "21-0": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "JU4Yv5bb6I7WuwPPyV65sA", 
+    "business_name": "Legends Gym", 
     "checkin_info": {
       "10-4": 1, 
       "11-0": 1, 
@@ -565,6 +584,7 @@
       "15-3": 2, 
       "18-3": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }
 ]

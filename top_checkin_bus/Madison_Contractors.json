@@ -1,0 +1,15 @@
+[
+  {
+    "business_id": "CaczZDtFMnLT2hv5cyuBzw", 
+    "business_name": "Dykman's Time Shop", 
+    "checkin_info": {
+      "11-1": 1, 
+      "14-2": 1, 
+      "15-1": 1, 
+      "8-3": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

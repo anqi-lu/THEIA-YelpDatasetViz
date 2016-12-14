@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AvygTNZWFBDJEuCVffoC0g", 
+    "business_name": "Samurai Motors", 
     "checkin_info": {
       "0-3": 1, 
       "10-3": 2, 
@@ -57,10 +58,12 @@
       "9-4": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 111, 
     "type": "checkin"
   }, 
   {
     "business_id": "Mf0aqoVP4NYpKP0bx9JN8g", 
+    "business_name": "Don's DI Auto Repair Service", 
     "checkin_info": {
       "10-1": 1, 
       "10-5": 3, 
@@ -113,10 +116,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 72, 
     "type": "checkin"
   }, 
   {
     "business_id": "eITlhmrOyXhhzyLFKCsPQQ", 
+    "business_name": "AAMCO Transmissions", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 1, 
@@ -143,10 +148,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 35, 
     "type": "checkin"
   }, 
   {
     "business_id": "JmQ4aQ6l18L74Z2d2Lvd8g", 
+    "business_name": "American Auto Care", 
     "checkin_info": {
       "11-5": 1, 
       "11-6": 1, 
@@ -161,10 +168,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "toQQKbK2TWSkAZyCrYwqoA", 
+    "business_name": "Dad's Garage Auto Repair", 
     "checkin_info": {
       "11-0": 1, 
       "13-0": 1, 
@@ -175,10 +184,12 @@
       "8-3": 1, 
       "8-4": 2
     }, 
+    "total_checkin": 9, 
     "type": "checkin"
   }, 
   {
     "business_id": "-WQyejsVap_tzoFHjdjqkQ", 
+    "business_name": "American Made Mobile Mechanics", 
     "checkin_info": {
       "10-0": 1, 
       "11-2": 1, 
@@ -188,10 +199,12 @@
       "16-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "s96YE03MNZYtYQEUmp8ngg", 
+    "business_name": "Good Care Transmission", 
     "checkin_info": {
       "14-2": 1, 
       "17-4": 1, 
@@ -199,33 +212,40 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "7h-iS4cKXUGFJtNJhsMH0w", 
+    "business_name": "M T Auto Repair", 
     "checkin_info": {
       "16-4": 1, 
       "7-3": 1, 
       "8-2": 2
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }, 
   {
     "business_id": "sxs5ZZMEePnzYcNNF1fzZg", 
+    "business_name": "AAMCO Transmissions & Total Car Care", 
     "checkin_info": {
       "12-0": 1, 
       "12-1": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "aQCdHF1_dNsMSg_Sh3RXwQ", 
+    "business_name": "AAMCO Transmissions Inc", 
     "checkin_info": {
       "11-2": 1, 
       "12-3": 1, 
       "13-4": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "35YgKLvRjU1z_Ya5hFgqug", 
+    "business_name": "Batteries Plus Bulbs", 
     "checkin_info": {
       "10-5": 1, 
       "11-2": 1, 
@@ -42,10 +43,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "4ziGP1LXWmwRWtmiuLFQ6A", 
+    "business_name": "Lamps Plus", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -79,10 +82,12 @@
       "20-2": 1, 
       "20-5": 1
     }, 
+    "total_checkin": 45, 
     "type": "checkin"
   }, 
   {
     "business_id": "J6B05LIvRBw6zbbukRWzrQ", 
+    "business_name": "Fanco", 
     "checkin_info": {
       "11-2": 1, 
       "11-5": 2, 
@@ -100,10 +105,12 @@
       "18-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "lj5KMvO7Q72w96VaN-gEhA", 
+    "business_name": "Batteries Plus Bulbs", 
     "checkin_info": {
       "10-4": 1, 
       "10-5": 1, 
@@ -119,10 +126,12 @@
       "18-2": 1, 
       "18-6": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "giIMTJ5Om8wRKhAQRF1RQg", 
+    "business_name": "Lamps Plus", 
     "checkin_info": {
       "10-4": 3, 
       "11-4": 2, 
@@ -134,10 +143,12 @@
       "16-4": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "TaP768_lOjnOtRI-Uy4uvQ", 
+    "business_name": "Bulbman", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 1, 
@@ -149,10 +160,12 @@
       "17-4": 1, 
       "7-0": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "pcD4pSX2UAF1S0YyNt7orQ", 
+    "business_name": "Batteries Plus Bulbs", 
     "checkin_info": {
       "10-6": 1, 
       "14-5": 1, 
@@ -162,6 +175,7 @@
       "17-2": 1, 
       "17-5": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "8aAYdZKtMZfs_wSXQi630w", 
+    "business_name": "Laugh Factory", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -65,10 +66,12 @@
       "8-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 257, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZzCR1IzhoCt3Kf-1l0DlVQ", 
+    "business_name": "Sin City Comedy Show", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -123,10 +126,12 @@
       "22-6": 2, 
       "7-0": 1
     }, 
+    "total_checkin": 194, 
     "type": "checkin"
   }, 
   {
     "business_id": "-E4VgEmeRZegu1BomYtyQQ", 
+    "business_name": "Jeff Civillico: Comedy In Action", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -179,10 +184,12 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 186, 
     "type": "checkin"
   }, 
   {
     "business_id": "T6L0z62IxFZ6-zijPkXErg", 
+    "business_name": "Ja-Makin-Me-Laugh", 
     "checkin_info": {
       "11-6": 1, 
       "13-0": 6, 
@@ -209,10 +216,12 @@
       "8-4": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 144, 
     "type": "checkin"
   }, 
   {
     "business_id": "hp_zNe_BcfC5Y9-f49DKDA", 
+    "business_name": "Brad Garrett's Comedy Club", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 1, 
@@ -256,10 +265,12 @@
       "23-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 130, 
     "type": "checkin"
   }, 
   {
     "business_id": "YBALvUEqdq2QK07YKxcaUg", 
+    "business_name": "Beacher's Madhouse", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 3, 
@@ -301,10 +312,12 @@
       "5-4": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 123, 
     "type": "checkin"
   }, 
   {
     "business_id": "xq1Ln_tXNjpbEBeU-UmAlw", 
+    "business_name": "L.A. Comedy Club", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -339,10 +352,12 @@
       "23-6": 1, 
       "7-6": 1
     }, 
+    "total_checkin": 116, 
     "type": "checkin"
   }, 
   {
     "business_id": "y7hij1ZlBKwJQ5tHxQ1SOw", 
+    "business_name": "King's Room", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -393,10 +408,12 @@
       "23-6": 1, 
       "3-5": 1
     }, 
+    "total_checkin": 102, 
     "type": "checkin"
   }, 
   {
     "business_id": "YA3Gy5YS5XSO_pRBIywJJg", 
+    "business_name": "Gordie Brown", 
     "checkin_info": {
       "11-3": 1, 
       "13-4": 1, 
@@ -426,10 +443,12 @@
       "23-5": 1, 
       "3-6": 1
     }, 
+    "total_checkin": 99, 
     "type": "checkin"
   }, 
   {
     "business_id": "4J07YpEObJ78lyaQhN8GbQ", 
+    "business_name": "Riviera Comedy Club Theatre", 
     "checkin_info": {
       "0-6": 1, 
       "13-5": 1, 
@@ -463,6 +482,7 @@
       "22-6": 1, 
       "7-2": 1
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }
 ]

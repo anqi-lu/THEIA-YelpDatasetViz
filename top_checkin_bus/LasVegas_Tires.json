@@ -1,6 +1,7 @@
 [
   {
     "business_id": "kDn-Lk5fmjc7dLYZUlkEeA", 
+    "business_name": "Busy Buggy", 
     "checkin_info": {
       "0-4": 2, 
       "1-3": 1, 
@@ -91,10 +92,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 332, 
     "type": "checkin"
   }, 
   {
     "business_id": "KmiD3svhpwH9K0VSJe2SWQ", 
+    "business_name": "Discount Tire Store - Las Vegas, NV", 
     "checkin_info": {
       "1-3": 1, 
       "10-0": 5, 
@@ -175,10 +178,12 @@
       "9-4": 3, 
       "9-5": 7
     }, 
+    "total_checkin": 257, 
     "type": "checkin"
   }, 
   {
     "business_id": "HmNXiIfi1qPgYnSmleXHrw", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -264,10 +269,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 246, 
     "type": "checkin"
   }, 
   {
     "business_id": "0DKHxf4Tb1FNoK8tOMKs6w", 
+    "business_name": "Discount Tire Store - Las Vegas, NV", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 3, 
@@ -331,10 +338,12 @@
       "9-3": 3, 
       "9-4": 4
     }, 
+    "total_checkin": 197, 
     "type": "checkin"
   }, 
   {
     "business_id": "6X2vMdlLK0ycefd723CPNw", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "0-6": 1, 
       "1-4": 1, 
@@ -417,10 +426,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 194, 
     "type": "checkin"
   }, 
   {
     "business_id": "2L2BOExBP6lqWyK-gFylBA", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -508,10 +519,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 192, 
     "type": "checkin"
   }, 
   {
     "business_id": "sTLaqlyAzaUBtyc9QxBa-A", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "0-4": 1, 
       "10-2": 2, 
@@ -583,10 +596,12 @@
       "9-4": 1, 
       "9-5": 6
     }, 
+    "total_checkin": 141, 
     "type": "checkin"
   }, 
   {
     "business_id": "QemK3ynUfiYGmdhv0k8vkA", 
+    "business_name": "Discount Tire Store - Las Vegas, NV", 
     "checkin_info": {
       "10-0": 6, 
       "10-3": 4, 
@@ -640,10 +655,12 @@
       "9-4": 3, 
       "9-5": 3
     }, 
+    "total_checkin": 138, 
     "type": "checkin"
   }, 
   {
     "business_id": "gPdZmh3NnBorQiprxprTpA", 
+    "business_name": "Superior Tire - Goodyear Auto Service Center", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -711,10 +728,12 @@
       "9-3": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 130, 
     "type": "checkin"
   }, 
   {
     "business_id": "Up310reV6k3VsgfltnnK9Q", 
+    "business_name": "Liberty Tech and Tire", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -780,6 +799,7 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 117, 
     "type": "checkin"
   }
 ]

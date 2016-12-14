@@ -1,6 +1,7 @@
 [
   {
     "business_id": "0UZ31UTcOLRKuqPqPe-VBA", 
+    "business_name": "Chase Field", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -142,10 +143,12 @@
       "9-5": 18, 
       "9-6": 8
     }, 
+    "total_checkin": 7682, 
     "type": "checkin"
   }, 
   {
     "business_id": "sR9lSQiTuBg8zsIw9Zd-Dg", 
+    "business_name": "Camelback Village Racquet & Health Club", 
     "checkin_info": {
       "10-0": 12, 
       "10-1": 15, 
@@ -273,10 +276,12 @@
       "9-5": 90, 
       "9-6": 65
     }, 
+    "total_checkin": 4873, 
     "type": "checkin"
   }, 
   {
     "business_id": "6rijZ1qIjiq1Dgdy35iqxw", 
+    "business_name": "Camelback Mountain", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 1, 
@@ -425,10 +430,12 @@
       "9-5": 62, 
       "9-6": 52
     }, 
+    "total_checkin": 2664, 
     "type": "checkin"
   }, 
   {
     "business_id": "tz7FNOyd0QY6f1vudq8Wlg", 
+    "business_name": "Gold's Gym Elite", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 25, 
@@ -562,10 +569,12 @@
       "9-5": 26, 
       "9-6": 20
     }, 
+    "total_checkin": 2386, 
     "type": "checkin"
   }, 
   {
     "business_id": "qMkIbQFrROSnPaQ7at85-w", 
+    "business_name": "Desert Botanical Garden", 
     "checkin_info": {
       "0-6": 1, 
       "1-6": 1, 
@@ -689,10 +698,12 @@
       "9-5": 28, 
       "9-6": 28
     }, 
+    "total_checkin": 2227, 
     "type": "checkin"
   }, 
   {
     "business_id": "1Ap6ZNCvyLLKHP0wvCk9yA", 
+    "business_name": "Phoenix Zoo", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 28, 
@@ -808,10 +819,12 @@
       "9-5": 77, 
       "9-6": 71
     }, 
+    "total_checkin": 2215, 
     "type": "checkin"
   }, 
   {
     "business_id": "yRga-WpyfZRz8Es4OpyMhA", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 21, 
@@ -942,10 +955,12 @@
       "9-5": 40, 
       "9-6": 38
     }, 
+    "total_checkin": 2025, 
     "type": "checkin"
   }, 
   {
     "business_id": "P5S53mTS907bkym4kd7qFQ", 
+    "business_name": "Pure Barre Phoenix", 
     "checkin_info": {
       "10-0": 40, 
       "10-1": 9, 
@@ -1050,10 +1065,12 @@
       "9-5": 35, 
       "9-6": 20
     }, 
+    "total_checkin": 1943, 
     "type": "checkin"
   }, 
   {
     "business_id": "Dy8d1vPTTutHUaqfI5-8Lg", 
+    "business_name": "The Madison Improvement Club", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 3, 
@@ -1155,10 +1172,12 @@
       "9-5": 58, 
       "9-6": 49
     }, 
+    "total_checkin": 1937, 
     "type": "checkin"
   }, 
   {
     "business_id": "cPTTiNWQA8PFvba9iXzi-w", 
+    "business_name": "LA Fitness", 
     "checkin_info": {
       "10-0": 15, 
       "10-1": 18, 
@@ -1286,6 +1305,7 @@
       "9-5": 19, 
       "9-6": 18
     }, 
+    "total_checkin": 1646, 
     "type": "checkin"
   }
 ]

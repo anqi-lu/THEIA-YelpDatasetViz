@@ -1,0 +1,125 @@
+[
+  {
+    "business_id": "UVvf0RoRO1FVvNrjinf8YA", 
+    "business_name": "Desert Foothills Dental", 
+    "checkin_info": {
+      "0-2": 1, 
+      "10-1": 1, 
+      "10-3": 1, 
+      "12-2": 2, 
+      "12-3": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "15-2": 1, 
+      "16-1": 1, 
+      "19-1": 1, 
+      "7-1": 1, 
+      "8-1": 1, 
+      "8-2": 2
+    }, 
+    "total_checkin": 17, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "g_GtGyfk8jnwrCxhfkfBUQ", 
+    "business_name": "Imagine Dental", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-2": 3, 
+      "13-2": 1, 
+      "18-0": 1, 
+      "23-4": 1, 
+      "7-0": 1, 
+      "8-1": 1, 
+      "8-4": 1, 
+      "9-1": 3, 
+      "9-2": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 15, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "LO4AxisrHj7MCswDOw36rA", 
+    "business_name": "Arcadia Modern Dentistry", 
+    "checkin_info": {
+      "12-3": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "14-0": 1, 
+      "15-1": 1, 
+      "15-3": 1, 
+      "16-1": 2, 
+      "16-3": 1, 
+      "17-1": 1, 
+      "7-0": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SFp9Bqjkna7DDPexZzVKyw", 
+    "business_name": "Every Kid's Dentist", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-4": 1, 
+      "12-1": 1, 
+      "13-1": 1, 
+      "13-4": 1, 
+      "14-3": 1, 
+      "6-4": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "xGm9sqOOpA4ilbLBeRgZeQ", 
+    "business_name": "Oral & Facial Surgeons of Arizona", 
+    "checkin_info": {
+      "13-5": 1, 
+      "14-3": 1, 
+      "15-3": 1, 
+      "9-2": 2
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HSQ2YcLg5BZK-gwvEMrS6A", 
+    "business_name": "Terry D Belden, DDS", 
+    "checkin_info": {
+      "10-1": 1, 
+      "13-2": 1, 
+      "14-0": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7fEuPnwHDdt0dYXiBPONFg", 
+    "business_name": "Oral & Facial Surgery Center", 
+    "checkin_info": {
+      "14-3": 1, 
+      "23-4": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "vX4o0Xo6WDdmEwAgR7CiOQ", 
+    "business_name": "Dental on Central", 
+    "checkin_info": {
+      "12-1": 1, 
+      "13-5": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

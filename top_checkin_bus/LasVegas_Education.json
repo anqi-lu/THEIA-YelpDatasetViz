@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7iuHMJqKHzg3vZPHg3OeBw", 
+    "business_name": "University of Nevada, Las Vegas", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 4, 
@@ -157,10 +158,12 @@
       "9-5": 27, 
       "9-6": 13
     }, 
+    "total_checkin": 6712, 
     "type": "checkin"
   }, 
   {
     "business_id": "6rEJwB_xJXbThDH3zmR7tQ", 
+    "business_name": "College of Southern Nevada", 
     "checkin_info": {
       "0-1": 4, 
       "1-1": 1, 
@@ -281,10 +284,12 @@
       "9-4": 14, 
       "9-5": 9
     }, 
+    "total_checkin": 3341, 
     "type": "checkin"
   }, 
   {
     "business_id": "7m8oZJcsjHVyaBGZ1PDD4A", 
+    "business_name": "UNLV Student Recreation and Wellness Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 4, 
@@ -425,10 +430,12 @@
       "9-4": 13, 
       "9-5": 20
     }, 
+    "total_checkin": 2605, 
     "type": "checkin"
   }, 
   {
     "business_id": "dNuQ1rqfZs9tGe3dCyxw0Q", 
+    "business_name": "Nellis Air Force Base", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -575,10 +582,12 @@
       "9-5": 7, 
       "9-6": 5
     }, 
+    "total_checkin": 1224, 
     "type": "checkin"
   }, 
   {
     "business_id": "9u8OhMvCwj4T4obO15d5ng", 
+    "business_name": "Exotics Racing", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -663,10 +672,12 @@
       "9-5": 17, 
       "9-6": 7
     }, 
+    "total_checkin": 458, 
     "type": "checkin"
   }, 
   {
     "business_id": "X1kpawmKUuB8McxeYH2YTA", 
+    "business_name": "Pole Fitness Studio", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -762,10 +773,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 364, 
     "type": "checkin"
   }, 
   {
     "business_id": "CGewmmQB7QqS2dhIClLghQ", 
+    "business_name": "St Elizabeth Ann Seton Catholic Church", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 1, 
@@ -854,10 +867,12 @@
       "9-5": 7, 
       "9-6": 22
     }, 
+    "total_checkin": 295, 
     "type": "checkin"
   }, 
   {
     "business_id": "k0E-z8DFUAZutzhb6Gfp_Q", 
+    "business_name": "The Meadows School", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 3, 
@@ -924,10 +939,12 @@
       "9-3": 3, 
       "9-4": 6
     }, 
+    "total_checkin": 252, 
     "type": "checkin"
   }, 
   {
     "business_id": "_n9so2ktv9eiSVybh4tHaQ", 
+    "business_name": "Brightwood College", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 4, 
@@ -988,10 +1005,12 @@
       "9-3": 7, 
       "9-4": 5
     }, 
+    "total_checkin": 224, 
     "type": "checkin"
   }, 
   {
     "business_id": "sbB946q5BlkxPOrJSnJPTA", 
+    "business_name": "Merryhill Elementary School", 
     "checkin_info": {
       "11-4": 1, 
       "12-1": 1, 
@@ -1014,6 +1033,7 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 198, 
     "type": "checkin"
   }
 ]

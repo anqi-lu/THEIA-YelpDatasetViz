@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Cpjt0CxAEmVSgUVsaB30DA", 
+    "business_name": "Vivacity Clinic of Las Vegas", 
     "checkin_info": {
       "10-0": 7, 
       "10-1": 9, 
@@ -53,10 +54,12 @@
       "9-4": 7, 
       "9-5": 2
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }, 
   {
     "business_id": "MEkZmCxBvuGJP-GSsNVrAg", 
+    "business_name": "Flawless Aesthetics by Melanie Speed RN", 
     "checkin_info": {
       "0-3": 1, 
       "1-0": 1, 
@@ -105,10 +108,12 @@
       "9-2": 2, 
       "9-3": 4
     }, 
+    "total_checkin": 144, 
     "type": "checkin"
   }, 
   {
     "business_id": "-h5As1nN-vnex80pwAQmpg", 
+    "business_name": "REVIV", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 3, 
@@ -173,10 +178,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 119, 
     "type": "checkin"
   }, 
   {
     "business_id": "Q9gKdbSNcDtxpZd7nbF2Uw", 
+    "business_name": "Healing Waters", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -244,10 +251,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 113, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ob_hSrzS16_JagyTY6vQcw", 
+    "business_name": "TrimBody M.D.", 
     "checkin_info": {
       "0-1": 1, 
       "10-2": 2, 
@@ -299,10 +308,12 @@
       "9-3": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 104, 
     "type": "checkin"
   }, 
   {
     "business_id": "OdEpx1m4lRkYw4u3Gx_LoQ", 
+    "business_name": "IMR Massage", 
     "checkin_info": {
       "10-3": 2, 
       "10-4": 2, 
@@ -351,10 +362,12 @@
       "9-4": 2, 
       "9-5": 5
     }, 
+    "total_checkin": 101, 
     "type": "checkin"
   }, 
   {
     "business_id": "7L1lpw6r0BXPOKRb90WlaQ", 
+    "business_name": "Belly Bliss", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -415,10 +428,12 @@
       "9-4": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 98, 
     "type": "checkin"
   }, 
   {
     "business_id": "InDIGhu05gRr0lU9Z5Jpfg", 
+    "business_name": "Medi-Slim Weight Loss", 
     "checkin_info": {
       "10-1": 3, 
       "10-4": 5, 
@@ -456,10 +471,12 @@
       "9-4": 4, 
       "9-5": 4
     }, 
+    "total_checkin": 96, 
     "type": "checkin"
   }, 
   {
     "business_id": "2IRlle9pRj0BhP4UVCboeg", 
+    "business_name": "Advanced Aesthetics", 
     "checkin_info": {
       "1-3": 1, 
       "10-2": 1, 
@@ -509,10 +526,12 @@
       "9-4": 3, 
       "9-5": 9
     }, 
+    "total_checkin": 95, 
     "type": "checkin"
   }, 
   {
     "business_id": "xWmfGEZ4msvVsASzIkW2Zw", 
+    "business_name": "Summerlin Dermatology", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 1, 
@@ -554,6 +573,7 @@
       "9-4": 6, 
       "9-5": 1
     }, 
+    "total_checkin": 91, 
     "type": "checkin"
   }
 ]

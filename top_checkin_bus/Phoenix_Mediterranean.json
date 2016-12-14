@@ -1,6 +1,7 @@
 [
   {
     "business_id": "EWMwV5V9BxNs_U6nNVMeqw", 
+    "business_name": "FEZ", 
     "checkin_info": {
       "0-3": 2, 
       "0-4": 2, 
@@ -119,10 +120,12 @@
       "9-5": 17, 
       "9-6": 16
     }, 
+    "total_checkin": 2629, 
     "type": "checkin"
   }, 
   {
     "business_id": "TnkxapUN4nWMz_z5h3qMYg", 
+    "business_name": "Pita Jungle", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 15, 
@@ -223,10 +226,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 1638, 
     "type": "checkin"
   }, 
   {
     "business_id": "w19cemjVR8u02PgjFpJ7Mw", 
+    "business_name": "Pita Jungle", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 14, 
@@ -325,10 +330,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1586, 
     "type": "checkin"
   }, 
   {
     "business_id": "wl51t6lT7leiX64SlkOx6g", 
+    "business_name": "Pita Jungle", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 8, 
@@ -423,10 +430,12 @@
       "9-4": 2, 
       "9-6": 5
     }, 
+    "total_checkin": 1353, 
     "type": "checkin"
   }, 
   {
     "business_id": "FY_OXEVcewAQFZuu6fynLA", 
+    "business_name": "Z's Greek", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 8, 
@@ -513,10 +522,12 @@
       "9-1": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 1271, 
     "type": "checkin"
   }, 
   {
     "business_id": "93hdmjYc8IXsf69VrkRHog", 
+    "business_name": "Good Fellas Grill", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -610,10 +621,12 @@
       "9-2": 1, 
       "9-3": 3
     }, 
+    "total_checkin": 1157, 
     "type": "checkin"
   }, 
   {
     "business_id": "5niUestkeI0tBcBAv4SyKw", 
+    "business_name": "Pita Jungle", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 4, 
@@ -708,10 +721,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1084, 
     "type": "checkin"
   }, 
   {
     "business_id": "7aS0iFpab3XHFQrRGMOKXw", 
+    "business_name": "Pita Jungle", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 4, 
@@ -807,10 +822,12 @@
       "8-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 946, 
     "type": "checkin"
   }, 
   {
     "business_id": "tpIU_ZvIfCfCp36IgghlHQ", 
+    "business_name": "Zo\u00ebs Kitchen", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 6, 
@@ -897,10 +914,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 733, 
     "type": "checkin"
   }, 
   {
     "business_id": "8ZKHkc8IGwzmPmd96Bf1Kg", 
+    "business_name": "Pita Bistro", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 10, 
@@ -976,6 +995,7 @@
       "9-3": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 670, 
     "type": "checkin"
   }
 ]

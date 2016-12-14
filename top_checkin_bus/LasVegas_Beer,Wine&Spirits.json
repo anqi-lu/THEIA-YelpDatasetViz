@@ -1,6 +1,7 @@
 [
   {
     "business_id": "vSf0pqvaLp5sVSjJPeOqqQ", 
+    "business_name": "Todd English P.U.B.", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 5, 
@@ -140,10 +141,12 @@
       "9-5": 6, 
       "9-6": 12
     }, 
+    "total_checkin": 4741, 
     "type": "checkin"
   }, 
   {
     "business_id": "73vkDcVCbAA_ztudgETErQ", 
+    "business_name": "Fat Tuesday", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 5, 
@@ -280,10 +283,12 @@
       "9-3": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 2264, 
     "type": "checkin"
   }, 
   {
     "business_id": "4OOi0RBsJmIzDfTVQ2mTGA", 
+    "business_name": "Trader Joe's", 
     "checkin_info": {
       "0-2": 2, 
       "1-5": 1, 
@@ -400,10 +405,12 @@
       "9-5": 15, 
       "9-6": 8
     }, 
+    "total_checkin": 2251, 
     "type": "checkin"
   }, 
   {
     "business_id": "QgFlkWtQcmVS_hvF0w-nQQ", 
+    "business_name": "Trader Joe's", 
     "checkin_info": {
       "1-2": 1, 
       "1-5": 2, 
@@ -517,10 +524,12 @@
       "9-5": 13, 
       "9-6": 22
     }, 
+    "total_checkin": 2055, 
     "type": "checkin"
   }, 
   {
     "business_id": "QcTj9AgGJA0ifMHCCPNblg", 
+    "business_name": "Dick's Last Resort", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -649,10 +658,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1910, 
     "type": "checkin"
   }, 
   {
     "business_id": "KNH1T4wwiOXA3r9oDXpFvA", 
+    "business_name": "Total Wine & More", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 2, 
@@ -769,10 +780,12 @@
       "9-5": 10, 
       "9-6": 2
     }, 
+    "total_checkin": 1867, 
     "type": "checkin"
   }, 
   {
     "business_id": "Y5C0R1qxUAeIYr1uxOaS5A", 
+    "business_name": "Lazy Dog Restaurant & Bar", 
     "checkin_info": {
       "0-0": 3, 
       "0-4": 1, 
@@ -879,10 +892,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 1535, 
     "type": "checkin"
   }, 
   {
     "business_id": "rwyKez8MVAsAjG_edvqBrw", 
+    "business_name": "Trader Joe's", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 4, 
@@ -981,10 +996,12 @@
       "9-5": 9, 
       "9-6": 9
     }, 
+    "total_checkin": 1142, 
     "type": "checkin"
   }, 
   {
     "business_id": "JsDZZ9S3qntzCfo5N_Ci6A", 
+    "business_name": "Yellowtail", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1100,10 +1117,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1064, 
     "type": "checkin"
   }, 
   {
     "business_id": "obp9GWaEnTplW3YxhdexGQ", 
+    "business_name": "Cardenas Market", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -1213,6 +1232,7 @@
       "9-5": 6, 
       "9-6": 7
     }, 
+    "total_checkin": 957, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AxdOGtJ8bJmL8uXB0AQS5A", 
+    "business_name": "Squid Ink", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 3, 
@@ -122,10 +123,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2069, 
     "type": "checkin"
   }, 
   {
     "business_id": "A0XfklsS6vYFWRI9HifTvQ", 
+    "business_name": "Bitter & Twisted Cocktail Parlour", 
     "checkin_info": {
       "0-2": 3, 
       "0-3": 2, 
@@ -209,10 +212,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 1533, 
     "type": "checkin"
   }, 
   {
     "business_id": "9OPheVf5o8sRcRHxJDl4-A", 
+    "business_name": "SideBar", 
     "checkin_info": {
       "0-0": 16, 
       "0-1": 3, 
@@ -304,10 +309,12 @@
       "23-6": 31, 
       "3-5": 1
     }, 
+    "total_checkin": 1223, 
     "type": "checkin"
   }, 
   {
     "business_id": "14NSxaXBNspIVnsrMYJZVw", 
+    "business_name": "Poncho's", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -401,10 +408,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 438, 
     "type": "checkin"
   }, 
   {
     "business_id": "RuI7gDd4T-MJ4A7_CpSfxA", 
+    "business_name": "Sip Coffee & Beer Garage", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -504,10 +513,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 298, 
     "type": "checkin"
   }, 
   {
     "business_id": "lD2gKuPlS4_ASG2IMKiN9Q", 
+    "business_name": "Okra Cookhouse & Cocktails", 
     "checkin_info": {
       "11-5": 1, 
       "12-6": 4, 
@@ -562,10 +573,12 @@
       "6-1": 1, 
       "7-5": 1
     }, 
+    "total_checkin": 267, 
     "type": "checkin"
   }, 
   {
     "business_id": "ubhn0XIMmH5EWhu3fgr0ig", 
+    "business_name": "Hopdoddy Burger Bar", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 1, 
@@ -639,10 +652,12 @@
       "22-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 240, 
     "type": "checkin"
   }, 
   {
     "business_id": "z49aOi7flFdXBXbC58QJvg", 
+    "business_name": "The Local", 
     "checkin_info": {
       "0-4": 1, 
       "0-5": 3, 
@@ -699,10 +714,12 @@
       "23-5": 1, 
       "8-0": 1
     }, 
+    "total_checkin": 187, 
     "type": "checkin"
   }, 
   {
     "business_id": "yOpKODeyfVYj3rCDQP3VuA", 
+    "business_name": "Milk Bar", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 2, 
@@ -748,10 +765,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 181, 
     "type": "checkin"
   }, 
   {
     "business_id": "jq_YnMQjcArdBWuwRospFg", 
+    "business_name": "Salute Ristorante Italiano", 
     "checkin_info": {
       "11-6": 1, 
       "12-6": 1, 
@@ -805,6 +824,7 @@
       "9-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 164, 
     "type": "checkin"
   }
 ]

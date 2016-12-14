@@ -1,6 +1,7 @@
 [
   {
     "business_id": "vJI5IJ85Odr16D-EProIFA", 
+    "business_name": "Charleston Antique Mall", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 3, 
@@ -60,10 +61,12 @@
       "9-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 197, 
     "type": "checkin"
   }, 
   {
     "business_id": "BESC-uk7w23f0dOYPfIwkA", 
+    "business_name": "Retro Vegas", 
     "checkin_info": {
       "10-5": 1, 
       "11-1": 2, 
@@ -114,10 +117,12 @@
       "20-4": 3, 
       "21-5": 1
     }, 
+    "total_checkin": 139, 
     "type": "checkin"
   }, 
   {
     "business_id": "coP52gLXJLodXSNJUEB-Ug", 
+    "business_name": "Antique Mall of America", 
     "checkin_info": {
       "10-2": 2, 
       "10-3": 2, 
@@ -158,10 +163,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 78, 
     "type": "checkin"
   }, 
   {
     "business_id": "EpJ0uk82tWFEUnfTwPPSKA", 
+    "business_name": "Antiques At the Market", 
     "checkin_info": {
       "10-2": 1, 
       "11-0": 2, 
@@ -194,10 +201,12 @@
       "17-3": 1, 
       "17-5": 1
     }, 
+    "total_checkin": 64, 
     "type": "checkin"
   }, 
   {
     "business_id": "qyfmrsvoguoAII2QKq2DiQ", 
+    "business_name": "Colleen's Classic Consignment", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 1, 
@@ -235,10 +244,12 @@
       "9-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "K8H38b1w1skGLbuDOdWvng", 
+    "business_name": "Glam Factory Vintage", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -271,10 +282,12 @@
       "22-4": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "ojHDD7YmjTcxvhsI36lrSA", 
+    "business_name": "Restore East", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -306,10 +319,12 @@
       "9-4": 7, 
       "9-6": 1
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "MSZd-Q7N92c8UQnVd-xZSQ", 
+    "business_name": "Vintage Vegas", 
     "checkin_info": {
       "11-1": 1, 
       "11-2": 1, 
@@ -337,10 +352,12 @@
       "17-0": 1, 
       "21-4": 1
     }, 
+    "total_checkin": 34, 
     "type": "checkin"
   }, 
   {
     "business_id": "t07LScph3m8kjZT570OYrA", 
+    "business_name": "Patina Decor", 
     "checkin_info": {
       "11-5": 1, 
       "12-2": 1, 
@@ -365,10 +382,12 @@
       "18-5": 1, 
       "19-0": 1
     }, 
+    "total_checkin": 32, 
     "type": "checkin"
   }, 
   {
     "business_id": "1aeGNAz-vX2C4aHHZ4P7SQ", 
+    "business_name": "Medusa's Antiques", 
     "checkin_info": {
       "10-5": 1, 
       "11-4": 2, 
@@ -390,6 +409,7 @@
       "17-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 32, 
     "type": "checkin"
   }
 ]

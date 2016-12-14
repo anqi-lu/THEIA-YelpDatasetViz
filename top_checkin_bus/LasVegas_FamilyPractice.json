@@ -1,6 +1,7 @@
 [
   {
     "business_id": "jV-PV4-EUp938aNu0S0Jkg", 
+    "business_name": "Dana Forte, DO - Forte Family Practice", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -51,10 +52,12 @@
       "9-2": 2, 
       "9-5": 4
     }, 
+    "total_checkin": 96, 
     "type": "checkin"
   }, 
   {
     "business_id": "qOLmAoYm6Af1PLtsEt9B1g", 
+    "business_name": "Vitality Medical & Wellness Center", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 4, 
@@ -102,10 +105,12 @@
       "9-0": 2, 
       "9-1": 6
     }, 
+    "total_checkin": 95, 
     "type": "checkin"
   }, 
   {
     "business_id": "LJV6DQ7NhJuZcSYaFsTqQQ", 
+    "business_name": "Fremont Medical Centers", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -165,10 +170,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "ur1QR6vKANWZGNWIvqGboQ", 
+    "business_name": "Ensign Family Medicine", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -208,10 +215,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 60, 
     "type": "checkin"
   }, 
   {
     "business_id": "Gpx43ng1GJP9P-5WGzqeIQ", 
+    "business_name": "Diagnostic Center of Medicine", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -246,10 +255,12 @@
       "9-2": 4, 
       "9-3": 2
     }, 
+    "total_checkin": 49, 
     "type": "checkin"
   }, 
   {
     "business_id": "mDNrk3MyDa0H9t9oRAYBuQ", 
+    "business_name": "Edward K Tsai", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 2, 
@@ -288,10 +299,12 @@
       "8-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "MfEmP2AAyGXzvqfiqeGGag", 
+    "business_name": "Integrative Family Medicine Limited", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -319,10 +332,12 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "QbHabm86cWukAvrTOF7nnA", 
+    "business_name": "Guo Li Yee MD", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 4, 
@@ -351,10 +366,12 @@
       "9-2": 1, 
       "9-4": 4
     }, 
+    "total_checkin": 42, 
     "type": "checkin"
   }, 
   {
     "business_id": "oKxLsMO0j1vJI8xMWdGYvg", 
+    "business_name": "CareMore Medical Group Of Nevada", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -379,10 +396,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 34, 
     "type": "checkin"
   }, 
   {
     "business_id": "v2IP8dY640n3gy-UUvDUTw", 
+    "business_name": "Dr. Maria Pilar Faylona MD", 
     "checkin_info": {
       "10-0": 3, 
       "10-3": 1, 
@@ -410,6 +429,7 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }
 ]

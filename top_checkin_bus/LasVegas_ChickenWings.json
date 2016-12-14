@@ -1,6 +1,7 @@
 [
   {
     "business_id": "u7-9OD_9qc6PDYlMk0-VcA", 
+    "business_name": "Raising Cane's", 
     "checkin_info": {
       "0-0": 4, 
       "0-2": 2, 
@@ -125,10 +126,12 @@
       "9-5": 11, 
       "9-6": 11
     }, 
+    "total_checkin": 2635, 
     "type": "checkin"
   }, 
   {
     "business_id": "efsZLHcgEn7hKGB05B569Q", 
+    "business_name": "Buffalo Wild Wings", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 17, 
@@ -279,10 +282,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 2114, 
     "type": "checkin"
   }, 
   {
     "business_id": "-K22CWorrReIV_kgLa6dmQ", 
+    "business_name": "Buffalo Wild Wings", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 17, 
@@ -424,10 +429,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 2070, 
     "type": "checkin"
   }, 
   {
     "business_id": "8hnjKa0-bQtvbESv51LoFQ", 
+    "business_name": "Raising Cane's", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -551,10 +558,12 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 1908, 
     "type": "checkin"
   }, 
   {
     "business_id": "4AHB3TMnXCfFSUsP7A5S_w", 
+    "business_name": "Raising Cane's", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -672,10 +681,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 1847, 
     "type": "checkin"
   }, 
   {
     "business_id": "lidcKZMOzz9M2p7-SznZcA", 
+    "business_name": "Buffalo Wild Wings", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 6, 
@@ -821,10 +832,12 @@
       "9-4": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 1744, 
     "type": "checkin"
   }, 
   {
     "business_id": "mq2tmmgQXfo-3Dh-xOTx-Q", 
+    "business_name": "Hooters", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -986,10 +999,12 @@
       "9-1": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 1492, 
     "type": "checkin"
   }, 
   {
     "business_id": "3fA43apyr5i8PAm0Az04hQ", 
+    "business_name": "Buffalo Wild Wings", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 4, 
@@ -1117,10 +1132,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 1310, 
     "type": "checkin"
   }, 
   {
     "business_id": "WPzxzQwD4BiPuIgMgk683g", 
+    "business_name": "Nevada Chicken Cafe", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -1214,10 +1231,12 @@
       "9-4": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 1142, 
     "type": "checkin"
   }, 
   {
     "business_id": "mXk7cxR0OeZESz8S2q18Jw", 
+    "business_name": "Naked City Pizza on Arville", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 3, 
@@ -1339,6 +1358,7 @@
       "9-3": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 987, 
     "type": "checkin"
   }
 ]

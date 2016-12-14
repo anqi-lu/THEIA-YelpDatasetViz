@@ -1,6 +1,7 @@
 [
   {
     "business_id": "iRkmwaLjMRNmWztxHdUtUg", 
+    "business_name": "Sunset Park", 
     "checkin_info": {
       "0-5": 2, 
       "0-6": 2, 
@@ -137,10 +138,12 @@
       "9-5": 33, 
       "9-6": 20
     }, 
+    "total_checkin": 2007, 
     "type": "checkin"
   }, 
   {
     "business_id": "DFOcVl-0-v32cSzkqK7G4g", 
+    "business_name": "Springs Preserve", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 12, 
@@ -242,10 +245,12 @@
       "9-5": 21, 
       "9-6": 6
     }, 
+    "total_checkin": 1356, 
     "type": "checkin"
   }, 
   {
     "business_id": "fUFykr8Mf9VANDHAFEo_Rw", 
+    "business_name": "Exploration Park", 
     "checkin_info": {
       "0-2": 3, 
       "0-3": 1, 
@@ -391,10 +396,12 @@
       "9-5": 22, 
       "9-6": 10
     }, 
+    "total_checkin": 1173, 
     "type": "checkin"
   }, 
   {
     "business_id": "h3uIuzKQa9J_WsYHvyi_UQ", 
+    "business_name": "Desert Breeze Park", 
     "checkin_info": {
       "0-1": 3, 
       "0-2": 1, 
@@ -534,10 +541,12 @@
       "9-5": 21, 
       "9-6": 5
     }, 
+    "total_checkin": 1119, 
     "type": "checkin"
   }, 
   {
     "business_id": "jlvTjc6KjZMYRCA946treg", 
+    "business_name": "Craig Ranch Regional Park", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -660,10 +669,12 @@
       "9-5": 10, 
       "9-6": 14
     }, 
+    "total_checkin": 799, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZNb84wf_9xDQtOvM5UKxEQ", 
+    "business_name": "Charlie Kellogg and Joe Zaher Sports Complex", 
     "checkin_info": {
       "0-0": 1, 
       "1-3": 2, 
@@ -793,10 +804,12 @@
       "9-5": 9, 
       "9-6": 5
     }, 
+    "total_checkin": 711, 
     "type": "checkin"
   }, 
   {
     "business_id": "DlwVYP9cjoigiUCwHKdtfQ", 
+    "business_name": "Wetlands Park", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 5, 
@@ -901,10 +914,12 @@
       "9-5": 12, 
       "9-6": 9
     }, 
+    "total_checkin": 527, 
     "type": "checkin"
   }, 
   {
     "business_id": "b8qAD1ABd5wUH51L-a1qRA", 
+    "business_name": "Centennial Hills Park", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1031,10 +1046,12 @@
       "9-5": 8, 
       "9-6": 3
     }, 
+    "total_checkin": 500, 
     "type": "checkin"
   }, 
   {
     "business_id": "imTJSiPVtrLXfp8ALQNXBQ", 
+    "business_name": "Horseman & Dog Fancier's Park", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 7, 
@@ -1151,10 +1168,12 @@
       "9-5": 7, 
       "9-6": 8
     }, 
+    "total_checkin": 493, 
     "type": "checkin"
   }, 
   {
     "business_id": "haYsVL9A0sS_PKt2R5FTRw", 
+    "business_name": "Sunset Park Dog Park", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 3, 
@@ -1258,6 +1277,7 @@
       "9-5": 3, 
       "9-6": 6
     }, 
+    "total_checkin": 443, 
     "type": "checkin"
   }
 ]

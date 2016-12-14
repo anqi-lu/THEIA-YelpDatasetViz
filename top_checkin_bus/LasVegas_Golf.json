@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Lz4e2G6rzWd6olANPzXvCw", 
+    "business_name": "TaylorMade Golf Experience", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -121,10 +122,12 @@
       "9-5": 6, 
       "9-6": 4
     }, 
+    "total_checkin": 678, 
     "type": "checkin"
   }, 
   {
     "business_id": "SewXTSIVC_8O9M9d0M6pLw", 
+    "business_name": "Topgolf", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -239,10 +242,12 @@
       "9-0": 2, 
       "9-2": 1
     }, 
+    "total_checkin": 477, 
     "type": "checkin"
   }, 
   {
     "business_id": "kDP_0LGyoz_OqfsYHWVuOw", 
+    "business_name": "Rhodes Ranch Golf Club", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -363,10 +368,12 @@
       "9-5": 9, 
       "9-6": 4
     }, 
+    "total_checkin": 285, 
     "type": "checkin"
   }, 
   {
     "business_id": "a-WoSLq1KtrathFbVJEQ5Q", 
+    "business_name": "Stallion Mountain Golf Course", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -490,10 +497,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 275, 
     "type": "checkin"
   }, 
   {
     "business_id": "SQFf3cwW30RwFdVA5pd6JA", 
+    "business_name": "Desert Pines Golf Club", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 1, 
@@ -594,10 +603,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 257, 
     "type": "checkin"
   }, 
   {
     "business_id": "MoK_SmSo-zZxaWHTIu5iJQ", 
+    "business_name": "TPC Summerlin", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 2, 
@@ -701,10 +712,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 256, 
     "type": "checkin"
   }, 
   {
     "business_id": "Gdj2agvw6jASwG8aVgSBEQ", 
+    "business_name": "Angel Park Golf Club", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 4, 
@@ -800,10 +813,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 220, 
     "type": "checkin"
   }, 
   {
     "business_id": "vdpZOIgaFiQfS0J-rqDDwA", 
+    "business_name": "Badlands Golf Club", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 2, 
@@ -892,10 +907,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 196, 
     "type": "checkin"
   }, 
   {
     "business_id": "Uv3dwiYJ1GXy-eb3o0pJKw", 
+    "business_name": "TPC Las Vegas", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -980,10 +997,12 @@
       "9-5": 4, 
       "9-6": 8
     }, 
+    "total_checkin": 185, 
     "type": "checkin"
   }, 
   {
     "business_id": "lN5Y3gkkW2ISs5ofQNl7TA", 
+    "business_name": "Spanish Trail Country Club", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 1, 
@@ -1082,6 +1101,7 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 185, 
     "type": "checkin"
   }
 ]

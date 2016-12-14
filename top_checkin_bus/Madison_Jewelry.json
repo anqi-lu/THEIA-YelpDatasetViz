@@ -1,0 +1,197 @@
+[
+  {
+    "business_id": "fGQg-IaVTk1vCwbyh-_n-g", 
+    "business_name": "Little Luxuries", 
+    "checkin_info": {
+      "10-0": 3, 
+      "10-4": 2, 
+      "10-5": 2, 
+      "10-6": 2, 
+      "11-0": 1, 
+      "11-3": 1, 
+      "11-5": 6, 
+      "11-6": 1, 
+      "12-2": 1, 
+      "12-5": 2, 
+      "12-6": 2, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "13-4": 2, 
+      "14-2": 1, 
+      "15-0": 1, 
+      "15-1": 1, 
+      "15-4": 3, 
+      "16-1": 4, 
+      "16-3": 1, 
+      "16-4": 1, 
+      "17-2": 1, 
+      "17-4": 1, 
+      "18-0": 1, 
+      "18-2": 2, 
+      "18-3": 1, 
+      "18-4": 1, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-3": 1, 
+      "9-5": 4
+    }, 
+    "total_checkin": 54, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "la6HHAjs9DKETo0qxLAgDg", 
+    "business_name": "Art Gecko", 
+    "checkin_info": {
+      "11-4": 1, 
+      "11-5": 3, 
+      "12-2": 1, 
+      "12-5": 2, 
+      "12-6": 2, 
+      "13-0": 1, 
+      "13-1": 5, 
+      "13-2": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "14-4": 1, 
+      "17-4": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 22, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "lg1YA74CwLsclHRlZ1PLkw", 
+    "business_name": "Art Gecko on Monroe", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-4": 2, 
+      "10-5": 1, 
+      "11-4": 1, 
+      "12-4": 1, 
+      "13-1": 2, 
+      "13-2": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "14-6": 1, 
+      "15-2": 1, 
+      "16-2": 1, 
+      "17-0": 1, 
+      "19-0": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "OmzjQ9yBhWHv6Bpfvzr2Tw", 
+    "business_name": "Burnie's Rock Shop", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-5": 1, 
+      "10-6": 2, 
+      "12-5": 1, 
+      "14-1": 1, 
+      "16-4": 1, 
+      "17-3": 1, 
+      "9-0": 1, 
+      "9-4": 2, 
+      "9-5": 3
+    }, 
+    "total_checkin": 14, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "JtSgAvhABBBxhXKujHHxBA", 
+    "business_name": "Shakti", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-5": 1, 
+      "11-0": 1, 
+      "11-6": 1, 
+      "12-5": 1, 
+      "12-6": 1, 
+      "13-6": 1, 
+      "14-3": 1, 
+      "15-3": 1, 
+      "18-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MV4jSFS2tOiUn_k7TYH_8Q", 
+    "business_name": "Kesslers Diamonds On the Beltline", 
+    "checkin_info": {
+      "10-4": 2, 
+      "10-6": 1, 
+      "14-2": 1, 
+      "14-5": 1, 
+      "9-1": 1, 
+      "9-4": 2
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "mygl9lptIc4p1kPYnWSncA", 
+    "business_name": "Mimosa Books & Gifts", 
+    "checkin_info": {
+      "12-4": 1, 
+      "12-6": 1, 
+      "13-5": 1, 
+      "15-3": 1, 
+      "15-4": 1, 
+      "15-6": 1, 
+      "7-4": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0SI8uf2eMgzzvIsckSVxbA", 
+    "business_name": "Hatch Art House", 
+    "checkin_info": {
+      "10-5": 2, 
+      "10-6": 1, 
+      "12-5": 1, 
+      "14-2": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "qNPSCwlcOZeJ5gn3Yr8JwQ", 
+    "business_name": "Pawn America", 
+    "checkin_info": {
+      "11-3": 1, 
+      "12-6": 1, 
+      "13-6": 1, 
+      "15-3": 1, 
+      "17-4": 1, 
+      "19-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "GvbxCtfZ1dHb7hDe0Dx-pw", 
+    "business_name": "Serrv", 
+    "checkin_info": {
+      "10-5": 1, 
+      "12-4": 1, 
+      "12-6": 1, 
+      "15-6": 1, 
+      "16-0": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

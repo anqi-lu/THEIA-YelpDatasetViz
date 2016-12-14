@@ -1,0 +1,32 @@
+[
+  {
+    "business_id": "KzsySJsAnSurSa7hFJoR3A", 
+    "business_name": "Car Stereo Warehouse", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "13-2": 1, 
+      "6-3": 1, 
+      "8-1": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Savlt1k53q-bR2lXbVQVbQ", 
+    "business_name": "Auto Toyz", 
+    "checkin_info": {
+      "7-2": 1, 
+      "7-3": 1, 
+      "8-2": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

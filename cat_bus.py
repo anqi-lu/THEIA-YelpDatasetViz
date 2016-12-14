@@ -30,12 +30,18 @@ class cat_bus_info:
 
             a[checkin_data['business_id']] = bid_info
 
+        with open('json/bus_id_name.json') as data_file:
+            map_name = json.load(data_file)
+
         # sort on value
         sorted_a = sorted(a, key=a.get, reverse=True)
         top_checkin_bus = []
         for w in sorted_a[:10]:
             for checkin_data in list_checkin:
                 if w == checkin_data["business_id"]:
-                    top_checkin_bus.append(checkin_data)
+                    new_checkin_data = json.loads(json.dumps(checkin_data))
+                    new_checkin_data['total_checkin'] = a[w]
+                    new_checkin_data['business_name'] = map_name[w]
+                    top_checkin_bus.append(new_checkin_data)
 
         return top_checkin_bus

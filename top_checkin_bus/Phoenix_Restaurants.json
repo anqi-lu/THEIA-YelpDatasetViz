@@ -1,6 +1,7 @@
 [
   {
     "business_id": "aRkYtXfmEKYG-eTDf_qUsw", 
+    "business_name": "Lux Central", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 4, 
@@ -154,10 +155,12 @@
       "9-5": 125, 
       "9-6": 126
     }, 
+    "total_checkin": 7733, 
     "type": "checkin"
   }, 
   {
     "business_id": "wNsmt1hF1uv3YvbwXZMAoQ", 
+    "business_name": "O.H.S.O. Eatery + NanoBrewery", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -287,10 +290,12 @@
       "9-5": 90, 
       "9-6": 126
     }, 
+    "total_checkin": 5948, 
     "type": "checkin"
   }, 
   {
     "business_id": "eltTG6JOr9cg5FRAgGy8Jw", 
+    "business_name": "Phoenix Public Market Cafe", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -415,10 +420,12 @@
       "9-5": 143, 
       "9-6": 83
     }, 
+    "total_checkin": 4579, 
     "type": "checkin"
   }, 
   {
     "business_id": "FURgKkRFtMK5yKbjYZVVwA", 
+    "business_name": "Windsor", 
     "checkin_info": {
       "0-3": 1, 
       "0-6": 3, 
@@ -532,10 +539,12 @@
       "9-5": 72, 
       "9-6": 77
     }, 
+    "total_checkin": 4457, 
     "type": "checkin"
   }, 
   {
     "business_id": "rZbHg4ACfN3iShdsT47WKQ", 
+    "business_name": "Bobby Q", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -662,10 +671,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 4364, 
     "type": "checkin"
   }, 
   {
     "business_id": "41j3GB7M-Lwq284Pfb9zgw", 
+    "business_name": "Angels Trumpet Ale House", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 2, 
@@ -769,10 +780,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 4031, 
     "type": "checkin"
   }, 
   {
     "business_id": "_FXql6eVhbM923RdCi94SA", 
+    "business_name": "Hula's Modern Tiki", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -889,10 +902,12 @@
       "9-5": 15, 
       "9-6": 14
     }, 
+    "total_checkin": 4021, 
     "type": "checkin"
   }, 
   {
     "business_id": "pwpl-rxwNRQdgqFz_-qMPg", 
+    "business_name": "The Parlor", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -998,10 +1013,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 3994, 
     "type": "checkin"
   }, 
   {
     "business_id": "SDwYQ6eSu1htn8vHWv128g", 
+    "business_name": "Postino Arcadia", 
     "checkin_info": {
       "0-1": 1, 
       "0-6": 1, 
@@ -1115,10 +1132,12 @@
       "9-5": 14, 
       "9-6": 23
     }, 
+    "total_checkin": 3723, 
     "type": "checkin"
   }, 
   {
     "business_id": "3n9mSKySEv3G03YjcU-YOQ", 
+    "business_name": "Postino Central", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 4, 
@@ -1236,6 +1255,7 @@
       "9-5": 26, 
       "9-6": 28
     }, 
+    "total_checkin": 3561, 
     "type": "checkin"
   }
 ]

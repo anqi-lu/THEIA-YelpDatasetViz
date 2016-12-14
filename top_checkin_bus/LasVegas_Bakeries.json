@@ -1,6 +1,7 @@
 [
   {
     "business_id": "szw8OGJlsqaA3i2oe7dn9A", 
+    "business_name": "Jean Philippe Patisserie", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 6, 
@@ -153,10 +154,12 @@
       "9-5": 55, 
       "9-6": 46
     }, 
+    "total_checkin": 4680, 
     "type": "checkin"
   }, 
   {
     "business_id": "Xsp9Dy4PQgAssCVk2-f73w", 
+    "business_name": "Lee's Sandwiches", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 23, 
@@ -327,10 +330,12 @@
       "9-5": 12, 
       "9-6": 27
     }, 
+    "total_checkin": 3535, 
     "type": "checkin"
   }, 
   {
     "business_id": "XgfKcL7eBJE9B66qoaIlJQ", 
+    "business_name": "Freed's Bakery", 
     "checkin_info": {
       "0-0": 2, 
       "0-4": 1, 
@@ -449,10 +454,12 @@
       "9-5": 15, 
       "9-6": 32
     }, 
+    "total_checkin": 2901, 
     "type": "checkin"
   }, 
   {
     "business_id": "Pt5AYjhzoU93biVeVahLKw", 
+    "business_name": "MadHouse Coffee", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 9, 
@@ -623,10 +630,12 @@
       "9-5": 25, 
       "9-6": 18
     }, 
+    "total_checkin": 2241, 
     "type": "checkin"
   }, 
   {
     "business_id": "Az85N0Z4OKxOAzGdigi1nA", 
+    "business_name": "Du-Par's Restaurant and Bakery", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 4, 
@@ -794,10 +803,12 @@
       "9-5": 42, 
       "9-6": 60
     }, 
+    "total_checkin": 2124, 
     "type": "checkin"
   }, 
   {
     "business_id": "7CeaeSsxiYj3P3ZurTetzQ", 
+    "business_name": "Sweet Addiction, Cookies & Ice Cream", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 1, 
@@ -895,10 +906,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 2086, 
     "type": "checkin"
   }, 
   {
     "business_id": "Y2BXS2OOrlMSYfS5xdjtmw", 
+    "business_name": "Patisserie Manon", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -1009,10 +1022,12 @@
       "9-5": 28, 
       "9-6": 23
     }, 
+    "total_checkin": 2027, 
     "type": "checkin"
   }, 
   {
     "business_id": "CGYOPcYTfwXFu-Sn0MsgGQ", 
+    "business_name": "La Belle Terre Bread French Bakery Caf\u00e9", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -1123,10 +1138,12 @@
       "9-5": 40, 
       "9-6": 50
     }, 
+    "total_checkin": 1913, 
     "type": "checkin"
   }, 
   {
     "business_id": "DqJij-nTV3yvmJqfd8KAOQ", 
+    "business_name": "SUZUYA Pastries & Crepes", 
     "checkin_info": {
       "10-0": 8, 
       "10-2": 12, 
@@ -1213,10 +1230,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 1550, 
     "type": "checkin"
   }, 
   {
     "business_id": "PydUXalUeAQPRUtfH5Gl-w", 
+    "business_name": "Carlo's Bakery", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 1, 
@@ -1339,6 +1358,7 @@
       "9-5": 4, 
       "9-6": 12
     }, 
+    "total_checkin": 1434, 
     "type": "checkin"
   }
 ]

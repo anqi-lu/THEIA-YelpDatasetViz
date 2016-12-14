@@ -1,6 +1,7 @@
 [
   {
     "business_id": "9dvuzmf1oF122Y4cZepRVA", 
+    "business_name": "Saks Fifth Avenue", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 2, 
@@ -76,10 +77,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 330, 
     "type": "checkin"
   }, 
   {
     "business_id": "o2p8nFkKcIS3VsfbORBIZw", 
+    "business_name": "Old Navy Clothing", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 1, 
@@ -160,10 +163,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 184, 
     "type": "checkin"
   }, 
   {
     "business_id": "UdKEeSbaLaGrEncZjKfr7Q", 
+    "business_name": "Bunky Boutique", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 1, 
@@ -225,10 +230,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 147, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZCMEPB97LvC2jV7hIQRnDw", 
+    "business_name": "Boutique Solie", 
     "checkin_info": {
       "10-2": 2, 
       "10-3": 1, 
@@ -286,10 +293,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 121, 
     "type": "checkin"
   }, 
   {
     "business_id": "M3igxUpLFWy1nR7lTw3GjQ", 
+    "business_name": "Charming Charlie - Phoenix", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -341,10 +350,12 @@
       "19-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 111, 
     "type": "checkin"
   }, 
   {
     "business_id": "3ic0B872Tql7dwO4YRTDCw", 
+    "business_name": "Charming Charlie - Phoenix", 
     "checkin_info": {
       "10-5": 4, 
       "11-0": 2, 
@@ -396,10 +407,12 @@
       "20-5": 1, 
       "21-2": 1
     }, 
+    "total_checkin": 94, 
     "type": "checkin"
   }, 
   {
     "business_id": "_4_84uCAFDI2VHHEQz5f2g", 
+    "business_name": "The Secret Village", 
     "checkin_info": {
       "10-2": 3, 
       "10-5": 2, 
@@ -434,10 +447,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 52, 
     "type": "checkin"
   }, 
   {
     "business_id": "bR9YBze5Eo5IXNJstPcBPw", 
+    "business_name": "Hub Clothing", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 1, 
@@ -471,10 +486,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 48, 
     "type": "checkin"
   }, 
   {
     "business_id": "G99DZwtghehaS6D7gk4EvA", 
+    "business_name": "Coach", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -513,10 +530,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 45, 
     "type": "checkin"
   }, 
   {
     "business_id": "ujkFN6kSrXVzq3epVeWmzQ", 
+    "business_name": "Record Room", 
     "checkin_info": {
       "10-5": 4, 
       "11-4": 2, 
@@ -545,6 +564,7 @@
       "18-3": 1, 
       "19-4": 1
     }, 
+    "total_checkin": 42, 
     "type": "checkin"
   }
 ]

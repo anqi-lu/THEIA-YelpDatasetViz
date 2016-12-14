@@ -1,6 +1,7 @@
 [
   {
     "business_id": "BdHq8McnAFZ_TinhrQrNuQ", 
+    "business_name": "Chili's", 
     "checkin_info": {
       "0-3": 1, 
       "10-1": 1, 
@@ -93,10 +94,12 @@
       "22-5": 5, 
       "22-6": 2
     }, 
+    "total_checkin": 1266, 
     "type": "checkin"
   }, 
   {
     "business_id": "h7R_IMg3nss8I5nV7sbmfg", 
+    "business_name": "Nacho Daddy", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 2, 
@@ -230,10 +233,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 1129, 
     "type": "checkin"
   }, 
   {
     "business_id": "TsDD1Svyl1Oqf6HImW_jHw", 
+    "business_name": "Chili's", 
     "checkin_info": {
       "10-0": 1, 
       "10-6": 1, 
@@ -328,10 +333,12 @@
       "8-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 811, 
     "type": "checkin"
   }, 
   {
     "business_id": "j72BJLvldv1gw9mSpUhiDg", 
+    "business_name": "Nacho Daddy", 
     "checkin_info": {
       "0-5": 1, 
       "1-1": 1, 
@@ -428,10 +435,12 @@
       "8-5": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 708, 
     "type": "checkin"
   }, 
   {
     "business_id": "cMr1t7WlChRhfh3rzsVY1Q", 
+    "business_name": "Chili's", 
     "checkin_info": {
       "1-2": 1, 
       "10-0": 1, 
@@ -526,10 +535,12 @@
       "6-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 659, 
     "type": "checkin"
   }, 
   {
     "business_id": "GircILJUZdJ2X1Uq7a3mbg", 
+    "business_name": "Chili's", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -617,10 +628,12 @@
       "8-6": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 572, 
     "type": "checkin"
   }, 
   {
     "business_id": "No0SNrxkX6ADEde-9QwtMw", 
+    "business_name": "Chili's", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -706,10 +719,12 @@
       "23-2": 1, 
       "23-4": 2
     }, 
+    "total_checkin": 495, 
     "type": "checkin"
   }, 
   {
     "business_id": "lhSjLswRD8jh6SNGc2DCSA", 
+    "business_name": "Roadrunner Saloon", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 2, 
@@ -818,10 +833,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 430, 
     "type": "checkin"
   }, 
   {
     "business_id": "yMzjfHCd4g4BZv3ol9_6FA", 
+    "business_name": "Taco Bell", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -924,10 +941,12 @@
       "9-2": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 223, 
     "type": "checkin"
   }, 
   {
     "business_id": "C9EmitKfcW6IuqA8mQKt1g", 
+    "business_name": "Taco Bell", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1021,6 +1040,7 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 214, 
     "type": "checkin"
   }
 ]

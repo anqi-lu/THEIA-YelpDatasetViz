@@ -1,6 +1,7 @@
 [
   {
     "business_id": "aGbjLWzcrnEx2ZmMCFm3EA", 
+    "business_name": "Gordon Ramsay BurGR", 
     "checkin_info": {
       "0-0": 10, 
       "0-1": 11, 
@@ -156,10 +157,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 10680, 
     "type": "checkin"
   }, 
   {
     "business_id": "PXviRcHR1mqdH4vRc2LEAQ", 
+    "business_name": "Bachi Burger", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 5, 
@@ -291,10 +294,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 9773, 
     "type": "checkin"
   }, 
   {
     "business_id": "BqrTtox0JbG-P_DKBB5bBw", 
+    "business_name": "Holsteins Shakes and Buns", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 6, 
@@ -441,10 +446,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 9154, 
     "type": "checkin"
   }, 
   {
     "business_id": "QhwkFogGQA-Ar176Ul5PUQ", 
+    "business_name": "Shake Shack", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 12, 
@@ -587,10 +594,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 8977, 
     "type": "checkin"
   }, 
   {
     "business_id": "Fh6OndE60vzvyhCX1Wg7Aw", 
+    "business_name": "In-N-Out Burger", 
     "checkin_info": {
       "0-0": 26, 
       "0-1": 26, 
@@ -739,10 +748,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 4791, 
     "type": "checkin"
   }, 
   {
     "business_id": "05fTEsjUPVo5jks8PpNKCQ", 
+    "business_name": "Rollin Smoke Barbeque", 
     "checkin_info": {
       "0-5": 5, 
       "0-6": 15, 
@@ -860,10 +871,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 4641, 
     "type": "checkin"
   }, 
   {
     "business_id": "EQxbEKkHxNvRT_-S5A-Gcw", 
+    "business_name": "Greens and Proteins", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 1, 
@@ -995,10 +1008,12 @@
       "9-5": 30, 
       "9-6": 13
     }, 
+    "total_checkin": 4308, 
     "type": "checkin"
   }, 
   {
     "business_id": "xyTJYlbE_MLouK6rCou6zg", 
+    "business_name": "Burger Bar", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1129,10 +1144,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 4080, 
     "type": "checkin"
   }, 
   {
     "business_id": "t6SuvEq9PPVGzNv5bJzDtw", 
+    "business_name": "Bachi Burger", 
     "checkin_info": {
       "0-1": 1, 
       "0-5": 1, 
@@ -1240,10 +1257,12 @@
       "7-3": 1, 
       "7-6": 2
     }, 
+    "total_checkin": 3377, 
     "type": "checkin"
   }, 
   {
     "business_id": "ateowLnq6kpgNNWHzCDByQ", 
+    "business_name": "Guy Fieri's Vegas Kitchen & Bar", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 6, 
@@ -1382,6 +1401,7 @@
       "9-5": 37, 
       "9-6": 18
     }, 
+    "total_checkin": 3069, 
     "type": "checkin"
   }
 ]

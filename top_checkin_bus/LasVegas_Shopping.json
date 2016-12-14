@@ -1,6 +1,7 @@
 [
   {
     "business_id": "_NHje6H0eHAPirJ7oup_aA", 
+    "business_name": "Town Square Las Vegas", 
     "checkin_info": {
       "0-0": 10, 
       "0-1": 7, 
@@ -156,10 +157,12 @@
       "9-5": 51, 
       "9-6": 26
     }, 
+    "total_checkin": 15145, 
     "type": "checkin"
   }, 
   {
     "business_id": "l2lpBXx8jKl87J2szyJRuQ", 
+    "business_name": "Fashion Show", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -324,10 +327,12 @@
       "9-5": 42, 
       "9-6": 23
     }, 
+    "total_checkin": 11209, 
     "type": "checkin"
   }, 
   {
     "business_id": "fkacCsAiwXYQzdlaQZm0Gg", 
+    "business_name": "Las Vegas North Premium Outlets", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -482,10 +487,12 @@
       "9-5": 61, 
       "9-6": 44
     }, 
+    "total_checkin": 9793, 
     "type": "checkin"
   }, 
   {
     "business_id": "BdsVOlCc_eSVH2-PwZ7H7g", 
+    "business_name": "The Forum Shops at Caesars", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 1, 
@@ -637,10 +644,12 @@
       "9-5": 16, 
       "9-6": 12
     }, 
+    "total_checkin": 7567, 
     "type": "checkin"
   }, 
   {
     "business_id": "rmiK8V7l7NgEJSHJT-zWQQ", 
+    "business_name": "Las Vegas South Premium Outlets", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -783,10 +792,12 @@
       "9-5": 19, 
       "9-6": 21
     }, 
+    "total_checkin": 5219, 
     "type": "checkin"
   }, 
   {
     "business_id": "_7cs3oVau0UzryykHf3ahQ", 
+    "business_name": "Costco", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 39, 
@@ -901,10 +912,12 @@
       "9-5": 41, 
       "9-6": 16
     }, 
+    "total_checkin": 5151, 
     "type": "checkin"
   }, 
   {
     "business_id": "pG9AXrNWpjhX8p4Bz7bLrA", 
+    "business_name": "Miracle Mile Shops", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 9, 
@@ -1067,10 +1080,12 @@
       "9-5": 21, 
       "9-6": 15
     }, 
+    "total_checkin": 5124, 
     "type": "checkin"
   }, 
   {
     "business_id": "rBCX6nU2ub6v8ErfzXyjtg", 
+    "business_name": "The Shops at Crystals", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 4, 
@@ -1235,10 +1250,12 @@
       "9-5": 27, 
       "9-6": 21
     }, 
+    "total_checkin": 4027, 
     "type": "checkin"
   }, 
   {
     "business_id": "dNAyji6q-uZcnFByNzZ_2g", 
+    "business_name": "Downtown Container Park", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1369,10 +1386,12 @@
       "9-5": 13, 
       "9-6": 5
     }, 
+    "total_checkin": 3877, 
     "type": "checkin"
   }, 
   {
     "business_id": "E8htJsyvbBgjzO9fTB3z_g", 
+    "business_name": "Downtown Summerlin", 
     "checkin_info": {
       "0-1": 2, 
       "1-4": 2, 
@@ -1495,6 +1514,7 @@
       "9-5": 24, 
       "9-6": 4
     }, 
+    "total_checkin": 3153, 
     "type": "checkin"
   }
 ]

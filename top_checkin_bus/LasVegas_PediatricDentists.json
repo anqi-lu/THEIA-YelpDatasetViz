@@ -1,6 +1,7 @@
 [
   {
     "business_id": "WoEc1TEvADXUxnCsCJsGkQ", 
+    "business_name": "Floss Dental and Orthodontics", 
     "checkin_info": {
       "10-1": 3, 
       "10-3": 6, 
@@ -44,10 +45,12 @@
       "9-3": 3, 
       "9-5": 5
     }, 
+    "total_checkin": 120, 
     "type": "checkin"
   }, 
   {
     "business_id": "aAi-Zjhlr0RCYME6Z_Fq5A", 
+    "business_name": "Town & Country Dental", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -107,10 +110,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 106, 
     "type": "checkin"
   }, 
   {
     "business_id": "mkOgCoErKeUb3VB8o2SlIA", 
+    "business_name": "Adventure Smiles", 
     "checkin_info": {
       "10-2": 3, 
       "10-3": 2, 
@@ -146,10 +151,12 @@
       "9-2": 3, 
       "9-3": 1
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "Xb-cp9LxwZKGBPpwz3HoiA", 
+    "business_name": "Cavitybusters", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -175,10 +182,12 @@
       "9-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 38, 
     "type": "checkin"
   }, 
   {
     "business_id": "nM-VxKkETxD5WlOFkhHNEg", 
+    "business_name": "Little Smiles Pediatric Dentistry", 
     "checkin_info": {
       "10-2": 2, 
       "10-3": 2, 
@@ -209,10 +218,12 @@
       "9-1": 1, 
       "9-3": 3
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "OA5XapvzJK6EE-6FQbQmIQ", 
+    "business_name": "Hi-Tech Dental Care", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 1, 
@@ -234,10 +245,12 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "jlsSztB6MV0Oybz8vsAoBw", 
+    "business_name": "Summerlin Pediatric Dentistry", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -257,10 +270,12 @@
       "8-4": 2, 
       "9-0": 1
     }, 
+    "total_checkin": 21, 
     "type": "checkin"
   }, 
   {
     "business_id": "hETWudLtneu9ul4RK6Axxg", 
+    "business_name": "A Childrens Dentist", 
     "checkin_info": {
       "11-1": 1, 
       "11-2": 2, 
@@ -279,10 +294,12 @@
       "9-2": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "dYOXz6RmG7bOON2AwpqI6A", 
+    "business_name": "Palm Valley Dental & Orthodontics", 
     "checkin_info": {
       "10-5": 1, 
       "11-1": 2, 
@@ -302,10 +319,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "OHMabvTfVSuOrq-4xT13-Q", 
+    "business_name": "Red Rock Kids Dental", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 1, 
@@ -320,6 +339,7 @@
       "15-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }
 ]

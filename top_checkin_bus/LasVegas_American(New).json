@@ -1,6 +1,7 @@
 [
   {
     "business_id": "QhwkFogGQA-Ar176Ul5PUQ", 
+    "business_name": "Shake Shack", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 12, 
@@ -143,10 +144,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 8977, 
     "type": "checkin"
   }, 
   {
     "business_id": "QbmcCE_cLq4WO8ZMKImaLw", 
+    "business_name": "Hash House A Go Go", 
     "checkin_info": {
       "0-0": 22, 
       "0-1": 16, 
@@ -316,10 +319,12 @@
       "9-5": 142, 
       "9-6": 142
     }, 
+    "total_checkin": 8811, 
     "type": "checkin"
   }, 
   {
     "business_id": "j_pce4pG9krrBeYwUni8Pg", 
+    "business_name": "Yard House Town Square", 
     "checkin_info": {
       "0-0": 35, 
       "0-1": 32, 
@@ -448,10 +453,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 6465, 
     "type": "checkin"
   }, 
   {
     "business_id": "CZjcFdvJhksq9dy58NVEzw", 
+    "business_name": "The Buffet at Bellagio", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 4, 
@@ -599,10 +606,12 @@
       "9-5": 35, 
       "9-6": 33
     }, 
+    "total_checkin": 5605, 
     "type": "checkin"
   }, 
   {
     "business_id": "xfwRO04KbAPw_zRotCfWQQ", 
+    "business_name": "Hash House A Go Go", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -720,10 +729,12 @@
       "9-5": 173, 
       "9-6": 141
     }, 
+    "total_checkin": 5589, 
     "type": "checkin"
   }, 
   {
     "business_id": "co0vxQ8ecXiBy2sGDeHi8A", 
+    "business_name": "Jamms Restaurant", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -818,10 +829,12 @@
       "9-5": 174, 
       "9-6": 173
     }, 
+    "total_checkin": 4470, 
     "type": "checkin"
   }, 
   {
     "business_id": "3OB5gQqibKGTzx9R1w7wKQ", 
+    "business_name": "SkinnyFATS", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -942,10 +955,12 @@
       "9-5": 42, 
       "9-6": 20
     }, 
+    "total_checkin": 4412, 
     "type": "checkin"
   }, 
   {
     "business_id": "6IRoWd6N__OVMNQfvu1Ccw", 
+    "business_name": "Yard House Red Rock Resort", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -1068,10 +1083,12 @@
       "9-3": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 4258, 
     "type": "checkin"
   }, 
   {
     "business_id": "xyTJYlbE_MLouK6rCou6zg", 
+    "business_name": "Burger Bar", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1202,10 +1219,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 4080, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZP6qFq7LUh6Tr7WHPoOW6g", 
+    "business_name": "eat.", 
     "checkin_info": {
       "0-1": 2, 
       "10-0": 85, 
@@ -1296,6 +1315,7 @@
       "9-5": 128, 
       "9-6": 115
     }, 
+    "total_checkin": 3939, 
     "type": "checkin"
   }
 ]

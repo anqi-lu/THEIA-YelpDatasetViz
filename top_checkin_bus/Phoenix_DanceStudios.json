@@ -1,6 +1,7 @@
 [
   {
     "business_id": "P5S53mTS907bkym4kd7qFQ", 
+    "business_name": "Pure Barre Phoenix", 
     "checkin_info": {
       "10-0": 40, 
       "10-1": 9, 
@@ -105,10 +106,12 @@
       "9-5": 35, 
       "9-6": 20
     }, 
+    "total_checkin": 1943, 
     "type": "checkin"
   }, 
   {
     "business_id": "L6ox0Oab2TRmzXBA8bdlTA", 
+    "business_name": "Arizona Sunrays Gymnastics & Dance Center", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 6, 
@@ -150,10 +153,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 91, 
     "type": "checkin"
   }, 
   {
     "business_id": "_X4onMscIcbmDNaY92octg", 
+    "business_name": "Bricks Studio", 
     "checkin_info": {
       "10-5": 1, 
       "10-6": 2, 
@@ -185,10 +190,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 71, 
     "type": "checkin"
   }, 
   {
     "business_id": "uUgi_xMxJBkEpSCTyogl_w", 
+    "business_name": "The Dance Shoppe", 
     "checkin_info": {
       "10-6": 1, 
       "11-5": 2, 
@@ -205,10 +212,12 @@
       "20-3": 6, 
       "21-3": 1
     }, 
+    "total_checkin": 54, 
     "type": "checkin"
   }, 
   {
     "business_id": "bBjBTLRk0jxEySjixSFUkw", 
+    "business_name": "In The RA Fitness", 
     "checkin_info": {
       "10-5": 3, 
       "10-6": 2, 
@@ -229,10 +238,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 38, 
     "type": "checkin"
   }, 
   {
     "business_id": "16olLTJnCA0Q3B_oft0RvQ", 
+    "business_name": "Fatcat Ballroom and Dance Company", 
     "checkin_info": {
       "10-6": 1, 
       "11-5": 1, 
@@ -257,10 +268,12 @@
       "21-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "aDJdR2lvWH1RLBIKQ_bFOA", 
+    "business_name": "Studios 806", 
     "checkin_info": {
       "10-5": 1, 
       "11-5": 2, 
@@ -276,10 +289,12 @@
       "2-2": 1, 
       "20-4": 1
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "_PqHNiYiAKzM0TYugQD2_Q", 
+    "business_name": "In The RA Fitness", 
     "checkin_info": {
       "10-5": 1, 
       "15-6": 1, 
@@ -290,10 +305,12 @@
       "18-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "MDDg9JCyac9oRNaKgu4IdQ", 
+    "business_name": "Scandalesque Productions", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -306,10 +323,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "nf-XFT_vCyPveDM6Q51xxA", 
+    "business_name": "Encore Dance Center", 
     "checkin_info": {
       "0-5": 1, 
       "10-5": 1, 
@@ -320,6 +339,7 @@
       "23-6": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }
 ]

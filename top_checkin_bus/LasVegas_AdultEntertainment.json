@@ -1,6 +1,7 @@
 [
   {
     "business_id": "f-kw2D40Kzq8mlS8Td7rhw", 
+    "business_name": "OMNIA", 
     "checkin_info": {
       "0-0": 23, 
       "0-1": 6, 
@@ -136,10 +137,12 @@
       "9-5": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 2002, 
     "type": "checkin"
   }, 
   {
     "business_id": "SoCQmHKJz54E09tEhmzwcQ", 
+    "business_name": "Sapphire Gentlemen's Club", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 7, 
@@ -280,10 +283,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 1435, 
     "type": "checkin"
   }, 
   {
     "business_id": "f3EcPjqKftEznBSs2oQVRg", 
+    "business_name": "Pure", 
     "checkin_info": {
       "0-0": 29, 
       "0-1": 3, 
@@ -389,10 +394,12 @@
       "9-2": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1409, 
     "type": "checkin"
   }, 
   {
     "business_id": "4MwbNHAVZ6aRE1FWks-HRQ", 
+    "business_name": "Spearmint Rhino", 
     "checkin_info": {
       "0-0": 17, 
       "0-1": 14, 
@@ -545,10 +552,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 1065, 
     "type": "checkin"
   }, 
   {
     "business_id": "b4lcgZ1ItuTjGGZmkLa2BQ", 
+    "business_name": "Thunder From Down Under", 
     "checkin_info": {
       "0-0": 12, 
       "0-3": 1, 
@@ -649,10 +658,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 712, 
     "type": "checkin"
   }, 
   {
     "business_id": "MHajTmVXiD6hVBYTLTwo6g", 
+    "business_name": "Chippendales", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 1, 
@@ -752,10 +763,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 644, 
     "type": "checkin"
   }, 
   {
     "business_id": "d9ZAurAnQSiYaUowoYP5UQ", 
+    "business_name": "Money Plays", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 6, 
@@ -870,10 +883,12 @@
       "8-6": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 570, 
     "type": "checkin"
   }, 
   {
     "business_id": "sbPAI0IBqqK54_rg0C_Sxg", 
+    "business_name": "Treasures Gentlemen's Club", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 3, 
@@ -995,10 +1010,12 @@
       "9-4": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 449, 
     "type": "checkin"
   }, 
   {
     "business_id": "YZxA6w82eFJFntwqJLln6w", 
+    "business_name": "OG Gentlemen's Club", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 1, 
@@ -1102,10 +1119,12 @@
       "7-6": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 447, 
     "type": "checkin"
   }, 
   {
     "business_id": "cV_5KCcKlAvPWR2nSoRFeQ", 
+    "business_name": "Heart Bar", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 4, 
@@ -1228,6 +1247,7 @@
       "8-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 441, 
     "type": "checkin"
   }
 ]

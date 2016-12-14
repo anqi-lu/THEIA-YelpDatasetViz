@@ -1,6 +1,7 @@
 [
   {
     "business_id": "i2enuXSmvcpA6h3e59Imbw", 
+    "business_name": "Concentra Urgent Care - Las Vegas Polaris", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -105,10 +106,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 187, 
     "type": "checkin"
   }, 
   {
     "business_id": "OvU0vkna2TP9HWB_QrT-ag", 
+    "business_name": "Advanced Orthopedics and Sports Medicine", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 5, 
@@ -159,10 +162,12 @@
       "9-3": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 156, 
     "type": "checkin"
   }, 
   {
     "business_id": "Rx3c8iDnlDx7Q9jx_I6sFw", 
+    "business_name": "MaxHealth Center - Rancho", 
     "checkin_info": {
       "10-4": 2, 
       "11-2": 2, 
@@ -200,10 +205,12 @@
       "8-4": 3, 
       "9-4": 3
     }, 
+    "total_checkin": 124, 
     "type": "checkin"
   }, 
   {
     "business_id": "euXg5qzT6v6IRU63Bw62Ow", 
+    "business_name": "Don Nobis Progressive Physical Therapy", 
     "checkin_info": {
       "10-4": 2, 
       "11-0": 3, 
@@ -248,10 +255,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 120, 
     "type": "checkin"
   }, 
   {
     "business_id": "DnG1YSxm5VhOIOCb5Lgfgw", 
+    "business_name": "HealthSouth Rehabilitation Hospital of Las Vegas", 
     "checkin_info": {
       "10-2": 3, 
       "10-3": 2, 
@@ -311,10 +320,12 @@
       "8-6": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 109, 
     "type": "checkin"
   }, 
   {
     "business_id": "tQMqKaXog0F-VHmNfWzrWA", 
+    "business_name": "Rapid Rehab", 
     "checkin_info": {
       "10-4": 2, 
       "10-5": 4, 
@@ -353,10 +364,12 @@
       "9-5": 6, 
       "9-6": 1
     }, 
+    "total_checkin": 105, 
     "type": "checkin"
   }, 
   {
     "business_id": "7tnn90byuAGTUaoTeNOp-Q", 
+    "business_name": "Achieve Physical Therapy", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -397,10 +410,12 @@
       "9-3": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 99, 
     "type": "checkin"
   }, 
   {
     "business_id": "Mbr5HMSvyVtxwRJuwTZ68A", 
+    "business_name": "Las Vegas Chiropractic Associates", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 3, 
@@ -428,10 +443,12 @@
       "9-2": 1, 
       "9-4": 6
     }, 
+    "total_checkin": 66, 
     "type": "checkin"
   }, 
   {
     "business_id": "CGC-GMbLfAyxwVb4Ja1yhg", 
+    "business_name": "Harmon Medical & Rehabilitation Hospital", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -475,10 +492,12 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 55, 
     "type": "checkin"
   }, 
   {
     "business_id": "IQlfqLp-15pSwaze5hGTbg", 
+    "business_name": "HealthSouth Desert Canyon Rehabilitation Hospital", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -518,6 +537,7 @@
       "8-4": 2, 
       "9-3": 2
     }, 
+    "total_checkin": 52, 
     "type": "checkin"
   }
 ]

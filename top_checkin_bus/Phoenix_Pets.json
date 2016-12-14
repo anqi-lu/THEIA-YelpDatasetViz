@@ -1,6 +1,7 @@
 [
   {
     "business_id": "MhGQwtFpHXvihitpX5uhKQ", 
+    "business_name": "Arizona Animal Welfare League & SPCA", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -63,10 +64,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 444, 
     "type": "checkin"
   }, 
   {
     "business_id": "YcvHN2NGxDxlKKhLRfM1QA", 
+    "business_name": "Sky Harbor International Airport Dog Parks", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -189,10 +192,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 330, 
     "type": "checkin"
   }, 
   {
     "business_id": "gL1aPnYlZIFDydyDx1d3YQ", 
+    "business_name": "Smelly Dog", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 4, 
@@ -280,10 +285,12 @@
       "9-5": 3, 
       "9-6": 5
     }, 
+    "total_checkin": 316, 
     "type": "checkin"
   }, 
   {
     "business_id": "Snek2CGtaYW5NjjrTFT7Qw", 
+    "business_name": "Arizona Humane Society", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 6, 
@@ -365,10 +372,12 @@
       "9-5": 9, 
       "9-6": 2
     }, 
+    "total_checkin": 272, 
     "type": "checkin"
   }, 
   {
     "business_id": "GZNEPuEPqs7JIswUhOttnw", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "10-2": 3, 
       "10-3": 1, 
@@ -454,10 +463,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 262, 
     "type": "checkin"
   }, 
   {
     "business_id": "_y7fd5kvoD0bVc6sgOoEGA", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -539,10 +550,12 @@
       "9-5": 9, 
       "9-6": 5
     }, 
+    "total_checkin": 260, 
     "type": "checkin"
   }, 
   {
     "business_id": "lBRCMN7wNn-BKUsaOXJRow", 
+    "business_name": "Wag N' Wash Healthy Pet Center", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 5, 
@@ -621,10 +634,12 @@
       "9-5": 8, 
       "9-6": 1
     }, 
+    "total_checkin": 249, 
     "type": "checkin"
   }, 
   {
     "business_id": "mQde7KRomOQoUyPGTqeXhA", 
+    "business_name": "Arizona Humane Society", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -702,10 +717,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 232, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ug0LxMh0mZ0j0A-QjKzWng", 
+    "business_name": "Puff & Fluff Grooming and Pet Sitting", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 4, 
@@ -774,10 +791,12 @@
       "9-5": 8, 
       "9-6": 2
     }, 
+    "total_checkin": 181, 
     "type": "checkin"
   }, 
   {
     "business_id": "6OxeXz4WxInSy6kDHSLjOQ", 
+    "business_name": "Arizona Humane Society's Petique at Biltmore Fashion Park", 
     "checkin_info": {
       "10-1": 6, 
       "10-2": 2, 
@@ -832,6 +851,7 @@
       "9-3": 13, 
       "9-5": 1
     }, 
+    "total_checkin": 167, 
     "type": "checkin"
   }
 ]

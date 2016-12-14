@@ -1,6 +1,7 @@
 [
   {
     "business_id": "G6mZKMiDqHDgH92IOg9QhQ", 
+    "business_name": "Soyo Korean Barstaurant", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 24, 
@@ -132,10 +133,12 @@
       "9-0": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 4271, 
     "type": "checkin"
   }, 
   {
     "business_id": "H_SuH7uLiYahDMbNBB9kog", 
+    "business_name": "KoMex Fusion", 
     "checkin_info": {
       "1-6": 2, 
       "10-1": 1, 
@@ -241,10 +244,12 @@
       "8-6": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 4023, 
     "type": "checkin"
   }, 
   {
     "business_id": "UKKz4HdQC0aH9j5lLi4u8Q", 
+    "business_name": "Tofu Hut", 
     "checkin_info": {
       "0-0": 42, 
       "0-1": 31, 
@@ -373,10 +378,12 @@
       "8-5": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 3537, 
     "type": "checkin"
   }, 
   {
     "business_id": "VD7schMLQg85O4M8Gxr28g", 
+    "business_name": "Greenland Supermarket", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 10, 
@@ -490,10 +497,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 2986, 
     "type": "checkin"
   }, 
   {
     "business_id": "ADTZPVMIYJN0jAvvHxcBMw", 
+    "business_name": "Buldogis Gourmet Hot Dogs", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 2, 
@@ -598,10 +607,12 @@
       "8-2": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 2630, 
     "type": "checkin"
   }, 
   {
     "business_id": "iUPJmJvHy9fVfRxsuwwdLQ", 
+    "business_name": "Gangnam Asian BBQ Dining", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 9, 
@@ -724,10 +735,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 2529, 
     "type": "checkin"
   }, 
   {
     "business_id": "xxOQ7h6s3InV8o8DOVHlMA", 
+    "business_name": "Island Style", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 2, 
@@ -821,10 +834,12 @@
       "23-4": 1, 
       "4-3": 1
     }, 
+    "total_checkin": 2202, 
     "type": "checkin"
   }, 
   {
     "business_id": "vPnwX30Gn0oa4dVBL0W4Ww", 
+    "business_name": "Sura BBQ Buffet", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 2, 
@@ -944,10 +959,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 2014, 
     "type": "checkin"
   }, 
   {
     "business_id": "E9ZsPtGovfEPHlMHkDdlQA", 
+    "business_name": "Noodles", 
     "checkin_info": {
       "0-0": 22, 
       "0-1": 7, 
@@ -1073,10 +1090,12 @@
       "8-6": 1, 
       "9-2": 2
     }, 
+    "total_checkin": 1585, 
     "type": "checkin"
   }, 
   {
     "business_id": "cQJM8VpY21O3HVu7j_b7Vw", 
+    "business_name": "Honey Pig", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 5, 
@@ -1220,6 +1239,7 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1404, 
     "type": "checkin"
   }
 ]

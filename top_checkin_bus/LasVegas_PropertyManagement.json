@@ -1,6 +1,7 @@
 [
   {
     "business_id": "396iB9mCt6Jxjw-elV1zdQ", 
+    "business_name": "Tesora Apartments", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 1, 
@@ -89,10 +90,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 128, 
     "type": "checkin"
   }, 
   {
     "business_id": "FSECQzU_J22Kxj3aUyagmQ", 
+    "business_name": "Sky Las Vegas", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -170,10 +173,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 97, 
     "type": "checkin"
   }, 
   {
     "business_id": "bG81MUWwdLXsS-iXybm1wg", 
+    "business_name": "Summerlin", 
     "checkin_info": {
       "0-0": 2, 
       "0-3": 1, 
@@ -211,10 +216,12 @@
       "5-3": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "qekZCkE2Oeo-NgMFUOIERw", 
+    "business_name": "Xpand Realty & Property Management", 
     "checkin_info": {
       "10-1": 2, 
       "11-2": 1, 
@@ -241,10 +248,12 @@
       "6-6": 2, 
       "7-0": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "H_PJqQ5mx0fTCufbO8XiPw", 
+    "business_name": "Ovation Property Management", 
     "checkin_info": {
       "10-1": 1, 
       "11-2": 1, 
@@ -262,10 +271,12 @@
       "8-2": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "pUVi-5optZt5DlGOoeeI6Q", 
+    "business_name": "Signature Real Estate Group Northwest", 
     "checkin_info": {
       "10-3": 1, 
       "13-5": 2, 
@@ -283,10 +294,12 @@
       "8-6": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "WPyMR4ar1bBZiER9bvy4XA", 
+    "business_name": "Key Property Management", 
     "checkin_info": {
       "12-2": 1, 
       "13-0": 1, 
@@ -302,10 +315,12 @@
       "22-1": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "R7eYeSsg2GxiYtN1SjAvnA", 
+    "business_name": "Nevadas Finest Properties", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -313,24 +328,29 @@
       "14-2": 1, 
       "15-4": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "fg7dzuWuFgYHgyHeNXdAqA", 
+    "business_name": "Hot Point Realty", 
     "checkin_info": {
       "11-2": 1, 
       "13-0": 1, 
       "16-3": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "JEIKwEJp_1MLshuMA5tzYg", 
+    "business_name": "Re/Max Benchmark Realty", 
     "checkin_info": {
       "12-3": 1, 
       "14-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

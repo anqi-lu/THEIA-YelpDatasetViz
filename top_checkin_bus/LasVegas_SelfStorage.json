@@ -1,6 +1,7 @@
 [
   {
     "business_id": "gZTOq_nBGsM_yBv4fIHpng", 
+    "business_name": "Storage West Rhodes Ranch", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 2, 
@@ -143,10 +144,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 457, 
     "type": "checkin"
   }, 
   {
     "business_id": "Ealot_FO7rSMNUKk9Qk_FA", 
+    "business_name": "U-Haul Moving & Trailer Hitch Center of Las Vegas", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -186,10 +189,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "r5FiW-EM9WT1aYd68R8f6g", 
+    "business_name": "U-Haul Moving & Storage", 
     "checkin_info": {
       "10-3": 1, 
       "11-0": 2, 
@@ -224,10 +229,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "Kgqu6T-QDwVM7oh98NS_TQ", 
+    "business_name": "Extra Space Storage", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -252,10 +259,12 @@
       "9-2": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 29, 
     "type": "checkin"
   }, 
   {
     "business_id": "-yFhla8kMStJHdwpxujjDA", 
+    "business_name": "U-Haul Moving & Storage At Oso Blanca", 
     "checkin_info": {
       "1-2": 1, 
       "1-5": 1, 
@@ -282,10 +291,12 @@
       "8-5": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "f_BLOzQN8YyW2w7UjqLR6Q", 
+    "business_name": "Towne Storage Dewey Rainbow", 
     "checkin_info": {
       "12-1": 1, 
       "12-5": 1, 
@@ -312,10 +323,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "m04oqVJhcKbCs-eqASq1aw", 
+    "business_name": "Storage West Self Storage", 
     "checkin_info": {
       "0-4": 1, 
       "10-3": 1, 
@@ -340,10 +353,12 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "dMjgeMlsI3k4KNSpiXVsoA", 
+    "business_name": "All Storage - Canyon Gate", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -368,10 +383,12 @@
       "22-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 23, 
     "type": "checkin"
   }, 
   {
     "business_id": "LAkjrP3TAiVa6uTCwIT28g", 
+    "business_name": "Best Storage", 
     "checkin_info": {
       "10-1": 1, 
       "11-1": 1, 
@@ -390,10 +407,12 @@
       "8-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "_f75U_oAP8gwAZ9NnINi0Q", 
+    "business_name": "All Storage -  Summerlin", 
     "checkin_info": {
       "11-4": 1, 
       "11-5": 1, 
@@ -408,6 +427,7 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }
 ]

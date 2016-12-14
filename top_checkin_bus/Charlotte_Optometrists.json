@@ -1,0 +1,198 @@
+[
+  {
+    "business_id": "ACldIl1Ftc9hObmUkSQ1iA", 
+    "business_name": "eyecarecenter", 
+    "checkin_info": {
+      "10-3": 1, 
+      "10-4": 1, 
+      "11-0": 1, 
+      "11-1": 2, 
+      "11-2": 3, 
+      "11-4": 2, 
+      "12-4": 1, 
+      "13-1": 2, 
+      "13-4": 1, 
+      "14-0": 1, 
+      "14-2": 2, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-3": 1, 
+      "9-0": 1, 
+      "9-2": 1, 
+      "9-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 27, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "3agV-iW8yukcXpbHom3p3Q", 
+    "business_name": "Spectrum Eye Care", 
+    "checkin_info": {
+      "12-0": 1, 
+      "4-2": 3, 
+      "4-3": 1, 
+      "5-3": 1, 
+      "6-1": 3, 
+      "6-2": 1, 
+      "6-3": 1, 
+      "7-0": 1, 
+      "7-1": 1, 
+      "7-4": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-2": 2
+    }, 
+    "total_checkin": 18, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MWsY9PueZGWi0B0C7MQCkQ", 
+    "business_name": "Steven C Moore & Associates", 
+    "checkin_info": {
+      "10-0": 3, 
+      "10-1": 1, 
+      "11-2": 2, 
+      "11-4": 1, 
+      "12-0": 2, 
+      "5-4": 2, 
+      "6-0": 1, 
+      "6-1": 1, 
+      "6-2": 1, 
+      "6-4": 1, 
+      "8-1": 1, 
+      "8-3": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 18, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "PpqKAtLyTRk4sLxMrsVEdg", 
+    "business_name": "Horizon Eye Care", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 1, 
+      "11-1": 1, 
+      "12-2": 1, 
+      "4-4": 1, 
+      "5-3": 1, 
+      "5-4": 2, 
+      "6-2": 1, 
+      "6-3": 1, 
+      "6-5": 1, 
+      "9-4": 2
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "6Jf7YLblSXwOLw9jKB9bRg", 
+    "business_name": "LensCrafters", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-4": 1, 
+      "11-6": 1, 
+      "13-3": 2, 
+      "13-5": 1, 
+      "15-0": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "7-2": 1, 
+      "7-4": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "cfx6pyNJOyPGZ1su1WCI4A", 
+    "business_name": "MyEyeDr.", 
+    "checkin_info": {
+      "11-4": 1, 
+      "12-4": 1, 
+      "13-2": 1, 
+      "14-1": 1, 
+      "15-0": 1, 
+      "6-2": 1, 
+      "7-5": 1, 
+      "8-3": 1, 
+      "8-4": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Gj4jjtKTyqe_jki1ICuORg", 
+    "business_name": "MyEyeDr.", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-5": 1, 
+      "13-3": 1, 
+      "14-3": 2, 
+      "5-2": 1, 
+      "6-0": 1, 
+      "6-2": 1, 
+      "7-1": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "sdxLkGm0f4HFRVto9SclKg", 
+    "business_name": "Carolinas Vision Group", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-3": 1, 
+      "10-4": 1, 
+      "11-1": 1, 
+      "11-4": 1, 
+      "12-3": 1, 
+      "13-1": 1, 
+      "6-2": 1, 
+      "6-3": 1, 
+      "7-0": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "j8073AOyZGWGfSV4vAKGPQ", 
+    "business_name": "Innovative Eye Care", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-0": 1, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "14-3": 1, 
+      "5-3": 1, 
+      "6-1": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "kj2_OwsWdPc1cYiewVab5Q", 
+    "business_name": "LensCrafters", 
+    "checkin_info": {
+      "10-6": 1, 
+      "14-6": 1, 
+      "18-2": 1, 
+      "7-0": 1, 
+      "7-2": 1, 
+      "8-1": 1, 
+      "9-0": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }
+]

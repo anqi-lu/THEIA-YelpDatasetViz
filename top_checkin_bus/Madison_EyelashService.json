@@ -1,0 +1,16 @@
+[
+  {
+    "business_id": "R4Z7wIDuhw0NZIdcGcQ6hg", 
+    "business_name": "Foxy's Salon Hair & Wax Specialist LLC", 
+    "checkin_info": {
+      "13-4": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "20-2": 1, 
+      "8-2": 1, 
+      "8-5": 2
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }
+]

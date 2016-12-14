@@ -1,6 +1,7 @@
 [
   {
     "business_id": "0UZ31UTcOLRKuqPqPe-VBA", 
+    "business_name": "Chase Field", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -142,10 +143,12 @@
       "9-5": 18, 
       "9-6": 8
     }, 
+    "total_checkin": 7682, 
     "type": "checkin"
   }, 
   {
     "business_id": "uFJwKlHL6HyHSJmORO8-5w", 
+    "business_name": "Talking Stick Resort Arena", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 1, 
@@ -277,10 +280,12 @@
       "9-5": 7, 
       "9-6": 4
     }, 
+    "total_checkin": 3783, 
     "type": "checkin"
   }, 
   {
     "business_id": "qw93CjlAZ6a4ff11Z-hF3Q", 
+    "business_name": "Crescent Ballroom", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 5, 
@@ -406,10 +411,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 3440, 
     "type": "checkin"
   }, 
   {
     "business_id": "fP-BPL6iRu2tbcvlnjRshw", 
+    "business_name": "Copper Blues", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 1, 
@@ -521,10 +528,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 3228, 
     "type": "checkin"
   }, 
   {
     "business_id": "EmlgWjs1ZzZEpDjZCSPLmw", 
+    "business_name": "AMC Dine-in Theatres Esplanade 14", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -647,10 +656,12 @@
       "9-5": 15, 
       "9-6": 17
     }, 
+    "total_checkin": 3086, 
     "type": "checkin"
   }, 
   {
     "business_id": "qMkIbQFrROSnPaQ7at85-w", 
+    "business_name": "Desert Botanical Garden", 
     "checkin_info": {
       "0-6": 1, 
       "1-6": 1, 
@@ -774,10 +785,12 @@
       "9-5": 28, 
       "9-6": 28
     }, 
+    "total_checkin": 2227, 
     "type": "checkin"
   }, 
   {
     "business_id": "AI16w9Hsiq9xFyUnX8x9qw", 
+    "business_name": "Harkins Theatres Scottsdale 101 14", 
     "checkin_info": {
       "0-4": 4, 
       "0-5": 7, 
@@ -907,10 +920,12 @@
       "9-5": 15, 
       "9-6": 13
     }, 
+    "total_checkin": 2047, 
     "type": "checkin"
   }, 
   {
     "business_id": "-gefwOTDqW9HWGDvWBPSMQ", 
+    "business_name": "Seamus McCaffrey's", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 3, 
@@ -1025,10 +1040,12 @@
       "23-6": 10, 
       "9-4": 2
     }, 
+    "total_checkin": 1648, 
     "type": "checkin"
   }, 
   {
     "business_id": "pQ3kRVmttsV1bHxuTf7TAg", 
+    "business_name": "The Lost Leaf", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 8, 
@@ -1116,10 +1133,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1531, 
     "type": "checkin"
   }, 
   {
     "business_id": "MYj5f-QxtGeKlhVVx1RD4g", 
+    "business_name": "FilmBar", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1220,6 +1239,7 @@
       "9-0": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 1490, 
     "type": "checkin"
   }
 ]

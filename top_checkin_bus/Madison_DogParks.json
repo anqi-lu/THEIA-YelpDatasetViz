@@ -1,0 +1,86 @@
+[
+  {
+    "business_id": "sa9cZ3c-YvE50rv16rtEAQ", 
+    "business_name": "Sycamore Park - Dog Off-Leash Park", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-4": 1, 
+      "10-5": 1, 
+      "12-0": 1, 
+      "12-4": 1, 
+      "12-5": 3, 
+      "12-6": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "14-2": 1, 
+      "15-1": 3, 
+      "15-3": 1, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "16-2": 2, 
+      "17-3": 1, 
+      "5-2": 1, 
+      "5-5": 1, 
+      "6-5": 5, 
+      "6-6": 2, 
+      "7-5": 2, 
+      "7-6": 5, 
+      "8-3": 1, 
+      "8-5": 1, 
+      "8-6": 3, 
+      "9-5": 2, 
+      "9-6": 2
+    }, 
+    "total_checkin": 47, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "5e21MA77AmMJ_ZcR3dggaw", 
+    "business_name": "Lake Farm County Park", 
+    "checkin_info": {
+      "10-5": 3, 
+      "10-6": 1, 
+      "11-4": 1, 
+      "12-0": 1, 
+      "12-4": 1, 
+      "14-0": 1, 
+      "16-5": 1, 
+      "17-4": 1, 
+      "7-5": 1, 
+      "8-6": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Re_X72VUVlTZpVSv5eafRw", 
+    "business_name": "Warner Dog Park", 
+    "checkin_info": {
+      "10-6": 1, 
+      "12-5": 1, 
+      "12-6": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "14-6": 1, 
+      "17-4": 1, 
+      "5-1": 1, 
+      "8-5": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "_OT7mnUteAJkGh1weNqeYg", 
+    "business_name": "Quann Park", 
+    "checkin_info": {
+      "10-5": 1, 
+      "12-2": 1, 
+      "12-6": 1, 
+      "8-6": 2
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

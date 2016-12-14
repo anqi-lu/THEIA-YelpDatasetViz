@@ -1,6 +1,7 @@
 [
   {
     "business_id": "QwsUiUqr19WF3fMZwBC3Ew", 
+    "business_name": "Barking Dogs Self-Wash & Grooming", 
     "checkin_info": {
       "0-5": 1, 
       "1-5": 1, 
@@ -90,10 +91,12 @@
       "9-5": 15, 
       "9-6": 10
     }, 
+    "total_checkin": 528, 
     "type": "checkin"
   }, 
   {
     "business_id": "1i3PiL2UARVdumeHfeXYbA", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 3, 
@@ -187,10 +190,12 @@
       "9-3": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 472, 
     "type": "checkin"
   }, 
   {
     "business_id": "lST8u7uRts41E0FYqr9Gdw", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 2, 
@@ -291,10 +296,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 414, 
     "type": "checkin"
   }, 
   {
     "business_id": "FNCHI8M36Byh6R9B775YFA", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 6, 
@@ -392,10 +399,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 382, 
     "type": "checkin"
   }, 
   {
     "business_id": "xfmcYwoyNHbhULJ3eNg5zw", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 2, 
@@ -491,10 +500,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 362, 
     "type": "checkin"
   }, 
   {
     "business_id": "0DecqKx4eefDkXSXDUz3kA", 
+    "business_name": "Petco", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -581,10 +592,12 @@
       "9-4": 2, 
       "9-5": 6
     }, 
+    "total_checkin": 349, 
     "type": "checkin"
   }, 
   {
     "business_id": "Pd6F68qHY14IlW2z6kczWw", 
+    "business_name": "PetSmart", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 1, 
@@ -683,10 +696,12 @@
       "9-5": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 342, 
     "type": "checkin"
   }, 
   {
     "business_id": "QZLwRBpWftIba7NQVt2ang", 
+    "business_name": "Animal Foundation", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 1, 
@@ -775,10 +790,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 341, 
     "type": "checkin"
   }, 
   {
     "business_id": "9_jwuOrXmLvzks1GuCaQOQ", 
+    "business_name": "The Spaw", 
     "checkin_info": {
       "1-5": 2, 
       "10-1": 4, 
@@ -862,10 +879,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 309, 
     "type": "checkin"
   }, 
   {
     "business_id": "d_KteuQWZSNOfbmWGViwCw", 
+    "business_name": "Petco", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 1, 
@@ -950,6 +969,7 @@
       "9-5": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 287, 
     "type": "checkin"
   }
 ]

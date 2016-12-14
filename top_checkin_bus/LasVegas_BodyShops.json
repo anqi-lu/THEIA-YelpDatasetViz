@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AIut5qYpkyU-ylyEl9qBpw", 
+    "business_name": "Mirage Collision", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 5, 
@@ -61,10 +62,12 @@
       "9-3": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 196, 
     "type": "checkin"
   }, 
   {
     "business_id": "jpznvlG-bvfoigCPSr0snA", 
+    "business_name": "Oasis Hand Car Wash", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -134,10 +137,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 155, 
     "type": "checkin"
   }, 
   {
     "business_id": "vnKzoJr2C2YOTSQPt_F-tA", 
+    "business_name": "Japanese Car Service", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 2, 
@@ -190,10 +195,12 @@
       "9-3": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 92, 
     "type": "checkin"
   }, 
   {
     "business_id": "WxZ6sKV4fbsu8EbvbZXgEA", 
+    "business_name": "Metropolitan Auto Body & Paint", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -238,10 +245,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "eqKqezaR6XgMHTu2Oy-lpA", 
+    "business_name": "Dent Guys", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -277,10 +286,12 @@
       "9-3": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "GEgkHjfuCviCjIVh76kELg", 
+    "business_name": "New Look Collision Center", 
     "checkin_info": {
       "10-0": 1, 
       "10-5": 2, 
@@ -315,10 +326,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "So95h2hwq7qrioGF86Qbew", 
+    "business_name": "Swat Motorsports", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -355,10 +368,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "1nTXDgqwu7kDUQzyDJm01g", 
+    "business_name": "Gerber Collision & Glass", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 1, 
@@ -385,10 +400,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "kXks5dh7IAHESyFacb2eFw", 
+    "business_name": "All Team Auto Repair and Collision", 
     "checkin_info": {
       "10-1": 1, 
       "11-0": 1, 
@@ -413,10 +430,12 @@
       "8-4": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }, 
   {
     "business_id": "7W-rQ-aop2Nl2sIanbLfIg", 
+    "business_name": "Hi Star Auto Center", 
     "checkin_info": {
       "10-3": 2, 
       "11-1": 1, 
@@ -440,6 +459,7 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }
 ]

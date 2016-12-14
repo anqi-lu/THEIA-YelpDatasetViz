@@ -1,6 +1,7 @@
 [
   {
     "business_id": "79EG9Pv0bxNTmBjTVCd4CQ", 
+    "business_name": "Brio Tuscan Grille", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -109,10 +110,12 @@
       "7-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 3681, 
     "type": "checkin"
   }, 
   {
     "business_id": "i3ogCoQD4MY_sR73GCk-BA", 
+    "business_name": "Nora's Italian Cuisine", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -224,10 +227,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 2943, 
     "type": "checkin"
   }, 
   {
     "business_id": "5GKbGn9-fAgQ0njSh3OJ8A", 
+    "business_name": "LAVO Italian Restaurant & Lounge", 
     "checkin_info": {
       "0-0": 62, 
       "0-1": 2, 
@@ -369,10 +374,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 2931, 
     "type": "checkin"
   }, 
   {
     "business_id": "LXrq0Fw6MCz70KMA928ldQ", 
+    "business_name": "Herbs & Rye", 
     "checkin_info": {
       "0-1": 42, 
       "0-2": 48, 
@@ -475,10 +482,12 @@
       "8-2": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 2802, 
     "type": "checkin"
   }, 
   {
     "business_id": "s5-VDvUqyYnD8RG3LPqnbQ", 
+    "business_name": "Giada", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -610,10 +619,12 @@
       "9-5": 15, 
       "9-6": 14
     }, 
+    "total_checkin": 2612, 
     "type": "checkin"
   }, 
   {
     "business_id": "-2n-OHbbwIv3SY8RP9bgTQ", 
+    "business_name": "Maggiano's Little Italy", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -731,10 +742,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2431, 
     "type": "checkin"
   }, 
   {
     "business_id": "mYuHPciSbqi2lxYpbs-LCg", 
+    "business_name": "Mac Shack Spring Valley", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 3, 
@@ -825,10 +838,12 @@
       "6-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 2124, 
     "type": "checkin"
   }, 
   {
     "business_id": "8Pzdk19tA2bKlKDSgwWqoQ", 
+    "business_name": "Scarpetta", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 3, 
@@ -941,10 +956,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1867, 
     "type": "checkin"
   }, 
   {
     "business_id": "kePxkm183BDiOiDcsjgAhg", 
+    "business_name": "Novecento Pizzeria", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -1038,10 +1055,12 @@
       "8-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 1693, 
     "type": "checkin"
   }, 
   {
     "business_id": "glmwOs55H49Q_D8ENZtqYQ", 
+    "business_name": "Hyde Bellagio", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 3, 
@@ -1171,6 +1190,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1570, 
     "type": "checkin"
   }
 ]

@@ -1,0 +1,14 @@
+[
+  {
+    "business_id": "c9IGPQFlDUnqizblUNtYXg", 
+    "business_name": "McCarthy Tire and Automotive Centers", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-2": 1, 
+      "13-2": 1, 
+      "5-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

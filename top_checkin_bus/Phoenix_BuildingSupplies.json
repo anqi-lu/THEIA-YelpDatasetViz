@@ -1,6 +1,7 @@
 [
   {
     "business_id": "lUE101QlZgUuIl8OdIzITQ", 
+    "business_name": "Lowe's Home Improvement", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 2, 
@@ -94,10 +95,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 293, 
     "type": "checkin"
   }, 
   {
     "business_id": "nrmth15fmDVDoPYiph2_qQ", 
+    "business_name": "Desert Liquidators", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -129,10 +132,12 @@
       "8-0": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "RRaEjsCiOEFGWfuYI3SbKQ", 
+    "business_name": "Lowes Home Improvment", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -168,10 +173,12 @@
       "9-4": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 41, 
     "type": "checkin"
   }, 
   {
     "business_id": "kzd7xOVYLFdXx6xDkaNPTg", 
+    "business_name": "Dunn-Edwards Paints", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -199,10 +206,12 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 29, 
     "type": "checkin"
   }, 
   {
     "business_id": "wgj95vgr_OVI5rwW8B6Dgg", 
+    "business_name": "Building Materials Outlet", 
     "checkin_info": {
       "10-5": 3, 
       "11-1": 1, 
@@ -225,10 +234,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }, 
   {
     "business_id": "UxYFIv8MofuwiiViAtUhnw", 
+    "business_name": "Woodworkers Source", 
     "checkin_info": {
       "10-4": 2, 
       "10-5": 2, 
@@ -246,10 +257,12 @@
       "17-0": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 21, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZpsXz73c8E4mMMmnNoAxHw", 
+    "business_name": "Porter Barn Wood", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -263,10 +276,12 @@
       "13-3": 1, 
       "6-0": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "BxyR-Jg6REAXf7gVWt80cw", 
+    "business_name": "Habitat ReStore - Phoenix", 
     "checkin_info": {
       "10-2": 1, 
       "10-5": 2, 
@@ -280,10 +295,12 @@
       "16-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }, 
   {
     "business_id": "8FfJ-FRnKB28-WCqcfb8Hw", 
+    "business_name": "Stardust Building Supplies", 
     "checkin_info": {
       "11-0": 1, 
       "11-5": 3, 
@@ -297,10 +314,12 @@
       "19-1": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "QVrdEvvkSp_q6ryps6zyIg", 
+    "business_name": "Rockler Woodworking & Hardware", 
     "checkin_info": {
       "10-5": 1, 
       "11-5": 2, 
@@ -313,6 +332,7 @@
       "18-3": 1, 
       "21-2": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }
 ]

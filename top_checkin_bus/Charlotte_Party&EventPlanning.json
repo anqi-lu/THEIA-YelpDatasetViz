@@ -1,0 +1,87 @@
+[
+  {
+    "business_id": "-QtlHqCUxQeagXKDH5tRGQ", 
+    "business_name": "Alive After 5", 
+    "checkin_info": {
+      "13-3": 1, 
+      "14-3": 12, 
+      "15-3": 4, 
+      "15-4": 1, 
+      "16-2": 1, 
+      "16-3": 6, 
+      "17-3": 3, 
+      "18-3": 2, 
+      "19-3": 3, 
+      "21-3": 1
+    }, 
+    "total_checkin": 34, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "EVlZV-qlee1TH0XrTD25kg", 
+    "business_name": "Party City", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "10-2": 1, 
+      "10-6": 1, 
+      "11-1": 1, 
+      "12-0": 1, 
+      "12-2": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "13-6": 3, 
+      "14-1": 1, 
+      "14-2": 1, 
+      "16-0": 1, 
+      "16-1": 2, 
+      "16-2": 1, 
+      "17-4": 1, 
+      "5-2": 1, 
+      "6-4": 1, 
+      "7-2": 1, 
+      "8-0": 1, 
+      "9-5": 1, 
+      "9-6": 2
+    }, 
+    "total_checkin": 26, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "L7d-P5NzwHomUy_NKd_o7g", 
+    "business_name": "Chef Alyssa's Kitchen", 
+    "checkin_info": {
+      "10-2": 1, 
+      "15-2": 1, 
+      "15-3": 3, 
+      "17-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "dRM_HiyW8XmEohqrYrdLVQ", 
+    "business_name": "Second String Santa", 
+    "checkin_info": {
+      "12-4": 1, 
+      "16-3": 1, 
+      "17-4": 1, 
+      "18-4": 1, 
+      "21-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "UDgSjOYfe8hjlJdIEKS4aQ", 
+    "business_name": "Vintage Charlotte", 
+    "checkin_info": {
+      "10-5": 1, 
+      "7-5": 1, 
+      "8-5": 2, 
+      "9-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "business_id": "VDPnNKnz89ka_ZEWfRnblA", 
+    "business_name": "Woodie's Auto Service & Repair Center", 
+    "checkin_info": {
+      "10-1": 1, 
+      "12-2": 1, 
+      "12-4": 2, 
+      "14-3": 1, 
+      "17-3": 1, 
+      "4-2": 2, 
+      "5-2": 1, 
+      "5-4": 1, 
+      "6-2": 1, 
+      "6-4": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "IR0PXXOnqXJvhKBj9E25lA", 
+    "business_name": "Scott Auto Body", 
+    "checkin_info": {
+      "11-3": 1, 
+      "12-3": 1, 
+      "19-5": 1, 
+      "4-3": 1, 
+      "5-0": 1, 
+      "6-1": 1, 
+      "7-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "LVbQSxMzqY6ZiV7oRz710Q", 
+    "business_name": "Body Works Plus", 
+    "checkin_info": {
+      "12-0": 1, 
+      "14-2": 1, 
+      "15-2": 1, 
+      "6-2": 1, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "VCJFoZTmChWNYsScd41l-g", 
+    "business_name": "Service King Collision Repair of Charlotte", 
+    "checkin_info": {
+      "11-0": 1, 
+      "12-1": 1, 
+      "4-1": 1, 
+      "4-2": 1, 
+      "7-2": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "W3bibnU5ju2M1hvbVlZ2ZQ", 
+    "business_name": "Carsmetics", 
+    "checkin_info": {
+      "12-0": 1, 
+      "14-4": 1, 
+      "5-0": 1, 
+      "7-6": 1, 
+      "9-0": 2
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "NLlI6maAWX9cXOA1CF7n3Q", 
+    "business_name": "Town & Country Toyota Collision Center", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-6": 1, 
+      "12-0": 1, 
+      "13-0": 1, 
+      "7-0": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "mGVIVOvRU7Q_uhU3dUaEBA", 
+    "business_name": "Hendrick Luxury Collision Center", 
+    "checkin_info": {
+      "12-3": 1, 
+      "7-3": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "wYw-Jd_8uIScmHzj29tN4A", 
+    "business_name": "Custom Paint & Body", 
+    "checkin_info": {
+      "19-3": 1, 
+      "4-0": 1, 
+      "6-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

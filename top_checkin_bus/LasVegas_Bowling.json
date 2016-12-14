@@ -1,6 +1,7 @@
 [
   {
     "business_id": "4ntvolhaYeSCbHY1dhA53A", 
+    "business_name": "Brooklyn Bowl", 
     "checkin_info": {
       "0-0": 16, 
       "0-1": 9, 
@@ -126,10 +127,12 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 2051, 
     "type": "checkin"
   }, 
   {
     "business_id": "Y3MLyIYY1ihfOjjvY6k3rQ", 
+    "business_name": "South Point Bowling", 
     "checkin_info": {
       "0-0": 21, 
       "0-1": 18, 
@@ -267,10 +270,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 1379, 
     "type": "checkin"
   }, 
   {
     "business_id": "nrmNmjiV0CZkH4P7VVF7Qg", 
+    "business_name": "Red Rock Lanes", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 8, 
@@ -396,10 +401,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 1133, 
     "type": "checkin"
   }, 
   {
     "business_id": "GjuotJEGh_qt3_fB1-cCZA", 
+    "business_name": "The Orleans Bowling Center", 
     "checkin_info": {
       "0-0": 23, 
       "0-1": 8, 
@@ -538,10 +545,12 @@
       "9-5": 6, 
       "9-6": 1
     }, 
+    "total_checkin": 774, 
     "type": "checkin"
   }, 
   {
     "business_id": "3MTev7pYoDTFYdMXOwDrlw", 
+    "business_name": "Gold Coast Bowling Center", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -668,10 +677,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 494, 
     "type": "checkin"
   }, 
   {
     "business_id": "Vp--y9J75923Lbc-8AVGWw", 
+    "business_name": "Santa Fe Station Bowling Center", 
     "checkin_info": {
       "0-4": 2, 
       "0-5": 1, 
@@ -760,10 +771,12 @@
       "9-5": 11, 
       "9-6": 2
     }, 
+    "total_checkin": 433, 
     "type": "checkin"
   }, 
   {
     "business_id": "xz4qczirwLcSrCqTalo7kQ", 
+    "business_name": "Drink & Drag Lounge", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 6, 
@@ -843,10 +856,12 @@
       "4-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 411, 
     "type": "checkin"
   }, 
   {
     "business_id": "62GghtPzL6coIfc1ApKfKQ", 
+    "business_name": "Suncoast Bowling Center", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 3, 
@@ -951,10 +966,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 309, 
     "type": "checkin"
   }, 
   {
     "business_id": "qBqwn_iq1_-SzN00YusFFg", 
+    "business_name": "Sam's Town Bowling", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -1035,10 +1052,12 @@
       "9-5": 3, 
       "9-6": 5
     }, 
+    "total_checkin": 145, 
     "type": "checkin"
   }, 
   {
     "business_id": "eJvqcIW-PogV9o__OJPd4g", 
+    "business_name": "Punk Rock Bowling", 
     "checkin_info": {
       "0-0": 3, 
       "0-3": 1, 
@@ -1077,6 +1096,7 @@
       "8-0": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 130, 
     "type": "checkin"
   }
 ]

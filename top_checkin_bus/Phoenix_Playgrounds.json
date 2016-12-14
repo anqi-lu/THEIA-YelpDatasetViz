@@ -1,6 +1,7 @@
 [
   {
     "business_id": "_lanRtzQGRkbhd2b6pQleQ", 
+    "business_name": "Papago Park", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 8, 
@@ -119,10 +120,12 @@
       "9-5": 12, 
       "9-6": 11
     }, 
+    "total_checkin": 569, 
     "type": "checkin"
   }, 
   {
     "business_id": "wr_qUowhLM8DlouPmvYMCQ", 
+    "business_name": "Buffalo Ridge Park", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 1, 
@@ -188,10 +191,12 @@
       "9-5": 4, 
       "9-6": 3
     }, 
+    "total_checkin": 117, 
     "type": "checkin"
   }, 
   {
     "business_id": "lOcNxXXMkae-RORv0qU6mQ", 
+    "business_name": "Aviano Community Park", 
     "checkin_info": {
       "10-4": 1, 
       "10-5": 2, 
@@ -246,10 +251,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 91, 
     "type": "checkin"
   }, 
   {
     "business_id": "YCei5av4E2HtfIyOyCLxug", 
+    "business_name": "Cholla Cove Park", 
     "checkin_info": {
       "11-5": 1, 
       "12-3": 1, 
@@ -273,10 +280,12 @@
       "8-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 40, 
     "type": "checkin"
   }, 
   {
     "business_id": "p0T0B6IvN5t7A1B7eiemyg", 
+    "business_name": "Kachina Park", 
     "checkin_info": {
       "10-1": 1, 
       "10-6": 2, 
@@ -306,10 +315,12 @@
       "8-1": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 35, 
     "type": "checkin"
   }, 
   {
     "business_id": "p2ZhS0Hm5YAhXdS7AbiyKQ", 
+    "business_name": "Cave Creek Recreation Area", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -339,10 +350,12 @@
       "8-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "VPjh3v8HxBQbJog6tCG-oA", 
+    "business_name": "My Gym", 
     "checkin_info": {
       "10-3": 1, 
       "10-5": 3, 
@@ -352,10 +365,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "kG4rm9laKNK9Oz5p_bThrw", 
+    "business_name": "Altadena Park", 
     "checkin_info": {
       "11-5": 1, 
       "12-4": 1, 
@@ -364,25 +379,30 @@
       "17-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "Uauj2akpE-SJDTjRFsDpNQ", 
+    "business_name": "Ready Set Play", 
     "checkin_info": {
       "11-5": 1, 
       "12-6": 1, 
       "14-5": 2, 
       "16-6": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "CXlwVtnc-BfnG2Xi7wBCow", 
+    "business_name": "Toy Town Play Center", 
     "checkin_info": {
       "12-0": 1, 
       "9-0": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

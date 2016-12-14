@@ -1,0 +1,140 @@
+[
+  {
+    "business_id": "fGQg-IaVTk1vCwbyh-_n-g", 
+    "business_name": "Little Luxuries", 
+    "checkin_info": {
+      "10-0": 3, 
+      "10-4": 2, 
+      "10-5": 2, 
+      "10-6": 2, 
+      "11-0": 1, 
+      "11-3": 1, 
+      "11-5": 6, 
+      "11-6": 1, 
+      "12-2": 1, 
+      "12-5": 2, 
+      "12-6": 2, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "13-4": 2, 
+      "14-2": 1, 
+      "15-0": 1, 
+      "15-1": 1, 
+      "15-4": 3, 
+      "16-1": 4, 
+      "16-3": 1, 
+      "16-4": 1, 
+      "17-2": 1, 
+      "17-4": 1, 
+      "18-0": 1, 
+      "18-2": 2, 
+      "18-3": 1, 
+      "18-4": 1, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-3": 1, 
+      "9-5": 4
+    }, 
+    "total_checkin": 54, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "t6HgfCRbK1Wpb3uMT0GOKw", 
+    "business_name": "Anthropologie", 
+    "checkin_info": {
+      "10-5": 1, 
+      "10-6": 1, 
+      "11-2": 1, 
+      "12-1": 1, 
+      "12-5": 2, 
+      "13-0": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-3": 1, 
+      "14-5": 3, 
+      "15-0": 2, 
+      "16-0": 1, 
+      "16-2": 1, 
+      "17-0": 1, 
+      "8-4": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 21, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "CogYonKuZ4NgOMzA-qu6cw", 
+    "business_name": "Sacred Feather", 
+    "checkin_info": {
+      "11-3": 1, 
+      "11-5": 1, 
+      "12-2": 1, 
+      "13-4": 3, 
+      "13-6": 1, 
+      "15-5": 1, 
+      "8-3": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "3hyQZJqcPflkerTVr2zAEA", 
+    "business_name": "Forever 21", 
+    "checkin_info": {
+      "10-4": 1, 
+      "10-6": 1, 
+      "11-2": 1, 
+      "11-3": 1, 
+      "11-4": 1, 
+      "12-6": 1, 
+      "14-5": 2, 
+      "15-6": 1, 
+      "18-2": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "RGhrKwpovRj0Xp9qO6PcCA", 
+    "business_name": "Lands' End", 
+    "checkin_info": {
+      "10-2": 1, 
+      "13-3": 2, 
+      "13-5": 1, 
+      "16-4": 1, 
+      "17-2": 1, 
+      "6-0": 2, 
+      "8-3": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "GCXIX5KKhaQciRzJcx6bSA", 
+    "business_name": "American Apparel", 
+    "checkin_info": {
+      "13-1": 1, 
+      "13-5": 1, 
+      "19-3": 1, 
+      "8-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Nn1Bh7-TnLcYJ1lfdSutDg", 
+    "business_name": "Karen & Co", 
+    "checkin_info": {
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-1": 1, 
+      "17-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

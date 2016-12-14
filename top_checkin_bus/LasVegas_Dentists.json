@@ -1,6 +1,7 @@
 [
   {
     "business_id": "hkHipyTdUQToHRzHEQY-fQ", 
+    "business_name": "Image Dental and Orthodontics", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 2, 
@@ -56,10 +57,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 138, 
     "type": "checkin"
   }, 
   {
     "business_id": "RZMGCc2P_J9F7QjAFEbYVQ", 
+    "business_name": "Cheyenne Dental Group", 
     "checkin_info": {
       "10-0": 5, 
       "10-2": 3, 
@@ -109,10 +112,12 @@
       "9-2": 3, 
       "9-4": 5
     }, 
+    "total_checkin": 135, 
     "type": "checkin"
   }, 
   {
     "business_id": "9iZMxCKNPrbpYPLIiDYzkw", 
+    "business_name": "Montecito Town Center Dental Group and Orthodontics", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -172,10 +177,12 @@
       "9-3": 4, 
       "9-4": 1
     }, 
+    "total_checkin": 130, 
     "type": "checkin"
   }, 
   {
     "business_id": "WoEc1TEvADXUxnCsCJsGkQ", 
+    "business_name": "Floss Dental and Orthodontics", 
     "checkin_info": {
       "10-1": 3, 
       "10-3": 6, 
@@ -219,10 +226,12 @@
       "9-3": 3, 
       "9-5": 5
     }, 
+    "total_checkin": 120, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZHFQZ3M8H_xE0IfD6VNBVg", 
+    "business_name": "Summerlin Smiles", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 3, 
@@ -271,10 +280,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 119, 
     "type": "checkin"
   }, 
   {
     "business_id": "UZmxMdAa-_Zy07TmVp_iQA", 
+    "business_name": "Bella Smiles", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 3, 
@@ -321,10 +332,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 113, 
     "type": "checkin"
   }, 
   {
     "business_id": "aAi-Zjhlr0RCYME6Z_Fq5A", 
+    "business_name": "Town & Country Dental", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -384,10 +397,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 106, 
     "type": "checkin"
   }, 
   {
     "business_id": "C0YyL4dcH3EkgWK3y1leFg", 
+    "business_name": "Dee For Dentist", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -427,10 +442,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 83, 
     "type": "checkin"
   }, 
   {
     "business_id": "_d88O-Kt-709ocy09rpp0g", 
+    "business_name": "Smiles For Life Family Dentistry", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -471,10 +488,12 @@
       "9-3": 7, 
       "9-4": 2
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "s51JNZDuvftjQZ_sL2F3Yg", 
+    "business_name": "Silver State Smiles", 
     "checkin_info": {
       "10-1": 4, 
       "10-4": 1, 
@@ -517,6 +536,7 @@
       "9-1": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 73, 
     "type": "checkin"
   }
 ]

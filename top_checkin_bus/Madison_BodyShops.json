@@ -1,0 +1,28 @@
+[
+  {
+    "business_id": "nMWzwFu1QZ4lsGFg-F1Ltw", 
+    "business_name": "Terry's Car Care", 
+    "checkin_info": {
+      "14-2": 1, 
+      "21-2": 1, 
+      "6-3": 1, 
+      "7-2": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "hDdre8uLDKF-GyPE7me8Vw", 
+    "business_name": "ABRA Auto Body & Glass", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-2": 1, 
+      "14-4": 1, 
+      "5-0": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

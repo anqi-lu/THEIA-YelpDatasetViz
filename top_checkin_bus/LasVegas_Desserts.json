@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Xhg93cMdemu5pAMkDoEdtQ", 
+    "business_name": "Serendipity 3", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 4, 
@@ -153,10 +154,12 @@
       "9-5": 60, 
       "9-6": 54
     }, 
+    "total_checkin": 10721, 
     "type": "checkin"
   }, 
   {
     "business_id": "jOuERtVf7QePnK9ZcdH5XA", 
+    "business_name": "Grand Lux Cafe", 
     "checkin_info": {
       "0-0": 47, 
       "0-1": 17, 
@@ -327,10 +330,12 @@
       "9-5": 85, 
       "9-6": 52
     }, 
+    "total_checkin": 6762, 
     "type": "checkin"
   }, 
   {
     "business_id": "VqU4Pl4URJjjgFS1UhseMg", 
+    "business_name": "Brew Tea Bar", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 2, 
@@ -454,10 +459,12 @@
       "9-4": 4, 
       "9-5": 1
     }, 
+    "total_checkin": 5077, 
     "type": "checkin"
   }, 
   {
     "business_id": "szw8OGJlsqaA3i2oe7dn9A", 
+    "business_name": "Jean Philippe Patisserie", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 6, 
@@ -610,10 +617,12 @@
       "9-5": 55, 
       "9-6": 46
     }, 
+    "total_checkin": 4680, 
     "type": "checkin"
   }, 
   {
     "business_id": "59U8McUEjsRC_7h4ALk12Q", 
+    "business_name": "Easy Life Boba Tea", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 1, 
@@ -708,10 +717,12 @@
       "4-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 4124, 
     "type": "checkin"
   }, 
   {
     "business_id": "h83afVKqwBlA-zOu_vdtEw", 
+    "business_name": "Kyara Japanese Tapas", 
     "checkin_info": {
       "0-0": 44, 
       "0-1": 33, 
@@ -830,10 +841,12 @@
       "9-3": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 3727, 
     "type": "checkin"
   }, 
   {
     "business_id": "jk8FdDLywUHdjXldS8vtAQ", 
+    "business_name": "Snowflake Shavery", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -938,10 +951,12 @@
       "9-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 3594, 
     "type": "checkin"
   }, 
   {
     "business_id": "kwEQ3uY9Jwmknb5kNg3UlA", 
+    "business_name": "Grand Lux Cafe", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 9, 
@@ -1108,10 +1123,12 @@
       "9-5": 38, 
       "9-6": 22
     }, 
+    "total_checkin": 3587, 
     "type": "checkin"
   }, 
   {
     "business_id": "_CHH9KN1bO5cs_GHjQ-r1A", 
+    "business_name": "Max Brenner", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -1232,10 +1249,12 @@
       "9-5": 21, 
       "9-6": 10
     }, 
+    "total_checkin": 3406, 
     "type": "checkin"
   }, 
   {
     "business_id": "41zxbLn6HZQfME3uWbyM4A", 
+    "business_name": "Sugar Factory", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 14, 
@@ -1399,6 +1418,7 @@
       "9-5": 17, 
       "9-6": 22
     }, 
+    "total_checkin": 3087, 
     "type": "checkin"
   }
 ]

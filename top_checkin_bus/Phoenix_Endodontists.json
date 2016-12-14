@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7aGRXdKyjhAilq3XnzZkiw", 
+    "business_name": "Kevin Ortale, DDS PLC - North Point Dentistry", 
     "checkin_info": {
       "14-0": 2, 
       "16-0": 1, 
@@ -12,10 +13,12 @@
       "9-0": 1, 
       "9-1": 3
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "8my0Dq5EDtRp2YLRPBYkIg", 
+    "business_name": "Dental Depot Phoenix", 
     "checkin_info": {
       "12-0": 2, 
       "12-3": 1, 
@@ -27,10 +30,12 @@
       "8-5": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "-q68_AqScY5sVvhvdPIGpA", 
+    "business_name": "Dentistry At The Biltmore", 
     "checkin_info": {
       "10-2": 1, 
       "13-2": 1, 
@@ -39,10 +44,12 @@
       "9-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "OyehKmT9fPoin5jzfJZ0Fg", 
+    "business_name": "Valley Endodontics & Oral Surgery", 
     "checkin_info": {
       "10-4": 1, 
       "12-0": 1, 
@@ -51,6 +58,7 @@
       "7-0": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }
 ]

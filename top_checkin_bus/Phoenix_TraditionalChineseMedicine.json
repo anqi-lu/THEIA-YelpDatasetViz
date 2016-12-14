@@ -1,0 +1,63 @@
+[
+  {
+    "business_id": "t0nT_SU5KbS7qpP90MVnGw", 
+    "business_name": "The Lotus Acupuncture and Wellness Center", 
+    "checkin_info": {
+      "0-4": 1, 
+      "10-2": 1, 
+      "10-5": 2, 
+      "11-5": 2, 
+      "12-2": 1, 
+      "13-3": 1, 
+      "13-5": 2, 
+      "14-5": 1, 
+      "15-2": 2, 
+      "15-3": 1, 
+      "15-5": 1, 
+      "16-1": 5, 
+      "16-2": 6, 
+      "16-3": 2, 
+      "16-4": 1, 
+      "17-2": 1, 
+      "17-5": 1, 
+      "18-1": 1, 
+      "18-2": 1, 
+      "18-3": 1, 
+      "19-2": 1, 
+      "19-3": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "8-5": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 40, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "KmZqcqSE58_SJZOO_ylJuQ", 
+    "business_name": "Rejuvenate Center", 
+    "checkin_info": {
+      "11-3": 1, 
+      "13-5": 1, 
+      "15-2": 1, 
+      "16-2": 1, 
+      "18-1": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "gjWZIYIAcPa9nvig5FBQbA", 
+    "business_name": "The Way", 
+    "checkin_info": {
+      "15-4": 1, 
+      "16-0": 1, 
+      "16-2": 1, 
+      "16-4": 1, 
+      "17-2": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

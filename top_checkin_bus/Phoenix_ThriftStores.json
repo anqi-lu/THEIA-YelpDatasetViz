@@ -1,6 +1,7 @@
 [
   {
     "business_id": "fZWVI2Bjk6wJoRUB0s4Pzg", 
+    "business_name": "Goodwill", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 2, 
@@ -74,10 +75,12 @@
       "9-2": 3, 
       "9-5": 5
     }, 
+    "total_checkin": 159, 
     "type": "checkin"
   }, 
   {
     "business_id": "5HuDvZ4h5acZovWmRo6fow", 
+    "business_name": "Goodwill", 
     "checkin_info": {
       "10-5": 6, 
       "10-6": 1, 
@@ -129,10 +132,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 91, 
     "type": "checkin"
   }, 
   {
     "business_id": "r0r6cDhOLbLqcvz9OGTe7A", 
+    "business_name": "Ultimate Consignment", 
     "checkin_info": {
       "10-5": 1, 
       "10-6": 2, 
@@ -182,10 +187,12 @@
       "9-5": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 82, 
     "type": "checkin"
   }, 
   {
     "business_id": "P0-ahIRWVNR9WHG4dlZkpQ", 
+    "business_name": "Goodwill Industries", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -237,10 +244,12 @@
       "9-4": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 80, 
     "type": "checkin"
   }, 
   {
     "business_id": "1_hehqhtdcsYiBQ9rkwDzg", 
+    "business_name": "Goodwill of Central Arizona", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -291,10 +300,12 @@
       "9-4": 3, 
       "9-5": 3
     }, 
+    "total_checkin": 78, 
     "type": "checkin"
   }, 
   {
     "business_id": "YNH_ipgJX6DluTS46T8r9w", 
+    "business_name": "The Bee's Knees", 
     "checkin_info": {
       "0-1": 1, 
       "10-4": 1, 
@@ -341,10 +352,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }, 
   {
     "business_id": "LDK4Q4eBZUBg0eQHyj309A", 
+    "business_name": "Goodwill", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -388,10 +401,12 @@
       "9-4": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 71, 
     "type": "checkin"
   }, 
   {
     "business_id": "jydTrT8CuTzhIG_zWmGGBA", 
+    "business_name": "Goodwill", 
     "checkin_info": {
       "10-0": 1, 
       "10-5": 2, 
@@ -439,10 +454,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 71, 
     "type": "checkin"
   }, 
   {
     "business_id": "QmJPyXL_QIkudfBNZgYYbg", 
+    "business_name": "Goodwill", 
     "checkin_info": {
       "10-2": 1, 
       "10-5": 1, 
@@ -486,10 +503,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "NLek5KCyuf9HHIMFJDEf_g", 
+    "business_name": "Savers", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 3, 
@@ -531,6 +550,7 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }
 ]

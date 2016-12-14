@@ -1,6 +1,7 @@
 [
   {
     "business_id": "azUslwP4aD4EwN8J3QdnLQ", 
+    "business_name": "Camden Copper Square", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -117,6 +118,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 250, 
     "type": "checkin"
   }
 ]

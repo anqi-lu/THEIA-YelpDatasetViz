@@ -1,6 +1,7 @@
 [
   {
     "business_id": "RfR5yc4j9coIPBuxRsOW8Q", 
+    "business_name": "Aloha Kitchen & Bar", 
     "checkin_info": {
       "0-0": 19, 
       "0-1": 26, 
@@ -145,10 +146,12 @@
       "9-5": 11, 
       "9-6": 13
     }, 
+    "total_checkin": 2734, 
     "type": "checkin"
   }, 
   {
     "business_id": "OVuVPBSkCPCNCuc25Tn-Vw", 
+    "business_name": "Karaoke Q Studio", 
     "checkin_info": {
       "0-0": 22, 
       "0-1": 15, 
@@ -251,10 +254,12 @@
       "6-6": 1, 
       "7-0": 1
     }, 
+    "total_checkin": 1580, 
     "type": "checkin"
   }, 
   {
     "business_id": "_9BqmRowpWfy4wDPXLSDHA", 
+    "business_name": "Dino's Lounge", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 2, 
@@ -367,10 +372,12 @@
       "7-3": 2, 
       "9-1": 1
     }, 
+    "total_checkin": 706, 
     "type": "checkin"
   }, 
   {
     "business_id": "WP7xXx3AnBP0o-NVK5omoQ", 
+    "business_name": "Cafe Moda", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 4, 
@@ -465,10 +472,12 @@
       "4-5": 2, 
       "4-6": 7
     }, 
+    "total_checkin": 652, 
     "type": "checkin"
   }, 
   {
     "business_id": "VcaZryq9wXA7Uy8U_RTYhw", 
+    "business_name": "Brentwood Cafe & Tavern", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -592,10 +601,12 @@
       "9-5": 6, 
       "9-6": 3
     }, 
+    "total_checkin": 531, 
     "type": "checkin"
   }, 
   {
     "business_id": "MfQWzjADewehBJaK4oGj3g", 
+    "business_name": "Bazic Bar & Restoyaky", 
     "checkin_info": {
       "0-0": 5, 
       "0-2": 14, 
@@ -664,10 +675,12 @@
       "5-0": 1, 
       "6-0": 1
     }, 
+    "total_checkin": 421, 
     "type": "checkin"
   }, 
   {
     "business_id": "kdPxX4mVjaaDNJaG3ROeMA", 
+    "business_name": "J Karaoke Bar", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 1, 
@@ -744,10 +757,12 @@
       "5-6": 1, 
       "6-4": 1
     }, 
+    "total_checkin": 397, 
     "type": "checkin"
   }, 
   {
     "business_id": "Rg744deP3H-bw2iVkJJzbg", 
+    "business_name": "Bar Kada Avenue", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 5, 
@@ -844,10 +859,12 @@
       "23-6": 5, 
       "3-6": 1
     }, 
+    "total_checkin": 379, 
     "type": "checkin"
   }, 
   {
     "business_id": "pEYJpTbqCQLtSH_l91GbMg", 
+    "business_name": "Zizzy", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 5, 
@@ -921,10 +938,12 @@
       "4-4": 1, 
       "4-6": 2
     }, 
+    "total_checkin": 347, 
     "type": "checkin"
   }, 
   {
     "business_id": "YxN8TC0rCVr_1EkpnKsaAw", 
+    "business_name": "Champagne's Cafe", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -1013,6 +1032,7 @@
       "7-0": 1, 
       "8-6": 1
     }, 
+    "total_checkin": 322, 
     "type": "checkin"
   }
 ]

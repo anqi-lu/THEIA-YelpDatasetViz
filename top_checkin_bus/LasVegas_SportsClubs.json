@@ -1,6 +1,7 @@
 [
   {
     "business_id": "JKlseDiOGiQ0B9BjXocW3w", 
+    "business_name": "Life Time Athletic", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 9, 
@@ -165,10 +166,12 @@
       "9-5": 75, 
       "9-6": 12
     }, 
+    "total_checkin": 3731, 
     "type": "checkin"
   }, 
   {
     "business_id": "xk6a1lvTn2b-5Gj0_Qsyzw", 
+    "business_name": "CrossFit Double Down", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 7, 
@@ -243,10 +246,12 @@
       "9-2": 6, 
       "9-3": 6
     }, 
+    "total_checkin": 287, 
     "type": "checkin"
   }, 
   {
     "business_id": "Vkbt4LP7haJdoPcRv2NQjQ", 
+    "business_name": "Gorilla Cafe", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 9, 
@@ -341,10 +346,12 @@
       "5-4": 2, 
       "6-0": 1
     }, 
+    "total_checkin": 270, 
     "type": "checkin"
   }, 
   {
     "business_id": "5h96wPa8R1Qc-zrPxd9u3w", 
+    "business_name": "Las Vegas Roller Hockey Center", 
     "checkin_info": {
       "1-1": 2, 
       "10-4": 1, 
@@ -382,10 +389,12 @@
       "21-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 158, 
     "type": "checkin"
   }, 
   {
     "business_id": "Dqmxo2hTwZBInn5izhmiOw", 
+    "business_name": "Premier Baseball Academy", 
     "checkin_info": {
       "10-2": 1, 
       "10-6": 1, 
@@ -448,10 +457,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 107, 
     "type": "checkin"
   }, 
   {
     "business_id": "JedsjeA3AaqnLvbdTsXQbw", 
+    "business_name": "LVAC Women", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 2, 
@@ -511,10 +522,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "es6YmrwpxgL8MRgg6L_Eaw", 
+    "business_name": "Las Vegas Badminton Club", 
     "checkin_info": {
       "11-4": 1, 
       "12-5": 2, 
@@ -552,10 +565,12 @@
       "22-3": 1, 
       "23-3": 1
     }, 
+    "total_checkin": 68, 
     "type": "checkin"
   }, 
   {
     "business_id": "iau50i8iWmPdQVzn30M_jQ", 
+    "business_name": "Amanda and Stacy Darling Tennis Center", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -592,10 +607,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "dCLGwqfdwjKE6d85HBF94A", 
+    "business_name": "Las Vegas Indoor Sports Center", 
     "checkin_info": {
       "10-5": 1, 
       "12-6": 1, 
@@ -618,10 +635,12 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 36, 
     "type": "checkin"
   }, 
   {
     "business_id": "rzcKwcrmQQLw2kG-g-tjmw", 
+    "business_name": "Round 1 Boxing", 
     "checkin_info": {
       "17-0": 1, 
       "17-2": 1, 
@@ -638,6 +657,7 @@
       "20-2": 1, 
       "20-3": 1
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "CSouUEXi0rPE-Dc1MwTrZg", 
+    "business_name": "Nike Brand", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -118,10 +119,12 @@
       "9-4": 1, 
       "9-5": 9
     }, 
+    "total_checkin": 795, 
     "type": "checkin"
   }, 
   {
     "business_id": "ToRsvdJR-QzAWmmEOHr9lw", 
+    "business_name": "Miu Miu", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -220,10 +223,12 @@
       "9-5": 23, 
       "9-6": 32
     }, 
+    "total_checkin": 791, 
     "type": "checkin"
   }, 
   {
     "business_id": "TXasnB1kgwddTf5AaLfUsA", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 4, 
@@ -328,10 +333,12 @@
       "9-5": 5, 
       "9-6": 1
     }, 
+    "total_checkin": 659, 
     "type": "checkin"
   }, 
   {
     "business_id": "iwH1w56ArxuOKNmSJgMiVA", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "0-2": 1, 
       "1-4": 1, 
@@ -428,10 +435,12 @@
       "9-2": 3, 
       "9-4": 2
     }, 
+    "total_checkin": 638, 
     "type": "checkin"
   }, 
   {
     "business_id": "mKu09TwMtE9nKNeHDJQvyw", 
+    "business_name": "Nike Factory Store", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -532,10 +541,12 @@
       "9-3": 1, 
       "9-4": 5
     }, 
+    "total_checkin": 463, 
     "type": "checkin"
   }, 
   {
     "business_id": "QV4w8wwDUTAmEsa-lCt7GQ", 
+    "business_name": "Louis Vuitton Las Vegas Caesars Forum", 
     "checkin_info": {
       "0-6": 3, 
       "1-1": 1, 
@@ -638,10 +649,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 381, 
     "type": "checkin"
   }, 
   {
     "business_id": "xqECECmAwrtFPUn-OXCAMw", 
+    "business_name": "Saks Fifth Avenue", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -726,10 +739,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 366, 
     "type": "checkin"
   }, 
   {
     "business_id": "sGXtpt1bkeZgjBeCbegZXA", 
+    "business_name": "DSW Designer Shoe Warehouse", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 3, 
@@ -810,10 +825,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 356, 
     "type": "checkin"
   }, 
   {
     "business_id": "33kTVo9D9flMiV4vdXPwyQ", 
+    "business_name": "Nordstrom Rack", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 7, 
@@ -899,10 +916,12 @@
       "8-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 337, 
     "type": "checkin"
   }, 
   {
     "business_id": "lCCa5gxqRz3l4t4N9RJfJw", 
+    "business_name": "Patty's Closet", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 2, 
@@ -988,6 +1007,7 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 317, 
     "type": "checkin"
   }
 ]

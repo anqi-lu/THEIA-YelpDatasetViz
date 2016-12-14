@@ -1,6 +1,7 @@
 [
   {
     "business_id": "79EG9Pv0bxNTmBjTVCd4CQ", 
+    "business_name": "Brio Tuscan Grille", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -109,10 +110,12 @@
       "7-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 3681, 
     "type": "checkin"
   }, 
   {
     "business_id": "LXrq0Fw6MCz70KMA928ldQ", 
+    "business_name": "Herbs & Rye", 
     "checkin_info": {
       "0-1": 42, 
       "0-2": 48, 
@@ -215,10 +218,12 @@
       "8-2": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 2802, 
     "type": "checkin"
   }, 
   {
     "business_id": "2decJ0oLr_LI1TI2Po5GlA", 
+    "business_name": "Commonwealth", 
     "checkin_info": {
       "0-0": 18, 
       "0-1": 1, 
@@ -317,10 +322,12 @@
       "8-3": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 2314, 
     "type": "checkin"
   }, 
   {
     "business_id": "QRXv7Jvq_SuiiT_SKvbdig", 
+    "business_name": "STK Las Vegas", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 5, 
@@ -442,10 +449,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 2052, 
     "type": "checkin"
   }, 
   {
     "business_id": "GbI7f5CJtv5FtOnZ3yOasA", 
+    "business_name": "Downtown Cocktail Room", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 19, 
@@ -543,10 +552,12 @@
       "8-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 1752, 
     "type": "checkin"
   }, 
   {
     "business_id": "rP76z9iDOFczywAiee-l7A", 
+    "business_name": "Red Square Restaurant & Vodka Lounge", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 1, 
@@ -664,10 +675,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1432, 
     "type": "checkin"
   }, 
   {
     "business_id": "it1cP71lWcRaUkr4IwuUNw", 
+    "business_name": "Atomic Liquors", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 7, 
@@ -787,10 +800,12 @@
       "9-1": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1408, 
     "type": "checkin"
   }, 
   {
     "business_id": "pCSbslNkq0fL5ZZ3RhUZMw", 
+    "business_name": "Minus 5 Ice Lounge", 
     "checkin_info": {
       "0-0": 17, 
       "0-1": 7, 
@@ -931,10 +946,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 1323, 
     "type": "checkin"
   }, 
   {
     "business_id": "_UwTT26cCBa6QA5tpue3Rw", 
+    "business_name": "Velveteen Rabbit", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 5, 
@@ -1018,10 +1035,12 @@
       "5-5": 1, 
       "7-1": 1
     }, 
+    "total_checkin": 1264, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZfAe6DU_UP9IdYkI-te1QA", 
+    "business_name": "Double Barrel Roadhouse", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 2, 
@@ -1134,6 +1153,7 @@
       "8-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 1231, 
     "type": "checkin"
   }
 ]

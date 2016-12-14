@@ -1,6 +1,7 @@
 [
   {
     "business_id": "61PP8l49Aqk9IgeosFZLHg", 
+    "business_name": "Allstate Electric", 
     "checkin_info": {
       "11-0": 1, 
       "13-2": 1, 
@@ -24,10 +25,12 @@
       "9-1": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 32, 
     "type": "checkin"
   }, 
   {
     "business_id": "K383DKehvG1FO5HG9ZZvwg", 
+    "business_name": "24/7 Electrical Services LLC", 
     "checkin_info": {
       "0-3": 1, 
       "14-2": 1, 
@@ -35,6 +38,7 @@
       "16-4": 1, 
       "21-0": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

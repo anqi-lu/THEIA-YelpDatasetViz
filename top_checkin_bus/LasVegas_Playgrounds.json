@@ -1,6 +1,7 @@
 [
   {
     "business_id": "fUFykr8Mf9VANDHAFEo_Rw", 
+    "business_name": "Exploration Park", 
     "checkin_info": {
       "0-2": 3, 
       "0-3": 1, 
@@ -146,10 +147,12 @@
       "9-5": 22, 
       "9-6": 10
     }, 
+    "total_checkin": 1173, 
     "type": "checkin"
   }, 
   {
     "business_id": "b8qAD1ABd5wUH51L-a1qRA", 
+    "business_name": "Centennial Hills Park", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -276,10 +279,12 @@
       "9-5": 8, 
       "9-6": 3
     }, 
+    "total_checkin": 500, 
     "type": "checkin"
   }, 
   {
     "business_id": "ls9fzjfcfjnbuQ0TkVj1fA", 
+    "business_name": "Spring Valley Community Park", 
     "checkin_info": {
       "1-1": 1, 
       "10-0": 1, 
@@ -381,10 +386,12 @@
       "9-5": 7, 
       "9-6": 3
     }, 
+    "total_checkin": 428, 
     "type": "checkin"
   }, 
   {
     "business_id": "BBpdYFljzkjUL2rjQy5F1g", 
+    "business_name": "Charlie Frias Park", 
     "checkin_info": {
       "0-4": 2, 
       "1-3": 1, 
@@ -504,10 +511,12 @@
       "9-5": 5, 
       "9-6": 4
     }, 
+    "total_checkin": 393, 
     "type": "checkin"
   }, 
   {
     "business_id": "ehP6uLl9FrGeawOoTY9YWA", 
+    "business_name": "Red Ridge Park", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 3, 
@@ -610,10 +619,12 @@
       "9-5": 1, 
       "9-6": 4
     }, 
+    "total_checkin": 334, 
     "type": "checkin"
   }, 
   {
     "business_id": "AQw6UeQI1yotRJiAJ9s6iA", 
+    "business_name": "Mountain's Edge Regional Park", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -710,10 +721,12 @@
       "9-5": 9, 
       "9-6": 3
     }, 
+    "total_checkin": 326, 
     "type": "checkin"
   }, 
   {
     "business_id": "7W0rtsbu6DNECkAbAbbfxw", 
+    "business_name": "Knickerbocker Park", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -831,10 +844,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 306, 
     "type": "checkin"
   }, 
   {
     "business_id": "Mjqfy1sgysmL0taskejFhA", 
+    "business_name": "Silverado Ranch Park", 
     "checkin_info": {
       "0-1": 2, 
       "1-3": 1, 
@@ -944,10 +959,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 287, 
     "type": "checkin"
   }, 
   {
     "business_id": "PTKCtODRBe4DC-2gWvTWkw", 
+    "business_name": "The Hills Park", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 3, 
@@ -1026,10 +1043,12 @@
       "9-5": 3, 
       "9-6": 5
     }, 
+    "total_checkin": 250, 
     "type": "checkin"
   }, 
   {
     "business_id": "LTnjfBeOyoCBvjDxbF7dGA", 
+    "business_name": "Western Trails", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -1135,6 +1154,7 @@
       "9-4": 1, 
       "9-5": 4
     }, 
+    "total_checkin": 227, 
     "type": "checkin"
   }
 ]

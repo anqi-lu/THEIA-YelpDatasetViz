@@ -1,6 +1,7 @@
 [
   {
     "business_id": "ombIexkO6vc-p3xaEoxZ_Q", 
+    "business_name": "Number One Plumbing, Heating & Air Conditioning", 
     "checkin_info": {
       "12-0": 1, 
       "12-1": 1, 
@@ -14,10 +15,12 @@
       "21-0": 1, 
       "7-3": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "0lIv46vNhSfd10zBhPrVjQ", 
+    "business_name": "Infinity Heating & Cooling", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -30,10 +33,12 @@
       "20-0": 1, 
       "7-2": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "C_roVLbs7gaxprqWI-c2sg", 
+    "business_name": "Indoor Air Solutions", 
     "checkin_info": {
       "13-2": 1, 
       "14-0": 1, 
@@ -44,10 +49,12 @@
       "20-3": 1, 
       "23-5": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }, 
   {
     "business_id": "wUd2aOHxWrKmYteI0OH5rQ", 
+    "business_name": "Legacy Air", 
     "checkin_info": {
       "14-4": 1, 
       "16-3": 1, 
@@ -56,33 +63,40 @@
       "20-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "hNAw8iRNzOZVWjIAI3LTwg", 
+    "business_name": "Nevada Residential Services", 
     "checkin_info": {
       "12-2": 1, 
       "21-4": 1, 
       "6-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "YbNKr5LRAgi1jC9MHbQ-gQ", 
+    "business_name": "One Hour Air Conditioning & Heating", 
     "checkin_info": {
       "14-3": 1, 
       "16-2": 1, 
       "23-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "bVhFL8Npqzu0E2z_OoipQg", 
+    "business_name": "Anytime Plumbing, Inc", 
     "checkin_info": {
       "12-2": 1, 
       "14-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "f_BLOzQN8YyW2w7UjqLR6Q", 
+    "business_name": "Towne Storage Dewey Rainbow", 
     "checkin_info": {
       "12-1": 1, 
       "12-5": 1, 
@@ -27,10 +28,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "LAkjrP3TAiVa6uTCwIT28g", 
+    "business_name": "Best Storage", 
     "checkin_info": {
       "10-1": 1, 
       "11-1": 1, 
@@ -49,10 +52,12 @@
       "8-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "QJJ6MpyvtMowSBCjRiRvbQ", 
+    "business_name": "Box Brothers", 
     "checkin_info": {
       "11-1": 1, 
       "11-2": 3, 
@@ -69,10 +74,12 @@
       "17-4": 1, 
       "21-5": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "fTSt_nLkwLVQh_INrU2F5w", 
+    "business_name": "Christopher Moving", 
     "checkin_info": {
       "16-3": 1, 
       "21-5": 1, 
@@ -80,33 +87,40 @@
       "4-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "687OyYjI4CcjRPwBW2R4Aw", 
+    "business_name": "Umbrella Movers", 
     "checkin_info": {
       "10-6": 1, 
       "20-5": 1, 
       "22-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "0EJTVPquOLxsfDXt2pEyGA", 
+    "business_name": "Sunshine Movers", 
     "checkin_info": {
       "12-5": 1, 
       "14-1": 1, 
       "19-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "2EoUpsYIepr5i-na72sB0A", 
+    "business_name": "Box Brothers", 
     "checkin_info": {
       "11-2": 1, 
       "11-5": 1, 
       "15-2": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "RFsWWnnwcgSH9dIWk2VxwA", 
+    "business_name": "AWG Ambassador", 
     "checkin_info": {
       "0-2": 2, 
       "0-4": 3, 
@@ -100,10 +101,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 231, 
     "type": "checkin"
   }, 
   {
     "business_id": "kTbWwRo7wq0DU1KV5GbtTw", 
+    "business_name": "Executive Las Vegas", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -164,10 +167,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 79, 
     "type": "checkin"
   }, 
   {
     "business_id": "26ecLqpDHrB3socZGfDuhQ", 
+    "business_name": "Showtime Tours", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -220,10 +225,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 68, 
     "type": "checkin"
   }, 
   {
     "business_id": "qYNyNyg5Q1yPd4kyc0h30Q", 
+    "business_name": "Airline Shuttle", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 1, 
@@ -268,10 +275,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "1w6ii_Mb64da6cAxqxKF2A", 
+    "business_name": "Super Shuttle Las Vegas", 
     "checkin_info": {
       "0-3": 1, 
       "11-1": 1, 
@@ -302,10 +311,12 @@
       "8-2": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "k5gmCii0XHeRamME2ZLyRA", 
+    "business_name": "Economy Parking Mccarran Intl Airport", 
     "checkin_info": {
       "0-0": 1, 
       "1-0": 1, 
@@ -338,10 +349,12 @@
       "6-5": 1, 
       "7-0": 2
     }, 
+    "total_checkin": 37, 
     "type": "checkin"
   }, 
   {
     "business_id": "AFocYrN5e8ShtgVM5SlhYw", 
+    "business_name": "Westcliff Airport Express", 
     "checkin_info": {
       "0-1": 1, 
       "10-1": 1, 
@@ -375,10 +388,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }, 
   {
     "business_id": "CVeDENXUaeQBzTgbV7LNqQ", 
+    "business_name": "CLS Las Vegas", 
     "checkin_info": {
       "0-1": 1, 
       "1-1": 1, 
@@ -401,10 +416,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "txxRE9Pw87l2GrfEIU178A", 
+    "business_name": "Gray Line Las Vegas", 
     "checkin_info": {
       "11-0": 1, 
       "11-6": 1, 
@@ -420,10 +437,12 @@
       "8-3": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 15, 
     "type": "checkin"
   }, 
   {
     "business_id": "59Qgq3qtziS57Dk1ukCwPw", 
+    "business_name": "Ace Cab Company", 
     "checkin_info": {
       "10-0": 1, 
       "11-0": 1, 
@@ -437,6 +456,7 @@
       "19-2": 1, 
       "21-1": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }
 ]

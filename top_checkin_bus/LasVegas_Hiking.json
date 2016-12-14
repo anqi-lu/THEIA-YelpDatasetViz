@@ -1,6 +1,7 @@
 [
   {
     "business_id": "DlwVYP9cjoigiUCwHKdtfQ", 
+    "business_name": "Wetlands Park", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 5, 
@@ -105,10 +106,12 @@
       "9-5": 12, 
       "9-6": 9
     }, 
+    "total_checkin": 527, 
     "type": "checkin"
   }, 
   {
     "business_id": "Hg95UyjnDo8iQYQH_svTxw", 
+    "business_name": "Cottonwood Canyon Park", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -200,10 +203,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 219, 
     "type": "checkin"
   }, 
   {
     "business_id": "dCsppkRXsYGshgewRhtViA", 
+    "business_name": "Spring Mountain National Recreation Area", 
     "checkin_info": {
       "10-5": 4, 
       "10-6": 8, 
@@ -260,10 +265,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 156, 
     "type": "checkin"
   }, 
   {
     "business_id": "X9YWlDaDa8lPGE9e8G3dow", 
+    "business_name": "Lone Mountain", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 1, 
@@ -333,10 +340,12 @@
       "9-5": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 107, 
     "type": "checkin"
   }, 
   {
     "business_id": "LWTM_QhrG_ax9qXn0edw_Q", 
+    "business_name": "The Paseo Walking Path", 
     "checkin_info": {
       "1-4": 1, 
       "10-2": 1, 
@@ -409,10 +418,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 107, 
     "type": "checkin"
   }, 
   {
     "business_id": "030ScltAqQYE3ZA3AkIz8w", 
+    "business_name": "Gilmore Cliff Shadows Trailhead", 
     "checkin_info": {
       "0-6": 1, 
       "12-2": 2, 
@@ -454,10 +465,12 @@
       "8-5": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 53, 
     "type": "checkin"
   }, 
   {
     "business_id": "DCz2G3atH1FULWSrnv6Lqw", 
+    "business_name": "Sunrise Mountain/Frenchman Mountain", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 2, 
@@ -488,10 +501,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "10vLUCw-UNa7yjQTQ1g9Jw", 
+    "business_name": "Bonanza Trail", 
     "checkin_info": {
       "11-2": 1, 
       "14-6": 1, 
@@ -499,15 +514,18 @@
       "20-2": 2, 
       "8-5": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "3_etLNxpvUpX7J0h246-Ew", 
+    "business_name": "Evolution Expeditions", 
     "checkin_info": {
       "16-0": 2, 
       "16-5": 1, 
       "18-3": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

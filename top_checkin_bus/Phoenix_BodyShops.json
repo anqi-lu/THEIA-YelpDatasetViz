@@ -1,0 +1,219 @@
+[
+  {
+    "business_id": "7MlBAoZkYithvmu5aA2Krw", 
+    "business_name": "Michael's Collision Carstar", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "10-2": 1, 
+      "10-4": 2, 
+      "11-1": 3, 
+      "11-3": 1, 
+      "12-2": 3, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "13-0": 2, 
+      "13-1": 1, 
+      "14-2": 1, 
+      "15-1": 2, 
+      "15-4": 1, 
+      "16-1": 1, 
+      "16-2": 1, 
+      "16-3": 1, 
+      "7-0": 1, 
+      "7-1": 5, 
+      "7-2": 2, 
+      "7-3": 5, 
+      "7-4": 5, 
+      "8-0": 5, 
+      "8-1": 3, 
+      "8-2": 5, 
+      "8-3": 2, 
+      "8-4": 6, 
+      "9-0": 4, 
+      "9-1": 2, 
+      "9-2": 1, 
+      "9-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 72, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HJpjzVTD2nC-v3B5lB6rQw", 
+    "business_name": "Royal Car Care", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-3": 1, 
+      "11-5": 1, 
+      "12-0": 1, 
+      "13-1": 2, 
+      "13-2": 1, 
+      "16-1": 1, 
+      "16-3": 1, 
+      "17-0": 1, 
+      "20-3": 1, 
+      "22-2": 1, 
+      "4-0": 1, 
+      "7-2": 1, 
+      "7-4": 1, 
+      "8-1": 1, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-1": 2, 
+      "9-4": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 23, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-zu8bDrYQqWRZMmWemAFOw", 
+    "business_name": "Scott's Coach Works, Inc.", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-2": 1, 
+      "12-1": 1, 
+      "12-4": 2, 
+      "14-0": 1, 
+      "14-1": 2, 
+      "14-3": 1, 
+      "14-4": 2, 
+      "15-3": 1, 
+      "15-4": 1, 
+      "15-6": 1, 
+      "16-0": 1, 
+      "16-3": 1, 
+      "18-2": 1, 
+      "7-1": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0YsZ1K7VGpzCu9PfuNUHHg", 
+    "business_name": "Pitstop Performance", 
+    "checkin_info": {
+      "10-4": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "13-5": 1, 
+      "15-1": 1, 
+      "16-0": 1, 
+      "16-4": 1, 
+      "17-3": 1, 
+      "7-1": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "JkjjCrtA39bCYlWj6V8uTQ", 
+    "business_name": "Select Auto Body", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-2": 1, 
+      "13-3": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "15-2": 1, 
+      "15-4": 1, 
+      "17-4": 1, 
+      "18-3": 1, 
+      "8-0": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "R1f6iwr91G_PdxJEHXgxOw", 
+    "business_name": "ABC Collision Center", 
+    "checkin_info": {
+      "10-1": 1, 
+      "15-0": 1, 
+      "15-3": 1, 
+      "16-2": 1, 
+      "6-0": 1, 
+      "7-0": 1, 
+      "7-2": 1, 
+      "7-4": 1, 
+      "8-5": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MxowaA_jYPn25ZdEPCRsoQ", 
+    "business_name": "Lovetts Body Shop", 
+    "checkin_info": {
+      "12-3": 1, 
+      "13-4": 1, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "16-1": 1, 
+      "16-4": 1, 
+      "18-6": 1, 
+      "6-1": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Fe7ysUq6tyyktLtRBvc_dw", 
+    "business_name": "Bell Collision", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-4": 1, 
+      "13-2": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "17-0": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "tiu9vb9LAPgR2t27d6ICKw", 
+    "business_name": "Southwest Car Care Center", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-5": 1, 
+      "12-3": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "15-5": 1, 
+      "17-1": 1, 
+      "7-1": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pkkqve6-y6EXNlJioO5pjw", 
+    "business_name": "Auto Body World", 
+    "checkin_info": {
+      "10-2": 2, 
+      "11-1": 1, 
+      "11-5": 1, 
+      "15-1": 1, 
+      "15-4": 1, 
+      "16-1": 1, 
+      "16-4": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "PKdkc6RdbgH1X9k8HrnH9w", 
+    "business_name": "Acupuncture Vegas", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -45,10 +46,12 @@
       "8-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 111, 
     "type": "checkin"
   }, 
   {
     "business_id": "w-oT9vw9y1Y0Jd5Df-J_ng", 
+    "business_name": "Lok Acupuncture Clinic", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -80,10 +83,12 @@
       "9-0": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "LwpUiNJ_azkMrNB4M3Gk0Q", 
+    "business_name": "Legacy Oriental Medical Center", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -104,10 +109,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "BQle5xwqqcx6N-iUk3xbYw", 
+    "business_name": "Meridian Wellness", 
     "checkin_info": {
       "10-3": 1, 
       "11-1": 1, 
@@ -126,10 +133,12 @@
       "16-4": 1, 
       "17-0": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "DGAG6TTNGyziEMdBpKx1yw", 
+    "business_name": "Renaissance Health Centre", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -145,10 +154,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }, 
   {
     "business_id": "FiSoSg-F6IZwwWLA6gyWXQ", 
+    "business_name": "Nevada Pain", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 1, 
@@ -157,33 +168,40 @@
       "14-2": 1, 
       "15-2": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "djc5NZL50vLwvCIjYrZmoA", 
+    "business_name": "Spring Mountains Acupuncture", 
     "checkin_info": {
       "10-4": 2, 
       "12-0": 1, 
       "16-3": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }, 
   {
     "business_id": "m_FI5xsc-o4ulhCfApZW2A", 
+    "business_name": "Jinli Ran", 
     "checkin_info": {
       "11-2": 1, 
       "14-4": 1, 
       "15-0": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "_x4hVsOORIJmqjMMx_MZRA", 
+    "business_name": "Setsuko H Sage, OMD", 
     "checkin_info": {
       "12-1": 1, 
       "16-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

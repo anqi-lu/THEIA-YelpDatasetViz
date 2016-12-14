@@ -1,6 +1,7 @@
 [
   {
     "business_id": "NsEgU5gpkGehIt71at4FHg", 
+    "business_name": "IKEA - Las Vegas", 
     "checkin_info": {
       "0-1": 1, 
       "1-3": 1, 
@@ -108,10 +109,12 @@
       "9-5": 8, 
       "9-6": 4
     }, 
+    "total_checkin": 995, 
     "type": "checkin"
   }, 
   {
     "business_id": "E3YZww_r2SDiAKGILb6stg", 
+    "business_name": "World Market Center Las Vegas", 
     "checkin_info": {
       "0-5": 1, 
       "1-4": 1, 
@@ -229,10 +232,12 @@
       "9-5": 2, 
       "9-6": 6
     }, 
+    "total_checkin": 779, 
     "type": "checkin"
   }, 
   {
     "business_id": "vha8-1iVade3hshLU0Co4Q", 
+    "business_name": "World Market", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 10, 
@@ -325,10 +330,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 749, 
     "type": "checkin"
   }, 
   {
     "business_id": "-FK47t3X0ctRNSSmZeFFQA", 
+    "business_name": "Cost Plus World Market", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 2, 
@@ -419,10 +426,12 @@
       "9-3": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 495, 
     "type": "checkin"
   }, 
   {
     "business_id": "WJtW7xlTmB7QnkRvgW7Pnw", 
+    "business_name": "RC Willey", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 4, 
@@ -504,10 +513,12 @@
       "9-3": 2, 
       "9-4": 2
     }, 
+    "total_checkin": 362, 
     "type": "checkin"
   }, 
   {
     "business_id": "hMa-cxLgSKvxKNLUJHE8Iw", 
+    "business_name": "Bed Bath & Beyond", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -585,10 +596,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 232, 
     "type": "checkin"
   }, 
   {
     "business_id": "ibpg9fJXFd_hFbMLPqFTlw", 
+    "business_name": "Big Lots - Southwest Las Vegas", 
     "checkin_info": {
       "10-1": 2, 
       "10-3": 1, 
@@ -673,10 +686,12 @@
       "9-3": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 231, 
     "type": "checkin"
   }, 
   {
     "business_id": "v4pPsZCQeXU0bo9aqG5-4Q", 
+    "business_name": "Macy's Furniture & Home Store", 
     "checkin_info": {
       "0-1": 2, 
       "1-4": 1, 
@@ -750,10 +765,12 @@
       "7-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 190, 
     "type": "checkin"
   }, 
   {
     "business_id": "i_hw78DZv-oGvBvTx8FU3A", 
+    "business_name": "Walker Furniture", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -821,10 +838,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 169, 
     "type": "checkin"
   }, 
   {
     "business_id": "P-0E_GerOrfeiP_V8Tzegg", 
+    "business_name": "Big Lots - Las Vegas: Paradise", 
     "checkin_info": {
       "10-5": 2, 
       "10-6": 1, 
@@ -889,6 +908,7 @@
       "7-0": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 137, 
     "type": "checkin"
   }
 ]

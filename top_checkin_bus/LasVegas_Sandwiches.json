@@ -1,6 +1,7 @@
 [
   {
     "business_id": "2e2e7WgqU1BnpxmQL5jbfw", 
+    "business_name": "Earl of Sandwich", 
     "checkin_info": {
       "0-0": 86, 
       "0-1": 62, 
@@ -171,10 +172,12 @@
       "9-5": 105, 
       "9-6": 98
     }, 
+    "total_checkin": 17613, 
     "type": "checkin"
   }, 
   {
     "business_id": "EQxbEKkHxNvRT_-S5A-Gcw", 
+    "business_name": "Greens and Proteins", 
     "checkin_info": {
       "0-2": 1, 
       "0-6": 1, 
@@ -306,10 +309,12 @@
       "9-5": 30, 
       "9-6": 13
     }, 
+    "total_checkin": 4308, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZP6qFq7LUh6Tr7WHPoOW6g", 
+    "business_name": "eat.", 
     "checkin_info": {
       "0-1": 2, 
       "10-0": 85, 
@@ -400,10 +405,12 @@
       "9-5": 128, 
       "9-6": 115
     }, 
+    "total_checkin": 3939, 
     "type": "checkin"
   }, 
   {
     "business_id": "Xsp9Dy4PQgAssCVk2-f73w", 
+    "business_name": "Lee's Sandwiches", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 23, 
@@ -574,10 +581,12 @@
       "9-5": 12, 
       "9-6": 27
     }, 
+    "total_checkin": 3535, 
     "type": "checkin"
   }, 
   {
     "business_id": "OHsuvX4rmhnPvvRBb-QK7A", 
+    "business_name": "Baguette Cafe", 
     "checkin_info": {
       "1-1": 1, 
       "1-2": 1, 
@@ -682,10 +691,12 @@
       "9-5": 36, 
       "9-6": 24
     }, 
+    "total_checkin": 3516, 
     "type": "checkin"
   }, 
   {
     "business_id": "Nw8lWJRGybAsciao9h-R2Q", 
+    "business_name": "Bronze Cafe", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -807,10 +818,12 @@
       "9-5": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 2780, 
     "type": "checkin"
   }, 
   {
     "business_id": "RhbOa-Ft3sZB4B_1j5LfyA", 
+    "business_name": "Mr. Mamas", 
     "checkin_info": {
       "1-2": 1, 
       "1-5": 1, 
@@ -904,10 +917,12 @@
       "9-5": 83, 
       "9-6": 76
     }, 
+    "total_checkin": 2729, 
     "type": "checkin"
   }, 
   {
     "business_id": "82yh4-ZTPaBaKFFgY5kuzA", 
+    "business_name": "Greens and Proteins", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 20, 
@@ -1029,10 +1044,12 @@
       "9-5": 23, 
       "9-6": 20
     }, 
+    "total_checkin": 2700, 
     "type": "checkin"
   }, 
   {
     "business_id": "Pt5AYjhzoU93biVeVahLKw", 
+    "business_name": "MadHouse Coffee", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 9, 
@@ -1203,10 +1220,12 @@
       "9-5": 25, 
       "9-6": 18
     }, 
+    "total_checkin": 2241, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZygV0bo1lfQ1ZRnVc0Uwlw", 
+    "business_name": "Panera Bread", 
     "checkin_info": {
       "1-2": 1, 
       "10-0": 18, 
@@ -1320,6 +1339,7 @@
       "9-5": 24, 
       "9-6": 18
     }, 
+    "total_checkin": 1829, 
     "type": "checkin"
   }
 ]

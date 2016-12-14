@@ -1,0 +1,19 @@
+[
+  {
+    "business_id": "CDgwYLG0fZ-63FH6gJWYFw", 
+    "business_name": "Dutch Mill Park & Ride", 
+    "checkin_info": {
+      "12-3": 1, 
+      "13-2": 1, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "21-3": 1, 
+      "5-3": 1, 
+      "6-4": 1, 
+      "9-1": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

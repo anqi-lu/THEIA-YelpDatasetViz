@@ -1,6 +1,7 @@
 [
   {
     "business_id": "On4td0EA1SASDkBe2HU-JQ", 
+    "business_name": "Count's Kustom", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -71,10 +72,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 227, 
     "type": "checkin"
   }, 
   {
     "business_id": "3FYC3FxRGVn_zw1oLer__w", 
+    "business_name": "Harley Davidson", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -134,10 +137,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 101, 
     "type": "checkin"
   }, 
   {
     "business_id": "RJqY8ukNDrZJAD-bPHScDQ", 
+    "business_name": "Ridenow Powersports On Boulder", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 3, 
@@ -189,10 +194,12 @@
       "9-3": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 82, 
     "type": "checkin"
   }, 
   {
     "business_id": "7w6kqV3CBqX8fE5dBO81Jg", 
+    "business_name": "Carter Power Sports Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -239,10 +246,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "YiNESbmfBOcfSHuKcKXYzw", 
+    "business_name": "Freedom Cycle Triumph Motorcycles", 
     "checkin_info": {
       "10-4": 1, 
       "10-5": 2, 
@@ -282,10 +291,12 @@
       "8-6": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "Vd4omvkdnhne_7NZ7KzyOg", 
+    "business_name": "Harley Davidson", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -331,10 +342,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 57, 
     "type": "checkin"
   }, 
   {
     "business_id": "botu_b1CzyfmzeeDAXPPfQ", 
+    "business_name": "Las Vegas Harley-Davidson", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -370,10 +383,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 48, 
     "type": "checkin"
   }, 
   {
     "business_id": "2cY_0s27yChALsROKAqstw", 
+    "business_name": "Las Vegas Harley-Davidson", 
     "checkin_info": {
       "1-4": 1, 
       "10-3": 2, 
@@ -410,10 +425,12 @@
       "8-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "1pthyctzx3o-JtbQ60exKw", 
+    "business_name": "Indian Motorcycle Las Vegas", 
     "checkin_info": {
       "10-1": 1, 
       "11-5": 1, 
@@ -430,10 +447,12 @@
       "17-5": 2, 
       "18-4": 1
     }, 
+    "total_checkin": 29, 
     "type": "checkin"
   }, 
   {
     "business_id": "vSDuJQjxtYQtNlnoXgsHAw", 
+    "business_name": "A-Team Motorcycles", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -452,6 +471,7 @@
       "9-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }
 ]

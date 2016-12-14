@@ -1,6 +1,7 @@
 [
   {
     "business_id": "eClo8BPc90-YdBfuvRcpkg", 
+    "business_name": "Castles N' Coasters", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -120,10 +121,12 @@
       "9-5": 12, 
       "9-6": 3
     }, 
+    "total_checkin": 821, 
     "type": "checkin"
   }, 
   {
     "business_id": "qjXtirU34PdTjPVbup8cTw", 
+    "business_name": "AMF Squaw Peak Lanes", 
     "checkin_info": {
       "1-0": 1, 
       "10-5": 2, 
@@ -184,10 +187,12 @@
       "8-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 162, 
     "type": "checkin"
   }, 
   {
     "business_id": "Yj5CBsJCkUGkLtYRbtfKLg", 
+    "business_name": "Enchanted Island Amusement Park", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -246,10 +251,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 112, 
     "type": "checkin"
   }, 
   {
     "business_id": "uTKcPCsdSvsStcqB7spgRQ", 
+    "business_name": "Jambo Park in Phoenix", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 1, 
@@ -292,10 +299,12 @@
       "9-0": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 83, 
     "type": "checkin"
   }, 
   {
     "business_id": "4sfZgMtbhKtvSgTCcK8tFQ", 
+    "business_name": "Arizona State Fair Information", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -343,10 +352,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 69, 
     "type": "checkin"
   }, 
   {
     "business_id": "2Rcde1wjg6FeczFB3TwS4A", 
+    "business_name": "Laser Quest - Phoenix", 
     "checkin_info": {
       "0-5": 1, 
       "1-6": 1, 
@@ -381,10 +392,12 @@
       "22-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 55, 
     "type": "checkin"
   }, 
   {
     "business_id": "91iKybk4E_LSl5vy0F6mkA", 
+    "business_name": "AMF Shea Village Lanes", 
     "checkin_info": {
       "0-6": 1, 
       "10-1": 1, 
@@ -409,10 +422,12 @@
       "8-1": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "ysq6-vQZjjE8jS5bNHWr7A", 
+    "business_name": "Speedway Raceway", 
     "checkin_info": {
       "12-0": 1, 
       "12-6": 2, 
@@ -425,24 +440,29 @@
       "8-0": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 13, 
     "type": "checkin"
   }, 
   {
     "business_id": "1wp-1bP7Y6DEq6kIvicSLg", 
+    "business_name": "Discover The Dinosaurs", 
     "checkin_info": {
       "15-6": 1, 
       "16-6": 1, 
       "17-6": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }, 
   {
     "business_id": "nEf8wej39m0EsVP64LZsOA", 
+    "business_name": "Jambo!", 
     "checkin_info": {
       "12-5": 1, 
       "14-4": 1, 
       "16-5": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

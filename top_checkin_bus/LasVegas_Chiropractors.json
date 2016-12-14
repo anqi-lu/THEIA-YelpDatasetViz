@@ -1,6 +1,7 @@
 [
   {
     "business_id": "UFj7ke5CtKUzBi1Nt9FHsA", 
+    "business_name": "The Joint Chiropractic", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -66,10 +67,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 298, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ymqarFl8SyO-5FpZCVSsg", 
+    "business_name": "The Joint Chiropractic", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 3, 
@@ -133,10 +136,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 257, 
     "type": "checkin"
   }, 
   {
     "business_id": "9zUNzGdT-AfVOWrcbD2Vog", 
+    "business_name": "The Neck and Back Clinics", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 1, 
@@ -187,10 +192,12 @@
       "9-4": 1, 
       "9-5": 8
     }, 
+    "total_checkin": 167, 
     "type": "checkin"
   }, 
   {
     "business_id": "C-7kGhFoxT2Q0shV4cq-9A", 
+    "business_name": "The Joint Chiropractic", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 3, 
@@ -246,10 +253,12 @@
       "9-2": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 149, 
     "type": "checkin"
   }, 
   {
     "business_id": "TCMawhjjz7P-1CSYE81fYQ", 
+    "business_name": "Align Chiropractic", 
     "checkin_info": {
       "0-2": 1, 
       "1-4": 1, 
@@ -299,10 +308,12 @@
       "9-3": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 131, 
     "type": "checkin"
   }, 
   {
     "business_id": "kNy6SzmwUj-ifxZNfJ-xnw", 
+    "business_name": "Align Chiropractic", 
     "checkin_info": {
       "0-0": 1, 
       "0-4": 1, 
@@ -363,10 +374,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 129, 
     "type": "checkin"
   }, 
   {
     "business_id": "Rx3c8iDnlDx7Q9jx_I6sFw", 
+    "business_name": "MaxHealth Center - Rancho", 
     "checkin_info": {
       "10-4": 2, 
       "11-2": 2, 
@@ -404,10 +417,12 @@
       "8-4": 3, 
       "9-4": 3
     }, 
+    "total_checkin": 124, 
     "type": "checkin"
   }, 
   {
     "business_id": "LBQ-19kbaEnls5id0HjPdQ", 
+    "business_name": "Progressive Health Center", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -452,10 +467,12 @@
       "9-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 121, 
     "type": "checkin"
   }, 
   {
     "business_id": "N-HP_fVMRbauRNz8cwhMog", 
+    "business_name": "The Joint Chiropractic", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 1, 
@@ -498,10 +515,12 @@
       "8-1": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 101, 
     "type": "checkin"
   }, 
   {
     "business_id": "u57Uu3mz1LhSleoG1OlbDA", 
+    "business_name": "The Neck and Back Clinics", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 3, 
@@ -540,6 +559,7 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 98, 
     "type": "checkin"
   }
 ]

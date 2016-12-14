@@ -1,6 +1,7 @@
 [
   {
     "business_id": "GwBzzDNzPYAiN6QQrd37Sw", 
+    "business_name": "The Parlor", 
     "checkin_info": {
       "0-6": 1, 
       "1-2": 2, 
@@ -106,10 +107,12 @@
       "9-5": 14, 
       "9-6": 14
     }, 
+    "total_checkin": 971, 
     "type": "checkin"
   }, 
   {
     "business_id": "NqmbT5zcEpV52qx1bI1ZdQ", 
+    "business_name": "Ulta 3 Cosmetics & Salon", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 3, 
@@ -198,10 +201,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 669, 
     "type": "checkin"
   }, 
   {
     "business_id": "-FCQ6tpsdpbeEJX8R_-tQQ", 
+    "business_name": "Qua Baths & Spa", 
     "checkin_info": {
       "0-3": 1, 
       "0-6": 2, 
@@ -314,10 +319,12 @@
       "9-5": 9, 
       "9-6": 7
     }, 
+    "total_checkin": 602, 
     "type": "checkin"
   }, 
   {
     "business_id": "ta6GXjcGAhMlC-KtxX6VfQ", 
+    "business_name": "Canyon Ranch SpaClub", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -432,10 +439,12 @@
       "9-5": 21, 
       "9-6": 6
     }, 
+    "total_checkin": 584, 
     "type": "checkin"
   }, 
   {
     "business_id": "cti7RxX1ZLiE8T3OnnQPyw", 
+    "business_name": "Spa & Salon At ARIA", 
     "checkin_info": {
       "0-0": 1, 
       "0-4": 1, 
@@ -547,10 +556,12 @@
       "9-5": 9, 
       "9-6": 9
     }, 
+    "total_checkin": 491, 
     "type": "checkin"
   }, 
   {
     "business_id": "NC1xlLH-6If4PraDPQaHOQ", 
+    "business_name": "Ulta Beauty", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -634,10 +645,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 460, 
     "type": "checkin"
   }, 
   {
     "business_id": "kAGNmuKkjcWaWE_wVCjp_w", 
+    "business_name": "Square Colour Salon + Spa", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -714,10 +727,12 @@
       "9-4": 3, 
       "9-5": 5
     }, 
+    "total_checkin": 443, 
     "type": "checkin"
   }, 
   {
     "business_id": "PHszlCwU6Y9JGDEI9i7uGA", 
+    "business_name": "A Touch of Las Vegas Day Spa", 
     "checkin_info": {
       "0-4": 1, 
       "1-2": 1, 
@@ -817,10 +832,12 @@
       "9-5": 7, 
       "9-6": 3
     }, 
+    "total_checkin": 433, 
     "type": "checkin"
   }, 
   {
     "business_id": "4MDELmrapOVyZjtpWHGz6A", 
+    "business_name": "Kelly Cardenas Salon", 
     "checkin_info": {
       "10-1": 8, 
       "10-2": 4, 
@@ -893,10 +910,12 @@
       "9-4": 3, 
       "9-5": 12
     }, 
+    "total_checkin": 406, 
     "type": "checkin"
   }, 
   {
     "business_id": "9WcXRVLjNURGS24sP2GyrQ", 
+    "business_name": "Beauty To Beauty", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 5, 
@@ -976,6 +995,7 @@
       "9-4": 4, 
       "9-5": 7
     }, 
+    "total_checkin": 392, 
     "type": "checkin"
   }
 ]

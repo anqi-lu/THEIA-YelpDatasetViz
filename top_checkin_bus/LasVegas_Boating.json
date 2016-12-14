@@ -1,6 +1,7 @@
 [
   {
     "business_id": "EjDPuSO5t3ulHxZI1adTcw", 
+    "business_name": "Lake Jacqueline", 
     "checkin_info": {
       "11-1": 1, 
       "11-3": 1, 
@@ -24,6 +25,7 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 26, 
     "type": "checkin"
   }
 ]

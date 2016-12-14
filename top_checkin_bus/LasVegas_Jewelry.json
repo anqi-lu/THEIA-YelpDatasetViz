@@ -1,6 +1,7 @@
 [
   {
     "business_id": "KjBAUYy7m4vhSoFIrz2WjQ", 
+    "business_name": "Bonanza Gift Shop", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 2, 
@@ -130,10 +131,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 752, 
     "type": "checkin"
   }, 
   {
     "business_id": "mreb5yMOuIfJgDecjz3Glw", 
+    "business_name": "Louis Vuitton Las Vegas CityCenter", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -256,10 +259,12 @@
       "9-3": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 548, 
     "type": "checkin"
   }, 
   {
     "business_id": "ECGR_vlEYNi5pfPzBwEXJg", 
+    "business_name": "Chanel", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 3, 
@@ -369,10 +374,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 249, 
     "type": "checkin"
   }, 
   {
     "business_id": "cH9UL2BKZ5xGVov0G8snlg", 
+    "business_name": "Tiffany & Co.", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -462,10 +469,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 237, 
     "type": "checkin"
   }, 
   {
     "business_id": "XT4z5DSuP9g8tbuvylnupA", 
+    "business_name": "Charming Charlie - Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 1, 
@@ -536,10 +545,12 @@
       "22-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 196, 
     "type": "checkin"
   }, 
   {
     "business_id": "8hHoyyZIsWlQf8X3tYa-4g", 
+    "business_name": "ABC Stores", 
     "checkin_info": {
       "0-4": 1, 
       "10-2": 1, 
@@ -626,10 +637,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 181, 
     "type": "checkin"
   }, 
   {
     "business_id": "QSztn91Nzii1WwEhh0B94A", 
+    "business_name": "Tiffany & Co", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 1, 
@@ -713,10 +726,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 178, 
     "type": "checkin"
   }, 
   {
     "business_id": "sceGf2-t5yNfg1AZuZ8UPg", 
+    "business_name": "Haute Chix Boutique Southern Highlands", 
     "checkin_info": {
       "10-3": 2, 
       "11-0": 2, 
@@ -772,10 +787,12 @@
       "20-2": 1, 
       "20-3": 3
     }, 
+    "total_checkin": 145, 
     "type": "checkin"
   }, 
   {
     "business_id": "0xhTt6jw8O5kD7aG5-KmcQ", 
+    "business_name": "Tourneau", 
     "checkin_info": {
       "0-3": 1, 
       "10-1": 1, 
@@ -860,10 +877,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 136, 
     "type": "checkin"
   }, 
   {
     "business_id": "Uj4Df_0J-7KyZmmgZcKwDg", 
+    "business_name": "Charming Charlie - Las Vegas", 
     "checkin_info": {
       "10-1": 3, 
       "10-5": 3, 
@@ -922,6 +941,7 @@
       "21-5": 1, 
       "22-4": 1
     }, 
+    "total_checkin": 117, 
     "type": "checkin"
   }
 ]

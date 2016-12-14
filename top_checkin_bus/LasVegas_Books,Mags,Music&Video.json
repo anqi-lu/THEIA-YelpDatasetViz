@@ -1,6 +1,7 @@
 [
   {
     "business_id": "xjvde_zuuNdqtAHK2Kof8Q", 
+    "business_name": "Barnes & Noble", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 11, 
@@ -102,10 +103,12 @@
       "9-5": 5, 
       "9-6": 2
     }, 
+    "total_checkin": 1053, 
     "type": "checkin"
   }, 
   {
     "business_id": "GliHGynwEIIBbhBQhmOF_Q", 
+    "business_name": "Barnes & Noble", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 14, 
@@ -199,10 +202,12 @@
       "9-5": 4, 
       "9-6": 2
     }, 
+    "total_checkin": 598, 
     "type": "checkin"
   }, 
   {
     "business_id": "CjxipJktq7R6GzpvnlS1zA", 
+    "business_name": "Zia Records", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 1, 
@@ -310,10 +315,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 523, 
     "type": "checkin"
   }, 
   {
     "business_id": "C6ap5Q7Ux7KQZd1wvqbzdg", 
+    "business_name": "MaximuM Comics", 
     "checkin_info": {
       "1-2": 2, 
       "10-1": 2, 
@@ -396,10 +403,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 518, 
     "type": "checkin"
   }, 
   {
     "business_id": "H3xCT0WUSN24xNilQKPkww", 
+    "business_name": "Zia Record Exchange", 
     "checkin_info": {
       "0-5": 2, 
       "1-5": 1, 
@@ -504,10 +513,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 473, 
     "type": "checkin"
   }, 
   {
     "business_id": "fKXJO9ANNl6gpK2snEStfg", 
+    "business_name": "Press Start Gaming Center", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -589,10 +600,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 267, 
     "type": "checkin"
   }, 
   {
     "business_id": "m-vf7COWx0qHCJbriBLRqQ", 
+    "business_name": "Cosmic Comics", 
     "checkin_info": {
       "1-2": 1, 
       "10-1": 1, 
@@ -666,10 +679,12 @@
       "8-5": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 254, 
     "type": "checkin"
   }, 
   {
     "business_id": "IvrL9sIXfdNCuwTZ5ZEz0g", 
+    "business_name": "Hudson News", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -786,10 +801,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 250, 
     "type": "checkin"
   }, 
   {
     "business_id": "7HcVLnTLN-tOipqjBhhyCA", 
+    "business_name": "Maximum Comics 3.0", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -859,10 +876,12 @@
       "9-2": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 191, 
     "type": "checkin"
   }, 
   {
     "business_id": "rK358xs5eV4fuWf3woOmtw", 
+    "business_name": "South Point Race and Sports Book", 
     "checkin_info": {
       "0-1": 2, 
       "0-2": 1, 
@@ -957,6 +976,7 @@
       "8-6": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 185, 
     "type": "checkin"
   }
 ]

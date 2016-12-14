@@ -1,6 +1,7 @@
 [
   {
     "business_id": "b4zV86JJ9Ez4MfzaWO0umQ", 
+    "business_name": "Master Lock & Security", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -55,10 +56,12 @@
       "8-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "FsYQQhAqZ36kf9SWMQxrNA", 
+    "business_name": "24/7 Supertech Locksmith Services", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -100,10 +103,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 48, 
     "type": "checkin"
   }, 
   {
     "business_id": "VXR0R6lcNt1Yu8vy5Atayg", 
+    "business_name": "Keyport Store & HQ", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -131,10 +136,12 @@
       "18-4": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "UzaT0jpcgNcypphmA_y5NA", 
+    "business_name": "911 Safe Locksmith", 
     "checkin_info": {
       "1-3": 1, 
       "10-6": 1, 
@@ -154,10 +161,12 @@
       "22-4": 1, 
       "22-6": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "qr-AGO7VGOsAE19qjqeIxA", 
+    "business_name": "Stanley Security Solutions", 
     "checkin_info": {
       "10-4": 1, 
       "11-1": 1, 
@@ -176,10 +185,12 @@
       "9-0": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 19, 
     "type": "checkin"
   }, 
   {
     "business_id": "A94ERYE7HsDHAvkP0ouKqw", 
+    "business_name": "Las Vegas NV Locksmiths", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -192,10 +203,12 @@
       "7-2": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "j9-7xr3QQnSsmOqm7zJdQA", 
+    "business_name": "A&B Security Safe and Lock", 
     "checkin_info": {
       "13-2": 1, 
       "14-3": 1, 
@@ -208,10 +221,12 @@
       "8-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "pjt0kKol79WKyps2yTUu0A", 
+    "business_name": "All City Lock and Key", 
     "checkin_info": {
       "11-6": 1, 
       "13-3": 1, 
@@ -221,10 +236,12 @@
       "16-3": 1, 
       "16-4": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "rJ2XxXgS9hr_0QXtyBHXkw", 
+    "business_name": "24-7 JB Services", 
     "checkin_info": {
       "13-5": 1, 
       "15-5": 1, 
@@ -232,10 +249,12 @@
       "18-1": 1, 
       "23-6": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "lP-SAtl04wx4dCxqY9SKKQ", 
+    "business_name": "Silver Eagle Locksmith", 
     "checkin_info": {
       "10-5": 1, 
       "10-6": 1, 
@@ -243,6 +262,7 @@
       "22-5": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

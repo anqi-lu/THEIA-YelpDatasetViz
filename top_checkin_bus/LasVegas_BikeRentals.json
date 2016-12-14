@@ -1,6 +1,7 @@
 [
   {
     "business_id": "w_S8lPctPeol2uV5qo3m0Q", 
+    "business_name": "Mcghie's Ski, Bike & Board", 
     "checkin_info": {
       "10-2": 3, 
       "10-4": 2, 
@@ -71,10 +72,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 186, 
     "type": "checkin"
   }, 
   {
     "business_id": "XJp8-62vZ3wEY8DrRXA5Vw", 
+    "business_name": "Las Vegas Cyclery and Running Center", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 4, 
@@ -133,10 +136,12 @@
       "9-1": 3, 
       "9-5": 4
     }, 
+    "total_checkin": 133, 
     "type": "checkin"
   }, 
   {
     "business_id": "6X4RB51x3Z2zkiOAtfxPmQ", 
+    "business_name": "Pro Cyclery", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -190,10 +195,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 74, 
     "type": "checkin"
   }, 
   {
     "business_id": "Hws4MtxHUQPStVGeQo5D8A", 
+    "business_name": "Broken Spoke Bikes", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -229,10 +236,12 @@
       "9-1": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "t98nKrbFx0eQhdyZL0Kg5w", 
+    "business_name": "Irwin Cycles", 
     "checkin_info": {
       "10-4": 1, 
       "11-1": 2, 
@@ -258,10 +267,12 @@
       "19-3": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 32, 
     "type": "checkin"
   }, 
   {
     "business_id": "ISb0o-gOFT_bJYVxJlc8IA", 
+    "business_name": "Southwest Bikes", 
     "checkin_info": {
       "10-0": 2, 
       "11-1": 1, 
@@ -285,10 +296,12 @@
       "21-2": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "_eKaQswi9GWGBObDRM9IRw", 
+    "business_name": "RTC Bike Center", 
     "checkin_info": {
       "13-1": 1, 
       "13-3": 1, 
@@ -313,10 +326,12 @@
       "9-0": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "YNLcNmUAfLxCfGPUQ3GjTw", 
+    "business_name": "The Vault Bicycle Shop", 
     "checkin_info": {
       "12-6": 1, 
       "13-5": 2, 
@@ -329,25 +344,30 @@
       "20-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }, 
   {
     "business_id": "CpIbqdYDJjE2b0Y1-QDbSQ", 
+    "business_name": "Triple T's Moped Rentals", 
     "checkin_info": {
       "10-3": 1, 
       "11-4": 1, 
       "14-5": 2, 
       "19-0": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "ksOkZPR7jRULJ4JamU6Dqw", 
+    "business_name": "Bike King", 
     "checkin_info": {
       "11-5": 1, 
       "13-6": 1, 
       "17-1": 1
     }, 
+    "total_checkin": 3, 
     "type": "checkin"
   }
 ]

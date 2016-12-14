@@ -1,6 +1,7 @@
 [
   {
     "business_id": "NC1xlLH-6If4PraDPQaHOQ", 
+    "business_name": "Ulta Beauty", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -84,10 +85,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 460, 
     "type": "checkin"
   }, 
   {
     "business_id": "ev8T4IcPEA45HhIMT3lFqQ", 
+    "business_name": "MAC Cosmetics", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -171,10 +174,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 270, 
     "type": "checkin"
   }, 
   {
     "business_id": "UZUcfInMD3LEwf99sswUoQ", 
+    "business_name": "Boulevard Salon", 
     "checkin_info": {
       "10-2": 5, 
       "10-3": 1, 
@@ -250,10 +255,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 185, 
     "type": "checkin"
   }, 
   {
     "business_id": "NCTd71BBS6cxgr97P0mUVQ", 
+    "business_name": "Canyon Falls Spa & Salon", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -326,10 +333,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 175, 
     "type": "checkin"
   }, 
   {
     "business_id": "vBit5A1ZfVhHebR0YvA06w", 
+    "business_name": "MAC Cosmetics", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 2, 
@@ -406,10 +415,12 @@
       "8-1": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 172, 
     "type": "checkin"
   }, 
   {
     "business_id": "FcBcmHppCJiaMPE-7AQcRQ", 
+    "business_name": "iBlowdry Hair Salon", 
     "checkin_info": {
       "0-4": 1, 
       "1-6": 1, 
@@ -480,10 +491,12 @@
       "22-6": 1, 
       "8-3": 1
     }, 
+    "total_checkin": 163, 
     "type": "checkin"
   }, 
   {
     "business_id": "rJi29gH8HppnTXTRRZxXNw", 
+    "business_name": "Suite One Salon", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -549,10 +562,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 130, 
     "type": "checkin"
   }, 
   {
     "business_id": "ftozx9EPa113vlBWZlrebg", 
+    "business_name": "Cristophe Salon", 
     "checkin_info": {
       "0-5": 1, 
       "10-1": 1, 
@@ -601,10 +616,12 @@
       "9-2": 3, 
       "9-4": 3
     }, 
+    "total_checkin": 81, 
     "type": "checkin"
   }, 
   {
     "business_id": "K45Wory8OTBVW5PvsObhhg", 
+    "business_name": "INGLOT Cosmetics", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 3, 
@@ -654,10 +671,12 @@
       "9-0": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }, 
   {
     "business_id": "CRowuM53GcsaFQrVMwMNfw", 
+    "business_name": "Star Costume & Theatrical Supply", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -709,6 +728,7 @@
       "8-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }
 ]

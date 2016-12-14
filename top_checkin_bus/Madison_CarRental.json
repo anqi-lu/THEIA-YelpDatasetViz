@@ -1,0 +1,78 @@
+[
+  {
+    "business_id": "yCbzzYKkPe1kfeMDdGq03Q", 
+    "business_name": "Enterprise Rent-A-Car", 
+    "checkin_info": {
+      "1-5": 1, 
+      "10-0": 1, 
+      "10-1": 1, 
+      "11-1": 1, 
+      "12-0": 1, 
+      "12-6": 1, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "14-5": 1, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "18-6": 1, 
+      "19-6": 1, 
+      "2-1": 1, 
+      "6-4": 1, 
+      "7-3": 1, 
+      "9-0": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 21, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "R6ojvMJvskHGBbtednMQ1g", 
+    "business_name": "Enterprise Rent-A-Car", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-3": 1, 
+      "12-5": 1, 
+      "15-4": 1, 
+      "5-2": 2, 
+      "5-3": 1, 
+      "5-4": 1, 
+      "7-1": 1, 
+      "8-4": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "bIDAOpeNv4b9qtMHqz3Euw", 
+    "business_name": "Hertz Rent A Car", 
+    "checkin_info": {
+      "12-6": 1, 
+      "13-3": 1, 
+      "16-2": 1, 
+      "16-3": 1, 
+      "20-0": 1, 
+      "6-6": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "oqAQ812E75Ie1i_Ov3sgNw", 
+    "business_name": "Enterprise Rent-A-Car", 
+    "checkin_info": {
+      "14-4": 1, 
+      "15-1": 1, 
+      "5-0": 1, 
+      "7-0": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "9LwjYIZEJS5Hp1VJfIuofg", 
+    "business_name": "Studio 21 Tattoo Gallery", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 1, 
@@ -81,10 +82,12 @@
       "3-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 616, 
     "type": "checkin"
   }, 
   {
     "business_id": "GRVMk9inxsLOmCnztVPQWw", 
+    "business_name": "Bellagio Gallery of Fine Art", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 2, 
@@ -189,10 +192,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 377, 
     "type": "checkin"
   }, 
   {
     "business_id": "vRDD-MhF7W_VMRCXjh0N_w", 
+    "business_name": "The Arts Factory", 
     "checkin_info": {
       "0-5": 1, 
       "1-4": 4, 
@@ -281,10 +286,12 @@
       "9-0": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 326, 
     "type": "checkin"
   }, 
   {
     "business_id": "n485XgNXcXZtf_mhSMUMCQ", 
+    "business_name": "Emergency Arts", 
     "checkin_info": {
       "0-5": 1, 
       "1-3": 1, 
@@ -363,10 +370,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 153, 
     "type": "checkin"
   }, 
   {
     "business_id": "DrZ6gS1LNpMgy4f2zumTng", 
+    "business_name": "LIK CAESARS - Peter Lik Fine Art Photography", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -442,10 +451,12 @@
       "3-0": 1, 
       "8-5": 1
     }, 
+    "total_checkin": 137, 
     "type": "checkin"
   }, 
   {
     "business_id": "YhoijGHU6dH5ohirxNzrfw", 
+    "business_name": "The Gallery", 
     "checkin_info": {
       "0-4": 2, 
       "0-5": 9, 
@@ -497,10 +508,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 100, 
     "type": "checkin"
   }, 
   {
     "business_id": "_6P_rVUtfbgy84X1y9pWGg", 
+    "business_name": "Imagine Exhibitions Gallery", 
     "checkin_info": {
       "0-6": 1, 
       "10-3": 1, 
@@ -557,10 +570,12 @@
       "9-0": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 97, 
     "type": "checkin"
   }, 
   {
     "business_id": "mTezjL5VpI1tPJWzKi9OMQ", 
+    "business_name": "Clay Arts Vegas", 
     "checkin_info": {
       "10-5": 1, 
       "11-4": 2, 
@@ -601,10 +616,12 @@
       "21-5": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 67, 
     "type": "checkin"
   }, 
   {
     "business_id": "a9MrZaaa5JnHPN-m7dd38w", 
+    "business_name": "Kush Fine Art", 
     "checkin_info": {
       "10-1": 1, 
       "10-6": 1, 
@@ -644,10 +661,12 @@
       "7-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "mjjFVfjQfTNVL1Cq8zsliA", 
+    "business_name": "LIK MANDALAY - Peter Lik Fine Art Photography", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 1, 
@@ -685,6 +704,7 @@
       "6-4": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }
 ]

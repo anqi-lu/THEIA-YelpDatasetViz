@@ -6,9 +6,9 @@
     #table{
         position: absolute;
         right: 300px;
-        top: 100px;       
+        top: 100px;
     }
-    
+
     #getInfo{
         position: absolute;
         right: 300px;
@@ -31,7 +31,7 @@
     </form>
   <div id = 'table'></div>
  <button id="getInfo" onclick="getInfo()">Compare</button>
-      
+
 </body>
 
 <script>
@@ -50,7 +50,7 @@ function getInfo(){
     }
     request.send(ids)
 }
-    
+
 function handleGetInfo(req) {
   if( req.readyState !== XMLHttpRequest.DONE )
     return;
@@ -60,16 +60,16 @@ function handleGetInfo(req) {
     buildTable(JSON.parse(req.responseText));
        //console.log("response")
 }
- 
-//After getting replied from server side, this function build the table    
+
+//After getting replied from server side, this function build the table
 function buildTable(response){
     console.log(response)
     response.forEach(function(bus){
       console.log(bus.phone)
     })
 }
-    
-    
+
+
 //get id and add to comparing list
 function getid(){
     checkedValue = []
@@ -81,22 +81,22 @@ function getid(){
     if (checkedValue.length > 5){
         alert("Choose at most five stores")
         return
-    } 
+    }
     //console.log(checkedValue)
     for(var i = 0; i< checkedValue.length; i++){
         var str = checkedValue[i].split('/');
         idname[str[0]] = str[1]
-    }    
+    }
         console.log(idname)
         var table = document.getElementById('table');
         for(var key in idname){
             ids.push(key)
             table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
         }
-        document.getElementById('getInfo').style.display = 'inline'  
+        document.getElementById('getInfo').style.display = 'inline'
         //console.log("key ")
         //console.log(ids)
-    //console.log(checkedValue)  
+    //console.log(checkedValue)
 }
 
 //search based on user entered information to get simple information

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "OnojjpVrKB02aualscTnmA", 
+    "business_name": "Alamo Hand Car Wash", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -117,10 +118,12 @@
       "9-5": 25, 
       "9-6": 24
     }, 
+    "total_checkin": 1831, 
     "type": "checkin"
   }, 
   {
     "business_id": "593Sg-q-RdAhtXL5WSiCqw", 
+    "business_name": "Fabulous Freddy's", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 8, 
@@ -259,10 +262,12 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 689, 
     "type": "checkin"
   }, 
   {
     "business_id": "R_r61_57_RyNpIxSx8obxw", 
+    "business_name": "Fabulous Freddy's", 
     "checkin_info": {
       "0-0": 2, 
       "0-5": 2, 
@@ -380,10 +385,12 @@
       "9-5": 9, 
       "9-6": 6
     }, 
+    "total_checkin": 557, 
     "type": "checkin"
   }, 
   {
     "business_id": "sH4ayCIBNrPnmAJNQZ3xIw", 
+    "business_name": "Windy City Wash and Wax", 
     "checkin_info": {
       "0-4": 1, 
       "1-5": 1, 
@@ -484,10 +491,12 @@
       "9-5": 6, 
       "9-6": 6
     }, 
+    "total_checkin": 525, 
     "type": "checkin"
   }, 
   {
     "business_id": "s94k9HYj-Sk9veYM4fq8Eg", 
+    "business_name": "Fabulous Freddy's Summerlin", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -605,10 +614,12 @@
       "9-5": 6, 
       "9-6": 5
     }, 
+    "total_checkin": 491, 
     "type": "checkin"
   }, 
   {
     "business_id": "v2_UrJwXRiJS9AFwdtY2fQ", 
+    "business_name": "Terrible's Chevron", 
     "checkin_info": {
       "0-1": 3, 
       "0-4": 5, 
@@ -738,10 +749,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 406, 
     "type": "checkin"
   }, 
   {
     "business_id": "duGNV-2mgDkfW3HNTRz-Sg", 
+    "business_name": "Sinclair Choice", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 3, 
@@ -850,10 +863,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 402, 
     "type": "checkin"
   }, 
   {
     "business_id": "8G5NyxxyDFPyeHVhEhD76Q", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 1, 
@@ -954,10 +969,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 294, 
     "type": "checkin"
   }, 
   {
     "business_id": "288M7tbr_TGDgjAxLQsg7g", 
+    "business_name": "Country Club Auto Spa", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 7, 
@@ -1052,10 +1069,12 @@
       "9-5": 6, 
       "9-6": 2
     }, 
+    "total_checkin": 264, 
     "type": "checkin"
   }, 
   {
     "business_id": "oA5smZcLoTasV4e2zQ0xwg", 
+    "business_name": "Regency Auto Spa", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 2, 
@@ -1116,6 +1135,7 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 252, 
     "type": "checkin"
   }
 ]

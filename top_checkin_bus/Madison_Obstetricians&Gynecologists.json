@@ -1,0 +1,16 @@
+[
+  {
+    "business_id": "wLn0vREghbwCTM5Nx_YzcQ", 
+    "business_name": "UW Health East Towne Obstetrics and Gynecology Clinic", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-1": 1, 
+      "11-0": 1, 
+      "14-1": 1, 
+      "15-2": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }
+]

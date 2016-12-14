@@ -1,6 +1,7 @@
 [
   {
     "business_id": "tABfy3fo6B0ysCKW0RcBrg", 
+    "business_name": "Under Armour", 
     "checkin_info": {
       "10-2": 1, 
       "10-4": 1, 
@@ -27,15 +28,18 @@
       "19-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "OY3ueJYXrRBu3pRD_Kx9zg", 
+    "business_name": "Pacific Fitness Equipment", 
     "checkin_info": {
       "11-5": 2, 
       "12-5": 1, 
       "18-2": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

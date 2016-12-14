@@ -1,0 +1,121 @@
+[
+  {
+    "business_id": "m4lHVO-fGOeLr8_my2zTKQ", 
+    "business_name": "Quik Pik - All Over Towing", 
+    "checkin_info": {
+      "1-5": 1, 
+      "10-0": 1, 
+      "10-5": 1, 
+      "11-3": 1, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-0": 1, 
+      "12-3": 1, 
+      "12-4": 3, 
+      "12-5": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-0": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "14-4": 1, 
+      "14-6": 2, 
+      "15-0": 1, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "16-4": 1, 
+      "17-5": 1, 
+      "19-4": 2, 
+      "21-5": 1, 
+      "23-6": 1, 
+      "3-4": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "7-5": 1, 
+      "8-3": 1, 
+      "8-6": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 38, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "osI3BT6AagWA-ravXrmK3w", 
+    "business_name": "Dean's Auto Repair", 
+    "checkin_info": {
+      "11-2": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "15-0": 1, 
+      "15-1": 1, 
+      "16-1": 2, 
+      "17-2": 1, 
+      "7-0": 1, 
+      "8-0": 1, 
+      "8-2": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0w3BMfywLZvPkkv3b6-wfg", 
+    "business_name": "Brake Masters", 
+    "checkin_info": {
+      "12-0": 1, 
+      "13-0": 1, 
+      "13-1": 2, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-0": 1, 
+      "6-1": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "NcWd10MG5WMl4kOHv3iDsw", 
+    "business_name": "Cathedral Automotive", 
+    "checkin_info": {
+      "12-1": 1, 
+      "13-4": 1, 
+      "15-0": 1, 
+      "15-2": 1, 
+      "16-3": 1, 
+      "7-4": 1, 
+      "8-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "lUcvIe04QulDOTFhP4mkZA", 
+    "business_name": "Carmel Automotive", 
+    "checkin_info": {
+      "10-4": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "16-6": 1, 
+      "18-6": 1, 
+      "19-6": 1, 
+      "7-0": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8rNmRP84P1vfrRqNwQDONg", 
+    "business_name": "Brad's Deer Valley Collision", 
+    "checkin_info": {
+      "12-1": 1, 
+      "15-0": 1, 
+      "16-2": 2, 
+      "16-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

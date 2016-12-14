@@ -1,6 +1,7 @@
 [
   {
     "business_id": "3AoCAj24yffBkl1vh9lkuQ", 
+    "business_name": "Eco-Tint", 
     "checkin_info": {
       "0-2": 2, 
       "0-3": 1, 
@@ -122,10 +123,12 @@
       "9-4": 18, 
       "9-5": 2
     }, 
+    "total_checkin": 1003, 
     "type": "checkin"
   }, 
   {
     "business_id": "7UzV8nbk1Atz9NVASJfR0g", 
+    "business_name": "Shelby American", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 3, 
@@ -179,10 +182,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 148, 
     "type": "checkin"
   }, 
   {
     "business_id": "fMiJw4DhNes5e_i9oEclVQ", 
+    "business_name": "Uehara MotoWerks", 
     "checkin_info": {
       "10-1": 1, 
       "10-5": 5, 
@@ -223,10 +228,12 @@
       "9-3": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 82, 
     "type": "checkin"
   }, 
   {
     "business_id": "5PyWh07IYl_fxXvmFxznmA", 
+    "business_name": "R.B.O. Motorsports", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -279,10 +286,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }, 
   {
     "business_id": "a9zhhjbHAhbHsbN57QZLGA", 
+    "business_name": "Eurotek Tuning", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -328,10 +337,12 @@
       "9-3": 4, 
       "9-4": 1
     }, 
+    "total_checkin": 68, 
     "type": "checkin"
   }, 
   {
     "business_id": "HhSB3tq8CCFpB0ZQ7IXSoQ", 
+    "business_name": "Alloy Wheel Repair Specialists of Las Vegas", 
     "checkin_info": {
       "1-3": 1, 
       "10-0": 4, 
@@ -368,10 +379,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 43, 
     "type": "checkin"
   }, 
   {
     "business_id": "YRMjz0QRmbkeBLIDu0q3hQ", 
+    "business_name": "Elite Audio & Customs", 
     "checkin_info": {
       "10-3": 1, 
       "10-4": 2, 
@@ -404,10 +417,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 41, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z_vCnGvc5oVysqOa_7J0qQ", 
+    "business_name": "WC Motoring", 
     "checkin_info": {
       "0-0": 1, 
       "10-4": 2, 
@@ -431,10 +446,12 @@
       "8-1": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 31, 
     "type": "checkin"
   }, 
   {
     "business_id": "RVU-a0BrHFpo1mkphj1gTQ", 
+    "business_name": "Vegas HID", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -463,10 +480,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "MlHXmufQOYyrsz52gr82MA", 
+    "business_name": "4 Wheel Parts", 
     "checkin_info": {
       "10-0": 1, 
       "10-5": 1, 
@@ -493,6 +512,7 @@
       "9-1": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }
 ]

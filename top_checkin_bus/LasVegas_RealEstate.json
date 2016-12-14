@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7m35tScyxG7VPlpUYQe_ew", 
+    "business_name": "The Ogden", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 9, 
@@ -142,10 +143,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 455, 
     "type": "checkin"
   }, 
   {
     "business_id": "wM9kmqz_e3c8h4vWziSMTg", 
+    "business_name": "Las Vegas Property Experts", 
     "checkin_info": {
       "10-0": 20, 
       "10-1": 25, 
@@ -208,10 +211,12 @@
       "9-5": 2, 
       "9-6": 2
     }, 
+    "total_checkin": 392, 
     "type": "checkin"
   }, 
   {
     "business_id": "8ndLN2bpi_1gSjHEj0xPnQ", 
+    "business_name": "Veer Towers", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -350,10 +355,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 350, 
     "type": "checkin"
   }, 
   {
     "business_id": "zvlLy5Il6_K_ea9iGFJJ3g", 
+    "business_name": "Eagle Trace Apartments", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -454,10 +461,12 @@
       "9-4": 16, 
       "9-5": 10
     }, 
+    "total_checkin": 277, 
     "type": "checkin"
   }, 
   {
     "business_id": "AqwvweUQO-Gsw0U9d7rItw", 
+    "business_name": "One Las Vegas", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -583,10 +592,12 @@
       "9-5": 5, 
       "9-6": 5
     }, 
+    "total_checkin": 267, 
     "type": "checkin"
   }, 
   {
     "business_id": "f7Mvvit8IaKBVY4EnPeymg", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -671,10 +682,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 245, 
     "type": "checkin"
   }, 
   {
     "business_id": "Pf8A8mlBcTs9RctMq_YA4A", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 2, 
@@ -765,10 +778,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 225, 
     "type": "checkin"
   }, 
   {
     "business_id": "m4nrS2gt6Nvc6B_bOFi5dA", 
+    "business_name": "One Las Vegas Home Owners Association", 
     "checkin_info": {
       "0-0": 2, 
       "0-4": 1, 
@@ -878,10 +893,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 209, 
     "type": "checkin"
   }, 
   {
     "business_id": "K9hebbsYqNiWodxDX76klw", 
+    "business_name": "Bank of America", 
     "checkin_info": {
       "0-4": 1, 
       "10-0": 2, 
@@ -964,10 +981,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 203, 
     "type": "checkin"
   }, 
   {
     "business_id": "1uKYFUSNsrR6_tsirqvfXA", 
+    "business_name": "Allure Las Vegas", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -1068,6 +1087,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 195, 
     "type": "checkin"
   }
 ]

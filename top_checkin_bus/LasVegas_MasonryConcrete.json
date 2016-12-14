@@ -1,6 +1,7 @@
 [
   {
     "business_id": "hc4kKR1DTdhgRl848xx03A", 
+    "business_name": "Daltile Tile & Stone Gallery", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 2, 
@@ -16,6 +17,7 @@
       "7-0": 1, 
       "7-1": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }
 ]

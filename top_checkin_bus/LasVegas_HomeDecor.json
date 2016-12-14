@@ -1,6 +1,7 @@
 [
   {
     "business_id": "NsEgU5gpkGehIt71at4FHg", 
+    "business_name": "IKEA - Las Vegas", 
     "checkin_info": {
       "0-1": 1, 
       "1-3": 1, 
@@ -108,10 +109,12 @@
       "9-5": 8, 
       "9-6": 4
     }, 
+    "total_checkin": 995, 
     "type": "checkin"
   }, 
   {
     "business_id": "E3YZww_r2SDiAKGILb6stg", 
+    "business_name": "World Market Center Las Vegas", 
     "checkin_info": {
       "0-5": 1, 
       "1-4": 1, 
@@ -229,10 +232,12 @@
       "9-5": 2, 
       "9-6": 6
     }, 
+    "total_checkin": 779, 
     "type": "checkin"
   }, 
   {
     "business_id": "vha8-1iVade3hshLU0Co4Q", 
+    "business_name": "World Market", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 10, 
@@ -325,10 +330,12 @@
       "9-5": 3, 
       "9-6": 3
     }, 
+    "total_checkin": 749, 
     "type": "checkin"
   }, 
   {
     "business_id": "M0XslBxASIwNHrAuz_xWEQ", 
+    "business_name": "Hobby Lobby", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 14, 
@@ -411,10 +418,12 @@
       "9-4": 7, 
       "9-5": 4
     }, 
+    "total_checkin": 629, 
     "type": "checkin"
   }, 
   {
     "business_id": "pMEGeVeuhL9g5PRBPckReg", 
+    "business_name": "The Container Store", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 5, 
@@ -504,10 +513,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 628, 
     "type": "checkin"
   }, 
   {
     "business_id": "1R4HcJuJdkkIUK-vKhCYkQ", 
+    "business_name": "Bed Bath & Beyond", 
     "checkin_info": {
       "0-2": 1, 
       "1-5": 1, 
@@ -607,10 +618,12 @@
       "9-5": 7, 
       "9-6": 2
     }, 
+    "total_checkin": 573, 
     "type": "checkin"
   }, 
   {
     "business_id": "-FK47t3X0ctRNSSmZeFFQA", 
+    "business_name": "Cost Plus World Market", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 2, 
@@ -701,10 +714,12 @@
       "9-3": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 495, 
     "type": "checkin"
   }, 
   {
     "business_id": "2rjoSIEy49ED0tBqp7_Dpw", 
+    "business_name": "Urban Outfitters", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -812,10 +827,12 @@
       "9-1": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 445, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZAOewCgSTREze7QcN5Bp3w", 
+    "business_name": "HomeGoods", 
     "checkin_info": {
       "0-4": 1, 
       "1-4": 1, 
@@ -906,10 +923,12 @@
       "9-4": 1, 
       "9-5": 5
     }, 
+    "total_checkin": 417, 
     "type": "checkin"
   }, 
   {
     "business_id": "9GvqBPlSZShXgOFGZdjeKw", 
+    "business_name": "Ross Dress for Less", 
     "checkin_info": {
       "0-2": 1, 
       "1-0": 1, 
@@ -1009,6 +1028,7 @@
       "9-4": 3, 
       "9-5": 4
     }, 
+    "total_checkin": 414, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "6rijZ1qIjiq1Dgdy35iqxw", 
+    "business_name": "Camelback Mountain", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 1, 
@@ -149,10 +150,12 @@
       "9-5": 62, 
       "9-6": 52
     }, 
+    "total_checkin": 2664, 
     "type": "checkin"
   }, 
   {
     "business_id": "vZBYSQtTbY9MaYu5qNuU8Q", 
+    "business_name": "Piestewa Peak", 
     "checkin_info": {
       "0-2": 1, 
       "10-0": 15, 
@@ -275,10 +278,12 @@
       "9-5": 37, 
       "9-6": 27
     }, 
+    "total_checkin": 1293, 
     "type": "checkin"
   }, 
   {
     "business_id": "5NX11DxY6TB07_b0oDfkJA", 
+    "business_name": "Phoenix Mountains Preserve", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -398,10 +403,12 @@
       "9-5": 19, 
       "9-6": 27
     }, 
+    "total_checkin": 900, 
     "type": "checkin"
   }, 
   {
     "business_id": "pv2wNgP_j08nncFMWn-v_A", 
+    "business_name": "Papago Park - West Park Trailhead", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 2, 
@@ -515,10 +522,12 @@
       "9-5": 13, 
       "9-6": 7
     }, 
+    "total_checkin": 593, 
     "type": "checkin"
   }, 
   {
     "business_id": "_lanRtzQGRkbhd2b6pQleQ", 
+    "business_name": "Papago Park", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 8, 
@@ -637,10 +646,12 @@
       "9-5": 12, 
       "9-6": 11
     }, 
+    "total_checkin": 569, 
     "type": "checkin"
   }, 
   {
     "business_id": "NXsw4z0AtaILgS4-UxSWUg", 
+    "business_name": "Hole-in-the-Rock", 
     "checkin_info": {
       "0-6": 1, 
       "1-5": 1, 
@@ -747,10 +758,12 @@
       "9-5": 4, 
       "9-6": 10
     }, 
+    "total_checkin": 366, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZngK9Tek56lbXTZZCbJPIg", 
+    "business_name": "Sonoran Preserve", 
     "checkin_info": {
       "1-5": 1, 
       "10-1": 1, 
@@ -802,10 +815,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 128, 
     "type": "checkin"
   }, 
   {
     "business_id": "L1ljYRhwTN4-2bJ3HUBzgw", 
+    "business_name": "Murphy Bridle Path", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -878,10 +893,12 @@
       "9-5": 4, 
       "9-6": 1
     }, 
+    "total_checkin": 124, 
     "type": "checkin"
   }, 
   {
     "business_id": "aivoqj1pbWnLR407ncHa7w", 
+    "business_name": "Apache Wash Trailhead", 
     "checkin_info": {
       "1-5": 1, 
       "11-5": 4, 
@@ -907,10 +924,12 @@
       "8-6": 4, 
       "9-3": 1
     }, 
+    "total_checkin": 52, 
     "type": "checkin"
   }, 
   {
     "business_id": "Lr_zpkKpOVCiBMcEt7qBsw", 
+    "business_name": "Reach 11 Recreation Area", 
     "checkin_info": {
       "0-2": 2, 
       "10-5": 1, 
@@ -948,6 +967,7 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 47, 
     "type": "checkin"
   }
 ]

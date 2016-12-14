@@ -1,6 +1,7 @@
 [
   {
     "business_id": "UEEuS9C0k2VxdXj4LI-BMg", 
+    "business_name": "Smith's", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 3, 
@@ -159,10 +160,12 @@
       "9-5": 20, 
       "9-6": 32
     }, 
+    "total_checkin": 2073, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z_etWN1CFQY1aslGbU6p6Q", 
+    "business_name": "Walmart Supercenter", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 8, 
@@ -324,10 +327,12 @@
       "9-5": 12, 
       "9-6": 12
     }, 
+    "total_checkin": 1600, 
     "type": "checkin"
   }, 
   {
     "business_id": "N_w1xxQkAjUZwZv9OOJ_AA", 
+    "business_name": "Smith's Food & Drug Centers", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 3, 
@@ -486,10 +491,12 @@
       "9-5": 5, 
       "9-6": 9
     }, 
+    "total_checkin": 1208, 
     "type": "checkin"
   }, 
   {
     "business_id": "rj1IjGqLyVkIc5avzSL99w", 
+    "business_name": "Walmart Supercenter", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 3, 
@@ -646,10 +653,12 @@
       "9-5": 10, 
       "9-6": 7
     }, 
+    "total_checkin": 1198, 
     "type": "checkin"
   }, 
   {
     "business_id": "cnvdbnfyINH40fprm9izqA", 
+    "business_name": "Albertsons", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 3, 
@@ -798,10 +807,12 @@
       "9-5": 8, 
       "9-6": 6
     }, 
+    "total_checkin": 1076, 
     "type": "checkin"
   }, 
   {
     "business_id": "_Ys7HrRxTy2ABaRig2jJcw", 
+    "business_name": "Albertsons", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -935,10 +946,12 @@
       "9-5": 21, 
       "9-6": 5
     }, 
+    "total_checkin": 1000, 
     "type": "checkin"
   }, 
   {
     "business_id": "JRldk1PR3yP5dE34SjxX3g", 
+    "business_name": "Sam's Club", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -1042,10 +1055,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 880, 
     "type": "checkin"
   }, 
   {
     "business_id": "xZn4xgGPOZ9So9RI_dRcsA", 
+    "business_name": "Smith's ", 
     "checkin_info": {
       "0-1": 3, 
       "0-2": 1, 
@@ -1192,10 +1207,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 750, 
     "type": "checkin"
   }, 
   {
     "business_id": "61znmxVpxUROmB-c9v1Vcw", 
+    "business_name": "Walgreens", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 3, 
@@ -1346,10 +1363,12 @@
       "9-5": 5, 
       "9-6": 9
     }, 
+    "total_checkin": 695, 
     "type": "checkin"
   }, 
   {
     "business_id": "wpUhxNougI56EpVp5zutfw", 
+    "business_name": "Smith's", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 5, 
@@ -1484,6 +1503,7 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 656, 
     "type": "checkin"
   }
 ]

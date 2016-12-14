@@ -1,6 +1,7 @@
 [
   {
     "business_id": "C0YyL4dcH3EkgWK3y1leFg", 
+    "business_name": "Dee For Dentist", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 2, 
@@ -40,10 +41,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 83, 
     "type": "checkin"
   }, 
   {
     "business_id": "1sbDw900kkVpIJayz1C7ZQ", 
+    "business_name": "Comfort Dental Of Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -80,10 +83,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 46, 
     "type": "checkin"
   }, 
   {
     "business_id": "jjP2rSZBFC_lTff6Ua4CYg", 
+    "business_name": "Eastwind Dental", 
     "checkin_info": {
       "10-0": 1, 
       "10-5": 1, 
@@ -104,10 +109,12 @@
       "9-3": 3, 
       "9-5": 9
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "koD2bHAUm6Sp7y3VW7vMCw", 
+    "business_name": "Red Rock Dental", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -130,10 +137,12 @@
       "8-4": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "DamyQ4zquEvVytJt0h4IIw", 
+    "business_name": "Lakeview Dental", 
     "checkin_info": {
       "10-0": 3, 
       "11-2": 1, 
@@ -155,10 +164,12 @@
       "8-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "29pyMGs__3W26UrPfNyiSw", 
+    "business_name": "Desert Breeze Dental", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -175,10 +186,12 @@
       "8-1": 2, 
       "8-2": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "4d-baEGXywg4-HfBwCRcmw", 
+    "business_name": "StoneWater Dentistry", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -196,10 +209,12 @@
       "9-3": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }, 
   {
     "business_id": "WeKrR6MyiY0dfVcjIv-_DQ", 
+    "business_name": "David C Fife, DDS", 
     "checkin_info": {
       "10-0": 2, 
       "11-0": 1, 
@@ -215,10 +230,12 @@
       "7-2": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 17, 
     "type": "checkin"
   }, 
   {
     "business_id": "LduLjq-Q6p-7Ej_qTzrNHA", 
+    "business_name": "Sunset Professional Dental", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -232,10 +249,12 @@
       "9-1": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "mlxNnEGXYh6wkNPWqhdLrA", 
+    "business_name": "Endodontics of Las Vegas", 
     "checkin_info": {
       "12-4": 1, 
       "13-2": 1, 
@@ -247,6 +266,7 @@
       "8-1": 3, 
       "9-3": 1
     }, 
+    "total_checkin": 11, 
     "type": "checkin"
   }
 ]

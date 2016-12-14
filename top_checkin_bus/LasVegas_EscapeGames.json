@@ -1,6 +1,7 @@
 [
   {
     "business_id": "nln616F_HM2TXj9wuuCFXw", 
+    "business_name": "Countdown Live Escape Games", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 3, 
@@ -98,10 +99,12 @@
       "9-0": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 804, 
     "type": "checkin"
   }, 
   {
     "business_id": "FRy0LqcD2jKIG1XHjB1pUA", 
+    "business_name": "Live Game Escape", 
     "checkin_info": {
       "1-6": 1, 
       "11-3": 1, 
@@ -158,10 +161,12 @@
       "23-6": 2, 
       "3-0": 1
     }, 
+    "total_checkin": 125, 
     "type": "checkin"
   }, 
   {
     "business_id": "2xxcjNUe-KkmXiCGGtZhfQ", 
+    "business_name": "Combat Zone Paintball & the Zombie Apocalypse Experience", 
     "checkin_info": {
       "10-5": 3, 
       "11-5": 4, 
@@ -197,10 +202,12 @@
       "8-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 78, 
     "type": "checkin"
   }, 
   {
     "business_id": "FcOiDc26hujisjOQ_Qlmzg", 
+    "business_name": "Live Escape Adventure", 
     "checkin_info": {
       "11-5": 1, 
       "13-3": 1, 
@@ -224,10 +231,12 @@
       "21-6": 1, 
       "22-0": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "TxZtyvspEjJNWpPxGQa-Cg", 
+    "business_name": "Escape or Die", 
     "checkin_info": {
       "15-1": 1, 
       "15-5": 1, 
@@ -252,10 +261,12 @@
       "23-1": 1, 
       "3-1": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "MnG7i6X_i6F0-wxqQfACgg", 
+    "business_name": "Xtreme Escape", 
     "checkin_info": {
       "13-6": 1, 
       "14-5": 1, 
@@ -265,6 +276,7 @@
       "20-5": 1, 
       "22-4": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }
 ]

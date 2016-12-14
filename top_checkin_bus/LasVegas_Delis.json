@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Z6aaze-cgaYKKXlpuH9LqA", 
+    "business_name": "Glazier's Food Marketplace", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -131,10 +132,12 @@
       "9-5": 29, 
       "9-6": 25
     }, 
+    "total_checkin": 3072, 
     "type": "checkin"
   }, 
   {
     "business_id": "pQSkGB3HIunzNn_vIRWUNQ", 
+    "business_name": "The Bagel Cafe", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -249,10 +252,12 @@
       "9-5": 66, 
       "9-6": 52
     }, 
+    "total_checkin": 2333, 
     "type": "checkin"
   }, 
   {
     "business_id": "J4qLz0nGzCTMf6-kf_SiQg", 
+    "business_name": "Carnegie", 
     "checkin_info": {
       "0-0": 15, 
       "0-1": 8, 
@@ -416,10 +421,12 @@
       "9-5": 10, 
       "9-6": 12
     }, 
+    "total_checkin": 1581, 
     "type": "checkin"
   }, 
   {
     "business_id": "ravINrZil-a_nAl95-KjDQ", 
+    "business_name": "Cugino's Italian Deli & Pizza", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 5, 
@@ -511,10 +518,12 @@
       "9-2": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1158, 
     "type": "checkin"
   }, 
   {
     "business_id": "cmhI53vn0vg_OvzHRP87Iw", 
+    "business_name": "Jason's Deli", 
     "checkin_info": {
       "10-1": 10, 
       "10-2": 5, 
@@ -603,10 +612,12 @@
       "9-0": 2, 
       "9-2": 1
     }, 
+    "total_checkin": 907, 
     "type": "checkin"
   }, 
   {
     "business_id": "UqUSbnNUael8_ihzI-EIAw", 
+    "business_name": "Jason's Deli", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -691,10 +702,12 @@
       "22-6": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 701, 
     "type": "checkin"
   }, 
   {
     "business_id": "WZHIYPqGPaPQW97GNrkqjQ", 
+    "business_name": "Jason's Deli", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -782,10 +795,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 673, 
     "type": "checkin"
   }, 
   {
     "business_id": "v3AbHiJ71gYEJ_PcX7KmCw", 
+    "business_name": "Beach Hut Deli", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 3, 
@@ -860,10 +875,12 @@
       "23-5": 1, 
       "3-5": 1
     }, 
+    "total_checkin": 628, 
     "type": "checkin"
   }, 
   {
     "business_id": "DnkoH96JRzX9udAPLHBbIQ", 
+    "business_name": "Spaghetty Western", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -954,10 +971,12 @@
       "7-1": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 626, 
     "type": "checkin"
   }, 
   {
     "business_id": "49_IKHVVBDkcABcUiMm4rQ", 
+    "business_name": "The Sandwich Spot", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -1029,6 +1048,7 @@
       "22-3": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 606, 
     "type": "checkin"
   }
 ]

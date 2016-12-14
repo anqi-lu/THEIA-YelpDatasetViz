@@ -1,6 +1,7 @@
 [
   {
     "business_id": "05fTEsjUPVo5jks8PpNKCQ", 
+    "business_name": "Rollin Smoke Barbeque", 
     "checkin_info": {
       "0-5": 5, 
       "0-6": 15, 
@@ -118,10 +119,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 4641, 
     "type": "checkin"
   }, 
   {
     "business_id": "G6mZKMiDqHDgH92IOg9QhQ", 
+    "business_name": "Soyo Korean Barstaurant", 
     "checkin_info": {
       "0-0": 25, 
       "0-1": 24, 
@@ -253,10 +256,12 @@
       "9-0": 1, 
       "9-1": 2
     }, 
+    "total_checkin": 4271, 
     "type": "checkin"
   }, 
   {
     "business_id": "UKKz4HdQC0aH9j5lLi4u8Q", 
+    "business_name": "Tofu Hut", 
     "checkin_info": {
       "0-0": 42, 
       "0-1": 31, 
@@ -385,10 +390,12 @@
       "8-5": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 3537, 
     "type": "checkin"
   }, 
   {
     "business_id": "iUPJmJvHy9fVfRxsuwwdLQ", 
+    "business_name": "Gangnam Asian BBQ Dining", 
     "checkin_info": {
       "0-0": 14, 
       "0-1": 9, 
@@ -511,10 +518,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 2529, 
     "type": "checkin"
   }, 
   {
     "business_id": "P8DQlNd4ZVCtxFsH_QARFQ", 
+    "business_name": "Asian BBQ & Noodles", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -615,10 +624,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 2246, 
     "type": "checkin"
   }, 
   {
     "business_id": "vPnwX30Gn0oa4dVBL0W4Ww", 
+    "business_name": "Sura BBQ Buffet", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 2, 
@@ -738,10 +749,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 2014, 
     "type": "checkin"
   }, 
   {
     "business_id": "xWSEfwA6L39xWTMUlWWcBA", 
+    "business_name": "Lucille's Smokehouse Bar-B-Que", 
     "checkin_info": {
       "0-5": 1, 
       "0-6": 1, 
@@ -841,10 +854,12 @@
       "8-6": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 1739, 
     "type": "checkin"
   }, 
   {
     "business_id": "5mMk3Ted-EOyHvJ-j9BhiQ", 
+    "business_name": "Gyu-Kaku Japanese BBQ", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 5, 
@@ -953,10 +968,12 @@
       "23-6": 12, 
       "9-6": 1
     }, 
+    "total_checkin": 1441, 
     "type": "checkin"
   }, 
   {
     "business_id": "CWrgzV8iLhV5kRVcOgjsuw", 
+    "business_name": "Viet Noodle Bar", 
     "checkin_info": {
       "0-0": 10, 
       "0-1": 2, 
@@ -1084,10 +1101,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 1295, 
     "type": "checkin"
   }, 
   {
     "business_id": "lAher1puKzN9r3LALx-JqQ", 
+    "business_name": "John Mull's Meats & Road Kill Grill", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 8, 
@@ -1168,6 +1187,7 @@
       "9-4": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 1156, 
     "type": "checkin"
   }
 ]

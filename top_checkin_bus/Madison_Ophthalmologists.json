@@ -1,0 +1,16 @@
+[
+  {
+    "business_id": "ggUi2hAXbCRph285lcritw", 
+    "business_name": "America's Best Contacts & Eyeglasses", 
+    "checkin_info": {
+      "13-0": 1, 
+      "14-0": 1, 
+      "14-4": 1, 
+      "15-1": 1, 
+      "16-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

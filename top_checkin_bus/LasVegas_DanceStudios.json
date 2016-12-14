@@ -1,6 +1,7 @@
 [
   {
     "business_id": "gOaq0nNIvOG_JDtlJvbmMg", 
+    "business_name": "DISTRCT", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -86,10 +87,12 @@
       "23-4": 3, 
       "23-6": 3
     }, 
+    "total_checkin": 415, 
     "type": "checkin"
   }, 
   {
     "business_id": "X1kpawmKUuB8McxeYH2YTA", 
+    "business_name": "Pole Fitness Studio", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 1, 
@@ -185,10 +188,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 364, 
     "type": "checkin"
   }, 
   {
     "business_id": "E_NKYEOhR-RR_Xqx9kMChQ", 
+    "business_name": "The Z Spot LV", 
     "checkin_info": {
       "10-3": 2, 
       "10-4": 1, 
@@ -238,10 +243,12 @@
       "9-4": 6, 
       "9-5": 12
     }, 
+    "total_checkin": 346, 
     "type": "checkin"
   }, 
   {
     "business_id": "gbyfI_qUI7soClnUhpiNoQ", 
+    "business_name": "Shine Alternative Fitness", 
     "checkin_info": {
       "0-1": 1, 
       "1-4": 1, 
@@ -321,10 +328,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 289, 
     "type": "checkin"
   }, 
   {
     "business_id": "xYGwkujjNq9j94LBxc3niA", 
+    "business_name": "Studio One's - Southwest Dance Academy", 
     "checkin_info": {
       "1-2": 1, 
       "10-0": 4, 
@@ -361,10 +370,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 136, 
     "type": "checkin"
   }, 
   {
     "business_id": "TgxU0hY8KQiWZHDkL1Ov3g", 
+    "business_name": "Desert Gymcats Gymnastics & Dance", 
     "checkin_info": {
       "10-1": 3, 
       "10-3": 12, 
@@ -412,10 +423,12 @@
       "9-4": 1, 
       "9-5": 2
     }, 
+    "total_checkin": 131, 
     "type": "checkin"
   }, 
   {
     "business_id": "Nd1oyQeeIr-mmhJarn6_-A", 
+    "business_name": "The Pilates Studio", 
     "checkin_info": {
       "10-0": 9, 
       "10-1": 9, 
@@ -448,10 +461,12 @@
       "9-3": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 102, 
     "type": "checkin"
   }, 
   {
     "business_id": "2CvO2O0vSt627NFNkvDFZQ", 
+    "business_name": "Distrct Arts", 
     "checkin_info": {
       "10-5": 34, 
       "11-5": 30, 
@@ -468,10 +483,12 @@
       "7-6": 1, 
       "9-5": 8
     }, 
+    "total_checkin": 94, 
     "type": "checkin"
   }, 
   {
     "business_id": "1aVoTMfh1UNQCJ0uZ4Ki0g", 
+    "business_name": "Polecats Aerial Fitness", 
     "checkin_info": {
       "1-4": 1, 
       "10-0": 1, 
@@ -521,10 +538,12 @@
       "9-2": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 89, 
     "type": "checkin"
   }, 
   {
     "business_id": "NC0H4gwi62vsnv_Kzgn4Rw", 
+    "business_name": "The Rock Center For Dance", 
     "checkin_info": {
       "0-5": 1, 
       "10-1": 1, 
@@ -561,6 +580,7 @@
       "20-2": 5, 
       "20-3": 1
     }, 
+    "total_checkin": 57, 
     "type": "checkin"
   }
 ]

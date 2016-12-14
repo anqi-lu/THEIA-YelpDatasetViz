@@ -1,6 +1,7 @@
 [
   {
     "business_id": "6rijZ1qIjiq1Dgdy35iqxw", 
+    "business_name": "Camelback Mountain", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 1, 
@@ -149,6 +150,7 @@
       "9-5": 62, 
       "9-6": 52
     }, 
+    "total_checkin": 2664, 
     "type": "checkin"
   }
 ]

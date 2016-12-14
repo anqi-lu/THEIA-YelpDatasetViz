@@ -1,6 +1,7 @@
 [
   {
     "business_id": "YEaCNq-Vl5gENqYmEf-lvg", 
+    "business_name": "Sam's Club", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 12, 
@@ -109,10 +110,12 @@
       "9-5": 20, 
       "9-6": 12
     }, 
+    "total_checkin": 2142, 
     "type": "checkin"
   }, 
   {
     "business_id": "OnojjpVrKB02aualscTnmA", 
+    "business_name": "Alamo Hand Car Wash", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -229,10 +232,12 @@
       "9-5": 25, 
       "9-6": 24
     }, 
+    "total_checkin": 1831, 
     "type": "checkin"
   }, 
   {
     "business_id": "BvFjNmTvz4xf9IQ3ANfz1g", 
+    "business_name": "Hondatronics", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 1, 
@@ -329,10 +334,12 @@
       "9-5": 18, 
       "9-6": 2
     }, 
+    "total_checkin": 1604, 
     "type": "checkin"
   }, 
   {
     "business_id": "zsAlOIoPCdVZO2kVAb5YJw", 
+    "business_name": "USA Auto Service", 
     "checkin_info": {
       "0-0": 1, 
       "0-3": 1, 
@@ -444,10 +451,12 @@
       "9-5": 22, 
       "9-6": 1
     }, 
+    "total_checkin": 1237, 
     "type": "checkin"
   }, 
   {
     "business_id": "3AoCAj24yffBkl1vh9lkuQ", 
+    "business_name": "Eco-Tint", 
     "checkin_info": {
       "0-2": 2, 
       "0-3": 1, 
@@ -569,10 +578,12 @@
       "9-4": 18, 
       "9-5": 2
     }, 
+    "total_checkin": 1003, 
     "type": "checkin"
   }, 
   {
     "business_id": "Et15E65kUwYbVNYwiaTXeg", 
+    "business_name": "EcoWash Automotive Center", 
     "checkin_info": {
       "1-5": 1, 
       "10-0": 5, 
@@ -663,10 +674,12 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 971, 
     "type": "checkin"
   }, 
   {
     "business_id": "JRldk1PR3yP5dE34SjxX3g", 
+    "business_name": "Sam's Club", 
     "checkin_info": {
       "10-0": 5, 
       "10-1": 4, 
@@ -770,10 +783,12 @@
       "9-5": 4, 
       "9-6": 5
     }, 
+    "total_checkin": 880, 
     "type": "checkin"
   }, 
   {
     "business_id": "m6zg9JRUZ-TMsSCT6IA9Uw", 
+    "business_name": "Costco Gas", 
     "checkin_info": {
       "10-0": 10, 
       "10-1": 6, 
@@ -888,10 +903,12 @@
       "9-5": 6, 
       "9-6": 3
     }, 
+    "total_checkin": 845, 
     "type": "checkin"
   }, 
   {
     "business_id": "Fk1ibRUPn67NHkxtVZUQ3Q", 
+    "business_name": "Terrible Herbst", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 3, 
@@ -1041,10 +1058,12 @@
       "9-5": 8, 
       "9-6": 7
     }, 
+    "total_checkin": 696, 
     "type": "checkin"
   }, 
   {
     "business_id": "593Sg-q-RdAhtXL5WSiCqw", 
+    "business_name": "Fabulous Freddy's", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 8, 
@@ -1183,6 +1202,7 @@
       "9-5": 5, 
       "9-6": 8
     }, 
+    "total_checkin": 689, 
     "type": "checkin"
   }
 ]

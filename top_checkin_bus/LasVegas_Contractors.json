@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Gdj2agvw6jASwG8aVgSBEQ", 
+    "business_name": "Angel Park Golf Club", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 4, 
@@ -96,10 +97,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 220, 
     "type": "checkin"
   }, 
   {
     "business_id": "yyyxV0b2wgaQ9fGWZhG4HA", 
+    "business_name": "KB Home", 
     "checkin_info": {
       "0-2": 1, 
       "10-4": 2, 
@@ -143,10 +146,12 @@
       "8-5": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 127, 
     "type": "checkin"
   }, 
   {
     "business_id": "3uLj65G-QnXWLTDzcRztAA", 
+    "business_name": "Everything Medical", 
     "checkin_info": {
       "10-2": 1, 
       "11-3": 1, 
@@ -163,10 +168,12 @@
       "18-2": 1, 
       "8-2": 1
     }, 
+    "total_checkin": 15, 
     "type": "checkin"
   }, 
   {
     "business_id": "hc4kKR1DTdhgRl848xx03A", 
+    "business_name": "Daltile Tile & Stone Gallery", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 2, 
@@ -182,10 +189,12 @@
       "7-0": 1, 
       "7-1": 1
     }, 
+    "total_checkin": 14, 
     "type": "checkin"
   }, 
   {
     "business_id": "B9Ceiwb2tlTFCkS8wwcpUQ", 
+    "business_name": "Freedom Medical Supply", 
     "checkin_info": {
       "11-1": 1, 
       "12-0": 1, 
@@ -195,10 +204,12 @@
       "14-2": 1, 
       "15-2": 2
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }, 
   {
     "business_id": "oAGtsQawOePatKmwu6isqw", 
+    "business_name": "Ryland Homes", 
     "checkin_info": {
       "10-3": 1, 
       "10-6": 1, 
@@ -207,10 +218,12 @@
       "17-6": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "nlPPrxpN5TkcAF_yBrKmjw", 
+    "business_name": "Paddock Pools Patios & Spas", 
     "checkin_info": {
       "13-5": 1, 
       "14-0": 1, 
@@ -219,10 +232,12 @@
       "16-5": 1, 
       "16-6": 2
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "NF4aM19uNOjlNle5W0-ryw", 
+    "business_name": "Heritage Distribution", 
     "checkin_info": {
       "11-3": 1, 
       "12-1": 1, 
@@ -230,25 +245,30 @@
       "13-0": 1, 
       "15-3": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "_dpt7OXsje7AS10bJE9FiQ", 
+    "business_name": "Superior Moulding of NV", 
     "checkin_info": {
       "11-3": 1, 
       "12-5": 2, 
       "9-0": 2
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "16wAp_QfyFForvdXTbz6_g", 
+    "business_name": "Kitchenland", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
       "13-4": 1, 
       "9-0": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

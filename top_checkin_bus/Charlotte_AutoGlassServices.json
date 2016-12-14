@@ -1,0 +1,103 @@
+[
+  {
+    "business_id": "byiPl9aEEIZTOSlZLR4J0A", 
+    "business_name": "Exclusive Detail And Tint", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-1": 1, 
+      "10-2": 1, 
+      "10-5": 2, 
+      "11-2": 3, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-0": 1, 
+      "12-4": 2, 
+      "12-5": 1, 
+      "12-6": 1, 
+      "13-0": 1, 
+      "13-2": 2, 
+      "13-4": 1, 
+      "14-0": 1, 
+      "14-3": 1, 
+      "14-4": 1, 
+      "16-6": 1, 
+      "18-1": 1, 
+      "19-0": 1, 
+      "20-3": 1, 
+      "21-4": 1, 
+      "5-0": 1, 
+      "6-0": 1, 
+      "6-3": 2, 
+      "6-5": 2, 
+      "6-6": 2, 
+      "7-0": 1, 
+      "7-3": 1, 
+      "7-4": 2, 
+      "8-1": 2, 
+      "8-4": 1, 
+      "8-5": 1, 
+      "8-6": 1, 
+      "9-2": 2, 
+      "9-3": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 49, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "fY8AewZ3dG_ce8zV_-2CKQ", 
+    "business_name": "Safelite AutoGlass", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-5": 1, 
+      "12-4": 1, 
+      "4-1": 1, 
+      "5-0": 1, 
+      "5-5": 2, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "KzsySJsAnSurSa7hFJoR3A", 
+    "business_name": "Car Stereo Warehouse", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "13-2": 1, 
+      "6-3": 1, 
+      "8-1": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "L-ZC33aMq0EGZYWnLVZvJQ", 
+    "business_name": "Autoshield Carolina's", 
+    "checkin_info": {
+      "10-3": 1, 
+      "12-4": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "R9GMjOovvPgfWzMwLZx9IQ", 
+    "business_name": "Glass Masters", 
+    "checkin_info": {
+      "15-1": 1, 
+      "8-1": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

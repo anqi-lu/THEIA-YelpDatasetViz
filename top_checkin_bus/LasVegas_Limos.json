@@ -1,6 +1,7 @@
 [
   {
     "business_id": "RFsWWnnwcgSH9dIWk2VxwA", 
+    "business_name": "AWG Ambassador", 
     "checkin_info": {
       "0-2": 2, 
       "0-4": 3, 
@@ -100,10 +101,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 231, 
     "type": "checkin"
   }, 
   {
     "business_id": "upmnxJvYe5aOYE9wVNkGaw", 
+    "business_name": "Presidential Limousine", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 1, 
@@ -160,10 +163,12 @@
       "9-1": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 104, 
     "type": "checkin"
   }, 
   {
     "business_id": "uE8UZzb8xMMULary5sXHpQ", 
+    "business_name": "Bell Trans", 
     "checkin_info": {
       "0-4": 1, 
       "10-1": 1, 
@@ -231,10 +236,12 @@
       "9-3": 3, 
       "9-5": 2
     }, 
+    "total_checkin": 80, 
     "type": "checkin"
   }, 
   {
     "business_id": "kTbWwRo7wq0DU1KV5GbtTw", 
+    "business_name": "Executive Las Vegas", 
     "checkin_info": {
       "0-4": 1, 
       "1-0": 1, 
@@ -295,10 +302,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 79, 
     "type": "checkin"
   }, 
   {
     "business_id": "CVeDENXUaeQBzTgbV7LNqQ", 
+    "business_name": "CLS Las Vegas", 
     "checkin_info": {
       "0-1": 1, 
       "1-1": 1, 
@@ -321,10 +330,12 @@
       "9-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "Tkf5aRlNXMj_W6qC-I77GQ", 
+    "business_name": "Vegas Party VIP", 
     "checkin_info": {
       "1-2": 1, 
       "10-4": 1, 
@@ -343,10 +354,12 @@
       "23-5": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 16, 
     "type": "checkin"
   }, 
   {
     "business_id": "7QCq225G7zAKKLV5zW-Hcg", 
+    "business_name": "Elite Transportation", 
     "checkin_info": {
       "17-1": 1, 
       "18-1": 1, 
@@ -356,10 +369,12 @@
       "21-6": 1, 
       "22-5": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "0eAWwbhRgafrCyhYFjqk2g", 
+    "business_name": "Las Vegas Limousines", 
     "checkin_info": {
       "12-4": 1, 
       "15-2": 1, 
@@ -368,10 +383,12 @@
       "8-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 6, 
     "type": "checkin"
   }, 
   {
     "business_id": "EJYN8w6w1CKqjY7hahxOhw", 
+    "business_name": "Vegas Western Cab Company", 
     "checkin_info": {
       "15-5": 1, 
       "16-2": 1, 
@@ -379,10 +396,12 @@
       "17-5": 1, 
       "20-2": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZPWIDeFoHgOswoVBKxb4WA", 
+    "business_name": "Exotic Limousines", 
     "checkin_info": {
       "10-6": 1, 
       "11-1": 1, 
@@ -390,6 +409,7 @@
       "19-4": 1, 
       "22-6": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }
 ]

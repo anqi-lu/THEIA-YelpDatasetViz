@@ -1,0 +1,80 @@
+[
+  {
+    "business_id": "J8Na1UuscNLsumIVh0YS8A", 
+    "business_name": "Sadu Body Piercing & Modifications", 
+    "checkin_info": {
+      "10-0": 3, 
+      "10-1": 1, 
+      "10-6": 1, 
+      "11-0": 2, 
+      "11-3": 1, 
+      "11-4": 2, 
+      "11-5": 2, 
+      "11-6": 1, 
+      "12-1": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "13-1": 1, 
+      "13-3": 2, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-0": 1, 
+      "14-2": 2, 
+      "14-4": 1, 
+      "14-6": 2, 
+      "15-2": 1, 
+      "15-5": 2, 
+      "16-3": 1, 
+      "17-5": 1, 
+      "18-1": 1, 
+      "8-2": 1, 
+      "8-3": 2, 
+      "9-2": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 38, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0Eh6q49wrnauMtMmxuV_Gw", 
+    "business_name": "Crown Tattooing Studios", 
+    "checkin_info": {
+      "10-2": 1, 
+      "12-5": 1, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "16-2": 2, 
+      "17-2": 1, 
+      "6-2": 1, 
+      "8-2": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Kbddms_bXXHaB8CS1X1mSQ", 
+    "business_name": "Tattooing U", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-5": 1, 
+      "12-6": 1, 
+      "13-5": 1, 
+      "14-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "UAcB3masKGJaSCtcu40wyw", 
+    "business_name": "Green Light Tattoo", 
+    "checkin_info": {
+      "13-5": 1, 
+      "17-1": 1, 
+      "18-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

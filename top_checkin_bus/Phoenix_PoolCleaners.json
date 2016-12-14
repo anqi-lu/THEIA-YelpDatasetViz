@@ -1,6 +1,7 @@
 [
   {
     "business_id": "2iylkYp5GCJhLI8Jhu450w", 
+    "business_name": "Ever-Klear Pool Supply, Inc", 
     "checkin_info": {
       "11-5": 2, 
       "11-6": 1, 
@@ -13,10 +14,12 @@
       "8-5": 1, 
       "9-2": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "xsyIKrKNsmcOMsBipNlO5A", 
+    "business_name": "Checker Pool & Pump Supply", 
     "checkin_info": {
       "10-6": 1, 
       "11-5": 1, 
@@ -30,10 +33,12 @@
       "7-3": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }, 
   {
     "business_id": "U5nRjHQTiiJ0SJE5BGrvPw", 
+    "business_name": "Emerald Pools & Spas", 
     "checkin_info": {
       "10-5": 1, 
       "10-6": 1, 
@@ -44,10 +49,12 @@
       "16-4": 2, 
       "18-4": 1
     }, 
+    "total_checkin": 10, 
     "type": "checkin"
   }, 
   {
     "business_id": "uD8VCvvLhJeAFA9kTX2yKg", 
+    "business_name": "B & L Pool Supplies", 
     "checkin_info": {
       "10-6": 1, 
       "11-6": 1, 
@@ -58,10 +65,12 @@
       "19-0": 1, 
       "19-1": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }, 
   {
     "business_id": "n0x4cBqJ1H52BJQJiYiI7Q", 
+    "business_name": "B & L Pool Supply", 
     "checkin_info": {
       "10-1": 1, 
       "12-5": 1, 
@@ -72,10 +81,12 @@
       "18-2": 1, 
       "18-3": 1
     }, 
+    "total_checkin": 8, 
     "type": "checkin"
   }, 
   {
     "business_id": "IXhkUKph1SyFKGB3nwFxng", 
+    "business_name": "Arizona Pool Stuff SW", 
     "checkin_info": {
       "10-3": 1, 
       "11-3": 1, 
@@ -84,10 +95,12 @@
       "9-1": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "x9Xdu_-I_RyVCab2yCeEcw", 
+    "business_name": "B & L Pool Repair & Supply", 
     "checkin_info": {
       "10-1": 1, 
       "10-4": 1, 
@@ -97,26 +110,31 @@
       "16-0": 1, 
       "7-6": 1
     }, 
+    "total_checkin": 7, 
     "type": "checkin"
   }, 
   {
     "business_id": "s6UufmdmUBeKOQqhn4LzTg", 
+    "business_name": "Pool Shop", 
     "checkin_info": {
       "0-0": 1, 
       "12-1": 1, 
       "13-5": 2, 
       "18-0": 1
     }, 
+    "total_checkin": 5, 
     "type": "checkin"
   }, 
   {
     "business_id": "CNGrFenwRbwDzE24lKDfiw", 
+    "business_name": "B & L Pool Supply", 
     "checkin_info": {
       "10-6": 1, 
       "12-6": 1, 
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

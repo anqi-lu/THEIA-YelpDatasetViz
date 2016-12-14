@@ -1,6 +1,7 @@
 [
   {
     "business_id": "4k0xU0XJiBQjNLIO0Jjkug", 
+    "business_name": "Pure Barre", 
     "checkin_info": {
       "10-0": 6, 
       "10-1": 1, 
@@ -67,10 +68,12 @@
       "9-5": 35, 
       "9-6": 1
     }, 
+    "total_checkin": 790, 
     "type": "checkin"
   }, 
   {
     "business_id": "3l2rx67A8ZuTnFTQrl-75Q", 
+    "business_name": "Modo Yoga", 
     "checkin_info": {
       "10-0": 4, 
       "10-1": 1, 
@@ -148,10 +151,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 236, 
     "type": "checkin"
   }, 
   {
     "business_id": "0zCvIS-8sv83p35yXaBS4Q", 
+    "business_name": "Barre Fitness Studio Las Vegas", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 2, 
@@ -203,10 +208,12 @@
       "9-5": 8, 
       "9-6": 8
     }, 
+    "total_checkin": 188, 
     "type": "checkin"
   }, 
   {
     "business_id": "bNTYdjyB1dUHEFwhHWo7Ng", 
+    "business_name": "Barre Definitions", 
     "checkin_info": {
       "10-5": 3, 
       "10-6": 1, 
@@ -225,10 +232,12 @@
       "19-0": 2, 
       "19-2": 3
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "xljjbBSp52IyaKMW0F07Jg", 
+    "business_name": "Cardio Barre - Las Vegas", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -240,6 +249,7 @@
       "19-3": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 12, 
     "type": "checkin"
   }
 ]

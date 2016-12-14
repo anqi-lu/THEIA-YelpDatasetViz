@@ -1,6 +1,7 @@
 [
   {
     "business_id": "bcjTnJvhHvuksE0HFyg_Zw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 12, 
       "0-1": 10, 
@@ -171,10 +172,12 @@
       "9-5": 43, 
       "9-6": 48
     }, 
+    "total_checkin": 5232, 
     "type": "checkin"
   }, 
   {
     "business_id": "MMxGxPL4Jkhmkho9NAQbiw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 15, 
@@ -342,10 +345,12 @@
       "9-5": 30, 
       "9-6": 30
     }, 
+    "total_checkin": 3965, 
     "type": "checkin"
   }, 
   {
     "business_id": "JKlseDiOGiQ0B9BjXocW3w", 
+    "business_name": "Life Time Athletic", 
     "checkin_info": {
       "0-0": 4, 
       "0-1": 9, 
@@ -510,10 +515,12 @@
       "9-5": 75, 
       "9-6": 12
     }, 
+    "total_checkin": 3731, 
     "type": "checkin"
   }, 
   {
     "business_id": "P3TuI95fj6uf-v1puQrkGw", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 7, 
@@ -681,10 +688,12 @@
       "9-5": 52, 
       "9-6": 86
     }, 
+    "total_checkin": 2849, 
     "type": "checkin"
   }, 
   {
     "business_id": "cED3wAMpqTJKJ05ixUTgiw", 
+    "business_name": "Planet Fitness - Las Vegas - Rainbow/215 Hwy", 
     "checkin_info": {
       "0-0": 9, 
       "0-1": 23, 
@@ -849,10 +858,12 @@
       "9-5": 20, 
       "9-6": 18
     }, 
+    "total_checkin": 2729, 
     "type": "checkin"
   }, 
   {
     "business_id": "nvpCJx9OR2tp3GBXTFzVhA", 
+    "business_name": "City Athletic Club", 
     "checkin_info": {
       "0-1": 6, 
       "0-2": 3, 
@@ -994,10 +1005,12 @@
       "9-5": 34, 
       "9-6": 13
     }, 
+    "total_checkin": 2630, 
     "type": "checkin"
   }, 
   {
     "business_id": "6CzC9E8a4k007-h3YbdQSA", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 4, 
@@ -1166,10 +1179,12 @@
       "9-5": 49, 
       "9-6": 37
     }, 
+    "total_checkin": 2586, 
     "type": "checkin"
   }, 
   {
     "business_id": "QfylH0_CZaEU9UHix933Ag", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-1": 3, 
       "0-2": 1, 
@@ -1327,10 +1342,12 @@
       "9-5": 12, 
       "9-6": 7
     }, 
+    "total_checkin": 1221, 
     "type": "checkin"
   }, 
   {
     "business_id": "nMERAWmXg9XPwAfWhla7dQ", 
+    "business_name": "24 Hour Fitness", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 4, 
@@ -1490,10 +1507,12 @@
       "9-5": 6, 
       "9-6": 8
     }, 
+    "total_checkin": 890, 
     "type": "checkin"
   }, 
   {
     "business_id": "V-jb09XaZX9XXnI90aiuAQ", 
+    "business_name": "EOS Fitness - Las Vegas South", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 3, 
@@ -1647,6 +1666,7 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 815, 
     "type": "checkin"
   }
 ]

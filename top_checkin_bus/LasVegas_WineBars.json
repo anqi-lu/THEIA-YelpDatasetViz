@@ -1,6 +1,7 @@
 [
   {
     "business_id": "-k_BRFRckV7XnU76G_vK1w", 
+    "business_name": "Sweets Raku", 
     "checkin_info": {
       "0-1": 5, 
       "0-2": 3, 
@@ -99,10 +100,12 @@
       "9-2": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 2088, 
     "type": "checkin"
   }, 
   {
     "business_id": "4GQhbPvGU5r23YdVm8EmkQ", 
+    "business_name": "Ferraro's Italian Restaurant & Wine Bar", 
     "checkin_info": {
       "0-0": 11, 
       "0-1": 10, 
@@ -227,10 +230,12 @@
       "9-3": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 1413, 
     "type": "checkin"
   }, 
   {
     "business_id": "3MmHmJXr8Ltk_Z5EGE4KUw", 
+    "business_name": "Carnevino", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 3, 
@@ -346,10 +351,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 1317, 
     "type": "checkin"
   }, 
   {
     "business_id": "2f7TvlG5zcuMCHcQjxqS6A", 
+    "business_name": "Dom DeMarco's Pizzeria & Bar", 
     "checkin_info": {
       "0-0": 1, 
       "0-4": 2, 
@@ -448,10 +455,12 @@
       "7-5": 1, 
       "8-4": 1
     }, 
+    "total_checkin": 1293, 
     "type": "checkin"
   }, 
   {
     "business_id": "tXydHtnQ2sU37kXy30CBLw", 
+    "business_name": "Double Helix Wine & Whiskey Lounge", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -544,10 +553,12 @@
       "23-5": 23, 
       "23-6": 3
     }, 
+    "total_checkin": 1279, 
     "type": "checkin"
   }, 
   {
     "business_id": "lmo14ds990gtsjvURZro2g", 
+    "business_name": "Olive Garden Italian Restaurant", 
     "checkin_info": {
       "10-0": 2, 
       "11-0": 8, 
@@ -637,10 +648,12 @@
       "7-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 1112, 
     "type": "checkin"
   }, 
   {
     "business_id": "bt9J3GgjArWCTfyoa3naEw", 
+    "business_name": "Parma By Chef Marc", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -737,10 +750,12 @@
       "5-5": 1, 
       "7-6": 1
     }, 
+    "total_checkin": 1036, 
     "type": "checkin"
   }, 
   {
     "business_id": "Vq-bivbURTyPP5XqM8HR5g", 
+    "business_name": "Chada Thai & Wine", 
     "checkin_info": {
       "0-0": 8, 
       "0-1": 7, 
@@ -841,10 +856,12 @@
       "8-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 969, 
     "type": "checkin"
   }, 
   {
     "business_id": "5FLRsYrT6w2VSDvQDhphXg", 
+    "business_name": "Fiamma Trattoria & Bar", 
     "checkin_info": {
       "0-2": 2, 
       "0-5": 1, 
@@ -929,10 +946,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 904, 
     "type": "checkin"
   }, 
   {
     "business_id": "lqx--hrRwe0oK6WnFYNXlg", 
+    "business_name": "March\u00e9 Bacchus", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 1, 
@@ -1028,6 +1047,7 @@
       "9-3": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 896, 
     "type": "checkin"
   }
 ]

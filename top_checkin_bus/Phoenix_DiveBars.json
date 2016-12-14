@@ -1,6 +1,7 @@
 [
   {
     "business_id": "cqIHyZ3Q0D4vBi-vb4mi-g", 
+    "business_name": "Bikini Lounge", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 7, 
@@ -108,10 +109,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 716, 
     "type": "checkin"
   }, 
   {
     "business_id": "N_6bV3c3JagKW7sD3X9ldA", 
+    "business_name": "Original Hamburger Works", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 5, 
@@ -202,10 +205,12 @@
       "8-4": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 697, 
     "type": "checkin"
   }, 
   {
     "business_id": "mgllPJA6NQXlJurFWAkqQg", 
+    "business_name": "Swizzle Inn", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 3, 
@@ -308,10 +313,12 @@
       "8-3": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 590, 
     "type": "checkin"
   }, 
   {
     "business_id": "4vZZjr6IZAk4riT0DB8MbQ", 
+    "business_name": "Dilly Dally Lounge", 
     "checkin_info": {
       "0-1": 3, 
       "0-2": 5, 
@@ -393,10 +400,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 511, 
     "type": "checkin"
   }, 
   {
     "business_id": "gtVQ_gwug7QQ4MW72T4jxA", 
+    "business_name": "Rips Bar", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 1, 
@@ -487,10 +496,12 @@
       "8-6": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 483, 
     "type": "checkin"
   }, 
   {
     "business_id": "-xLwGUmmyKgsTtFOOXzjeg", 
+    "business_name": "Brigett's Last Laugh", 
     "checkin_info": {
       "0-0": 3, 
       "0-4": 3, 
@@ -579,10 +590,12 @@
       "9-5": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 382, 
     "type": "checkin"
   }, 
   {
     "business_id": "VC0VbRhQqvXpolK3pFuZPw", 
+    "business_name": "HB Hanratty's", 
     "checkin_info": {
       "0-0": 2, 
       "0-2": 1, 
@@ -658,10 +671,12 @@
       "23-4": 34, 
       "23-5": 21
     }, 
+    "total_checkin": 368, 
     "type": "checkin"
   }, 
   {
     "business_id": "yb17xHvhDJthJGS10uhFeQ", 
+    "business_name": "Ice House Tavern", 
     "checkin_info": {
       "0-1": 1, 
       "0-3": 2, 
@@ -739,10 +754,12 @@
       "23-5": 3, 
       "9-1": 1
     }, 
+    "total_checkin": 249, 
     "type": "checkin"
   }, 
   {
     "business_id": "p5HEHFZwbztIkpI4ItbX2w", 
+    "business_name": "Dodey's Bar", 
     "checkin_info": {
       "0-4": 2, 
       "0-5": 2, 
@@ -807,10 +824,12 @@
       "23-5": 10, 
       "23-6": 1
     }, 
+    "total_checkin": 238, 
     "type": "checkin"
   }, 
   {
     "business_id": "BXEynidJI3VSgjkuIFgZQg", 
+    "business_name": "Chopper John's", 
     "checkin_info": {
       "0-2": 1, 
       "0-3": 3, 
@@ -879,6 +898,7 @@
       "4-6": 1, 
       "7-3": 1
     }, 
+    "total_checkin": 229, 
     "type": "checkin"
   }
 ]

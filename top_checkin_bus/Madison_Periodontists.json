@@ -1,0 +1,17 @@
+[
+  {
+    "business_id": "POAeBEbCsvqKUEeZAZJHJQ", 
+    "business_name": "Dental Health Associates of Madison", 
+    "checkin_info": {
+      "14-1": 1, 
+      "15-1": 1, 
+      "5-1": 1, 
+      "5-2": 1, 
+      "6-1": 1, 
+      "7-2": 1, 
+      "8-2": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }
+]

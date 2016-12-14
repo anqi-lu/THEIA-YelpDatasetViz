@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Db75Zr2zrKyiWzVUPkG2OQ", 
+    "business_name": "Best Foot Spa", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -147,10 +148,12 @@
       "9-5": 9, 
       "9-6": 8
     }, 
+    "total_checkin": 2036, 
     "type": "checkin"
   }, 
   {
     "business_id": "9ytf0fFlRb0vB0YlFAvT3w", 
+    "business_name": "The Foot Spa", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -277,10 +280,12 @@
       "9-4": 2, 
       "9-6": 4
     }, 
+    "total_checkin": 1533, 
     "type": "checkin"
   }, 
   {
     "business_id": "dXhrxTIatUPskg7Jn12iXQ", 
+    "business_name": "Imperial Health Spa", 
     "checkin_info": {
       "0-1": 1, 
       "0-4": 1, 
@@ -397,10 +402,12 @@
       "9-5": 1, 
       "9-6": 5
     }, 
+    "total_checkin": 728, 
     "type": "checkin"
   }, 
   {
     "business_id": "dfOFgjhuEp5GdHJhVzjOAA", 
+    "business_name": "Star Foot Spa", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 2, 
@@ -514,10 +521,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 634, 
     "type": "checkin"
   }, 
   {
     "business_id": "T9V8pY5aLMM85cu9xVP3CQ", 
+    "business_name": "Happy Feet Spa", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 2, 
@@ -623,10 +632,12 @@
       "3-1": 1, 
       "8-1": 1
     }, 
+    "total_checkin": 377, 
     "type": "checkin"
   }, 
   {
     "business_id": "R_uV8xU7iQBcwg707123rA", 
+    "business_name": "Massage Envy - Boca Park", 
     "checkin_info": {
       "10-1": 2, 
       "10-5": 3, 
@@ -711,10 +722,12 @@
       "9-5": 4, 
       "9-6": 23
     }, 
+    "total_checkin": 376, 
     "type": "checkin"
   }, 
   {
     "business_id": "q9foydlLoBQoyo8PgIOOag", 
+    "business_name": "Master Spa Shampoo & Foot Massage", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 3, 
@@ -830,10 +843,12 @@
       "8-6": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 325, 
     "type": "checkin"
   }, 
   {
     "business_id": "VMUjt0UBUjoaF8naHm0How", 
+    "business_name": "Massage Envy - Blue Diamond Crossing", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 3, 
@@ -924,10 +939,12 @@
       "9-5": 7, 
       "9-6": 5
     }, 
+    "total_checkin": 317, 
     "type": "checkin"
   }, 
   {
     "business_id": "f5eqFho2fWVggLKXdTh-zg", 
+    "business_name": "Sahra Spa & Hammam", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 4, 
@@ -1020,10 +1037,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 286, 
     "type": "checkin"
   }, 
   {
     "business_id": "0L7nj_kFVMldRrZA7q6rvQ", 
+    "business_name": "Good Foot Spa", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 2, 
@@ -1128,6 +1147,7 @@
       "4-6": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 275, 
     "type": "checkin"
   }
 ]

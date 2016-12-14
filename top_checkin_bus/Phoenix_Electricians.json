@@ -1,0 +1,15 @@
+[
+  {
+    "business_id": "ak6etTfTtO_DLp5BRfd6uQ", 
+    "business_name": "Selberg Electric", 
+    "checkin_info": {
+      "10-6": 1, 
+      "14-0": 1, 
+      "17-2": 1, 
+      "8-6": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "8roNiRpqPP5AaAHsoatRKg", 
+    "business_name": "Steinberg Diagnostic Medical Imaging", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 2, 
@@ -50,10 +51,12 @@
       "9-3": 1, 
       "9-4": 6
     }, 
+    "total_checkin": 102, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZdemvVChUqk74CezZ9SD4g", 
+    "business_name": "Miracle In Progress 3D4D Ultrasound Studio - LV", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 4, 
@@ -109,10 +112,12 @@
       "9-4": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 101, 
     "type": "checkin"
   }, 
   {
     "business_id": "5lg6ssYww2Tcxlafuv5HyA", 
+    "business_name": "Steinberg Diagnostic Medical Imaging", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -165,10 +170,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 95, 
     "type": "checkin"
   }, 
   {
     "business_id": "YWAc-nMsUw6suELTjmYGiA", 
+    "business_name": "Urgent Care Extra", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -225,10 +232,12 @@
       "9-2": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 84, 
     "type": "checkin"
   }, 
   {
     "business_id": "FOR26XWVzRjOMMeEQqtF0g", 
+    "business_name": "Baby's First Image", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -277,10 +286,12 @@
       "8-3": 2, 
       "9-1": 2
     }, 
+    "total_checkin": 79, 
     "type": "checkin"
   }, 
   {
     "business_id": "0W-ZHSjAJ6shWGazaaql9w", 
+    "business_name": "High Risk Pregnancy Center", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 2, 
@@ -314,10 +325,12 @@
       "9-0": 1, 
       "9-1": 3
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "hkGUrbJeIAUtOQ_5mRmy9A", 
+    "business_name": "Quest Diagnostics", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 2, 
@@ -354,10 +367,12 @@
       "9-2": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 58, 
     "type": "checkin"
   }, 
   {
     "business_id": "DM2BkrBTwaSbsXNvKb6z8Q", 
+    "business_name": "Steinberg Diagnostic Medical Imaging", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 1, 
@@ -393,10 +408,12 @@
       "9-2": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 58, 
     "type": "checkin"
   }, 
   {
     "business_id": "bOOmpTmO4m8QE6HyAVBKHQ", 
+    "business_name": "Joel Katz, MD - Allergy & Asthma Center", 
     "checkin_info": {
       "10-0": 1, 
       "10-4": 1, 
@@ -423,10 +440,12 @@
       "9-3": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "aoFSJOA37erSDVpGuTIuVA", 
+    "business_name": "Desert Radiology", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 1, 
@@ -463,6 +482,7 @@
       "9-2": 1, 
       "9-3": 2
     }, 
+    "total_checkin": 47, 
     "type": "checkin"
   }
 ]

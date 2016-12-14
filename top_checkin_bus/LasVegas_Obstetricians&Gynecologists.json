@@ -1,6 +1,7 @@
 [
   {
     "business_id": "bvCvbK1ERuSNaQW1msimxA", 
+    "business_name": "WHASN Meadows", 
     "checkin_info": {
       "0-0": 1, 
       "10-0": 4, 
@@ -47,10 +48,12 @@
       "9-2": 3, 
       "9-4": 1
     }, 
+    "total_checkin": 87, 
     "type": "checkin"
   }, 
   {
     "business_id": "KeGj07bJV9yBc22_8wFu_g", 
+    "business_name": "Staci L McHale, MD FACOG", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -92,10 +95,12 @@
       "9-2": 5, 
       "9-4": 4
     }, 
+    "total_checkin": 86, 
     "type": "checkin"
   }, 
   {
     "business_id": "xhdHhzWWPR0sxdwwV3YxFw", 
+    "business_name": "Desert Perinatal Associates", 
     "checkin_info": {
       "1-4": 1, 
       "10-1": 1, 
@@ -137,10 +142,12 @@
       "8-4": 1, 
       "9-0": 3
     }, 
+    "total_checkin": 64, 
     "type": "checkin"
   }, 
   {
     "business_id": "0W-ZHSjAJ6shWGazaaql9w", 
+    "business_name": "High Risk Pregnancy Center", 
     "checkin_info": {
       "10-1": 3, 
       "10-2": 2, 
@@ -174,10 +181,12 @@
       "9-0": 1, 
       "9-1": 3
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "H-bddYYdyT0LK053xdZU3Q", 
+    "business_name": "Chambers & Associates OBGYN and Gynecological Surgery, PLLC", 
     "checkin_info": {
       "0-1": 1, 
       "10-0": 2, 
@@ -216,10 +225,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 45, 
     "type": "checkin"
   }, 
   {
     "business_id": "AflWwONIEEJUuDn9RwjapA", 
+    "business_name": "The OB-Gyn Center", 
     "checkin_info": {
       "10-0": 4, 
       "10-3": 3, 
@@ -244,10 +255,12 @@
       "9-0": 2, 
       "9-4": 3
     }, 
+    "total_checkin": 44, 
     "type": "checkin"
   }, 
   {
     "business_id": "fIZoLcWocQYs8XrtXzCsug", 
+    "business_name": "WHASN Desert Shores", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 2, 
@@ -272,10 +285,12 @@
       "9-3": 2, 
       "9-4": 3
     }, 
+    "total_checkin": 39, 
     "type": "checkin"
   }, 
   {
     "business_id": "Y7kvuPQtKLPortTHXl0S8w", 
+    "business_name": "Desert Perinatal Associates", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 1, 
@@ -293,10 +308,12 @@
       "9-3": 1, 
       "9-4": 2
     }, 
+    "total_checkin": 34, 
     "type": "checkin"
   }, 
   {
     "business_id": "ssErYHHNhoaNw0K3iG8Xjg", 
+    "business_name": "WellHealth Women's Specialty Care", 
     "checkin_info": {
       "10-2": 2, 
       "10-4": 1, 
@@ -318,10 +335,12 @@
       "9-0": 6, 
       "9-1": 1
     }, 
+    "total_checkin": 31, 
     "type": "checkin"
   }, 
   {
     "business_id": "D4iTBgOh5RCGpmaRIiYuGw", 
+    "business_name": "WHASN Southern Hills", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 1, 
@@ -348,6 +367,7 @@
       "9-2": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }
 ]

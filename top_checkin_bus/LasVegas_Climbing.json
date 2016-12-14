@@ -1,6 +1,7 @@
 [
   {
     "business_id": "Po9GQybF5SVCxjzA5Y0GxA", 
+    "business_name": "Nevada Climbing Centers", 
     "checkin_info": {
       "0-3": 1, 
       "10-5": 3, 
@@ -87,16 +88,19 @@
       "23-5": 1, 
       "4-0": 1
     }, 
+    "total_checkin": 474, 
     "type": "checkin"
   }, 
   {
     "business_id": "vX4ennqDbYPdj6i7MUFNFw", 
+    "business_name": "Red Rock Rendezvous", 
     "checkin_info": {
       "14-6": 1, 
       "15-1": 1, 
       "18-5": 1, 
       "20-4": 1
     }, 
+    "total_checkin": 4, 
     "type": "checkin"
   }
 ]

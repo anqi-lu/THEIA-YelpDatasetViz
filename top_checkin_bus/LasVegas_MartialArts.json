@@ -1,6 +1,7 @@
 [
   {
     "business_id": "GJLw6p1nmwexHTqMy1K_cg", 
+    "business_name": "Xtreme Couture MMA", 
     "checkin_info": {
       "10-0": 13, 
       "10-1": 9, 
@@ -69,10 +70,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 313, 
     "type": "checkin"
   }, 
   {
     "business_id": "H-IyKHbhUuD977BrJ1snXg", 
+    "business_name": "LA Boxing", 
     "checkin_info": {
       "10-0": 3, 
       "10-4": 1, 
@@ -147,10 +150,12 @@
       "9-5": 11, 
       "9-6": 15
     }, 
+    "total_checkin": 296, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z0BddxvWiNNY2OXzacr1Cg", 
+    "business_name": "Victory Martial Arts - Summerlin", 
     "checkin_info": {
       "10-1": 21, 
       "10-3": 15, 
@@ -195,10 +200,12 @@
       "9-3": 2, 
       "9-5": 3
     }, 
+    "total_checkin": 185, 
     "type": "checkin"
   }, 
   {
     "business_id": "-QF1RspJCe18M4LqPlufQQ", 
+    "business_name": "Nevada Shotokan Karate", 
     "checkin_info": {
       "10-4": 1, 
       "11-0": 1, 
@@ -222,10 +229,12 @@
       "8-5": 7, 
       "9-5": 29
     }, 
+    "total_checkin": 175, 
     "type": "checkin"
   }, 
   {
     "business_id": "G946CmZ2NtOeOSftF8tbxg", 
+    "business_name": "Cobra Kai Jiu-Jitsu", 
     "checkin_info": {
       "0-3": 1, 
       "10-0": 2, 
@@ -283,10 +292,12 @@
       "8-1": 1, 
       "9-5": 3
     }, 
+    "total_checkin": 157, 
     "type": "checkin"
   }, 
   {
     "business_id": "Nx62aYg7GSJMWeo8C4uBcg", 
+    "business_name": "Syndicate Mixed Martial Arts", 
     "checkin_info": {
       "0-5": 1, 
       "10-0": 1, 
@@ -345,10 +356,12 @@
       "9-1": 1, 
       "9-4": 3
     }, 
+    "total_checkin": 144, 
     "type": "checkin"
   }, 
   {
     "business_id": "L5dcuZIPVGbdEokfEPY-gQ", 
+    "business_name": "Champion Martial arts", 
     "checkin_info": {
       "10-5": 7, 
       "11-5": 6, 
@@ -380,10 +393,12 @@
       "8-5": 10, 
       "9-5": 3
     }, 
+    "total_checkin": 119, 
     "type": "checkin"
   }, 
   {
     "business_id": "4dm-u67RqxEqEFvAEERLuA", 
+    "business_name": "Gracie Brazilian Jiu Jitsu Las Vegas", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -434,10 +449,12 @@
       "9-4": 3, 
       "9-5": 1
     }, 
+    "total_checkin": 105, 
     "type": "checkin"
   }, 
   {
     "business_id": "ipWx_eQXAW5ycdAvEGssrw", 
+    "business_name": "Wand Fight Team - Martial Arts & Fitness", 
     "checkin_info": {
       "1-6": 1, 
       "10-0": 4, 
@@ -490,10 +507,12 @@
       "9-4": 2, 
       "9-5": 2
     }, 
+    "total_checkin": 96, 
     "type": "checkin"
   }, 
   {
     "business_id": "-hk5GsFtPgWMfU6n74MncQ", 
+    "business_name": "Sidney Silva", 
     "checkin_info": {
       "13-5": 5, 
       "14-5": 1, 
@@ -510,6 +529,7 @@
       "20-2": 2, 
       "22-3": 1
     }, 
+    "total_checkin": 92, 
     "type": "checkin"
   }
 ]

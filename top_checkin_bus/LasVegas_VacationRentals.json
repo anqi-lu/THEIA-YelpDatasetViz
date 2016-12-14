@@ -1,6 +1,7 @@
 [
   {
     "business_id": "fd8vSorRYNQXenYVm_izwQ", 
+    "business_name": "Wyndham Grand Desert", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 3, 
@@ -167,10 +168,12 @@
       "9-5": 20, 
       "9-6": 13
     }, 
+    "total_checkin": 1389, 
     "type": "checkin"
   }, 
   {
     "business_id": "PQ77u20WFLEMrsqkQW0XRw", 
+    "business_name": "Tahiti Village", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 2, 
@@ -330,10 +333,12 @@
       "9-5": 11, 
       "9-6": 15
     }, 
+    "total_checkin": 909, 
     "type": "checkin"
   }, 
   {
     "business_id": "nt-ZzLzu6JCTnB0C-wUE8w", 
+    "business_name": "WorldMark Las Vegas - Boulevard", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -482,10 +487,12 @@
       "9-5": 15, 
       "9-6": 16
     }, 
+    "total_checkin": 677, 
     "type": "checkin"
   }, 
   {
     "business_id": "n26V6IcG8RiGUm08kXcLxg", 
+    "business_name": "Desert Rose Resort", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 4, 
@@ -613,10 +620,12 @@
       "9-5": 3, 
       "9-6": 4
     }, 
+    "total_checkin": 276, 
     "type": "checkin"
   }, 
   {
     "business_id": "q9W110EDcF7GMQsiAsu2Tw", 
+    "business_name": "WorldMark Las Vegas - Tropicana Avenue", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -737,10 +746,12 @@
       "9-5": 7, 
       "9-6": 3
     }, 
+    "total_checkin": 276, 
     "type": "checkin"
   }, 
   {
     "business_id": "JAGAwjSDoDIxaPq3cyTfWw", 
+    "business_name": "Westgate Flamingo Bay Resort", 
     "checkin_info": {
       "0-6": 1, 
       "1-1": 1, 
@@ -812,10 +823,12 @@
       "9-5": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 103, 
     "type": "checkin"
   }, 
   {
     "business_id": "jb8cicOh1VPCOJAGoNLNUw", 
+    "business_name": "WorldMark Las Vegas - Spencer Street", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -869,10 +882,12 @@
       "9-4": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 59, 
     "type": "checkin"
   }, 
   {
     "business_id": "v1z4bF6YeqphNbD-hb4Ctg", 
+    "business_name": "Wyndham Desert Blue", 
     "checkin_info": {
       "0-4": 1, 
       "1-5": 1, 
@@ -893,10 +908,12 @@
       "9-0": 2, 
       "9-3": 1
     }, 
+    "total_checkin": 20, 
     "type": "checkin"
   }, 
   {
     "business_id": "zI_w77-yM1VgW_e0b1bLHg", 
+    "business_name": "Diamond Resort International", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 1, 
@@ -916,6 +933,7 @@
       "8-6": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 18, 
     "type": "checkin"
   }
 ]

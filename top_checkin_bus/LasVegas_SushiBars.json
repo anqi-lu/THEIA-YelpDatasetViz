@@ -1,6 +1,7 @@
 [
   {
     "business_id": "AeKTQBtPRDHLAFL9bzbUnA", 
+    "business_name": "Sushi House Goyemon", 
     "checkin_info": {
       "0-0": 75, 
       "0-1": 47, 
@@ -140,10 +141,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 8227, 
     "type": "checkin"
   }, 
   {
     "business_id": "2lF_8RZRBd9STfk_QwAtmg", 
+    "business_name": "Umiya Sushi", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 23, 
@@ -274,10 +277,12 @@
       "9-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 4852, 
     "type": "checkin"
   }, 
   {
     "business_id": "eLPld7Q17XxlclFGzZQX5g", 
+    "business_name": "Yama Sushi", 
     "checkin_info": {
       "0-3": 1, 
       "0-4": 2, 
@@ -397,10 +402,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 4405, 
     "type": "checkin"
   }, 
   {
     "business_id": "c8Xamwyv5Tyi2VjjyQcwaw", 
+    "business_name": "Island Sushi & Grill", 
     "checkin_info": {
       "0-0": 2, 
       "0-1": 1, 
@@ -526,10 +533,12 @@
       "9-5": 17, 
       "9-6": 15
     }, 
+    "total_checkin": 3704, 
     "type": "checkin"
   }, 
   {
     "business_id": "lPh02W25cOrAz57UbTpbFQ", 
+    "business_name": "Oyshi Sushi", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 8, 
@@ -653,10 +662,12 @@
       "8-4": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3292, 
     "type": "checkin"
   }, 
   {
     "business_id": "OwBPjUz2o0J5K3DzcHkBtg", 
+    "business_name": "Soho Japanese Restaurant", 
     "checkin_info": {
       "0-3": 2, 
       "0-5": 1, 
@@ -773,10 +784,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 3258, 
     "type": "checkin"
   }, 
   {
     "business_id": "yD1dRYi7USzhYVKiqZ7JVg", 
+    "business_name": "Sushi Mon", 
     "checkin_info": {
       "0-0": 13, 
       "0-1": 13, 
@@ -894,10 +907,12 @@
       "7-4": 1, 
       "9-3": 1
     }, 
+    "total_checkin": 3223, 
     "type": "checkin"
   }, 
   {
     "business_id": "ZxmKA8b7njab1DNzCEU4Ow", 
+    "business_name": "Sushi Kaya", 
     "checkin_info": {
       "0-0": 55, 
       "0-1": 19, 
@@ -1030,10 +1045,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 3207, 
     "type": "checkin"
   }, 
   {
     "business_id": "QGkM1TvUrc1gmd1qkpnMJg", 
+    "business_name": "Sushi Koma", 
     "checkin_info": {
       "0-0": 20, 
       "0-1": 13, 
@@ -1158,10 +1175,12 @@
       "9-0": 2, 
       "9-2": 1
     }, 
+    "total_checkin": 2812, 
     "type": "checkin"
   }, 
   {
     "business_id": "bpGFetX8muk0GxAT3Oea3Q", 
+    "business_name": "Yummy Grill & Sushi", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 5, 
@@ -1283,6 +1302,7 @@
       "9-0": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 2794, 
     "type": "checkin"
   }
 ]

@@ -1,6 +1,7 @@
 [
   {
     "business_id": "_OYlq2UoKPQO_ElqhC3a8w", 
+    "business_name": "Lucky Strike", 
     "checkin_info": {
       "0-0": 1, 
       "0-5": 11, 
@@ -111,10 +112,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 1366, 
     "type": "checkin"
   }, 
   {
     "business_id": "R4catpIG7txsNMv1ZBL5vA", 
+    "business_name": "Let It Roll Bowl & Entertainment", 
     "checkin_info": {
       "0-6": 1, 
       "10-0": 1, 
@@ -191,10 +194,12 @@
       "9-3": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 355, 
     "type": "checkin"
   }, 
   {
     "business_id": "y3sLsMsZxtHSVTXxjsI_Og", 
+    "business_name": "AMF Christown Lanes", 
     "checkin_info": {
       "10-2": 1, 
       "11-4": 1, 
@@ -262,10 +267,12 @@
       "9-5": 2, 
       "9-6": 1
     }, 
+    "total_checkin": 310, 
     "type": "checkin"
   }, 
   {
     "business_id": "qjXtirU34PdTjPVbup8cTw", 
+    "business_name": "AMF Squaw Peak Lanes", 
     "checkin_info": {
       "1-0": 1, 
       "10-5": 2, 
@@ -326,10 +333,12 @@
       "8-6": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 162, 
     "type": "checkin"
   }, 
   {
     "business_id": "GZ8KctCJxGzYZ7aAdapprg", 
+    "business_name": "AMF Desert Hills Lanes", 
     "checkin_info": {
       "0-3": 1, 
       "0-5": 2, 
@@ -394,10 +403,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 129, 
     "type": "checkin"
   }, 
   {
     "business_id": "_hmeGfByQCV5-dKeC-8zpw", 
+    "business_name": "AMF Union Hills Lanes", 
     "checkin_info": {
       "0-5": 1, 
       "11-5": 2, 
@@ -454,10 +465,12 @@
       "23-5": 1, 
       "7-4": 1
     }, 
+    "total_checkin": 99, 
     "type": "checkin"
   }, 
   {
     "business_id": "qXQkPgxTDTPcL_apopcUgw", 
+    "business_name": "AMF Deer Valley Lanes", 
     "checkin_info": {
       "10-6": 1, 
       "11-3": 1, 
@@ -504,10 +517,12 @@
       "23-4": 1, 
       "23-5": 1
     }, 
+    "total_checkin": 90, 
     "type": "checkin"
   }, 
   {
     "business_id": "91iKybk4E_LSl5vy0F6mkA", 
+    "business_name": "AMF Shea Village Lanes", 
     "checkin_info": {
       "0-6": 1, 
       "10-1": 1, 
@@ -532,6 +547,7 @@
       "8-1": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }
 ]

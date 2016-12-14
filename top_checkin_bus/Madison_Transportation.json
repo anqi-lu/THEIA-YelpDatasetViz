@@ -1,0 +1,66 @@
+[
+  {
+    "business_id": "Qn4X80v1Qomn-c7VrHT8Tw", 
+    "business_name": "Green Cab", 
+    "checkin_info": {
+      "10-0": 1, 
+      "13-5": 1, 
+      "14-4": 1, 
+      "17-6": 1, 
+      "18-0": 1, 
+      "18-1": 1, 
+      "18-5": 1, 
+      "19-5": 1, 
+      "21-1": 1, 
+      "21-4": 1, 
+      "5-2": 1, 
+      "8-6": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "5TQQy_x_ArR3_5L5L0fFVQ", 
+    "business_name": "Union Cab of Madison", 
+    "checkin_info": {
+      "10-1": 1, 
+      "13-4": 1, 
+      "2-4": 1, 
+      "20-4": 1, 
+      "3-0": 1, 
+      "3-2": 1, 
+      "3-3": 1, 
+      "7-0": 1, 
+      "9-1": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "4HDRS3XkrWR9rZYH1-JdiQ", 
+    "business_name": "Metro Transit", 
+    "checkin_info": {
+      "21-3": 1, 
+      "23-4": 1, 
+      "4-1": 1, 
+      "5-0": 1, 
+      "5-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ZSQUIXn-FM22hP8ujtIKfA", 
+    "business_name": "Van Galder Bus Company", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-0": 1, 
+      "14-2": 1, 
+      "6-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

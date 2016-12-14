@@ -1,0 +1,54 @@
+[
+  {
+    "business_id": "zQwAa0sUQUnogE9uhKcGDA", 
+    "business_name": "Mansion Hill Inn", 
+    "checkin_info": {
+      "10-4": 1, 
+      "13-4": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "15-4": 1, 
+      "16-2": 1, 
+      "16-3": 1, 
+      "16-4": 1, 
+      "17-4": 1, 
+      "17-6": 1, 
+      "19-0": 2, 
+      "19-4": 1, 
+      "20-0": 1, 
+      "20-5": 1, 
+      "21-2": 1
+    }, 
+    "total_checkin": 16, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "FrT0OQFkUZBtfoW3V1Wpfw", 
+    "business_name": "Speckled Hen Inn Bed & Breakfast", 
+    "checkin_info": {
+      "16-4": 2, 
+      "19-0": 1, 
+      "20-5": 1, 
+      "21-1": 1, 
+      "21-5": 1, 
+      "5-0": 1, 
+      "5-6": 1, 
+      "6-5": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "iqQPtw_1KJMGXARhApMN2w", 
+    "business_name": "Arbor House An Environmental Inn", 
+    "checkin_info": {
+      "10-2": 1, 
+      "18-5": 1, 
+      "6-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

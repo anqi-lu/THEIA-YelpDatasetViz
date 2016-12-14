@@ -1,0 +1,93 @@
+[
+  {
+    "business_id": "P-2xtl00C9zK4M5alhnEtQ", 
+    "business_name": "AAA Carolinas - W T Harris", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "11-5": 1, 
+      "12-1": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-4": 2, 
+      "15-4": 1, 
+      "16-4": 1, 
+      "5-1": 1, 
+      "5-5": 1, 
+      "7-0": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "7-5": 2, 
+      "8-4": 2, 
+      "8-5": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "he4JIRCD6i7BuMQgrt21DA", 
+    "business_name": "AAA Carolinas - Montford Drive", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 1, 
+      "11-3": 1, 
+      "13-1": 2, 
+      "14-1": 1, 
+      "4-0": 1, 
+      "5-1": 1, 
+      "7-5": 1, 
+      "8-0": 1, 
+      "9-0": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Gmadf91Sy9bj4XlCbOy_sA", 
+    "business_name": "AAA - Charlotte", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-3": 1, 
+      "13-0": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "5-1": 1, 
+      "6-3": 2, 
+      "9-0": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "NCDo6uWJ6zK8Z3Hxvu4Usw", 
+    "business_name": "AAA Carolinas - South End", 
+    "checkin_info": {
+      "11-4": 1, 
+      "11-5": 1, 
+      "14-3": 1, 
+      "4-2": 1, 
+      "6-0": 2, 
+      "6-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "3rOlCCcfcbSO6BHZEzt2GA", 
+    "business_name": "AAA Carolinas - Steele Creek", 
+    "checkin_info": {
+      "11-2": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "5-0": 1, 
+      "7-0": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

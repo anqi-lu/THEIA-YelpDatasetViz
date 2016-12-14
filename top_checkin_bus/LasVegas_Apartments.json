@@ -1,6 +1,7 @@
 [
   {
     "business_id": "7m35tScyxG7VPlpUYQe_ew", 
+    "business_name": "The Ogden", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 9, 
@@ -142,10 +143,12 @@
       "9-5": 3, 
       "9-6": 2
     }, 
+    "total_checkin": 455, 
     "type": "checkin"
   }, 
   {
     "business_id": "8ndLN2bpi_1gSjHEj0xPnQ", 
+    "business_name": "Veer Towers", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 2, 
@@ -284,10 +287,12 @@
       "9-5": 1, 
       "9-6": 3
     }, 
+    "total_checkin": 350, 
     "type": "checkin"
   }, 
   {
     "business_id": "zvlLy5Il6_K_ea9iGFJJ3g", 
+    "business_name": "Eagle Trace Apartments", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -388,10 +393,12 @@
       "9-4": 16, 
       "9-5": 10
     }, 
+    "total_checkin": 277, 
     "type": "checkin"
   }, 
   {
     "business_id": "AqwvweUQO-Gsw0U9d7rItw", 
+    "business_name": "One Las Vegas", 
     "checkin_info": {
       "0-0": 1, 
       "0-1": 1, 
@@ -517,10 +524,12 @@
       "9-5": 5, 
       "9-6": 5
     }, 
+    "total_checkin": 267, 
     "type": "checkin"
   }, 
   {
     "business_id": "NPbn5p1SvefL6L_qMNQoqg", 
+    "business_name": "Ultris Arrow Canyon", 
     "checkin_info": {
       "0-3": 2, 
       "0-6": 1, 
@@ -622,10 +631,12 @@
       "9-4": 3, 
       "9-6": 1
     }, 
+    "total_checkin": 192, 
     "type": "checkin"
   }, 
   {
     "business_id": "glU8IXUbyGryhTLkBj5P9A", 
+    "business_name": "Pines", 
     "checkin_info": {
       "0-0": 5, 
       "0-1": 7, 
@@ -711,10 +722,12 @@
       "5-3": 1, 
       "7-0": 1
     }, 
+    "total_checkin": 168, 
     "type": "checkin"
   }, 
   {
     "business_id": "0c9sRB-_WpM6K6t41L3LHQ", 
+    "business_name": "Las Palmas Apartments", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -799,10 +812,12 @@
       "9-5": 1, 
       "9-6": 2
     }, 
+    "total_checkin": 164, 
     "type": "checkin"
   }, 
   {
     "business_id": "ifgBLoy21yk3e_J_0n7Ibg", 
+    "business_name": "Liberty Square Apartments", 
     "checkin_info": {
       "0-2": 1, 
       "1-4": 1, 
@@ -880,10 +895,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 150, 
     "type": "checkin"
   }, 
   {
     "business_id": "396iB9mCt6Jxjw-elV1zdQ", 
+    "business_name": "Tesora Apartments", 
     "checkin_info": {
       "0-2": 1, 
       "0-5": 1, 
@@ -972,10 +989,12 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 128, 
     "type": "checkin"
   }, 
   {
     "business_id": "vxSIF15OV-Jz07qEvJViJQ", 
+    "business_name": "Bel Air", 
     "checkin_info": {
       "10-5": 3, 
       "10-6": 2, 
@@ -1037,6 +1056,7 @@
       "9-5": 1, 
       "9-6": 1
     }, 
+    "total_checkin": 112, 
     "type": "checkin"
   }
 ]

@@ -1,0 +1,33 @@
+[
+  {
+    "business_id": "779Rt7-gZHNBO8AekDHEtQ", 
+    "business_name": "Sun Tan City", 
+    "checkin_info": {
+      "11-5": 3, 
+      "12-4": 1, 
+      "13-5": 1, 
+      "15-3": 1, 
+      "16-0": 1, 
+      "16-1": 2, 
+      "16-2": 3, 
+      "16-3": 1, 
+      "6-2": 1, 
+      "7-5": 1, 
+      "8-6": 1
+    }, 
+    "total_checkin": 16, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Yiwc0B1OMMLCRDDPx3C0iQ", 
+    "business_name": "William Jon Salon & Spa", 
+    "checkin_info": {
+      "14-3": 1, 
+      "16-1": 1, 
+      "7-2": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

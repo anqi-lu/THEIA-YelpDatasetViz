@@ -1,0 +1,163 @@
+[
+  {
+    "business_id": "2fPABODueZ0RSOFln5Yl5A", 
+    "business_name": "PetSmart", 
+    "checkin_info": {
+      "10-4": 1, 
+      "10-5": 3, 
+      "11-0": 1, 
+      "11-5": 2, 
+      "11-6": 1, 
+      "12-5": 2, 
+      "13-3": 1, 
+      "13-6": 2, 
+      "14-3": 1, 
+      "14-6": 1, 
+      "15-0": 3, 
+      "15-1": 2, 
+      "15-6": 1, 
+      "16-0": 2, 
+      "16-2": 1, 
+      "17-4": 1, 
+      "17-5": 1, 
+      "7-5": 1, 
+      "8-5": 1, 
+      "9-3": 1, 
+      "9-4": 2
+    }, 
+    "total_checkin": 31, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "BPAB-qdSj7urRBl-uv2UWA", 
+    "business_name": "PetSmart", 
+    "checkin_info": {
+      "10-4": 2, 
+      "10-5": 2, 
+      "10-6": 1, 
+      "11-5": 1, 
+      "11-6": 1, 
+      "12-0": 1, 
+      "12-6": 1, 
+      "13-4": 1, 
+      "14-1": 1, 
+      "15-6": 1, 
+      "17-5": 2, 
+      "18-2": 2, 
+      "18-4": 1, 
+      "8-5": 1, 
+      "8-6": 1, 
+      "9-0": 1, 
+      "9-3": 1, 
+      "9-6": 2
+    }, 
+    "total_checkin": 23, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "E1Sa0iT3ehP4lMGOfmGB5g", 
+    "business_name": "Tabby & Jacks", 
+    "checkin_info": {
+      "10-5": 1, 
+      "10-6": 1, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-5": 1, 
+      "13-2": 1, 
+      "13-5": 1, 
+      "13-6": 3, 
+      "14-5": 2, 
+      "18-0": 1, 
+      "19-4": 1, 
+      "21-3": 1, 
+      "8-3": 1, 
+      "8-5": 1, 
+      "9-3": 2
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ZkefP3tMB3k75umsuP3sAw", 
+    "business_name": "Spring Harbor Animal Hospital", 
+    "checkin_info": {
+      "11-2": 1, 
+      "12-2": 1, 
+      "12-4": 2, 
+      "14-3": 1, 
+      "16-0": 1, 
+      "6-1": 1, 
+      "7-2": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "XlXdO2zgB5DsJygapc2Ksw", 
+    "business_name": "Noah's Ark Pet Center", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-5": 1, 
+      "12-5": 1, 
+      "13-3": 1, 
+      "15-3": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "X0GjR02J7Sequc_I8pUQvw", 
+    "business_name": "Dog Haus University", 
+    "checkin_info": {
+      "14-4": 1, 
+      "15-5": 1, 
+      "16-4": 1, 
+      "21-0": 1, 
+      "22-4": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "zRYt1B4R-1ZVjNk4sASsOA", 
+    "business_name": "Banfield Pet Hospital", 
+    "checkin_info": {
+      "12-2": 1, 
+      "13-3": 1, 
+      "15-0": 1, 
+      "5-3": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "CgUFVo2ANTRujxYOiY_dmg", 
+    "business_name": "Truesdell Animal Care Hospital & Clinic", 
+    "checkin_info": {
+      "11-0": 1, 
+      "14-4": 1, 
+      "15-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "JAOacRZOhpHaAI-pQzuMog", 
+    "business_name": "Ruffin' It Resort", 
+    "checkin_info": {
+      "14-3": 1, 
+      "6-5": 1, 
+      "7-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

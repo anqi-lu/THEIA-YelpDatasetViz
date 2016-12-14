@@ -1,6 +1,7 @@
 [
   {
     "business_id": "_QlclR037qMZjpe9-iuU5A", 
+    "business_name": "Zen Foot Spa", 
     "checkin_info": {
       "0-1": 2, 
       "0-3": 1, 
@@ -96,10 +97,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 287, 
     "type": "checkin"
   }, 
   {
     "business_id": "9zUNzGdT-AfVOWrcbD2Vog", 
+    "business_name": "The Neck and Back Clinics", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 1, 
@@ -150,10 +153,12 @@
       "9-4": 1, 
       "9-5": 8
     }, 
+    "total_checkin": 167, 
     "type": "checkin"
   }, 
   {
     "business_id": "5Rw0eZwBNJZ2jhN2zKtuIA", 
+    "business_name": "Elements Massage", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 2, 
@@ -221,10 +226,12 @@
       "9-5": 2, 
       "9-6": 3
     }, 
+    "total_checkin": 129, 
     "type": "checkin"
   }, 
   {
     "business_id": "Rx3c8iDnlDx7Q9jx_I6sFw", 
+    "business_name": "MaxHealth Center - Rancho", 
     "checkin_info": {
       "10-4": 2, 
       "11-2": 2, 
@@ -262,10 +269,12 @@
       "8-4": 3, 
       "9-4": 3
     }, 
+    "total_checkin": 124, 
     "type": "checkin"
   }, 
   {
     "business_id": "g7BN7YrC7v-8mwQgGxQUag", 
+    "business_name": "SVIP Foot Spa", 
     "checkin_info": {
       "0-4": 1, 
       "0-6": 2, 
@@ -323,10 +332,12 @@
       "3-3": 1, 
       "9-1": 1
     }, 
+    "total_checkin": 108, 
     "type": "checkin"
   }, 
   {
     "business_id": "u57Uu3mz1LhSleoG1OlbDA", 
+    "business_name": "The Neck and Back Clinics", 
     "checkin_info": {
       "10-0": 3, 
       "10-2": 3, 
@@ -365,10 +376,12 @@
       "9-4": 2, 
       "9-5": 1
     }, 
+    "total_checkin": 98, 
     "type": "checkin"
   }, 
   {
     "business_id": "MQyyYLMtChG5eb-2TLypSQ", 
+    "business_name": "MaxHealth Center", 
     "checkin_info": {
       "1-3": 1, 
       "10-0": 1, 
@@ -412,10 +425,12 @@
       "9-2": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 95, 
     "type": "checkin"
   }, 
   {
     "business_id": "SG2OZ0O9HH4o5-DLusQUxw", 
+    "business_name": "Henderson China Foot Massage and Reflexology", 
     "checkin_info": {
       "0-2": 1, 
       "10-5": 1, 
@@ -471,10 +486,12 @@
       "21-6": 2, 
       "22-4": 1
     }, 
+    "total_checkin": 85, 
     "type": "checkin"
   }, 
   {
     "business_id": "Te28Q13GcyN-4u0xVTRd-g", 
+    "business_name": "Lazy Sunday Foot Spa", 
     "checkin_info": {
       "0-2": 2, 
       "0-6": 1, 
@@ -523,10 +540,12 @@
       "23-6": 3, 
       "4-6": 1
     }, 
+    "total_checkin": 75, 
     "type": "checkin"
   }, 
   {
     "business_id": "Mbr5HMSvyVtxwRJuwTZ68A", 
+    "business_name": "Las Vegas Chiropractic Associates", 
     "checkin_info": {
       "10-0": 1, 
       "10-1": 3, 
@@ -554,6 +573,7 @@
       "9-2": 1, 
       "9-4": 6
     }, 
+    "total_checkin": 66, 
     "type": "checkin"
   }
 ]

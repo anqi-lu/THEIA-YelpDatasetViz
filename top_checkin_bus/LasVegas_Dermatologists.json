@@ -1,6 +1,7 @@
 [
   {
     "business_id": "xWmfGEZ4msvVsASzIkW2Zw", 
+    "business_name": "Summerlin Dermatology", 
     "checkin_info": {
       "10-0": 3, 
       "10-1": 1, 
@@ -42,10 +43,12 @@
       "9-4": 6, 
       "9-5": 1
     }, 
+    "total_checkin": 91, 
     "type": "checkin"
   }, 
   {
     "business_id": "BYF8SFaljpGjTk3rFdpIxw", 
+    "business_name": "Thomas Dermatology", 
     "checkin_info": {
       "10-1": 1, 
       "10-2": 1, 
@@ -87,10 +90,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 56, 
     "type": "checkin"
   }, 
   {
     "business_id": "0ssgDa2XFSyexWdzRzQjXw", 
+    "business_name": "Desert Dermatology", 
     "checkin_info": {
       "10-0": 2, 
       "10-2": 2, 
@@ -120,10 +125,12 @@
       "9-1": 3, 
       "9-4": 7
     }, 
+    "total_checkin": 55, 
     "type": "checkin"
   }, 
   {
     "business_id": "NGRt3H6CXTbVCy3fmEaZGg", 
+    "business_name": "Las Vegas Dermatology", 
     "checkin_info": {
       "10-1": 1, 
       "10-3": 3, 
@@ -160,10 +167,12 @@
       "9-4": 1, 
       "9-5": 1
     }, 
+    "total_checkin": 51, 
     "type": "checkin"
   }, 
   {
     "business_id": "Obp_JreKfUBk8mH4FdhpOw", 
+    "business_name": "Las Vegas Skin & Cancer Clinics", 
     "checkin_info": {
       "10-2": 1, 
       "10-3": 2, 
@@ -187,10 +196,12 @@
       "9-2": 1, 
       "9-4": 1
     }, 
+    "total_checkin": 33, 
     "type": "checkin"
   }, 
   {
     "business_id": "Z6nu9w4b1WDihptIkEIErQ", 
+    "business_name": "Surgical Dermatology & Laser Center", 
     "checkin_info": {
       "10-1": 2, 
       "10-2": 1, 
@@ -215,10 +226,12 @@
       "9-3": 2, 
       "9-4": 4
     }, 
+    "total_checkin": 30, 
     "type": "checkin"
   }, 
   {
     "business_id": "_pWM68WyHAfyRz2opMs1YA", 
+    "business_name": "Summerlin Center for Wellness", 
     "checkin_info": {
       "10-0": 1, 
       "10-3": 2, 
@@ -240,10 +253,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 28, 
     "type": "checkin"
   }, 
   {
     "business_id": "eOqGMYfKwzYLsL7n7BOOiw", 
+    "business_name": "Las Vegas Skin & Cancer Clinics", 
     "checkin_info": {
       "10-0": 2, 
       "10-1": 1, 
@@ -265,10 +280,12 @@
       "9-3": 2, 
       "9-4": 1
     }, 
+    "total_checkin": 27, 
     "type": "checkin"
   }, 
   {
     "business_id": "dGnfWIyptMqARwI5CHek8Q", 
+    "business_name": "Las Vegas Skin & Cancer Clinics", 
     "checkin_info": {
       "10-0": 1, 
       "10-2": 1, 
@@ -292,10 +309,12 @@
       "9-1": 1, 
       "9-2": 2
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }, 
   {
     "business_id": "8XWD-4byrvMdC35e99zhFw", 
+    "business_name": "Sahara Family & Skin Clinic", 
     "checkin_info": {
       "10-4": 1, 
       "11-1": 1, 
@@ -314,6 +333,7 @@
       "8-4": 1, 
       "9-3": 3
     }, 
+    "total_checkin": 24, 
     "type": "checkin"
   }
 ]

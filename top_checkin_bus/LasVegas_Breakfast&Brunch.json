@@ -1,6 +1,7 @@
 [
   {
     "business_id": "zt1TpTuJ6y9n551sw9TaEg", 
+    "business_name": "Wicked Spoon", 
     "checkin_info": {
       "0-0": 3, 
       "0-1": 2, 
@@ -155,10 +156,12 @@
       "9-5": 112, 
       "9-6": 111
     }, 
+    "total_checkin": 14302, 
     "type": "checkin"
   }, 
   {
     "business_id": "4bEjOyTaDG24SY5TxsaUNQ", 
+    "business_name": "Mon Ami Gabi", 
     "checkin_info": {
       "0-0": 7, 
       "0-1": 4, 
@@ -318,10 +321,12 @@
       "9-5": 201, 
       "9-6": 156
     }, 
+    "total_checkin": 12778, 
     "type": "checkin"
   }, 
   {
     "business_id": "QbmcCE_cLq4WO8ZMKImaLw", 
+    "business_name": "Hash House A Go Go", 
     "checkin_info": {
       "0-0": 22, 
       "0-1": 16, 
@@ -491,10 +496,12 @@
       "9-5": 142, 
       "9-6": 142
     }, 
+    "total_checkin": 8811, 
     "type": "checkin"
   }, 
   {
     "business_id": "tFU2Js_nbIZOrnKfYJYBBg", 
+    "business_name": "Bouchon at The Venetian", 
     "checkin_info": {
       "0-0": 6, 
       "0-1": 3, 
@@ -645,10 +652,12 @@
       "9-5": 149, 
       "9-6": 165
     }, 
+    "total_checkin": 8103, 
     "type": "checkin"
   }, 
   {
     "business_id": "1yx2zLskVTe5WQdYjL2Apw", 
+    "business_name": "Egg & I", 
     "checkin_info": {
       "0-0": 1, 
       "0-2": 1, 
@@ -761,10 +770,12 @@
       "9-5": 244, 
       "9-6": 236
     }, 
+    "total_checkin": 7671, 
     "type": "checkin"
   }, 
   {
     "business_id": "SsTxjxo8qvqBMvan1rzNzg", 
+    "business_name": "The Peppermill Restaurant & Fireside Lounge", 
     "checkin_info": {
       "0-0": 34, 
       "0-1": 28, 
@@ -935,10 +946,12 @@
       "9-5": 95, 
       "9-6": 90
     }, 
+    "total_checkin": 6322, 
     "type": "checkin"
   }, 
   {
     "business_id": "xfwRO04KbAPw_zRotCfWQQ", 
+    "business_name": "Hash House A Go Go", 
     "checkin_info": {
       "0-0": 1, 
       "0-6": 1, 
@@ -1056,10 +1069,12 @@
       "9-5": 173, 
       "9-6": 141
     }, 
+    "total_checkin": 5589, 
     "type": "checkin"
   }, 
   {
     "business_id": "pPfQ73--Y_h5Or0aqDgEGA", 
+    "business_name": "BabyStacks Cafe", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -1173,10 +1188,12 @@
       "9-5": 198, 
       "9-6": 171
     }, 
+    "total_checkin": 5109, 
     "type": "checkin"
   }, 
   {
     "business_id": "co0vxQ8ecXiBy2sGDeHi8A", 
+    "business_name": "Jamms Restaurant", 
     "checkin_info": {
       "0-2": 1, 
       "0-4": 1, 
@@ -1271,10 +1288,12 @@
       "9-5": 174, 
       "9-6": 173
     }, 
+    "total_checkin": 4470, 
     "type": "checkin"
   }, 
   {
     "business_id": "3OB5gQqibKGTzx9R1w7wKQ", 
+    "business_name": "SkinnyFATS", 
     "checkin_info": {
       "0-1": 1, 
       "0-2": 1, 
@@ -1395,6 +1414,7 @@
       "9-5": 42, 
       "9-6": 20
     }, 
+    "total_checkin": 4412, 
     "type": "checkin"
   }
 ]

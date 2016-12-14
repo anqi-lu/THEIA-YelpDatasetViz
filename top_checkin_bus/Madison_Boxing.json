@@ -1,0 +1,13 @@
+[
+  {
+    "business_id": "1xxXuMWrJqsL7dU5qh31dA", 
+    "business_name": "9Round", 
+    "checkin_info": {
+      "15-0": 1, 
+      "16-4": 1, 
+      "17-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

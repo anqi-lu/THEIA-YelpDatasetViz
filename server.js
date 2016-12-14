@@ -18,6 +18,7 @@ var yelp = new Yelp({
 // get all the files in public and json folder
 app.use(express.static('public'));
 app.use(express.static('json'));
+app.use(express.static('top_checkin_bus'));
 
 
 // respond to a post request

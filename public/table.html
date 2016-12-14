@@ -1,0 +1,142 @@
+<html>
+<header>
+    <script src="//code.jquery.com/jquery-3.1.1.min.js" charset="utf-8"></script>
+
+<style>
+    #table{
+        position: absolute;
+        right: 300px;
+        top: 100px;       
+    }
+    
+    #getInfo{
+        position: absolute;
+        right: 300px;
+        top:200px;
+        display:none;
+    }
+
+</style>
+
+</header>
+<body>
+  <h1>Compare</h1>
+  <div id="compare"> </div>
+  <form onsubmit="return false;">
+    New Class:
+    <input type='text' id="courseBox">
+    <input type='submit' onclick="populate();">
+  </form>
+  <form id = "storeList">
+    </form>
+  <div id = 'table'></div>
+ <button id="getInfo" onclick="getInfo()">Compare</button>
+      
+</body>
+
+<script>
+var checkedValue = [] //stroed checked values
+var idname = {} //dictionary matched id with name
+var ids = []
+
+//search for completed information for business based on business id
+function getInfo(){
+    //console.log('getInfo function start')
+    var request = new XMLHttpRequest();
+    request.open('POST', '/getInfo', true);
+    request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+    request.onreadystatechange = function(){
+        handleGetInfo(request)
+    }
+    request.send(ids)
+}
+    
+function handleGetInfo(req) {
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+  if(req.status === 200)
+    //buildTable( JSON.parse(req.responseText) );
+    //console.log("-----------------------");
+    buildTable(JSON.parse(req.responseText));
+       //console.log("response")
+}
+ 
+//After getting replied from server side, this function build the table    
+function buildTable(response){
+    console.log(response)
+    response.forEach(function(bus){
+      console.log(bus.phone)
+    })
+}
+    
+    
+//get id and add to comparing list
+function getid(){
+    checkedValue = []
+    idname = {}
+    ids = []
+    $('.store:checked').each(function(i){
+        checkedValue[i] = $(this).val();
+    })
+    if (checkedValue.length > 5){
+        alert("Choose at most five stores")
+        return
+    } 
+    //console.log(checkedValue)
+    for(var i = 0; i< checkedValue.length; i++){
+        var str = checkedValue[i].split('/');
+        idname[str[0]] = str[1]
+    }    
+        console.log(idname)
+        var table = document.getElementById('table');
+        for(var key in idname){
+            ids.push(key)
+            table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
+        }
+        document.getElementById('getInfo').style.display = 'inline'  
+        //console.log("key ")
+        //console.log(ids)
+    //console.log(checkedValue)  
+}
+
+//search based on user entered information to get simple information
+function populate() {
+  console.log("start")
+  //var el = document.getElementById('courseBox');
+  var el = "+14159083801"
+  var req = new XMLHttpRequest();
+  req.open('POST', '/search', true);
+  req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+  req.onreadystatechange = function() {
+    handleRes(req);
+  }
+  req.send('search='+el);
+}
+
+function handleRes(req) {
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+
+  if(req.status === 200)
+    buildList( JSON.parse(req.responseText) );
+}
+
+function buildList( A ) {
+  //number of elements in json file
+  var number = A.total
+  //constructs an array to hold elements
+  var array = A.businesses
+  //console.log(A.businesses)
+  var el = document.getElementById('storeList');
+  el.innerHTML = "";
+  array.forEach(function(e){
+      //console.log(e.name)
+      el.innerHTML +=  '<label><input type="checkbox" value="'+ e.id + '/' + e.name + '"  class="store">'+e.name+'</label>'
+      el.innerHTML += '<br>'
+  })
+  el.innerHTML+='<button type="button" onclick="getid()">Add to Compare List</button>'
+}
+
+</script>
+
+</html>

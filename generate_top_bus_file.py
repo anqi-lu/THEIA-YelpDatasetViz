@@ -5,7 +5,7 @@ import sys
 def generate_top_checkin_file(city, category):
     top_checkin_bus = cat_bus_info(city, category).get_top_checkin()
 
-    with open('top_checkin_bus/'+city.replace(" ","")+'_'+category.strip().replace(" ","").replace("/","")+'.json', 'w') as outfile:
+    with open('json/top_checkin_bus/'+city.replace(" ","")+'_'+category.strip().replace(" ","").replace("/","")+'.json', 'w') as outfile:
         json.dump(top_checkin_bus, outfile, sort_keys = True, indent=2)
 
 cities = ["Las Vegas", "Phoenix", "Charlotte", "Pittsburg", "Madison", "Urbana-Champaign"]

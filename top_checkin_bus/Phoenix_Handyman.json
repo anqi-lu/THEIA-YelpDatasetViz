@@ -1,0 +1,20 @@
+[
+  {
+    "business_id": "jIoO4HqSP4TeDizuPhpG5A", 
+    "checkin_info": {
+      "12-5": 1, 
+      "15-2": 1, 
+      "18-0": 1
+    }, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HbKvEFb25P0oqpdfTWMCSw", 
+    "checkin_info": {
+      "13-0": 1, 
+      "18-1": 1, 
+      "18-4": 1
+    }, 
+    "type": "checkin"
+  }
+]

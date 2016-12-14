@@ -1,0 +1,56 @@
+[
+  {
+    "business_id": "7aGRXdKyjhAilq3XnzZkiw", 
+    "checkin_info": {
+      "14-0": 2, 
+      "16-0": 1, 
+      "6-0": 1, 
+      "7-0": 1, 
+      "7-3": 1, 
+      "8-2": 1, 
+      "8-3": 1, 
+      "9-0": 1, 
+      "9-1": 3
+    }, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8my0Dq5EDtRp2YLRPBYkIg", 
+    "checkin_info": {
+      "12-0": 2, 
+      "12-3": 1, 
+      "13-1": 1, 
+      "15-0": 1, 
+      "15-4": 1, 
+      "7-4": 1, 
+      "8-1": 1, 
+      "8-5": 2, 
+      "9-3": 1
+    }, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-q68_AqScY5sVvhvdPIGpA", 
+    "checkin_info": {
+      "10-2": 1, 
+      "13-2": 1, 
+      "6-1": 1, 
+      "7-1": 1, 
+      "9-0": 1, 
+      "9-3": 1
+    }, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "OyehKmT9fPoin5jzfJZ0Fg", 
+    "checkin_info": {
+      "10-4": 1, 
+      "12-0": 1, 
+      "12-2": 1, 
+      "6-4": 1, 
+      "7-0": 1, 
+      "8-3": 1
+    }, 
+    "type": "checkin"
+  }
+]

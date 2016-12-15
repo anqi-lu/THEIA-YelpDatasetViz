@@ -32,6 +32,11 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 <style>
+    img {
+        min-height:  100%;
+        min-width: 100%;
+    }
+
     /*style for search----------------------------------*/
     table{
         border-collapse:collapse; 
@@ -65,13 +70,13 @@
     }
     
     #table td {
-        border:solid 1px #fab; 
+        /*border:solid 1px; */
         width:250px; 
         word-wrap:break-word;}
     
      
     #table tr {
-        border:solid 1px #fab; 
+        /*border:solid 1px; */
         width:200px; 
         word-wrap:break-word;}
     
@@ -86,6 +91,8 @@
     .rowID{
         width:10%;
     }
+    
+
     /*style for d3------------------------------------------*/
     html {
       font-family: sans-serif;
@@ -180,7 +187,15 @@
       fill: #AECFE3;
       clip-path: url(#clip);
     }
-
+    
+    header{
+        background-image: url("background.jpg");
+    }
+    
+    #about{
+        background-color: #66727f;
+    }
+    
 </style>
 </head>
 
@@ -256,7 +271,7 @@
             <h1>Zoomable Treemaps</h1>
             <div>
                 <div class="top">
-                    <div id="tooltip" class="hidden">
+                    <div id="tooltip">
                         <p><span id="name"></span>
                         </p>
                         <p><span id="value"></span>
@@ -267,7 +282,7 @@
                     </div>
                 </div>
                 <div class="bubbleChart bottom">
-                    <div id="bubbletip" class="hidden">
+                    <div id="bubbletip" display="none">
                         <p><span id="busName"></span>
                         </p>
                         <p><span id="totalCheckin"></span>
@@ -316,91 +331,92 @@
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/1.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                <div class="col-lg-4 col-sm-5">
+                    <a href="http://i.huffpost.com/gen/996705/images/o-MAYORSCHALLENGEPHOENIX_AZ_IMAGE-facebook.jpg" class="portfolio-box">
+                        <img src="http://i.huffpost.com/gen/996705/images/o-MAYORSCHALLENGEPHOENIX_AZ_IMAGE-facebook.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    City
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Phoenix, AZ
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>          
+                <div class="col-lg-4 col-sm-5">
+                    <a href="https://www.kimptonhotels.com/blog/wp-content/uploads/2016/03/Charlotte-Hero.jpg" class="portfolio-box">
+                        <img src="https://www.kimptonhotels.com/blog/wp-content/uploads/2016/03/Charlotte-Hero.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
+                        <div class="portfolio-box-caption" >
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    City
+                                </div>
+                                <div class="project-name">
+                                    Charlotte, NC
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/2.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                <div class="col-lg-4 col-sm-5">
+                    <a href="http://static.pechakucha.org/pechakucha/uploads/blog_attachment/image/529c453d4f5c29538b000003/large_wide_civil-engineering.jpg" class="portfolio-box">
+                        <img src="http://static.pechakucha.org/pechakucha/uploads/blog_attachment/image/529c453d4f5c29538b000003/large_wide_civil-engineering.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    City
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Urbana-Champaign, IL
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/3.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                <div class="col-lg-4 col-sm-5">
+                    <a href="https://www.orbitz.com/blog/wp-content/uploads/2012/05/PittsburghAerial_of_the_Point_SSsSyRLSz3SczgDe62L-3ao_rgb_72.jpg" class="portfolio-box">
+                        <img src="https://www.orbitz.com/blog/wp-content/uploads/2012/05/PittsburghAerial_of_the_Point_SSsSyRLSz3SczgDe62L-3ao_rgb_72.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    City
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Pittsburgh, PA
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/4.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                 <div class="col-lg-4 col-sm-5">
+                    <a href="http://www.justrenttoown.com/blog/wp-content/uploads/2015/04/vegasbanner-600x400.jpg" class="portfolio-box">
+                        <img src="http://www.justrenttoown.com/blog/wp-content/uploads/2015/04/vegasbanner-600x400.jpg" alt="" style="width: 100%; height: 100%;">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    City
                                 </div>
                                 <div class="project-name">
-                                    Project Name
+                                    Las Vegas, NV
                                 </div>
                             </div>
                         </div>
                     </a>
                 </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/5.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+              
+                <div class="col-lg-4 col-sm-5">
+                    <a href="https://s-media-cache-ak0.pinimg.com/originals/88/26/2c/88262c39ed19a3e113bb425a11c363f5.jpg" class="portfolio-box" style="width: 100%; height: 100%;">
+                        <img src="https://s-media-cache-ak0.pinimg.com/originals/88/26/2c/88262c39ed19a3e113bb425a11c363f5.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
                                 <div class="project-category text-faded">
-                                    Category
+                                    City
                                 </div>
                                 <div class="project-name">
-                                    Project Name
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-lg-4 col-sm-6">
-                    <a href="style/img/portfolio/fullsize/6.jpg" class="portfolio-box">
-                        <img src="style/img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
-                        <div class="portfolio-box-caption">
-                            <div class="portfolio-box-caption-content">
-                                <div class="project-category text-faded">
-                                    Category
-                                </div>
-                                <div class="project-name">
-                                    Project Name
+                                    Madison, WI
                                 </div>
                             </div>
                         </div>
@@ -453,7 +469,10 @@
                                 <option value="distance">Distance</option>
                             </select>
                             </div>
-                            <div class="col-lg- col-sm-6">
+                            <div class="col-lg-12 col-sm-6">
+                                <p>   </p>
+                            </div>
+                            <div class="col-lg-12 col-sm-6">
                                 <button type= "button" class="btn btn-default btn-xl sr-button" onclick="advanceSearch()">Submit</button>
                             </div>
                         </form>
@@ -467,6 +486,7 @@
         <div class="container">
             <div class="col-lg-2 col-sm-6">
                 <div id = "storeList"></div>
+                <br><br>
                 <div id = 'list_search'></div>
                 <button id="getInfo" onclick="getReview()" class="btn btn-secondary">Compare</button>  
             </div>
@@ -845,8 +865,12 @@ function drawBubbleChart(topTen) {
         d3.select("#bubbletip #totalCheckin").text("Total Checkin: "+d.data.total_checkin)
         d3.select("#bubbletip").style("display", "inline");
     }
+    var bubblemouseout = function() {
+        d3.selectAll("#bubbletip").style("display", "none");
+    };
     node.on("mouseover", mouseover);
-
+    node.on("mouseout", bubblemouseout);
+    
     node.on("click", function(d){
       writeCheckin(d.data);
     });
@@ -1074,7 +1098,7 @@ function buiding(table, needInfo, review){
         htmlStr += '<th>'+bus.name+ ' </th>'
     })
     //table.innerHTML += '</tr>'
-    htmlStr += '<tr><td> Category </td>'
+    htmlStr += '<tr><td scope="row"> Category </td>'
     needInfo.forEach(function(bus){
         var cat = ''
         bus.categories.forEach(function(c){
@@ -1082,7 +1106,7 @@ function buiding(table, needInfo, review){
         })
         htmlStr += '<td>'+cat+ ' </td>'
     })
-    htmlStr += '<tr><td> Location </td>'
+    htmlStr += '<tr><td scope="row"> Location </td>'
     needInfo.forEach(function(bus){ 
         var address = bus.location.address1 + ', '
         address = address + bus.location.city + ', '
@@ -1090,11 +1114,11 @@ function buiding(table, needInfo, review){
         address += bus.location.zip_code
         htmlStr += '<td>'+ address +'</td>'
     })
-    htmlStr += '<tr><td> Phone </td>'
+    htmlStr += '<tr><td scope="row"> Phone </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.phone+ ' </td>'
     })
-    htmlStr += '<tr><td> Is Open Now</td>'
+    htmlStr += '<tr><td scope="row"> Is Open Now</td>'
     needInfo.forEach(function(bus){ 
         var hour = bus.hours
         if (hour === undefined){
@@ -1104,7 +1128,7 @@ function buiding(table, needInfo, review){
             htmlStr += '<td>'+ hour[0].is_open_now + ' </td>'  
         }         
     })
-    htmlStr += '<tr><td>Open Hours</td>'
+    htmlStr += '<tr><td scope="row">Open Hours</td>'
     needInfo.forEach(function(bus){ 
         var hour = bus.hours
         if (hour === undefined){
@@ -1164,19 +1188,19 @@ function buiding(table, needInfo, review){
         }         
     })
     
-    htmlStr += '<tr><td class="rowName"> Price </td>'
+    htmlStr += '<tr><td class="rowName" scope="row"> Price </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.price+ ' </td>'
     })
-    htmlStr += '<tr><td class="rowName"> Is Closed </td>'
+    htmlStr += '<tr><td class="rowName" scope="row"> Is Closed </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.is_closed+ ' </td>'
     })
-    htmlStr += '<tr><td class="rowName"> Rating </td>'
+    htmlStr += '<tr><td class="rowName" scope="row"> Rating </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.rating+ ' </td>'
     })
-    htmlStr += '<tr><td class="rowName"> Review Count </td>'
+    htmlStr += '<tr><td class="rowName" scope="row"> Review Count </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.review_count+ ' </td>'
     })
@@ -1184,7 +1208,7 @@ function buiding(table, needInfo, review){
     needInfo.forEach(function(bus){ 
         htmlStr += '<td><a href="'+bus.url+ '">Enter</a> </td>'
     }) 
-    htmlStr += '<tr><td class="rowName"> Review </td>'
+    htmlStr += '<tr><td class="rowName" scope="row"> Review </td>'
     for(var i = 0; i < needInfo.length; i++){ 
         var text = review[i].reviews[0].text
         if (text === undefined){
@@ -1192,7 +1216,7 @@ function buiding(table, needInfo, review){
         }
         htmlStr += '<td>'+text +'</td>'
     }
-    htmlStr += '<tr><td class="rowName">  </td>'
+    htmlStr += '<tr><td class="rowName" scope="row">  </td>'
     for(var i = 0; i < needInfo.length; i++){ 
         var text = review[i].reviews[1].text
         if (text === undefined){
@@ -1200,7 +1224,7 @@ function buiding(table, needInfo, review){
         }
         htmlStr += '<td>'+text +'</td>'
     }
-    htmlStr += '<tr><td class="rowName">  </td>'
+    htmlStr += '<tr><td class="rowName" scope="row">  </td>'
     for(var i = 0; i < needInfo.length; i++){    
         var text = review[i].reviews[2].text
         if (text === undefined){

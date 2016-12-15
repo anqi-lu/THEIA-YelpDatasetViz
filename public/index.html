@@ -2,7 +2,6 @@
 <html lang="en">
 
 <head>
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -25,12 +24,6 @@
     <!-- Theme CSS -->
     <link href="style/css/creative.min.css" rel="stylesheet">
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
 <style>
     img {
         min-height:  100%;
@@ -43,26 +36,12 @@
         table-layout:fixed;
     }
 
-    #list_search{
-        /*
-        position: absolute;
-        right: 300px;
-        top: 100px;
-        */
-    }
-
     #getInfo{
-       /* position: absolute;
-        right: 300px;
-        top:200px;*/
-        display:none;
+        display: none;
     }
 
     /*this is the main table contain all comparing information*/
     #table{
-        /*position: absolute;
-        right: 300px;
-        top:100px;*/
         display: none;
         border-collapse:collapse;
         table-layout:fixed;
@@ -70,13 +49,11 @@
     }
 
     #table td {
-        /*border:solid 1px; */
         width:250px;
         word-wrap:break-word;}
 
 
     #table tr {
-        /*border:solid 1px; */
         width:200px;
         word-wrap:break-word;}
 
@@ -192,6 +169,9 @@
     #about{
         background-color: #66727f;
     }
+    #timeline{
+      margin-left: 50%;
+    }
 
 </style>
 </head>
@@ -236,7 +216,7 @@
             <div class="header-content-inner">
                 <h1 id="homeHeading">THEIA</h1>
                 <hr>
-                <p>Gain Insight of vast amount of businesses on Yelp.</p>
+                <p>Gain Insight of vast amount of businesses Yelp.</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
@@ -255,6 +235,7 @@
             </div>
         </div>
     </section>
+
     <aside id = 'search' class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
@@ -1285,12 +1266,10 @@ function buildList( A ) {
   var number = A.total
   //constructs an array to hold elements
   tempInfo = A.businesses
-  //console.log(A.businesses)
   var el = document.getElementById('storeList');
   el.innerHTML = "";
   tempInfo.forEach(function(e){
       allSearchedInfo[e.id] = e
-      //console.log(e.name)
       el.innerHTML +=  '<label><input type="checkbox" value="'+ e.id + '/' + e.name + '"  class="store">'+e.name+'</label>'
       el.innerHTML += '<br>'
   })

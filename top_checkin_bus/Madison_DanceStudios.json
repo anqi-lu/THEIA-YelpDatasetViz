@@ -1,0 +1,33 @@
+[
+  {
+    "business_id": "UcamNj85k9VRdB_JaAz1zA", 
+    "business_name": "Dance Life Studio & Fitness", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-6": 1, 
+      "15-0": 1, 
+      "15-1": 2, 
+      "15-2": 2, 
+      "15-3": 2, 
+      "17-0": 1, 
+      "19-4": 1, 
+      "6-5": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "cbmgAeDgxFil6lKadLehsA", 
+    "business_name": "Kanopy Dance Company", 
+    "checkin_info": {
+      "17-0": 3, 
+      "17-2": 2, 
+      "18-5": 1, 
+      "19-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }
+]

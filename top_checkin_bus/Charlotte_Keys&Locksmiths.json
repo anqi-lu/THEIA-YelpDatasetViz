@@ -1,0 +1,28 @@
+[
+  {
+    "business_id": "yGs5-mTDVMwdF3F6qCzVpg", 
+    "business_name": "Eastway Lock & Key, Inc", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-4": 1, 
+      "6-1": 1, 
+      "7-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "djUOCI3b88i3pf0uDTk-1Q", 
+    "business_name": "Park Road Lock and Key Shop", 
+    "checkin_info": {
+      "11-5": 1, 
+      "14-3": 1, 
+      "9-0": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

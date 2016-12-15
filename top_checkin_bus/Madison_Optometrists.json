@@ -1,0 +1,125 @@
+[
+  {
+    "business_id": "wEObycryWb89BMjp5-QTwQ", 
+    "business_name": "Dean West Clinic", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-3": 1, 
+      "11-4": 1, 
+      "11-6": 1, 
+      "12-0": 1, 
+      "12-1": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "13-1": 1, 
+      "14-0": 2, 
+      "20-1": 1, 
+      "4-2": 1, 
+      "5-3": 1, 
+      "6-1": 2, 
+      "6-4": 1, 
+      "8-2": 1, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "N-NIiQWzqijSjbjdeU316Q", 
+    "business_name": "Eyemart Express", 
+    "checkin_info": {
+      "11-1": 2, 
+      "11-4": 1, 
+      "12-3": 1, 
+      "14-1": 1, 
+      "15-0": 2, 
+      "7-3": 1, 
+      "8-2": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "rTJbk4WAOPSh2WatyBq8gw", 
+    "business_name": "LensCrafters", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-1": 1, 
+      "11-4": 1, 
+      "11-6": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "07g8i6Dg_8iXXjzbGeITHw", 
+    "business_name": "EYEOPIA", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-1": 1, 
+      "12-1": 1, 
+      "15-3": 1, 
+      "16-3": 1, 
+      "18-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ggUi2hAXbCRph285lcritw", 
+    "business_name": "America's Best Contacts & Eyeglasses", 
+    "checkin_info": {
+      "13-0": 1, 
+      "14-0": 1, 
+      "14-4": 1, 
+      "15-1": 1, 
+      "16-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8j5fks9FJvMeqPqwLDUX1A", 
+    "business_name": "LensCrafters", 
+    "checkin_info": {
+      "10-0": 1, 
+      "12-5": 1, 
+      "14-4": 1, 
+      "16-0": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "vP7-03_-_NoNfwfeYADDPA", 
+    "business_name": "Isthmus Eye Care", 
+    "checkin_info": {
+      "12-1": 1, 
+      "6-4": 1, 
+      "7-3": 1, 
+      "8-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "p-M9_xIqI4v6gSUaPr7W3g", 
+    "business_name": "Eye Contact", 
+    "checkin_info": {
+      "10-1": 1, 
+      "14-1": 1, 
+      "14-5": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

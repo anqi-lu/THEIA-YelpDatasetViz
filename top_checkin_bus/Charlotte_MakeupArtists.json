@@ -1,0 +1,114 @@
+[
+  {
+    "business_id": "yHVC4YksYeGe7xOvqRk-XA", 
+    "business_name": "Gisoo Salon", 
+    "checkin_info": {
+      "10-4": 4, 
+      "10-5": 2, 
+      "11-5": 1, 
+      "12-1": 1, 
+      "12-5": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "14-1": 1, 
+      "14-5": 2, 
+      "15-2": 1, 
+      "16-1": 1, 
+      "17-3": 1, 
+      "21-0": 1, 
+      "6-4": 1, 
+      "6-5": 1, 
+      "7-1": 1, 
+      "7-4": 2, 
+      "8-4": 1, 
+      "8-5": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 27, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "g0fro7aL-AvHDiJUfdaNbg", 
+    "business_name": "Benefit Brow Bar at Belk", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "10-2": 1, 
+      "10-5": 4, 
+      "12-1": 1, 
+      "14-0": 2, 
+      "14-5": 2, 
+      "15-5": 1, 
+      "8-0": 1, 
+      "8-6": 1, 
+      "9-5": 2, 
+      "9-6": 1
+    }, 
+    "total_checkin": 18, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Pi4cykcf2A2FG6n3SFglxQ", 
+    "business_name": "MAC Cosmetics", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-0": 2, 
+      "11-1": 1, 
+      "12-1": 1, 
+      "12-6": 3, 
+      "13-5": 1, 
+      "14-3": 1, 
+      "15-0": 1, 
+      "16-4": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 14, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pUk-qg-gMUrNaLPFvmLWkw", 
+    "business_name": "Jeffre Scott", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-5": 1, 
+      "11-3": 1, 
+      "11-5": 2, 
+      "12-1": 1, 
+      "12-5": 1, 
+      "15-4": 2, 
+      "8-3": 1, 
+      "9-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "eL4bhh81HzK1SajzjuLjVg", 
+    "business_name": "Elle C Luxury", 
+    "checkin_info": {
+      "10-6": 2, 
+      "12-1": 1, 
+      "12-5": 1, 
+      "16-4": 1, 
+      "5-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "YbWhRWdF62UyP__4HAYj0A", 
+    "business_name": "The LALA Girl Makeup & Beauty Lounge", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-4": 1, 
+      "8-2": 1, 
+      "8-5": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

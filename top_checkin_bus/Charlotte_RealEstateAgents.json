@@ -1,0 +1,14 @@
+[
+  {
+    "business_id": "May0yMSFruaQ5tWUpUacHA", 
+    "business_name": "Savvy and Company", 
+    "checkin_info": {
+      "12-6": 1, 
+      "5-5": 1, 
+      "6-2": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

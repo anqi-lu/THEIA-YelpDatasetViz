@@ -1,0 +1,16 @@
+[
+  {
+    "business_id": "xYpgYf79bzT4z3YaakfQDA", 
+    "business_name": "John Powless Tennis Center", 
+    "checkin_info": {
+      "10-2": 1, 
+      "16-1": 4, 
+      "16-4": 1, 
+      "17-1": 2, 
+      "17-5": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

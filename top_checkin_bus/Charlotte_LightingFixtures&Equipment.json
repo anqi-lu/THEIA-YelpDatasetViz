@@ -1,0 +1,14 @@
+[
+  {
+    "business_id": "qhzNZWVpF8sE9GYWJF3aIA", 
+    "business_name": "Batteries Plus Bulbs", 
+    "checkin_info": {
+      "10-5": 1, 
+      "15-3": 2, 
+      "16-4": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

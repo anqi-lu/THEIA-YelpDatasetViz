@@ -1,0 +1,87 @@
+[
+  {
+    "business_id": "1rI0DyMCLppyISON3V3kcw", 
+    "business_name": "Odana Hills Dental", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-2": 2, 
+      "11-3": 1, 
+      "12-2": 4, 
+      "12-3": 1, 
+      "13-0": 2, 
+      "13-1": 2, 
+      "13-3": 1, 
+      "14-0": 1, 
+      "15-0": 2, 
+      "17-2": 1, 
+      "20-1": 1, 
+      "23-5": 1, 
+      "6-0": 1, 
+      "6-2": 1, 
+      "8-2": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 24, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "m_Y4sR9kH5B8uyStCpSKTA", 
+    "business_name": "Artisan Dental, LLC", 
+    "checkin_info": {
+      "10-1": 2, 
+      "19-2": 1, 
+      "20-6": 1, 
+      "4-0": 1, 
+      "4-3": 1, 
+      "5-0": 1, 
+      "5-1": 1, 
+      "5-2": 1, 
+      "6-1": 2, 
+      "6-2": 1, 
+      "6-3": 1, 
+      "7-3": 1, 
+      "8-3": 3, 
+      "9-4": 1
+    }, 
+    "total_checkin": 18, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "zrOu5byZO9GuGm3b6pdbnQ", 
+    "business_name": "University Hills Dental", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-2": 1, 
+      "14-0": 1, 
+      "17-6": 1, 
+      "9-2": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "DWnVV_l76GVyRLjhB0_wwA", 
+    "business_name": "Door Creek Dental", 
+    "checkin_info": {
+      "10-2": 1, 
+      "6-0": 1, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "dO84oZ6TtSU0zJO7zm2aug", 
+    "business_name": "Total Care Dental", 
+    "checkin_info": {
+      "15-4": 1, 
+      "15-6": 1, 
+      "7-3": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

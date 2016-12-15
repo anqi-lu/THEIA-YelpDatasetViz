@@ -1,0 +1,174 @@
+[
+  {
+    "business_id": "ZeX6bBZKs2e79uINUwCOJQ", 
+    "business_name": "Athari, DDS", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-1": 2, 
+      "10-2": 2, 
+      "10-3": 1, 
+      "10-4": 1, 
+      "11-1": 1, 
+      "11-2": 4, 
+      "11-4": 2, 
+      "12-0": 1, 
+      "12-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "13-1": 2, 
+      "13-2": 1, 
+      "14-0": 1, 
+      "14-1": 2, 
+      "14-2": 2, 
+      "14-3": 1, 
+      "15-1": 1, 
+      "15-2": 1, 
+      "15-3": 3, 
+      "15-4": 1, 
+      "16-0": 2, 
+      "16-2": 1, 
+      "16-3": 2, 
+      "16-4": 1, 
+      "17-0": 1, 
+      "17-1": 1, 
+      "17-2": 3, 
+      "17-3": 2, 
+      "17-4": 1, 
+      "20-3": 1, 
+      "8-0": 1, 
+      "8-2": 1, 
+      "8-3": 2, 
+      "9-2": 3, 
+      "9-3": 1
+    }, 
+    "total_checkin": 57, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "S86VOwedPT2zVgQV0ytcxw", 
+    "business_name": "Steven C Garhardt, DDS", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-3": 1, 
+      "12-2": 2, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "13-3": 2, 
+      "14-2": 2, 
+      "15-0": 1, 
+      "15-1": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "16-3": 1, 
+      "7-1": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-3": 3, 
+      "9-0": 2, 
+      "9-2": 1
+    }, 
+    "total_checkin": 24, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "kQ9gzjh29s_fha1ny6Fo5A", 
+    "business_name": "Eastern Canyon Dental", 
+    "checkin_info": {
+      "11-0": 1, 
+      "12-3": 1, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "14-1": 1, 
+      "15-3": 2, 
+      "15-4": 1, 
+      "15-5": 1, 
+      "8-0": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "4seHk-JJLK-5mXwJCmAXBQ", 
+    "business_name": "Choice Dental", 
+    "checkin_info": {
+      "10-1": 1, 
+      "12-0": 2, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "15-0": 1, 
+      "8-1": 1, 
+      "9-1": 2, 
+      "9-2": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "I6QkYdXUEp8ofiakZ8SCAg", 
+    "business_name": "Rainbow Dental Care", 
+    "checkin_info": {
+      "11-3": 2, 
+      "13-2": 1, 
+      "14-0": 2, 
+      "14-3": 1, 
+      "15-0": 1, 
+      "15-2": 1, 
+      "7-5": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ZH4XPVZdlAkBdm-5H32TSw", 
+    "business_name": "Red Rock Periodontics & Implantology", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-1": 1, 
+      "12-2": 2, 
+      "13-2": 1, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Ha7iuD6mXn3vxLu0lMHiRQ", 
+    "business_name": "Silver Creek Family Dental", 
+    "checkin_info": {
+      "13-1": 2, 
+      "8-0": 2, 
+      "8-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "ePqcytAWcPES7UFdsGgbaQ", 
+    "business_name": "Signature Dental", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-4": 1, 
+      "9-2": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "AWycuS11K_jI9j_6rIbuAQ", 
+    "business_name": "Aary Dental", 
+    "checkin_info": {
+      "11-1": 1, 
+      "11-3": 1, 
+      "13-3": 1, 
+      "9-0": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

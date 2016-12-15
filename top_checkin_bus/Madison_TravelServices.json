@@ -1,0 +1,13 @@
+[
+  {
+    "business_id": "3UVZlhPR8R7c0a1rNkHGCw", 
+    "business_name": "United Airlines", 
+    "checkin_info": {
+      "12-3": 1, 
+      "16-3": 1, 
+      "5-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

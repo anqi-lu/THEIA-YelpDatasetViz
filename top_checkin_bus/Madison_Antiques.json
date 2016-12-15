@@ -1,0 +1,124 @@
+[
+  {
+    "business_id": "BsZs0NuMmEFt-HTE0LU7uA", 
+    "business_name": "Retro Revolution", 
+    "checkin_info": {
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-0": 1, 
+      "12-6": 1, 
+      "13-2": 1, 
+      "13-6": 2, 
+      "14-4": 1, 
+      "14-6": 1, 
+      "15-5": 1, 
+      "16-3": 1, 
+      "16-4": 1, 
+      "18-5": 1, 
+      "19-2": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 16, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7CoEq0l62ysXcJuKibgENA", 
+    "business_name": "Odana Antiques & Fine Arts Center", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-5": 1, 
+      "11-6": 3, 
+      "12-4": 1, 
+      "12-6": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "8-5": 2, 
+      "9-1": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "psze2Qlw2_dEsFpDj0N08w", 
+    "business_name": "Antiques Mall Of Madison", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-0": 1, 
+      "12-0": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "13-6": 1, 
+      "14-0": 1, 
+      "14-5": 1, 
+      "19-4": 1, 
+      "7-6": 1, 
+      "8-1": 1, 
+      "9-6": 2
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "x9pglBo0UYkfje8ugC1OsQ", 
+    "business_name": "Habitat For Humanity Restore", 
+    "checkin_info": {
+      "10-5": 2, 
+      "12-5": 1, 
+      "13-5": 3, 
+      "14-3": 1, 
+      "7-5": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "YP5CW9kF92kdf-rgTISJeQ", 
+    "business_name": "Lazy Jane's Junk", 
+    "checkin_info": {
+      "10-5": 3, 
+      "10-6": 1, 
+      "12-5": 2, 
+      "13-5": 1, 
+      "8-6": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "u04z0ZSnYD4YKy1LCTZ8Hg", 
+    "business_name": "Afterlife Antiques & Oddities", 
+    "checkin_info": {
+      "11-5": 1, 
+      "11-6": 1, 
+      "15-5": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "AsIiDrphA6XzuMWijEPbtQ", 
+    "business_name": "Habitat For Humanity Restore West", 
+    "checkin_info": {
+      "12-2": 1, 
+      "15-1": 1, 
+      "7-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "XCxNvCeSVzibq8ANYyWYVw", 
+    "business_name": "Pieces Unimagined", 
+    "checkin_info": {
+      "11-6": 1, 
+      "13-5": 1, 
+      "13-6": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

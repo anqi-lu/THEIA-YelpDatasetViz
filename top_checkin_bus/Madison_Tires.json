@@ -1,0 +1,188 @@
+[
+  {
+    "business_id": "m-0PvFac1qIsX81xhYHWZg", 
+    "business_name": "Discount Tire Store - Madison, WI", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-4": 2, 
+      "10-5": 2, 
+      "11-0": 2, 
+      "11-5": 2, 
+      "12-2": 1, 
+      "12-5": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-5": 2, 
+      "14-3": 1, 
+      "15-1": 1, 
+      "15-2": 1, 
+      "15-4": 2, 
+      "15-5": 1, 
+      "16-5": 1, 
+      "6-4": 2, 
+      "6-5": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "7-5": 1, 
+      "8-0": 2, 
+      "8-1": 2, 
+      "8-5": 2, 
+      "9-0": 1, 
+      "9-1": 2, 
+      "9-5": 3
+    }, 
+    "total_checkin": 41, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-4y4TmS1BA-snz5wFnadiA", 
+    "business_name": "Blain's Farm & Fleet", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-0": 2, 
+      "11-6": 1, 
+      "12-4": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-5": 2, 
+      "13-6": 2, 
+      "14-0": 1, 
+      "15-0": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "15-5": 1, 
+      "15-6": 1, 
+      "16-0": 1, 
+      "16-4": 1, 
+      "17-5": 1, 
+      "18-1": 1, 
+      "7-2": 1, 
+      "7-5": 2, 
+      "8-1": 2, 
+      "8-5": 1, 
+      "9-2": 1, 
+      "9-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 30, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "cbodGg8dt0gZpdtrQBgduQ", 
+    "business_name": "Chet's Car Care", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-0": 1, 
+      "11-4": 1, 
+      "12-0": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "13-0": 2, 
+      "13-3": 1, 
+      "14-0": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "20-3": 1, 
+      "5-1": 1, 
+      "6-1": 5, 
+      "6-4": 1, 
+      "7-0": 1, 
+      "7-2": 2
+    }, 
+    "total_checkin": 23, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "1rfWLxrk1q7k5oORhn9aiw", 
+    "business_name": "Budd's Auto Repair", 
+    "checkin_info": {
+      "10-4": 1, 
+      "13-1": 1, 
+      "13-4": 1, 
+      "15-2": 1, 
+      "15-3": 2, 
+      "7-1": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "zHdt_KW2QqgJJ9bLmtShdQ", 
+    "business_name": "Tires Plus", 
+    "checkin_info": {
+      "10-1": 1, 
+      "12-2": 1, 
+      "17-4": 1, 
+      "6-0": 1, 
+      "8-5": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "naVIabeCBx6f4I0T8ARl7g", 
+    "business_name": "Cycle Gear", 
+    "checkin_info": {
+      "11-6": 1, 
+      "12-6": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "16-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pVbEQv1TNgLuGcG_895K1g", 
+    "business_name": "Tires Plus", 
+    "checkin_info": {
+      "11-4": 2, 
+      "12-1": 1, 
+      "12-6": 1, 
+      "5-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "nMWzwFu1QZ4lsGFg-F1Ltw", 
+    "business_name": "Terry's Car Care", 
+    "checkin_info": {
+      "14-2": 1, 
+      "21-2": 1, 
+      "6-3": 1, 
+      "7-2": 1, 
+      "8-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "eogDKV-Bp2sj4JylS7q_0w", 
+    "business_name": "Jiffy Lube", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-1": 1, 
+      "14-2": 1, 
+      "6-2": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "6veME2D8jNfyX-_YQJkJVw", 
+    "business_name": "Capitol Tire and Service", 
+    "checkin_info": {
+      "12-2": 1, 
+      "13-1": 1, 
+      "7-2": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

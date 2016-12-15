@@ -1,0 +1,63 @@
+[
+  {
+    "business_id": "Ia0Ri_qRKDDWaGAwZ5spug", 
+    "business_name": "Phoenix Spy Shop", 
+    "checkin_info": {
+      "12-0": 2, 
+      "15-1": 1, 
+      "16-4": 2, 
+      "17-2": 1, 
+      "19-5": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "zsZLbP5oWFpvwYPLmIBfTw", 
+    "business_name": "Lanza AV Home Theater and Security", 
+    "checkin_info": {
+      "10-3": 1, 
+      "14-4": 1, 
+      "17-0": 1, 
+      "20-3": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "tAdd__IgXQEknDDicEbRgQ", 
+    "business_name": "JPG Home Security and Consulting", 
+    "checkin_info": {
+      "10-2": 1, 
+      "13-4": 1, 
+      "14-3": 1, 
+      "18-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "jvkzD8D1mPB5Rpg5MVIE7Q", 
+    "business_name": "The Wilderness Tactical Products", 
+    "checkin_info": {
+      "11-2": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "17-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "G_Ytz8gKasuDgfRPQ4LPDQ", 
+    "business_name": "Hicks Safe & Locks", 
+    "checkin_info": {
+      "10-0": 1, 
+      "13-3": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

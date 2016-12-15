@@ -1,0 +1,100 @@
+[
+  {
+    "business_id": "J9alzzAI9hWJOCqL_c-qpg", 
+    "business_name": "Tisun Beauty Supply", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-3": 2, 
+      "10-5": 1, 
+      "11-1": 1, 
+      "11-3": 2, 
+      "11-4": 2, 
+      "11-5": 3, 
+      "11-6": 3, 
+      "12-1": 1, 
+      "12-4": 4, 
+      "12-5": 2, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "13-4": 2, 
+      "13-5": 2, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "14-4": 1, 
+      "14-5": 1, 
+      "15-0": 1, 
+      "15-2": 2, 
+      "15-4": 1, 
+      "15-5": 2, 
+      "16-1": 3, 
+      "16-3": 2, 
+      "16-5": 3, 
+      "6-0": 1, 
+      "6-5": 1, 
+      "7-3": 1, 
+      "8-1": 2, 
+      "8-3": 1, 
+      "8-4": 2, 
+      "8-5": 1, 
+      "9-0": 1, 
+      "9-1": 1, 
+      "9-3": 1, 
+      "9-4": 2, 
+      "9-5": 2, 
+      "9-6": 1
+    }, 
+    "total_checkin": 64, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "MXLFlk7FcN6wvrNhs9q31w", 
+    "business_name": "Styles by Shawn", 
+    "checkin_info": {
+      "10-3": 2, 
+      "11-2": 1, 
+      "12-3": 3, 
+      "17-4": 1, 
+      "18-0": 2, 
+      "18-1": 1, 
+      "20-2": 1, 
+      "21-5": 1, 
+      "6-4": 2, 
+      "7-3": 2, 
+      "7-4": 6, 
+      "8-4": 3, 
+      "9-4": 1
+    }, 
+    "total_checkin": 26, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "nXlFgykb88yFJGQhfKizRQ", 
+    "business_name": "Elom's Braiding", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-3": 1, 
+      "12-0": 1, 
+      "16-2": 1, 
+      "20-5": 1, 
+      "4-5": 1, 
+      "8-0": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "QgrcWn1Rdik2dm1qQp5ETg", 
+    "business_name": "Agou Hair Braiding Boutique", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-5": 1, 
+      "12-3": 1, 
+      "13-3": 1, 
+      "8-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

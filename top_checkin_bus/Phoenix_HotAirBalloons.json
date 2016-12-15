@@ -1,0 +1,77 @@
+[
+  {
+    "business_id": "rcyO0WSXanfEnWBBh4CCNA", 
+    "business_name": "Rainbow Ryders, Inc Hot Air Balloon Company", 
+    "checkin_info": {
+      "12-2": 1, 
+      "12-5": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-6": 1, 
+      "14-5": 2, 
+      "15-4": 1, 
+      "16-1": 2, 
+      "17-4": 1, 
+      "19-5": 1, 
+      "20-2": 1, 
+      "23-6": 1, 
+      "4-0": 1, 
+      "4-1": 1, 
+      "4-3": 2, 
+      "5-0": 1, 
+      "5-5": 4, 
+      "5-6": 2, 
+      "6-3": 1, 
+      "6-5": 2, 
+      "7-3": 1, 
+      "7-6": 1, 
+      "8-1": 1, 
+      "8-3": 2, 
+      "8-5": 1, 
+      "8-6": 2, 
+      "9-2": 1
+    }, 
+    "total_checkin": 39, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "jY2Dj6UixJajR9S7reqwZQ", 
+    "business_name": "Float Balloon Tours", 
+    "checkin_info": {
+      "10-0": 1, 
+      "12-5": 1, 
+      "19-1": 1, 
+      "6-6": 1, 
+      "8-6": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "VBR6tgSt87VGZTNqam3bWg", 
+    "business_name": "Apex Balloons", 
+    "checkin_info": {
+      "11-5": 1, 
+      "13-1": 1, 
+      "7-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "IlY3OWLK4jQ73OdNTZuAXg", 
+    "business_name": "2 Fly Us Hot Air Balloon Rides", 
+    "checkin_info": {
+      "10-0": 1, 
+      "5-1": 1, 
+      "5-6": 1, 
+      "7-6": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

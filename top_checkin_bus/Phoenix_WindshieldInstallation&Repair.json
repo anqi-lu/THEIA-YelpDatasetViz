@@ -1,0 +1,102 @@
+[
+  {
+    "business_id": "ahYjbOzQOlAohsrM4N-mDg", 
+    "business_name": "Blue Chip Auto Glass", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "11-4": 2, 
+      "13-2": 1, 
+      "14-4": 1, 
+      "15-0": 2, 
+      "15-1": 1, 
+      "15-4": 1, 
+      "16-1": 1, 
+      "23-0": 1, 
+      "5-1": 1, 
+      "7-2": 1, 
+      "7-4": 1, 
+      "8-0": 1, 
+      "9-0": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 18, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "kkBMTNET2xgHCW-cnNwKxA", 
+    "business_name": "Safelite AutoGlass", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-2": 1, 
+      "10-4": 1, 
+      "10-5": 1, 
+      "10-6": 1, 
+      "11-0": 1, 
+      "11-4": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "21-1": 1, 
+      "6-3": 1, 
+      "6-6": 1, 
+      "8-2": 1, 
+      "9-0": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 17, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-mQ8to8Y4MSMS5tIjgsV3g", 
+    "business_name": "Safelite AutoGlass", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 1, 
+      "12-2": 1, 
+      "13-5": 1, 
+      "15-2": 1, 
+      "16-2": 1, 
+      "17-1": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "rrrLGJs2Tn1kGSxNi383Hw", 
+    "business_name": "Marcos Window Tinting", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-3": 1, 
+      "15-2": 1, 
+      "22-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "_FSxdtCqE2t0F591_AEShg", 
+    "business_name": "Auto Glass Perfection", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-0": 1, 
+      "7-4": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "JVK7LeioYEO5d9ulCme6RQ", 
+    "business_name": "Auto Glass Now - Phoenix", 
+    "checkin_info": {
+      "11-2": 1, 
+      "13-5": 1, 
+      "6-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "business_id": "VVaFe7oIw59MKceeDRX6NQ", 
+    "business_name": "Sears Outlet", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "10-5": 2, 
+      "11-2": 1, 
+      "11-5": 1, 
+      "12-2": 1, 
+      "12-6": 1, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "13-6": 4, 
+      "14-6": 1, 
+      "15-5": 1, 
+      "15-6": 1, 
+      "9-2": 1, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "OuDX-cebksa-nSlEfxIK6Q", 
+    "business_name": "Oreck Vacuums", 
+    "checkin_info": {
+      "15-3": 2, 
+      "6-5": 1, 
+      "7-2": 1, 
+      "7-4": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

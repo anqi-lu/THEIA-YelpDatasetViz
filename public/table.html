@@ -12,9 +12,9 @@
     #list{
         position: absolute;
         right: 300px;
-        top: 100px;       
+        top: 100px;
     }
-    
+
     #getInfo{
         position: absolute;
         right: 300px;
@@ -84,6 +84,7 @@
   
  <table id='table'></table>
 <button id="getInfo" onclick="getReview()">Compare</button>     
+
 </body>
 <script>
 var checkedValue = [] //stroed checked values
@@ -151,6 +152,7 @@ function getReview(){
 }
     
 function handleGetReview(req) {
+
   if( req.readyState !== XMLHttpRequest.DONE )
     return;
   if(req.status === 200)
@@ -338,6 +340,7 @@ function buiding(table, needInfo, review){
     table.innerHTML = htmlStr
 }
 
+
 //get id and add to comparing list
 function getname(){
     checkedValue = []
@@ -350,12 +353,12 @@ function getname(){
     if (checkedValue.length > 5){
         alert("Choose at most five stores")
         return
-    } 
+    }
     //console.log(checkedValue)
     for(var i = 0; i< checkedValue.length; i++){
         var str = checkedValue[i].split('/');
         idname[str[0]] = str[1]
-    }    
+    }
         console.log(idname)
         var table = document.getElementById('list');
         for(var key in idname){
@@ -363,10 +366,11 @@ function getname(){
             needInfo.push(allSearchedInfo[key])
             table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
         }
-        document.getElementById('getInfo').style.display = 'inline'  
+        document.getElementById('getInfo').style.display = 'inline'
         //console.log("key ")
         console.log(ids)
     //console.log(checkedValue)  
+
 }
 
 //search based on user entered information to get simple information

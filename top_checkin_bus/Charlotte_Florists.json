@@ -1,0 +1,45 @@
+[
+  {
+    "business_id": "1Ro2jyDDJdqjsCS8CAisnA", 
+    "business_name": "Flowers Plus", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 2, 
+      "10-4": 1, 
+      "11-1": 1, 
+      "11-2": 1, 
+      "12-0": 1, 
+      "12-4": 1, 
+      "13-3": 1, 
+      "14-1": 1, 
+      "14-6": 1, 
+      "6-6": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "IlCWnfPM8pUhw4h4wCazpQ", 
+    "business_name": "The Blossom Shop", 
+    "checkin_info": {
+      "10-4": 1, 
+      "13-2": 1, 
+      "14-3": 1, 
+      "8-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "hjH27kmQDuF-u8o0HLc3tA", 
+    "business_name": "Edible Arrangements", 
+    "checkin_info": {
+      "11-3": 1, 
+      "12-3": 2, 
+      "8-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

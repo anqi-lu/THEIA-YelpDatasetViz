@@ -1,120 +1,88 @@
-<html lang="en">
-  <head>
-    <title>CS4241 Final Project Proposal</title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
-    html {
-        font-family: sans-serif;
-        -ms-text-size-adjust: 100%;
-        -webkit-text-size-adjust: 100%}
-    body {
-        margin: 0;
-    }
-    p, h2, h3 {
-        orphans: 3;
-        widows: 3;
-    }
-    .container {
-        position: relative;
-        min-height: 1px;
-        padding-left: 100px;
-        padding-right: 100px;
-    }
-    .jumbotron {
-        padding: 30px;
-        margin-bottom: 30px;
-        color: inherit;
-        background-color: #eee;
-    }
-    .jumbotron h1, .jumbotron .h1 {
-        color: inherit;
-    }
-    .jumbotron p {
-        margin-bottom: 15px;
-        font-size: 21px;
-        font-weight: 200;
-    }
-    .container .jumbotron {
-        border-radius: 6px;
-    }
-    .jumbotron .container {
-        max-width: 100%;
-        padding-top: 48px;
-        padding-bottom: 48px;
-    }
-    .container .jumbotron {
-        padding-left: 60px;
-        padding-right: 60px;
-    }
-    .jumbotron h1, .jumbotron .h1 {
-        font-size: 63px;
-    }
-    ul{
-      padding: 5px;
-    }
-    li{
-      padding: 5px;
-    }
-    </style>
-  </head>
-  <body>
-    <div class="jumbotron">
-      <div class="container">
-        <h1>CS4241 Final Project Proposal</h1>
-        <h2>Anqi Lu, Ziyan Ding</h2>
-        <p>
-          Overview: Visualize Yelp Dataset Challenge!
-        </p>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<canvas width="1500" height="800"></canvas>
+<style>
+.title{
+  font-family: sans-serif;
+  font-size: 20px;
+  position: absolute;
+  top: 300px;
+  text-align: center;
+  margin-left: 45%;
+  margin-right: auto;
+}
 
-      </div>
-    </div>
+</style>
+<script>
 
-    <div class="container">
-      <h2>Purpose</h2>
-        <p>Discover the trend in businesses and customer reviews. Might be able to provide insight in future business decisions.</p>
-      <br></br>
-      <h2>Visualization Breakdown</h2>
-      <ol>
-        <li>Regions breakdown:</li>
-          <ul>
-            <li>Popularity of different types of businesses across different states in the US</li>
-            <li>Idea for visualization: map of US states with different shades of same color </li>
-            <li>US map containing 6 cities that can be clicked on</li>
-            <li>Once click on one particular city, it will show the summary information about the region’s business </li>
-          </ul>
-        <li>Season breakdown:</li>
-          <ul>
-            <li>Popularity of different types of businesses at different seasons</li>
-          </ul>
-        <li>Popular categories:</li>
-          <ul>
-            <li>Extract the most popular categories</li>
-          </ul>
-        <li>Popular individual businesses: </li>
-          <ul>
-            <li>Extract the most popular individual businesses</li>
-          </ul>
-        <li>Reviews Analysis:</li>
-          <ul>
-            <li>Analyze the review over the time (rating vs time )</li>
-            <li>Review distribution</li>
-            <li>Extract most frequent words in user review data</li>
-          </ul>
-        <li>Comparing different shops(may be restaurants)</li>
-          <ul>
-            <li>Price</li>
-            <li>Facilities</li>
-            <li>Ratings(May use review trend)</li>
-            <li>Photos(* Maybe?)</li>
-          </ul>
-      </ol>
-      <br></br>
-      <h2>Tools and Technique</h2>
-      <ul>
-        <li>D3.js: JavaScript library for visualizing data</li>
-        <li>NodeJS: JavaScript runtime environment</li>
-        <li>Clusterfck: JavaScript library for K-means and hierarchical clustering</li>
-      </ul>
+/* https://github.com/d3/d3-timer Copyright 2015 Mike Bostock */
+"undefined"==typeof requestAnimationFrame&&(requestAnimationFrame="undefined"!=typeof window&&(window.msRequestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.oRequestAnimationFrame)||function(e){return setTimeout(e,17)}),function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n(exports):"function"==typeof define&&define.amd?define(["exports"],n):n(e.timer={})}(this,function(e){"use strict";function n(){r=m=0,c=1/0,t(u())}function t(e){if(!r){var t=e-Date.now();t>24?c>e&&(m&&clearTimeout(m),m=setTimeout(n,t),c=e):(m&&(m=clearTimeout(m),c=1/0),r=requestAnimationFrame(n))}}function i(e,n,i){i=null==i?Date.now():+i,null!=n&&(i+=+n);var o={callback:e,time:i,flush:!1,next:null};a?a.next=o:f=o,a=o,t(i)}function o(e,n,t){t=null==t?Date.now():+t,null!=n&&(t+=+n),l.callback=e,l.time=t}function u(e){e=null==e?Date.now():+e;var n=l;for(l=f;l;)e>=l.time&&(l.flush=l.callback(e-l.time,e)),l=l.next;l=n,e=1/0;for(var t,i=f;i;)i.flush?i=t?t.next=i.next:f=i.next:(i.time<e&&(e=i.time),i=(t=i).next);return a=t,e}var a,m,r,f,l,c=1/0;e.timer=i,e.timerReplace=o,e.timerFlush=u});
+
+var canvas = document.querySelector("canvas"),
+    context = canvas.getContext("2d"),
+    width = canvas.width,
+    height = canvas.height,
+    radius = 2.5,
+    minDistance = 70,
+    maxDistance = 90,
+    minDistance2 = minDistance * minDistance,
+    maxDistance2 = maxDistance * maxDistance;
+
+var tau = 2 * Math.PI,
+    n = 300,
+    particles = new Array(n);
+
+for (var i = 0; i < n; ++i) {
+  particles[i] = {
+    x: Math.random() * width,
+    y: Math.random() * height,
+    vx: 0,
+    vy: 0
+  };
+}
+
+timer.timer(function(elapsed) {
+  context.save();
+  context.clearRect(0, 0, width, height);
+
+  for (var i = 0; i < n; ++i) {
+    var p = particles[i];
+    p.x += p.vx; if (p.x < -maxDistance) p.x += width + maxDistance * 2; else if (p.x > width + maxDistance) p.x -= width + maxDistance * 2;
+    p.y += p.vy; if (p.y < -maxDistance) p.y += height + maxDistance * 2; else if (p.y > height + maxDistance) p.y -= height + maxDistance * 2;
+    p.vx += 0.2 * (Math.random() - .5) - 0.01 * p.vx;
+    p.vy += 0.2 * (Math.random() - .5) - 0.01 * p.vy;
+    context.beginPath();
+    context.arc(p.x, p.y, radius, 0, tau);
+    context.fill();
+  }
+
+  for (var i = 0; i < n; ++i) {
+    for (var j = i + 1; j < n; ++j) {
+      var pi = particles[i],
+          pj = particles[j],
+          dx = pi.x - pj.x,
+          dy = pi.y - pj.y,
+          d2 = dx * dx + dy * dy;
+      if (d2 < maxDistance2) {
+        context.globalAlpha = d2 > minDistance2 ? (maxDistance2 - d2) / (maxDistance2 - minDistance2) : 1;
+        context.beginPath();
+        context.moveTo(pi.x, pi.y);
+        context.lineTo(pj.x, pj.y);
+        context.stroke();
+      }
+    }
+  }
+
+  context.restore();
+});
+
+</script>
+<body>
+  <div class="title">
+    <a href="zoomableTM.html">Explore</a>
+    <h1>THEIA</h1>
+    <a href="table.html">Compare</a>
+</div>
+</body>
 </html>

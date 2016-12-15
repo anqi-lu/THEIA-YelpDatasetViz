@@ -1,0 +1,33 @@
+[
+  {
+    "business_id": "czwUB_e_6OWizjg-sT_J9Q", 
+    "business_name": "Sandra Simmons-Boyd, DDS", 
+    "checkin_info": {
+      "11-1": 1, 
+      "11-3": 1, 
+      "12-3": 2, 
+      "13-3": 1, 
+      "6-1": 1, 
+      "6-2": 1, 
+      "7-1": 4, 
+      "7-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "P_ztAJRh7KuroLAHa3-ULQ", 
+    "business_name": "Southpark Oral Surgery", 
+    "checkin_info": {
+      "11-3": 1, 
+      "18-4": 1, 
+      "5-3": 1, 
+      "7-2": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

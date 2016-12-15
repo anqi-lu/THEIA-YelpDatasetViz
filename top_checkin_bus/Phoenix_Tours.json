@@ -1,0 +1,192 @@
+[
+  {
+    "business_id": "MvQWtqT6jXjaSW9qgDQBqQ", 
+    "business_name": "Hot Air Expeditions", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-5": 2, 
+      "13-2": 1, 
+      "13-3": 1, 
+      "14-3": 1, 
+      "14-4": 1, 
+      "15-2": 1, 
+      "15-6": 1, 
+      "16-4": 2, 
+      "18-3": 1, 
+      "18-4": 1, 
+      "20-0": 1, 
+      "20-5": 1, 
+      "4-3": 1, 
+      "5-0": 1, 
+      "5-1": 1, 
+      "5-3": 1, 
+      "5-5": 2, 
+      "5-6": 1, 
+      "6-0": 1, 
+      "6-1": 1, 
+      "6-2": 1, 
+      "6-5": 1, 
+      "6-6": 2, 
+      "7-3": 1, 
+      "7-4": 1, 
+      "7-6": 2, 
+      "8-2": 1, 
+      "8-3": 1, 
+      "8-4": 2, 
+      "8-6": 4, 
+      "9-0": 2, 
+      "9-4": 2, 
+      "9-6": 1
+    }, 
+    "total_checkin": 45, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "rcyO0WSXanfEnWBBh4CCNA", 
+    "business_name": "Rainbow Ryders, Inc Hot Air Balloon Company", 
+    "checkin_info": {
+      "12-2": 1, 
+      "12-5": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "13-6": 1, 
+      "14-5": 2, 
+      "15-4": 1, 
+      "16-1": 2, 
+      "17-4": 1, 
+      "19-5": 1, 
+      "20-2": 1, 
+      "23-6": 1, 
+      "4-0": 1, 
+      "4-1": 1, 
+      "4-3": 2, 
+      "5-0": 1, 
+      "5-5": 4, 
+      "5-6": 2, 
+      "6-3": 1, 
+      "6-5": 2, 
+      "7-3": 1, 
+      "7-6": 1, 
+      "8-1": 1, 
+      "8-3": 2, 
+      "8-5": 1, 
+      "8-6": 2, 
+      "9-2": 1
+    }, 
+    "total_checkin": 39, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "dF8S01hm5qPVLOqPVBgq6A", 
+    "business_name": "Across Arizona Tours", 
+    "checkin_info": {
+      "11-2": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "13-0": 2, 
+      "15-0": 1, 
+      "15-3": 1, 
+      "16-3": 2, 
+      "17-2": 1, 
+      "17-6": 1, 
+      "18-2": 2, 
+      "18-5": 1, 
+      "19-1": 1, 
+      "19-5": 1, 
+      "19-6": 1, 
+      "20-0": 1, 
+      "20-4": 1, 
+      "20-5": 1, 
+      "23-6": 1, 
+      "7-5": 2, 
+      "8-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 25, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "jY2Dj6UixJajR9S7reqwZQ", 
+    "business_name": "Float Balloon Tours", 
+    "checkin_info": {
+      "10-0": 1, 
+      "12-5": 1, 
+      "19-1": 1, 
+      "6-6": 1, 
+      "8-6": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "IlY3OWLK4jQ73OdNTZuAXg", 
+    "business_name": "2 Fly Us Hot Air Balloon Rides", 
+    "checkin_info": {
+      "10-0": 1, 
+      "5-1": 1, 
+      "5-6": 1, 
+      "7-6": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "H1TQerQIskjYXwmzj1i1Nw", 
+    "business_name": "Phoenix Ghost Tours", 
+    "checkin_info": {
+      "14-4": 1, 
+      "20-5": 2, 
+      "8-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "VBR6tgSt87VGZTNqam3bWg", 
+    "business_name": "Apex Balloons", 
+    "checkin_info": {
+      "11-5": 1, 
+      "13-1": 1, 
+      "7-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "iXCY1SOmZea_PISt5LEkjg", 
+    "business_name": "Arizona Brewery Tours", 
+    "checkin_info": {
+      "12-5": 1, 
+      "19-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "A-FuRqlbOMK3Lxe5wylz4Q", 
+    "business_name": "Westwind Air Service", 
+    "checkin_info": {
+      "14-6": 1, 
+      "15-5": 1, 
+      "16-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "b8Bkm7-a1FNRjZGB-szEzg", 
+    "business_name": "Vaughans Southwest Custom Tours", 
+    "checkin_info": {
+      "14-3": 1, 
+      "23-0": 1, 
+      "7-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

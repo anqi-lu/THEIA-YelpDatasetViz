@@ -1,0 +1,22 @@
+[
+  {
+    "business_id": "C6mLpOwFF9RD1fLVlL_htA", 
+    "business_name": "Greenapple Sports & Wellness", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-2": 1, 
+      "12-1": 1, 
+      "5-0": 2, 
+      "6-2": 2, 
+      "7-0": 2, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "7-3": 3, 
+      "8-1": 1, 
+      "8-2": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 17, 
+    "type": "checkin"
+  }
+]

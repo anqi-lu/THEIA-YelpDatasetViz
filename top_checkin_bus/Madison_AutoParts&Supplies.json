@@ -1,0 +1,53 @@
+[
+  {
+    "business_id": "naVIabeCBx6f4I0T8ARl7g", 
+    "business_name": "Cycle Gear", 
+    "checkin_info": {
+      "11-6": 1, 
+      "12-6": 1, 
+      "16-0": 1, 
+      "16-1": 1, 
+      "16-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "hzplsnl4j4ygX6kVZdwrog", 
+    "business_name": "Harbor Freight", 
+    "checkin_info": {
+      "11-6": 1, 
+      "14-6": 1, 
+      "18-1": 1, 
+      "8-4": 1, 
+      "8-6": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Oz5q0yRBlu1EwRurhdgXog", 
+    "business_name": "Zimbrick Hyundai Eastside", 
+    "checkin_info": {
+      "10-3": 1, 
+      "10-5": 1, 
+      "13-2": 1, 
+      "16-2": 1, 
+      "18-3": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "iL3oi5msyKjvJ1opSc-DHA", 
+    "business_name": "O'reilly Auto Parts", 
+    "checkin_info": {
+      "13-2": 1, 
+      "15-2": 1, 
+      "6-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

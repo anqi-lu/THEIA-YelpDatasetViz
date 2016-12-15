@@ -1,0 +1,158 @@
+[
+  {
+    "business_id": "NXvSn-78mqOK3mBJpVSLZA", 
+    "business_name": "Steinhafels Furniture", 
+    "checkin_info": {
+      "1-1": 1, 
+      "10-2": 1, 
+      "11-5": 1, 
+      "11-6": 2, 
+      "12-5": 1, 
+      "13-5": 1, 
+      "14-5": 1, 
+      "14-6": 1, 
+      "15-5": 1, 
+      "16-1": 1, 
+      "17-2": 2, 
+      "18-5": 1, 
+      "5-0": 1, 
+      "7-2": 1, 
+      "9-2": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "lg1YA74CwLsclHRlZ1PLkw", 
+    "business_name": "Art Gecko on Monroe", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-4": 2, 
+      "10-5": 1, 
+      "11-4": 1, 
+      "12-4": 1, 
+      "13-1": 2, 
+      "13-2": 1, 
+      "14-1": 1, 
+      "14-3": 1, 
+      "14-6": 1, 
+      "15-2": 1, 
+      "16-2": 1, 
+      "17-0": 1, 
+      "19-0": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 19, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pGb32r9TP7mdr801igJYOA", 
+    "business_name": "American Tv Appliance & Furniture", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-4": 1, 
+      "14-3": 2, 
+      "15-4": 1, 
+      "16-3": 1, 
+      "17-0": 1, 
+      "17-6": 1, 
+      "6-3": 1, 
+      "8-0": 1, 
+      "8-4": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "zgv0at8LGM6cmcyGWwBHiw", 
+    "business_name": "The Cozy Home", 
+    "checkin_info": {
+      "10-1": 1, 
+      "14-5": 1, 
+      "15-3": 1, 
+      "8-5": 1, 
+      "8-6": 1, 
+      "9-2": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "rznwnsLgK8H3Kr0R31c7nw", 
+    "business_name": "A1 Furniture & Mattress", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-1": 1, 
+      "11-5": 1, 
+      "13-5": 1, 
+      "6-5": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "WMsq8J8yoV3ekey9bq_VaQ", 
+    "business_name": "Ashley HomeStore", 
+    "checkin_info": {
+      "10-6": 1, 
+      "14-6": 1, 
+      "17-1": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "AzK5N3C1KP3TU45f-WV3eQ", 
+    "business_name": "Ashley Furniture HomeStore", 
+    "checkin_info": {
+      "15-5": 1, 
+      "16-5": 1, 
+      "17-4": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "XCxNvCeSVzibq8ANYyWYVw", 
+    "business_name": "Pieces Unimagined", 
+    "checkin_info": {
+      "11-6": 1, 
+      "13-5": 1, 
+      "13-6": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "icDyD_-bONBSgWlIUfuFZQ", 
+    "business_name": "RLifestyle", 
+    "checkin_info": {
+      "13-1": 1, 
+      "14-5": 1, 
+      "14-6": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "XRSKxJ_qmo_fmbnTrjOKAg", 
+    "business_name": "La-Z-Boy Furniture Galleries", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-1": 1, 
+      "15-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

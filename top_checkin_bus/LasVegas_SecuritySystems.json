@@ -1,0 +1,64 @@
+[
+  {
+    "business_id": "j9-7xr3QQnSsmOqm7zJdQA", 
+    "business_name": "A&B Security Safe and Lock", 
+    "checkin_info": {
+      "13-2": 1, 
+      "14-3": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "16-2": 1, 
+      "6-0": 1, 
+      "6-2": 1, 
+      "7-4": 1, 
+      "8-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-O1yF6DQnlqoNfAoAQuBpw", 
+    "business_name": "The Safe Keeper", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-3": 1, 
+      "11-4": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "14-5": 1, 
+      "15-5": 1, 
+      "21-1": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "B9Ceiwb2tlTFCkS8wwcpUQ", 
+    "business_name": "Freedom Medical Supply", 
+    "checkin_info": {
+      "11-1": 1, 
+      "12-0": 1, 
+      "12-5": 1, 
+      "13-1": 1, 
+      "13-2": 1, 
+      "14-2": 1, 
+      "15-2": 2
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SwqV10bRnwJ2u_6EyxSRJA", 
+    "business_name": "Fox's Spy Outlet", 
+    "checkin_info": {
+      "11-5": 1, 
+      "14-0": 1, 
+      "14-5": 1, 
+      "16-3": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }
+]

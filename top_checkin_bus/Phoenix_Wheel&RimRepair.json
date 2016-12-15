@@ -1,0 +1,56 @@
+[
+  {
+    "business_id": "lutaoniYrzENl8O78YAxFA", 
+    "business_name": "Big O Tires Store", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-3": 2, 
+      "11-4": 1, 
+      "12-0": 1, 
+      "12-1": 1, 
+      "13-1": 1, 
+      "13-4": 1, 
+      "14-2": 2, 
+      "15-2": 1, 
+      "15-6": 1, 
+      "16-0": 1, 
+      "16-3": 1, 
+      "16-4": 1, 
+      "17-0": 1, 
+      "17-1": 1, 
+      "19-1": 1, 
+      "20-4": 1, 
+      "7-0": 1, 
+      "7-2": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 24, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "RFqv3ro7KLYNLlmi7VizGA", 
+    "business_name": "Fresh Wheels Alloy Wheel Repair and Refurbishing", 
+    "checkin_info": {
+      "14-0": 1, 
+      "15-4": 1, 
+      "20-5": 1, 
+      "8-6": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "VooTywbbt5zhpk7k2skTOg", 
+    "business_name": "Hernandez Tires", 
+    "checkin_info": {
+      "12-3": 1, 
+      "7-6": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

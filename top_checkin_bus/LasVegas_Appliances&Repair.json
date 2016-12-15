@@ -1,0 +1,139 @@
+[
+  {
+    "business_id": "6wASTeMypkioC-qrtu0pCQ", 
+    "business_name": "Appliance Repair Experts", 
+    "checkin_info": {
+      "1-4": 1, 
+      "10-0": 1, 
+      "10-1": 2, 
+      "10-2": 1, 
+      "10-4": 1, 
+      "10-5": 2, 
+      "11-0": 1, 
+      "11-3": 2, 
+      "11-5": 1, 
+      "11-6": 1, 
+      "12-0": 3, 
+      "12-1": 1, 
+      "12-2": 2, 
+      "12-5": 1, 
+      "12-6": 1, 
+      "13-2": 1, 
+      "13-6": 1, 
+      "14-0": 3, 
+      "14-2": 1, 
+      "14-5": 2, 
+      "15-3": 1, 
+      "15-6": 1, 
+      "16-1": 1, 
+      "16-4": 2, 
+      "17-6": 1, 
+      "18-1": 1, 
+      "18-5": 1, 
+      "20-6": 1, 
+      "6-1": 1, 
+      "6-3": 1, 
+      "8-0": 1, 
+      "8-2": 1, 
+      "8-3": 1, 
+      "9-0": 3, 
+      "9-2": 2, 
+      "9-3": 2, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 52, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0rFzSRPPcW-kQehencVOYQ", 
+    "business_name": "A-1 Vacuum & Sewing", 
+    "checkin_info": {
+      "11-4": 3, 
+      "11-5": 1, 
+      "13-0": 1, 
+      "13-5": 1, 
+      "14-0": 2, 
+      "14-5": 1, 
+      "15-5": 1, 
+      "16-3": 1, 
+      "17-4": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "T6Zf0Ta5bme9ym5BxqiDHw", 
+    "business_name": "Vegas Vacuum and Sewing", 
+    "checkin_info": {
+      "12-5": 1, 
+      "13-1": 1, 
+      "14-1": 1, 
+      "14-2": 1, 
+      "15-1": 1, 
+      "15-2": 1, 
+      "16-4": 1, 
+      "17-0": 1, 
+      "18-2": 1, 
+      "21-1": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "vdwGuu3KfYR3tyQQl41DwA", 
+    "business_name": "Vegas Vacuum & Sewing", 
+    "checkin_info": {
+      "11-4": 1, 
+      "14-1": 1, 
+      "14-4": 1, 
+      "14-5": 1, 
+      "16-0": 1, 
+      "16-3": 1, 
+      "16-5": 1, 
+      "17-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "C_roVLbs7gaxprqWI-c2sg", 
+    "business_name": "Indoor Air Solutions", 
+    "checkin_info": {
+      "13-2": 1, 
+      "14-0": 1, 
+      "15-2": 1, 
+      "16-1": 1, 
+      "16-4": 1, 
+      "18-3": 1, 
+      "20-3": 1, 
+      "23-5": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "-YgQ-0JjQ07J4BzUjhEJZw", 
+    "business_name": "Elite Vacuums Plus-Miele Authorized dealer", 
+    "checkin_info": {
+      "11-5": 1, 
+      "14-0": 2, 
+      "16-0": 1, 
+      "16-2": 2
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "3Cor0yGBBvwlrgfGW7FLCA", 
+    "business_name": "Vegas Vacuum and Sewing", 
+    "checkin_info": {
+      "12-4": 1, 
+      "14-4": 1, 
+      "9-0": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

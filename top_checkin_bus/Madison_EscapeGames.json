@@ -1,0 +1,15 @@
+[
+  {
+    "business_id": "0KcnJ-W-c24zorhyJWp7-Q", 
+    "business_name": "My Escape Mission", 
+    "checkin_info": {
+      "10-4": 1, 
+      "15-1": 1, 
+      "16-1": 1, 
+      "17-1": 2, 
+      "19-1": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "business_id": "iyHtJGN4KtuSTUbB6fROBw", 
+    "business_name": "Concentra", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-4": 1, 
+      "13-1": 1, 
+      "17-3": 1, 
+      "7-1": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Zl9L3ssueXfDXXc9oKK27Q", 
+    "business_name": "UW Health East Towne Urgent Care Clinic", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-6": 1, 
+      "8-3": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "business_id": "OesTe3GNqcnIk0ZGOhiM7A", 
+    "business_name": "An Elegant Smile Dentistry", 
+    "checkin_info": {
+      "10-3": 1, 
+      "11-2": 2, 
+      "12-0": 1, 
+      "12-1": 3, 
+      "12-2": 3, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "13-2": 1, 
+      "14-0": 3, 
+      "14-1": 1, 
+      "14-2": 2, 
+      "14-3": 2, 
+      "15-0": 3, 
+      "15-1": 1, 
+      "15-3": 1, 
+      "15-4": 1, 
+      "16-1": 3, 
+      "18-0": 1, 
+      "7-0": 1, 
+      "7-1": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "8-3": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 37, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "QBhbW2En65rT8Vs1sDbCMw", 
+    "business_name": "Dental Specialty Associates", 
+    "checkin_info": {
+      "10-4": 2, 
+      "11-2": 1, 
+      "11-4": 1, 
+      "12-0": 1, 
+      "12-1": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "14-1": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "15-2": 1, 
+      "7-4": 1, 
+      "8-1": 2, 
+      "8-2": 1
+    }, 
+    "total_checkin": 16, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "O_0pKMBu7NbTPZnq0p3orQ", 
+    "business_name": "Paradise Ridge Dentistry", 
+    "checkin_info": {
+      "10-6": 1, 
+      "12-0": 1, 
+      "12-3": 1, 
+      "13-0": 3, 
+      "14-4": 1, 
+      "14-6": 1, 
+      "15-3": 1, 
+      "15-5": 1, 
+      "8-3": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7aGRXdKyjhAilq3XnzZkiw", 
+    "business_name": "Kevin Ortale, DDS PLC - North Point Dentistry", 
+    "checkin_info": {
+      "14-0": 2, 
+      "16-0": 1, 
+      "6-0": 1, 
+      "7-0": 1, 
+      "7-3": 1, 
+      "8-2": 1, 
+      "8-3": 1, 
+      "9-0": 1, 
+      "9-1": 3
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "V9sRitua5DBqQLvB9tgkcw", 
+    "business_name": "Northern Smiles Dentistry & Orthodontics", 
+    "checkin_info": {
+      "11-3": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "16-1": 1, 
+      "17-1": 2, 
+      "7-3": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "business_id": "hw3PuW-d1SsRkXH-0EfaWw", 
+    "business_name": "Monkey Bar Gym", 
+    "checkin_info": {
+      "1-2": 1, 
+      "16-3": 1, 
+      "18-0": 1, 
+      "18-1": 1, 
+      "19-0": 1, 
+      "4-2": 1, 
+      "4-4": 1, 
+      "6-5": 1, 
+      "7-2": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

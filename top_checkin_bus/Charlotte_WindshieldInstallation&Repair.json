@@ -1,0 +1,30 @@
+[
+  {
+    "business_id": "fY8AewZ3dG_ce8zV_-2CKQ", 
+    "business_name": "Safelite AutoGlass", 
+    "checkin_info": {
+      "10-4": 1, 
+      "11-5": 1, 
+      "12-4": 1, 
+      "4-1": 1, 
+      "5-0": 1, 
+      "5-5": 2, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "R9GMjOovvPgfWzMwLZx9IQ", 
+    "business_name": "Glass Masters", 
+    "checkin_info": {
+      "15-1": 1, 
+      "8-1": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

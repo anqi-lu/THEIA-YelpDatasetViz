@@ -18,6 +18,7 @@ var yelp = new Yelp({
 // get all the files in public and json folder
 app.use(express.static('public'));
 app.use(express.static('json'));
+app.use(express.static('top_checkin_bus'));
 
 // respond to a post request
 app.post('/', function (req, res) {
@@ -60,6 +61,7 @@ function search(req, res){
                 var output = JSON.parse(data);
                 //console.log(output);
                 //console.log(output.total)
+
             res.end(JSON.stringify(output))
         })
         .catch(function (err) { console.error(err);});
@@ -120,7 +122,6 @@ function getInfo(req, res){
         chunk += data;
     })
     req.on('end', function(data) {
-        //console.log(chunk)
         var obj = chunk.split(",")
         //console.log(obj)
         var busInfoPromise = obj.map(getSingleBus)
@@ -130,7 +131,7 @@ function getInfo(req, res){
         }).catch(function(businfo){
             console.log("Error Occurs")
         })
-    }) 
+    })
 }
 
 
@@ -154,6 +155,7 @@ function getSingleBus(id){
             reject(err)})
     })
 }
+
 
 
 

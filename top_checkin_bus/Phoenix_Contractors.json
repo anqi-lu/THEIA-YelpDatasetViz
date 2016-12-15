@@ -1,0 +1,56 @@
+[
+  {
+    "business_id": "2iylkYp5GCJhLI8Jhu450w", 
+    "business_name": "Ever-Klear Pool Supply, Inc", 
+    "checkin_info": {
+      "11-5": 2, 
+      "11-6": 1, 
+      "12-4": 1, 
+      "13-5": 1, 
+      "15-5": 2, 
+      "16-5": 1, 
+      "17-1": 1, 
+      "18-1": 1, 
+      "8-5": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0tHI0-PzdFW7b9z1AJ64HQ", 
+    "business_name": "Kachina Dry Cleaners", 
+    "checkin_info": {
+      "12-5": 1, 
+      "14-5": 1, 
+      "15-2": 1, 
+      "7-0": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "jvkzD8D1mPB5Rpg5MVIE7Q", 
+    "business_name": "The Wilderness Tactical Products", 
+    "checkin_info": {
+      "11-2": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "17-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "iH4c8NNmjlIUZg7mFLlGhA", 
+    "business_name": "Superior Stone and Cabinet, Inc.", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-4": 1, 
+      "13-4": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "business_id": "G1F5EEUXOwjvUmgnnOgyCw", 
+    "business_name": "Desert Ridge Pediatric Dentistry", 
+    "checkin_info": {
+      "10-1": 2, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "13-1": 2, 
+      "13-4": 2, 
+      "14-1": 1, 
+      "15-0": 1, 
+      "16-1": 2, 
+      "16-2": 1, 
+      "17-0": 1, 
+      "18-0": 1, 
+      "21-4": 1, 
+      "6-2": 1, 
+      "7-0": 1, 
+      "8-4": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8my0Dq5EDtRp2YLRPBYkIg", 
+    "business_name": "Dental Depot Phoenix", 
+    "checkin_info": {
+      "12-0": 2, 
+      "12-3": 1, 
+      "13-1": 1, 
+      "15-0": 1, 
+      "15-4": 1, 
+      "7-4": 1, 
+      "8-1": 1, 
+      "8-5": 2, 
+      "9-3": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "_tx3bW0cC2xjOfn9FqlsXg", 
+    "business_name": "Kids Dental Place", 
+    "checkin_info": {
+      "11-0": 1, 
+      "13-2": 2, 
+      "15-1": 1, 
+      "15-4": 1, 
+      "16-4": 1, 
+      "6-4": 1, 
+      "7-4": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "fsc3r1qvqiy6T3hoJtpVmA", 
+    "business_name": "Desert Ridge Pediatric Dentistry", 
+    "checkin_info": {
+      "11-2": 1, 
+      "13-0": 2, 
+      "14-0": 2, 
+      "15-1": 1, 
+      "7-2": 2, 
+      "9-0": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SFp9Bqjkna7DDPexZzVKyw", 
+    "business_name": "Every Kid's Dentist", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-4": 1, 
+      "12-1": 1, 
+      "13-1": 1, 
+      "13-4": 1, 
+      "14-3": 1, 
+      "6-4": 1, 
+      "7-3": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "6-Fi2Mow6VY7DDhYq7Vhcg", 
+    "business_name": "Every Kid's Dentist & Orthodontics", 
+    "checkin_info": {
+      "13-2": 1, 
+      "13-3": 1, 
+      "14-3": 1, 
+      "17-1": 1, 
+      "7-2": 1, 
+      "7-3": 2, 
+      "7-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "AW2Q-_329_WjjPa1t7H4nA", 
+    "business_name": "Nett Pediatric Dentistry & Orthodontics", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 1, 
+      "11-0": 1, 
+      "16-3": 1, 
+      "7-1": 1, 
+      "8-2": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "B4U5pIFBVZNVqxyc9nLJTQ", 
+    "business_name": "Phoenix Pediatric Dental", 
+    "checkin_info": {
+      "12-1": 1, 
+      "12-3": 1, 
+      "13-0": 1, 
+      "15-1": 1, 
+      "16-1": 1, 
+      "16-3": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "BOuo39Eo7XLG3ptGbw6tiQ", 
+    "business_name": "Every Kid's Dentist & Orthodontics", 
+    "checkin_info": {
+      "10-0": 1, 
+      "11-3": 1, 
+      "12-4": 1, 
+      "14-3": 1, 
+      "16-3": 1, 
+      "6-5": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "iLdb45YNSKo97TtijuyxSg", 
+    "business_name": "Agave Dental", 
+    "checkin_info": {
+      "12-3": 1, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "8-0": 1, 
+      "8-1": 1, 
+      "8-2": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

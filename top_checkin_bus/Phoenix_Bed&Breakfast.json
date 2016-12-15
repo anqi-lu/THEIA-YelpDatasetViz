@@ -1,0 +1,53 @@
+[
+  {
+    "business_id": "LyjHKUGoeITY7nc0M_sdKQ", 
+    "business_name": "ZenYard Guest House", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-2": 1, 
+      "13-2": 1, 
+      "16-5": 2, 
+      "18-1": 1, 
+      "18-6": 1, 
+      "21-2": 1, 
+      "21-3": 1, 
+      "21-5": 1, 
+      "21-6": 1, 
+      "22-0": 2, 
+      "22-1": 2, 
+      "8-2": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 17, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "dVxKhvEAkz_rutvqOaCjjw", 
+    "business_name": "Maricopa Manor", 
+    "checkin_info": {
+      "10-5": 1, 
+      "15-1": 1, 
+      "15-5": 2, 
+      "16-3": 1, 
+      "16-5": 1, 
+      "19-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "sY4qoSAhgCJGE8dIHs3KPA", 
+    "business_name": "Arizona Sunburst Inn", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-5": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "17-6": 1, 
+      "18-4": 1, 
+      "2-4": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }
+]

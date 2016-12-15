@@ -1,0 +1,13 @@
+[
+  {
+    "business_id": "rF8Qeqdu3gEdm8Am-NeHxQ", 
+    "business_name": "Phoenix Carpet Repair & Cleaning", 
+    "checkin_info": {
+      "12-4": 1, 
+      "15-5": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

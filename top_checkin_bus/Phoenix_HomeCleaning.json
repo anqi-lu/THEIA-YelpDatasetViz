@@ -1,0 +1,39 @@
+[
+  {
+    "business_id": "kdDhb2Hy2662eKLSGHFetg", 
+    "business_name": "Queen of Maids", 
+    "checkin_info": {
+      "12-0": 1, 
+      "14-2": 1, 
+      "20-3": 1, 
+      "22-6": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0tHI0-PzdFW7b9z1AJ64HQ", 
+    "business_name": "Kachina Dry Cleaners", 
+    "checkin_info": {
+      "12-5": 1, 
+      "14-5": 1, 
+      "15-2": 1, 
+      "7-0": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HbKvEFb25P0oqpdfTWMCSw", 
+    "business_name": "Northstar Services Dryer Vent Cleaning", 
+    "checkin_info": {
+      "13-0": 1, 
+      "18-1": 1, 
+      "18-4": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

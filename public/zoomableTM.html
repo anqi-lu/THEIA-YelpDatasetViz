@@ -34,6 +34,18 @@
           border-radius: 10px;
     }
 
+    #bubbletip{
+        font-family: sans-serif;
+         display: none;
+         position: absolute;
+          width: 220px;
+          height: auto;
+          padding: 10px;
+          color: #77787a;
+          background-color: #e3e5e8;
+          border-radius: 10px;
+    }
+
     text {
       font-family: sans-serif;
       pointer-events: none;
@@ -80,6 +92,11 @@
     .bottom {
 
     }
+    /* for zoom to domain area*/
+    .area {
+      fill: #AECFE3;
+      clip-path: url(#clip);
+    }
 
 </style>
 
@@ -100,17 +117,26 @@
     </div>
   </div>
   <div class="bubbleChart bottom">
-    <p id="bubbleChart"></p>
+    <div id="bubbletip" class="hidden">
+      <p><span id="busName"></span></p>
+      <p><span id="totalCheckin"></span></p>
+    </div>
+    <svg id="bubbleChart" width="960" height="600"></svg>
+  </div>
+
+  <div class="zoomDomain">
+    <svg id = "zoomDomain" width="960" height="500"></svg>
   </div>
 </div>
 
-<script>
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
 
+<script>
 var city; //global variable to store the city
 var category; //global variable to store the category
 
-var color = d3.scale.category20()
-//var color = d3.scaleOrdinal(d3.schemeCategory20c);
+var color = d3.scale.category20();
 
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
     width = 960,
@@ -244,8 +270,18 @@ d3.json("bus_cat.json", function(root) {
         .append("title")
         .text(function(d) { return d.value; });
 
-    g.selectAll("rect")
-      .on("click", getBubbleChart);
+/* write parent rectangle */
+	g.selectAll("rect")
+		/* get the top 10 business within the city and category*/
+		.on("click", function(d) {
+			if(!d._children){
+        category = d.name;
+        var filePath = city.replace(" ","")+"_"+category.replace(" ","").replace("/","")+".json";
+        getTopCheckin(filePath);
+        //TODO
+        //window.scrollTo(0,700);
+			}
+		});
 
     g.append("text")
         .attr("dy", ".75em")
@@ -289,13 +325,6 @@ d3.json("bus_cat.json", function(root) {
       });
     }
 
-    function getBubbleChart(d) {
-      // TODO: get the data and scroll to the bubble chart
-      category = d.name;
-
-      console.log(d);
-    }
-
     g.on("mousemove",mousemove).on("mouseout",mouseout)
     return g;
   }
@@ -308,8 +337,10 @@ d3.json("bus_cat.json", function(root) {
   function rect(rect) {
     rect.attr("x", function(d) { return x(d.x); })
         .attr("y", function(d) { return y(d.y); })
-        .attr("width", function(d) { return x(d.x + d.dx) - x(d.x); })
-        .attr("height", function(d) { return y(d.y + d.dy) - y(d.y); });
+        .attr("width", function(d) {
+          return x(d.x + d.dx) - x(d.x); })
+        .attr("height", function(d) {
+          return y(d.y + d.dy) - y(d.y); });
   }
 
   function name(d) {
@@ -319,16 +350,34 @@ d3.json("bus_cat.json", function(root) {
   }
 });
 
-</script>
-    
-<script>
+/* get the top ten checkin businesses given the city and innermost category */
+function getTopCheckin(filePath) {
+    var request = new XMLHttpRequest();
+    request.open('GET', filePath, true);
+    request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+    request.onreadystatechange = function() {
+        handleTopCheckin(request);
+    }
+    request.send(null);
+}
 
+function handleTopCheckin(req) {
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+  if(req.status === 200) {
+    var topTen = JSON.parse(req.responseText);
+    console.log("redraw");
+    drawBubbleChart(topTen);
+  }else {
+    console.log("cannot get top checkin");
+  }
+}
 
+// -------------------------------------------- bubble chart -----------------------------------------------------
 
 var width2="960", height2="500"
 var margin2 = {top: 20, right: 0, bottom: 0, left: 0};
 
-//var svg = d3.select("svg#bubbleChart")
 var svgbubble = d3.select("#bubbleChart")
             .append("svg")
             .attr("width", width2 + margin2.left + margin2.right)
@@ -348,56 +397,188 @@ var pack = d3.pack()
     .size([width2, height2])
     .padding(1.5);
 
-d3.csv("flare.csv", function(d) {
-  d.value = +d.value;
-  if (d.value) return d;
-}, function(error, classes) {
-  if (error) throw error;
+function drawBubbleChart(topTen) {
 
-  var rootb = d3.hierarchy({children: classes})
-      .sum(function(d) { return d.value; })
-      .each(function(d) {
-        if (id = d.data.id) {
-          var id, i = id.lastIndexOf(".");
-          d.id = id;
-          d.package = id.slice(0, i);
-          d.class = id.slice(i + 1);
-        }
-      });
+//  d3.select("path.area").remove();
+  d3.selectAll("g.node").remove();
 
-  //var node = svg.selectAll(".node")
+    classes = topTen;
+    var rootb = d3.hierarchy({children: classes})
+        .sum(function(d) { return d.total_checkin; })
+        .each(function(d) {
+          if (id = d.data.id) {
+            var id, i = id.lastIndexOf(".");
+            d.id = id;
+            d.package = id.slice(0, i);
+            d.class = id.slice(i + 1);
+          }
+        });
 
-  var node = svgbubble.selectAll(".node")
-    .data(pack(rootb).leaves())
-      .enter().append("g")
-      .attr("class", "node")
-      .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+    var node = svgbubble.selectAll(".node")
+      .data(pack(rootb).leaves())
+        .enter().append("g")
+        .attr("class", "node")
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
-  node.append("circle")
-      .attr("id", function(d) { return d.id; })
-      .attr("r", function(d) { return d.r; })
-      .style("fill", function(d) { return color(d.package); });
+    node.append("circle")
+        .attr("id", function(d) { return d.id; })
+        .attr("r", function(d) { return d.r; })
+        .style("fill", function(d) { return color(d.package); });
 
-  node.append("clipPath")
-      .attr("id", function(d) { return "clip-" + d.id; })
-    .append("use")
-      .attr("xlink:href", function(d) { return "#" + d.id; });
+    node.append("clipPath")
+        .attr("id", function(d) { return "clip-" + d.id; })
+      .append("use")
+        .attr("xlink:href", function(d) { return "#" + d.id; });
 
-  node.append("text")
-      .attr("clip-path", function(d) { return "url(#clip-" + d.id + ")"; })
-    .selectAll("tspan")
-    .data(function(d) { return d.class.split(/(?=[A-Z][^A-Z])/g); })
-    .enter().append("tspan")
-      .attr("x", 0)
-      .attr("y", function(d, i, nodes) { return 13 + (i - nodes.length / 2 - 0.5) * 10; })
-      .text(function(d) { return d; });
+    node.append("text")
+        .attr("clip-path", function(d) { return "url(#clip-" + d.data.business_id + ")"; })
+      .selectAll("tspan")
+      .data(function(d) {
+        var name = d.data.business_name;
+        return name.split(/(?=[A-Z][^A-Z])/g);
+      })
+      .enter().append("tspan")
+        .attr("x", 0)
+        .attr("y", function(d, i, nodes) {
+          return 20 + (i - nodes.length / 2 - 0.5) * 10; })
+        .attr("text-anchor", "middle")
+        .style("fill", "#ffffff")
+        .style("font-family", "sans-serif")
+        .text(function(d) {
+          return d; });
 
-  node.append("title")
-      .text(function(d) { return d.id + "\n" + format(d.value); });
-});
+    var mouseover = function(d){
+        var x = d3.event.pageX + 5;
+        var y = d3.event.pageY + 5;
+        d3.select("#bubbletip").style("left", x + "px").style("top", y+"px");
+        d3.select("#bubbletip #busName").text("Business Name: "+d.data.business_name)
+        d3.select("#bubbletip #totalCheckin").text("Total Checkin: "+d.data.total_checkin)
+        d3.select("#bubbletip").style("display", "inline");
+    }
+    node.on("mouseover", mouseover);
+
+    node.on("click", function(d){
+      writeCheckin(d.data);
+    });
+}
+
+/* write to zoom to domain */
+function writeCheckin(bus) {
+  var busID = bus.business_id;
+  var busName = bus.business_name;
+  var total = bus.total_checkin;
+
+  var mapDay = {
+          "0": "Sunday Dec 04 2016",
+          "1": "Monday Dec 05 2016",
+          "2": "Tuesday Dec 06 2016",
+          "3": "Wednesday Dec 07 2016",
+          "4": "Thursday Dec 08 2016",
+          "5": "Friday Dec 09 2016",
+          "6": "Saturday Dec 10 2016"
+      }
+  var result = [];
+  var day, i;
+  dayList = ['0', '1', '2', '3', '4', '5', '6']
+  var lineData = {};
+  for (day = 0; day < 7; day++){
+    for (i = 0; i < 24; i++) {
+      var checkinInfo = bus.checkin_info;
+      var key = i.toString() + '-' + day;
+      if (key in checkinInfo) {
+        numCheckin = checkinInfo[key];
+      } else {
+        numCheckin = 0;
+      }
+      var lineKey = i.toString()+' '+mapDay[day];
+      var lineData = { "time_day": lineKey , "num_checkin": numCheckin };
+      result.push(lineData);
+    }
+  }
+  drawZoomDomain(result);
+  return result;
+}
+// ------------------------------------------ Zoom to Domain -------------------------------------------------
+
+
+  var svg3 = d3.select("#zoomDomain"),
+      margin = {top: 20, right: 20, bottom: 30, left: 100},
+      width3 = +svg3.attr("width") - margin.left - margin.right,
+      height3 = +svg3.attr("height") - margin.top - margin.bottom;
+
+  var parseDate = d3.timeParse("%H %A %b %d %Y");
+
+  var x3 = d3.scaleTime().range([0, width3]),
+      y3 = d3.scaleLinear().range([height3, 0]);
+
+  var xAxis = d3.axisBottom(x3),
+      yAxis = d3.axisLeft(y3);
+
+  var zoom = d3.zoom()
+      .scaleExtent([1, 32])
+      .translateExtent([[0, 0], [width3, height3]])
+      .extent([[0, 0], [width3, height3]])
+      .on("zoom", zoomed);
+
+  var area = d3.area()
+      .curve(d3.curveMonotoneX)
+      .x(function(d) {
+        //console.log(x3(parseDate(d.time_day)));
+        return x3(parseDate(d.time_day)); })
+      .y0(height3)
+      .y1(function(d) {
+        return y3(d.num_checkin); });
+
+  svg3.append("defs").append("clipPath")
+      .attr("id", "clip")
+    .append("rect")
+      .attr("width", width3)
+      .attr("height", height3);
+
+  var g3 = svg3.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+function drawZoomDomain(data){
+    x3.domain(d3.extent(data, function(d) { return parseDate(d.time_day); }));
+    y3.domain([0, d3.max(data, function(d) { return +d.num_checkin; })]);
+
+    d3.select("path.area").remove();
+    d3.select("g.axis--x").remove();
+    d3.select("g.axis--y").remove();
+
+    g3.append("path")
+        .datum(data)
+        .attr("class", "area")
+        .attr("d", area);
+
+    g3.append("g")
+        .attr("class", "axis axis--x")
+        .attr("transform", "translate(0," + height3 + ")")
+        .call(xAxis);
+
+    g3.append("g")
+        .attr("class", "axis axis--y")
+        .call(yAxis);
+
+    var d0 = new Date("Sun Dec 04 2016 00:00:00"),
+        d1 = new Date("Sat Dec 10 2016 05:00:00");
+
+
+    // Gratuitous intro zoom!
+    svg3.call(zoom).transition()
+        .duration(1500)
+        .call(zoom.transform, d3.zoomIdentity
+            .scale(width3 / (x3(d1) - x3(d0)))
+            .translate(-x3(d0), 0));
+
+  }
+
+function zoomed() {
+  var t = d3.event.transform, xt = t.rescaleX(x3);
+  g3.select(".area").attr("d", area.x(function(d) { return xt(parseDate(d.time_day)); }));
+  g3.select(".axis--x").call(xAxis.scale(xt));
+}
 
 </script>
-
-
     </body>
 </html>

@@ -1,0 +1,62 @@
+[
+  {
+    "business_id": "JixiPCmH3M5PUjLV0SyjeA", 
+    "business_name": "Iron Quill Tattoo", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-6": 1, 
+      "13-0": 3, 
+      "15-4": 3, 
+      "16-4": 1, 
+      "18-5": 1, 
+      "19-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "q1Lo1eWm09XeYkY7jbpX7Q", 
+    "business_name": "Great Whale Tattoo and Piercing Company", 
+    "checkin_info": {
+      "10-2": 1, 
+      "10-3": 1, 
+      "10-5": 1, 
+      "11-2": 2, 
+      "12-5": 2, 
+      "13-4": 1, 
+      "14-2": 1, 
+      "16-2": 1, 
+      "16-3": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 12, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Q7PTEkR524ekowklyfY2WQ", 
+    "business_name": "Colt's Timeless Tattoos", 
+    "checkin_info": {
+      "10-5": 1, 
+      "14-2": 1, 
+      "14-4": 1, 
+      "14-6": 2, 
+      "20-0": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "uTyH2HUcFieB6wg-RKA6_Q", 
+    "business_name": "Steve's Tattoo & Body Piercing", 
+    "checkin_info": {
+      "11-3": 1, 
+      "15-3": 1, 
+      "16-3": 1, 
+      "19-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

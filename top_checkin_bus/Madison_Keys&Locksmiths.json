@@ -1,0 +1,14 @@
+[
+  {
+    "business_id": "Q4oFbp3XgQXdHz3fR4N_Vw", 
+    "business_name": "Bill's Key Shop", 
+    "checkin_info": {
+      "12-1": 1, 
+      "12-5": 1, 
+      "13-3": 1, 
+      "7-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

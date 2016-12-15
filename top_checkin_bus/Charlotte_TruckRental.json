@@ -1,0 +1,46 @@
+[
+  {
+    "business_id": "zRjL-lWV3iPeUKVrS-Q40w", 
+    "business_name": "Thrifty Car Rental", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-1": 1, 
+      "11-4": 1, 
+      "12-3": 2, 
+      "12-4": 2, 
+      "13-2": 1, 
+      "14-2": 1, 
+      "14-3": 1, 
+      "15-4": 1, 
+      "16-0": 1, 
+      "16-2": 1, 
+      "16-3": 2, 
+      "17-0": 1, 
+      "2-1": 1, 
+      "4-3": 1, 
+      "6-0": 1, 
+      "8-1": 1, 
+      "8-6": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 22, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "6NfspCX73CrjDcce3Y5O2A", 
+    "business_name": "U-Haul Moving & Storage at South Blvd", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-5": 2, 
+      "12-6": 1, 
+      "13-0": 1, 
+      "5-2": 1, 
+      "5-5": 1, 
+      "7-5": 1, 
+      "9-1": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

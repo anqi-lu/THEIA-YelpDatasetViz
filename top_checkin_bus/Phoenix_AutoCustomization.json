@@ -1,0 +1,164 @@
+[
+  {
+    "business_id": "I4DXBo6nduCPSvYVzSu0Sw", 
+    "business_name": "Performance Muffler", 
+    "checkin_info": {
+      "1-6": 1, 
+      "10-1": 1, 
+      "10-4": 1, 
+      "11-0": 1, 
+      "11-1": 1, 
+      "11-3": 2, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "12-0": 1, 
+      "12-3": 3, 
+      "13-0": 1, 
+      "13-2": 1, 
+      "13-4": 1, 
+      "13-6": 1, 
+      "14-0": 1, 
+      "15-0": 1, 
+      "15-2": 1, 
+      "15-3": 1, 
+      "7-5": 1, 
+      "8-3": 1, 
+      "8-5": 2, 
+      "9-4": 2, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 29, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "0lLGQ8hp5vy6ND6DKebFQQ", 
+    "business_name": "Apex Customs", 
+    "checkin_info": {
+      "1-1": 1, 
+      "10-2": 1, 
+      "10-4": 1, 
+      "10-5": 2, 
+      "11-1": 1, 
+      "12-5": 1, 
+      "16-2": 1, 
+      "16-3": 1, 
+      "16-5": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 11, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "KpSlOq7Ba887tksSsD4wVQ", 
+    "business_name": "Tony's Auto Repair", 
+    "checkin_info": {
+      "10-4": 1, 
+      "10-5": 1, 
+      "12-4": 1, 
+      "13-1": 1, 
+      "13-5": 1, 
+      "14-4": 1, 
+      "16-0": 1, 
+      "7-0": 1, 
+      "7-1": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pSvXraehYNutSUJLqw5WJw", 
+    "business_name": "Arizona Line-X", 
+    "checkin_info": {
+      "10-0": 1, 
+      "11-5": 1, 
+      "14-4": 1, 
+      "15-0": 1, 
+      "17-1": 2, 
+      "17-3": 1, 
+      "20-6": 1, 
+      "22-6": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "44zLAsrntnZeqY-YYrhVUg", 
+    "business_name": "4 Wheel Parts", 
+    "checkin_info": {
+      "10-1": 1, 
+      "11-2": 2, 
+      "13-5": 1, 
+      "14-0": 1, 
+      "14-2": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "pOgvHSiPd4hRlCkekZsBZA", 
+    "business_name": "SO-CAL Speed Shop AZ", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-1": 1, 
+      "12-4": 1, 
+      "13-2": 1, 
+      "13-4": 1, 
+      "8-2": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 7, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "8tCFWGFZFBLYWbkgOWptuQ", 
+    "business_name": "Mixxed Auto Design", 
+    "checkin_info": {
+      "12-5": 1, 
+      "13-4": 1, 
+      "17-6": 1, 
+      "20-4": 1, 
+      "22-0": 1
+    }, 
+    "total_checkin": 5, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "2kme0ANeHc20ij71zhx4DQ", 
+    "business_name": "Top Shop", 
+    "checkin_info": {
+      "11-4": 1, 
+      "15-2": 1, 
+      "16-2": 1, 
+      "7-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "bJesC7aj9QHhu-3zs7ggAQ", 
+    "business_name": "Flop Shop Automotive", 
+    "checkin_info": {
+      "10-2": 1, 
+      "12-1": 1, 
+      "18-4": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SNpAcPoieMwsoaW5YokM5A", 
+    "business_name": "Sainz Amazing Tint", 
+    "checkin_info": {
+      "12-1": 1, 
+      "13-5": 1, 
+      "14-5": 1, 
+      "17-1": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

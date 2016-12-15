@@ -1,0 +1,36 @@
+[
+  {
+    "business_id": "4igRsiHHK2ZwdsmqRTY1cA", 
+    "business_name": "Arizona Outdoor Fun", 
+    "checkin_info": {
+      "0-3": 1, 
+      "12-5": 1, 
+      "13-0": 1, 
+      "14-4": 1, 
+      "17-2": 1, 
+      "19-2": 1, 
+      "21-5": 1, 
+      "22-5": 1, 
+      "9-3": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SRI3smrLkkz250j5x1V5Ew", 
+    "business_name": "West Marine", 
+    "checkin_info": {
+      "11-5": 1, 
+      "12-3": 1, 
+      "13-4": 1, 
+      "14-5": 1, 
+      "14-6": 1, 
+      "15-1": 1, 
+      "15-3": 1, 
+      "16-5": 2
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }
+]

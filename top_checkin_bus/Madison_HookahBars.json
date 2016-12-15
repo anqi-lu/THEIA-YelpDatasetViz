@@ -1,0 +1,43 @@
+[
+  {
+    "business_id": "yJYXwvF_RBUIdguShrYSSg", 
+    "business_name": "Mediterranean Hookah Lounge and Cafe", 
+    "checkin_info": {
+      "0-1": 1, 
+      "12-1": 1, 
+      "12-6": 1, 
+      "14-3": 1, 
+      "15-2": 1, 
+      "15-5": 1, 
+      "16-4": 1, 
+      "16-5": 1, 
+      "17-1": 1, 
+      "17-4": 2, 
+      "17-5": 5, 
+      "18-4": 2, 
+      "18-5": 4, 
+      "19-2": 1, 
+      "19-3": 2, 
+      "19-4": 4, 
+      "19-5": 3, 
+      "20-4": 1, 
+      "20-5": 1, 
+      "21-5": 4, 
+      "22-4": 1, 
+      "22-5": 2
+    }, 
+    "total_checkin": 41, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "nJ-YC_uNcFGejWRJgA-Raw", 
+    "business_name": "Knuckleheads Tobacco and Vapes", 
+    "checkin_info": {
+      "11-1": 2, 
+      "13-4": 1, 
+      "23-4": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

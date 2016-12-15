@@ -1,0 +1,164 @@
+[
+  {
+    "business_id": "zpdJy9Z0wgQxskexfNwgOQ", 
+    "business_name": "The Map Shop", 
+    "checkin_info": {
+      "10-3": 1, 
+      "10-5": 3, 
+      "10-6": 2, 
+      "11-4": 1, 
+      "11-5": 3, 
+      "12-0": 2, 
+      "12-2": 1, 
+      "13-1": 1, 
+      "15-2": 1, 
+      "8-5": 1, 
+      "9-1": 2, 
+      "9-4": 2, 
+      "9-5": 1
+    }, 
+    "total_checkin": 21, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "P-2xtl00C9zK4M5alhnEtQ", 
+    "business_name": "AAA Carolinas - W T Harris", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-1": 1, 
+      "11-5": 1, 
+      "12-1": 1, 
+      "13-0": 1, 
+      "13-1": 1, 
+      "13-4": 2, 
+      "15-4": 1, 
+      "16-4": 1, 
+      "5-1": 1, 
+      "5-5": 1, 
+      "7-0": 1, 
+      "7-2": 1, 
+      "7-3": 1, 
+      "7-5": 2, 
+      "8-4": 2, 
+      "8-5": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "xQtbmMhkdwmBZDJ62tn_Sw", 
+    "business_name": "US Airways Customer Service", 
+    "checkin_info": {
+      "14-2": 1, 
+      "14-6": 1, 
+      "15-2": 1, 
+      "15-5": 1, 
+      "16-2": 1, 
+      "17-0": 1, 
+      "18-2": 1, 
+      "18-6": 1, 
+      "20-3": 1, 
+      "3-0": 1, 
+      "3-2": 1, 
+      "4-2": 1, 
+      "4-4": 1, 
+      "5-5": 1, 
+      "6-4": 1, 
+      "7-1": 1, 
+      "7-4": 2, 
+      "9-1": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "kIuYRBCcP0vG9Bf3SGr53w", 
+    "business_name": "Charlotte NC Tours", 
+    "checkin_info": {
+      "10-5": 1, 
+      "11-0": 2, 
+      "11-5": 1, 
+      "11-6": 1, 
+      "15-0": 1, 
+      "16-3": 1, 
+      "17-3": 1, 
+      "19-0": 1, 
+      "20-6": 1, 
+      "5-4": 1, 
+      "6-2": 1, 
+      "7-5": 1, 
+      "8-1": 1, 
+      "9-3": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 16, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "he4JIRCD6i7BuMQgrt21DA", 
+    "business_name": "AAA Carolinas - Montford Drive", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-3": 1, 
+      "11-3": 1, 
+      "13-1": 2, 
+      "14-1": 1, 
+      "4-0": 1, 
+      "5-1": 1, 
+      "7-5": 1, 
+      "8-0": 1, 
+      "9-0": 1, 
+      "9-2": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Gmadf91Sy9bj4XlCbOy_sA", 
+    "business_name": "AAA - Charlotte", 
+    "checkin_info": {
+      "11-2": 1, 
+      "11-3": 1, 
+      "13-0": 1, 
+      "14-1": 1, 
+      "15-1": 1, 
+      "5-1": 1, 
+      "6-3": 2, 
+      "9-0": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "NCDo6uWJ6zK8Z3Hxvu4Usw", 
+    "business_name": "AAA Carolinas - South End", 
+    "checkin_info": {
+      "11-4": 1, 
+      "11-5": 1, 
+      "14-3": 1, 
+      "4-2": 1, 
+      "6-0": 2, 
+      "6-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "3rOlCCcfcbSO6BHZEzt2GA", 
+    "business_name": "AAA Carolinas - Steele Creek", 
+    "checkin_info": {
+      "11-2": 1, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "5-0": 1, 
+      "7-0": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }
+]

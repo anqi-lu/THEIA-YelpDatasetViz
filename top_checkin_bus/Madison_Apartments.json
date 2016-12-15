@@ -1,0 +1,29 @@
+[
+  {
+    "business_id": "3oHXfeyjazKKGI6nsTMhww", 
+    "business_name": "The Constellation", 
+    "checkin_info": {
+      "11-0": 1, 
+      "12-3": 1, 
+      "16-1": 1, 
+      "18-2": 1, 
+      "19-0": 1, 
+      "19-6": 2, 
+      "22-4": 1, 
+      "6-0": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Ui2PR1YCjP-VPxcYGrrokQ", 
+    "business_name": "Americas Best Value Inn", 
+    "checkin_info": {
+      "12-6": 1, 
+      "17-3": 1, 
+      "20-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

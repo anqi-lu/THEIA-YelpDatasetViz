@@ -1,0 +1,124 @@
+[
+  {
+    "business_id": "mEemHArsaQVjzMXItfm6yg", 
+    "business_name": "Sears Outlet", 
+    "checkin_info": {
+      "10-5": 1, 
+      "10-6": 1, 
+      "12-5": 1, 
+      "12-6": 2, 
+      "13-0": 1, 
+      "13-4": 1, 
+      "13-6": 1, 
+      "14-5": 2, 
+      "15-1": 2, 
+      "16-4": 2, 
+      "16-6": 1, 
+      "17-3": 1, 
+      "17-4": 1, 
+      "18-6": 1, 
+      "20-2": 1, 
+      "20-3": 1
+    }, 
+    "total_checkin": 20, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "Vfc3XzEIuEALIm31iyjDdg", 
+    "business_name": "Dyson Service Center", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-4": 1, 
+      "11-2": 2, 
+      "11-4": 1, 
+      "13-0": 2, 
+      "14-4": 2, 
+      "15-0": 1, 
+      "16-0": 1, 
+      "16-2": 1, 
+      "9-3": 1, 
+      "9-4": 1
+    }, 
+    "total_checkin": 15, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "_IGM5Fp1Z43OwZ4-Ca6qaQ", 
+    "business_name": "Mr Vac & Sew", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-5": 1, 
+      "13-4": 1, 
+      "14-5": 1, 
+      "19-0": 1, 
+      "8-1": 2, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "SaStkl2wAsvwzT1AjjG4tQ", 
+    "business_name": "ABC Vacuum AZ", 
+    "checkin_info": {
+      "10-5": 1, 
+      "14-0": 1, 
+      "15-0": 1, 
+      "15-1": 1, 
+      "9-3": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "CZzLkszd4kAIQzyTxpbnUg", 
+    "business_name": "Appliance Works: Phoenix Appliance Repair", 
+    "checkin_info": {
+      "11-3": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "15-0": 1, 
+      "15-3": 1, 
+      "8-4": 1
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "KBjwJMwjzAbgcl7JLG9pug", 
+    "business_name": "Besco Lawn Mower Repair", 
+    "checkin_info": {
+      "12-5": 1, 
+      "14-2": 1, 
+      "15-1": 1, 
+      "16-4": 1, 
+      "9-5": 2
+    }, 
+    "total_checkin": 6, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "DdTHpwJVU_6F43Thp-gIVg", 
+    "business_name": "Dino's Appliance Factory Service", 
+    "checkin_info": {
+      "11-5": 1, 
+      "14-3": 1, 
+      "8-5": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "G9oVx3IWuoohTeqUdjhXtw", 
+    "business_name": "Phoenix Appliance Services", 
+    "checkin_info": {
+      "10-1": 1, 
+      "10-2": 1, 
+      "13-2": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "business_id": "c_Poz0OaAATFYEH8FqtboA", 
+    "business_name": "Nordstrom Rack", 
+    "checkin_info": {
+      "10-0": 2, 
+      "10-4": 1, 
+      "10-5": 4, 
+      "10-6": 1, 
+      "11-0": 1, 
+      "11-4": 1, 
+      "11-5": 3, 
+      "12-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "12-5": 2, 
+      "12-6": 4, 
+      "13-4": 1, 
+      "13-5": 1, 
+      "14-5": 2, 
+      "14-6": 1, 
+      "15-1": 1, 
+      "15-5": 1, 
+      "15-6": 2, 
+      "16-1": 1, 
+      "16-2": 1, 
+      "16-5": 2, 
+      "17-1": 1, 
+      "18-0": 1, 
+      "18-1": 2, 
+      "18-5": 1, 
+      "8-4": 1, 
+      "8-5": 1, 
+      "8-6": 1, 
+      "9-1": 1, 
+      "9-3": 1, 
+      "9-5": 2, 
+      "9-6": 1
+    }, 
+    "total_checkin": 49, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "771zAy4Y4aYiMkRofZ8uYQ", 
+    "business_name": "Madison Sole", 
+    "checkin_info": {
+      "11-1": 1, 
+      "11-4": 1, 
+      "12-6": 1, 
+      "13-0": 1, 
+      "13-1": 13, 
+      "13-3": 1, 
+      "13-4": 1, 
+      "14-1": 2, 
+      "14-2": 1, 
+      "15-1": 2, 
+      "16-1": 2, 
+      "17-4": 1, 
+      "4-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 29, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "f6cv-JhAG71UXRbxFhCAtA", 
+    "business_name": "DSW Designer Shoe Warehouse", 
+    "checkin_info": {
+      "11-0": 1, 
+      "11-5": 2, 
+      "12-1": 1, 
+      "12-3": 1, 
+      "12-5": 1, 
+      "13-5": 1, 
+      "13-6": 2, 
+      "14-3": 1, 
+      "15-1": 2, 
+      "15-5": 1, 
+      "15-6": 1, 
+      "16-1": 1, 
+      "16-2": 1, 
+      "16-4": 2, 
+      "16-5": 2, 
+      "17-5": 1, 
+      "18-1": 1, 
+      "18-2": 1, 
+      "8-4": 1, 
+      "8-5": 2
+    }, 
+    "total_checkin": 26, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "1fZaZV_b0SoSwMONiklUGg", 
+    "business_name": "Berkeley Running Company", 
+    "checkin_info": {
+      "10-6": 1, 
+      "11-1": 1, 
+      "11-5": 1, 
+      "11-6": 2, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "12-4": 1, 
+      "12-6": 1, 
+      "13-1": 1, 
+      "13-3": 1, 
+      "14-0": 1, 
+      "14-4": 1, 
+      "14-6": 1, 
+      "15-5": 1, 
+      "16-3": 2, 
+      "17-0": 1, 
+      "8-5": 1, 
+      "8-6": 2, 
+      "9-5": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 23, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "7QEuGyfmNzxZPTxVhXyKYQ", 
+    "business_name": "Morgan's Shoes", 
+    "checkin_info": {
+      "10-0": 1, 
+      "10-6": 1, 
+      "11-4": 1, 
+      "11-5": 1, 
+      "13-1": 1, 
+      "14-1": 1, 
+      "16-5": 1, 
+      "17-5": 1, 
+      "21-1": 1, 
+      "21-3": 1, 
+      "8-5": 1, 
+      "9-4": 1, 
+      "9-5": 1
+    }, 
+    "total_checkin": 13, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "YGMqGY39YUjdIV18IEj-0w", 
+    "business_name": "Movin' Shoes", 
+    "checkin_info": {
+      "12-2": 1, 
+      "12-4": 1, 
+      "12-5": 1, 
+      "13-3": 1, 
+      "13-5": 1, 
+      "15-2": 1, 
+      "6-3": 1, 
+      "8-3": 1, 
+      "9-0": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "HlnY8xWkfONz256u3Tp_Wg", 
+    "business_name": "Rogan's Shoes", 
+    "checkin_info": {
+      "12-5": 1, 
+      "16-3": 1, 
+      "16-4": 2, 
+      "18-1": 1, 
+      "21-3": 1, 
+      "8-6": 1, 
+      "9-1": 1
+    }, 
+    "total_checkin": 8, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "eYs6QM0CpOQDS4TuIh6tlA", 
+    "business_name": "J.Crew", 
+    "checkin_info": {
+      "12-6": 1, 
+      "13-5": 1, 
+      "14-6": 1, 
+      "15-5": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "981Ygo5EUHR7dnFlLHGPuA", 
+    "business_name": "The Buckle", 
+    "checkin_info": {
+      "15-6": 1, 
+      "17-3": 1, 
+      "18-0": 1
+    }, 
+    "total_checkin": 3, 
+    "type": "checkin"
+  }
+]

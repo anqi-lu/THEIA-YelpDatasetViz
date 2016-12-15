@@ -1,0 +1,19 @@
+[
+  {
+    "business_id": "KzsySJsAnSurSa7hFJoR3A", 
+    "business_name": "Car Stereo Warehouse", 
+    "checkin_info": {
+      "10-2": 1, 
+      "11-1": 1, 
+      "12-2": 1, 
+      "12-3": 1, 
+      "13-2": 1, 
+      "6-3": 1, 
+      "8-1": 1, 
+      "8-2": 1, 
+      "9-2": 1
+    }, 
+    "total_checkin": 9, 
+    "type": "checkin"
+  }
+]

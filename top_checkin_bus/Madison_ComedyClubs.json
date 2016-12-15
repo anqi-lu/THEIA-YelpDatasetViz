@@ -1,0 +1,71 @@
+[
+  {
+    "business_id": "G7Izuj1bwMFSJMQwM8YP6A", 
+    "business_name": "Comedy Club On State", 
+    "checkin_info": {
+      "12-6": 1, 
+      "14-5": 2, 
+      "16-3": 1, 
+      "16-5": 1, 
+      "17-2": 2, 
+      "17-3": 2, 
+      "17-4": 13, 
+      "17-5": 10, 
+      "18-2": 8, 
+      "18-3": 8, 
+      "18-4": 5, 
+      "18-5": 3, 
+      "18-6": 1, 
+      "19-2": 8, 
+      "19-3": 2, 
+      "19-4": 5, 
+      "19-5": 12, 
+      "20-2": 5, 
+      "20-3": 1, 
+      "20-4": 10, 
+      "20-5": 15, 
+      "21-2": 1, 
+      "21-3": 1, 
+      "21-5": 3, 
+      "22-2": 1, 
+      "22-3": 1, 
+      "22-4": 2, 
+      "22-5": 1, 
+      "6-1": 1, 
+      "7-1": 1, 
+      "7-4": 1, 
+      "9-6": 1
+    }, 
+    "total_checkin": 129, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "xukZlnZOtWp3M8eH2MmIdg", 
+    "business_name": "Monkey Business Institute", 
+    "checkin_info": {
+      "15-5": 1, 
+      "16-2": 8, 
+      "16-5": 1, 
+      "17-5": 3, 
+      "5-6": 1
+    }, 
+    "total_checkin": 14, 
+    "type": "checkin"
+  }, 
+  {
+    "business_id": "LeyxCoKcozBu81k0AWHNYA", 
+    "business_name": "Atlas Improv Company", 
+    "checkin_info": {
+      "12-3": 1, 
+      "17-4": 1, 
+      "17-5": 2, 
+      "18-4": 1, 
+      "18-6": 1, 
+      "19-4": 2, 
+      "19-5": 1, 
+      "20-5": 1
+    }, 
+    "total_checkin": 10, 
+    "type": "checkin"
+  }
+]

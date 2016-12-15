@@ -1,0 +1,14 @@
+[
+  {
+    "business_id": "DWnVV_l76GVyRLjhB0_wwA", 
+    "business_name": "Door Creek Dental", 
+    "checkin_info": {
+      "10-2": 1, 
+      "6-0": 1, 
+      "9-1": 1, 
+      "9-3": 1
+    }, 
+    "total_checkin": 4, 
+    "type": "checkin"
+  }
+]

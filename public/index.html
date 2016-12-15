@@ -1,88 +1,1298 @@
 <!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<canvas width="1500" height="800"></canvas>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>THEIA</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="style/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="style/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <!-- Plugin CSS -->
+    <link href="style/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="style/css/creative.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
 <style>
-.title{
-  font-family: sans-serif;
-  font-size: 20px;
-  position: absolute;
-  top: 300px;
-  text-align: center;
-  margin-left: 45%;
-  margin-right: auto;
-}
+    /*style for search----------------------------------*/
+    table{
+        border-collapse:collapse; 
+        table-layout:fixed; 
+    }
+      
+    #list_search{
+        /*
+        position: absolute;
+        right: 300px;
+        top: 100px;
+        */
+    }
+
+    #getInfo{
+       /* position: absolute;
+        right: 300px;
+        top:200px;*/
+        display:none;
+    }
+
+    /*this is the main table contain all comparing information*/
+    #table{
+        /*position: absolute;
+        right: 300px;
+        top:100px;*/
+        display: none;
+        border-collapse:collapse; 
+        table-layout:fixed; 
+        width:500px;  
+    }
+    
+    #table td {
+        border:solid 1px #fab; 
+        width:250px; 
+        word-wrap:break-word;}
+    
+     
+    #table tr {
+        border:solid 1px #fab; 
+        width:200px; 
+        word-wrap:break-word;}
+    
+    ul{
+        list-style-type: none;
+    }
+    
+    #aform{
+        display: none;
+    }
+    
+    .rowID{
+        width:10%;
+    }
+    /*style for d3------------------------------------------*/
+    html {
+      font-family: sans-serif;
+    }
+    h1{
+        font-family: sans-serif;
+        text-align: center;
+        padding: 10px;
+    }
+    .bubbleChart{
+      padding-top: 100px;
+    }
+  
+    #treemap {
+        width: 960px;
+        height: 500px;
+        background: white;
+        margin:auto;
+    }
+
+    #tooltip{
+        font-family: sans-serif;
+         display: none;
+         position: absolute;
+          width: 220px;
+          height: auto;
+          padding: 10px;
+          background-color: white;
+          border-radius: 10px;
+    }
+
+    #bubbletip{
+        font-family: sans-serif;
+         display: none;
+         position: absolute;
+          width: 220px;
+          height: auto;
+          padding: 10px;
+          color: #77787a;
+          background-color: #e3e5e8;
+          border-radius: 10px;
+    }
+
+    text {
+      font-family: sans-serif;
+      pointer-events: none;
+    }
+
+    .grandparent text {
+      font-weight: bold;
+    }
+
+    rect {
+      fill: none;
+    }
+
+    rect.parent,
+    .grandparent rect {
+      stroke-width: 2px;
+    }
+
+    .grandparent rect {
+      fill: orange;
+    }
+
+    .grandparent:hover rect {
+      fill: #ee9700;
+    }
+
+    .children rect.parent,
+    .grandparent rect {
+      cursor: pointer;
+    }
+
+    .children rect.parent {
+      fill: #bbb;
+      fill-opacity: .5;
+    }
+
+    .children:hover rect.child {
+      fill: #bbb;
+    }
+
+    .top {
+
+    }
+    .bottom {
+
+    }
+    /* for zoom to domain area*/
+    .area {
+      fill: #AECFE3;
+      clip-path: url(#clip);
+    }
 
 </style>
+</head>
+
+<body id="page-top">
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Yelp Virtualization</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a class="page-scroll" href="#about">About</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Categories</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#search">Compare</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#contact">Contact</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+                <hr>
+                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+            </div>
+        </div>
+    </header>
+
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">We've got what you need!</h2>
+                    <hr class="light">
+                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Business Categories</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <h1>Zoomable Treemaps</h1>
+            <div>
+                <div class="top">
+                    <div id="tooltip" class="hidden">
+                        <p><span id="name"></span>
+                        </p>
+                        <p><span id="value"></span>
+                        </p>
+                    </div>
+                    <div>
+                        <p id="treemap"></p>
+                    </div>
+                </div>
+                <div class="bubbleChart bottom">
+                    <div id="bubbletip" class="hidden">
+                        <p><span id="busName"></span>
+                        </p>
+                        <p><span id="totalCheckin"></span>
+                        </p>
+                    </div>
+                    <svg id="bubbleChart" width="960" height="600"></svg>
+                </div>
+
+                <div class="zoomDomain">
+                    <svg id="zoomDomain" width="960" height="500"></svg>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
+                        <h3>Sturdy Templates</h3>
+                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
+                        <h3>Ready to Ship</h3>
+                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
+                        <h3>Up to Date</h3>
+                        <p class="text-muted">We update dependencies to keep things fresh.</p>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-center">
+                    <div class="service-box">
+                        <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
+                        <h3>Made with Love</h3>
+                        <p class="text-muted">You have to make your websites with love these days!</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="no-padding" id="portfolio">
+        <div class="container-fluid">
+            <div class="row no-gutter popup-gallery">
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/1.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/1.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/2.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/2.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/3.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/3.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/4.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/4.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/5.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/5.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <a href="style/img/portfolio/fullsize/6.jpg" class="portfolio-box">
+                        <img src="style/img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    Category
+                                </div>
+                                <div class="project-name">
+                                    Project Name
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <aside id = 'search' class="bg-dark">
+        <div class="container text-center">
+            <div class="call-to-action">
+                  <h1>Compare!</h1>
+                  <div class="col-lg-10 col-sm-6">
+                      <div id="compare"> </div>
+                      <form onsubmit="return false;" id = "form">
+                        <input type='text' id="inputBox" placeholder="Enter Location To Search" class="form-control">
+                      </form>
+                </div>
+                <div class="col-lg-2 col-sm-6">
+                      <button onclick="advanceForm()" class="btn btn-link">Advance Search</button>
+                </div>
+                      <div id='aform'>
+                        <form onsubmit="return false;" >
+                            <div class="col-lg-4 col-sm-6">
+                                <p>Location</p> 
+                            </div>
+                            <div class="col-lg-6 col-sm-6">
+                                <input type='text' id="location" placeholder="Enter Location" class="form-control"><br><br>
+                            </div>
+                            <div class="col-lg-4 col-sm-6">
+                                <p>Term</p> 
+                            </div>
+                            <div class="col-lg-6 col-sm-6">
+                                <input type='text' id="term" placeholder="Enter Term" class="form-control"><br><br>
+                            </div>
+                            <div class="col-lg-4 col-sm-6">
+                                <p>Price</p> 
+                            </div>
+                            <div class="col-lg-6 col-sm-6">
+                                <input type='text' id="price" placeholder="1 to 5" class="form-control"><br><br>
+                            </div>
+                             <div class="col-lg-4 col-sm-6">
+                                <p>Sort By</p> 
+                            </div>
+                            <div class="col-lg-6 col-sm-6">
+                            <select id='dropdown'>  
+                                <option value="best_match">Best Match</option>
+                                <option value="rating">Rating</option>
+                                <option value="review_count">Review Count</option>
+                                <option value="distance">Distance</option>
+                            </select>
+                            </div>
+                            <div class="col-lg- col-sm-6">
+                                <button type= "button" class="btn btn-default btn-xl sr-button" onclick="advanceSearch()">Submit</button>
+                            </div>
+                        </form>
+                      </div>
+            </div>
+        </div>
+    </aside>
+        
+
+    <section id="searchList">
+        <div class="container">
+            <div class="col-lg-2 col-sm-6">
+                <div id = "storeList"></div>
+                <div id = 'list_search'></div>
+                <button id="getInfo" onclick="getReview()" class="btn btn-secondary">Compare</button>  
+            </div>
+            <div class="col-lg-10 col-sm-6">
+            <table id='table' class="table table-hover"></table>
+            </div>
+            
+        </div>
+    </section>
+    
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Let's Get In Touch!</h2>
+                    <hr class="primary">
+                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 text-center">
+                    <i class="fa fa-phone fa-3x sr-contact"></i>
+                    <p>123-456-6789</p>
+                </div>
+                <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- jQuery -->
+    <script src="style/vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="style/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <script src="style/vendor/scrollreveal/scrollreveal.min.js"></script>
+    <script src="style/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="style/js/creative.min.js"></script>
+
+
+<script src="//d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
+
 <script>
+    
+$('#inputBox').keyup(function (e) {
+    if (e.keyCode === 13) {
+       populate()
+    }
+  });
+var city; //global variable to store the city
+var category; //global variable to store the category
 
-/* https://github.com/d3/d3-timer Copyright 2015 Mike Bostock */
-"undefined"==typeof requestAnimationFrame&&(requestAnimationFrame="undefined"!=typeof window&&(window.msRequestAnimationFrame||window.mozRequestAnimationFrame||window.webkitRequestAnimationFrame||window.oRequestAnimationFrame)||function(e){return setTimeout(e,17)}),function(e,n){"object"==typeof exports&&"undefined"!=typeof module?n(exports):"function"==typeof define&&define.amd?define(["exports"],n):n(e.timer={})}(this,function(e){"use strict";function n(){r=m=0,c=1/0,t(u())}function t(e){if(!r){var t=e-Date.now();t>24?c>e&&(m&&clearTimeout(m),m=setTimeout(n,t),c=e):(m&&(m=clearTimeout(m),c=1/0),r=requestAnimationFrame(n))}}function i(e,n,i){i=null==i?Date.now():+i,null!=n&&(i+=+n);var o={callback:e,time:i,flush:!1,next:null};a?a.next=o:f=o,a=o,t(i)}function o(e,n,t){t=null==t?Date.now():+t,null!=n&&(t+=+n),l.callback=e,l.time=t}function u(e){e=null==e?Date.now():+e;var n=l;for(l=f;l;)e>=l.time&&(l.flush=l.callback(e-l.time,e)),l=l.next;l=n,e=1/0;for(var t,i=f;i;)i.flush?i=t?t.next=i.next:f=i.next:(i.time<e&&(e=i.time),i=(t=i).next);return a=t,e}var a,m,r,f,l,c=1/0;e.timer=i,e.timerReplace=o,e.timerFlush=u});
+var color = d3.scale.category20();
 
-var canvas = document.querySelector("canvas"),
-    context = canvas.getContext("2d"),
-    width = canvas.width,
-    height = canvas.height,
-    radius = 2.5,
-    minDistance = 70,
-    maxDistance = 90,
-    minDistance2 = minDistance * minDistance,
-    maxDistance2 = maxDistance * maxDistance;
+var margin = {top: 20, right: 0, bottom: 0, left: 0},
+    width = 960,
+    height = 500 - margin.top - margin.bottom,
+    transitioning;
 
-var tau = 2 * Math.PI,
-    n = 300,
-    particles = new Array(n);
+var x = d3.scale.linear()
+    .domain([0, width])
+    .range([0, width]);
 
-for (var i = 0; i < n; ++i) {
-  particles[i] = {
-    x: Math.random() * width,
-    y: Math.random() * height,
-    vx: 0,
-    vy: 0
-  };
-}
+var y = d3.scale.linear()
+    .domain([0, height])
+    .range([0, height]);
 
-timer.timer(function(elapsed) {
-  context.save();
-  context.clearRect(0, 0, width, height);
+var treemap = d3.layout.treemap()
+    .children(function(d, depth) {
+      return depth ? null : d._children; })
+    .sort(function(a, b) { return a.value - b.value; })
+    .ratio(height / width * 0.5 * (1 + Math.sqrt(5)))
+    .round(false);
 
-  for (var i = 0; i < n; ++i) {
-    var p = particles[i];
-    p.x += p.vx; if (p.x < -maxDistance) p.x += width + maxDistance * 2; else if (p.x > width + maxDistance) p.x -= width + maxDistance * 2;
-    p.y += p.vy; if (p.y < -maxDistance) p.y += height + maxDistance * 2; else if (p.y > height + maxDistance) p.y -= height + maxDistance * 2;
-    p.vx += 0.2 * (Math.random() - .5) - 0.01 * p.vx;
-    p.vy += 0.2 * (Math.random() - .5) - 0.01 * p.vy;
-    context.beginPath();
-    context.arc(p.x, p.y, radius, 0, tau);
-    context.fill();
+var svg = d3.select("#treemap").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.bottom + margin.top)
+    .style("margin-left", -margin.left + "px")
+    .style("margin.right", -margin.right + "px")
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+    .style("shape-rendering", "crispEdges");
+
+var grandparent = svg.append("g")
+    .attr("class", "grandparent");
+
+grandparent.append("rect")
+    .attr("y", -margin.top)
+    .attr("width", width)
+    .attr("height", margin.top);
+
+grandparent.append("text")
+    .attr("x", 6)
+    .attr("y", 6 - margin.top)
+    .attr("dy", ".75em");
+
+d3.json("bus_cat.json", function(root) {
+  initialize(root);
+  accumulate(root);
+  layout(root);
+  display(root);
+
+  function initialize(root) {
+    root.x = root.y = 0;
+    root.dx = width;
+    root.dy = height;
+    root.depth = 0;
   }
 
-  for (var i = 0; i < n; ++i) {
-    for (var j = i + 1; j < n; ++j) {
-      var pi = particles[i],
-          pj = particles[j],
-          dx = pi.x - pj.x,
-          dy = pi.y - pj.y,
-          d2 = dx * dx + dy * dy;
-      if (d2 < maxDistance2) {
-        context.globalAlpha = d2 > minDistance2 ? (maxDistance2 - d2) / (maxDistance2 - minDistance2) : 1;
-        context.beginPath();
-        context.moveTo(pi.x, pi.y);
-        context.lineTo(pj.x, pj.y);
-        context.stroke();
-      }
+  // Aggregate the values for internal nodes. This is normally done by the
+  // treemap layout, but not here because of our custom implementation.
+  // We also take a snapshot of the original children (_children) to avoid
+  // the children being overwritten when when layout is computed.
+  function accumulate(d) {
+    return (d._children = d.children)
+        ? d.value = d.children.reduce(function(p, v) { return p + accumulate(v); }, 0)
+        : d.value;
+  }
+
+  // Compute the treemap layout recursively such that each group of siblings
+  // uses the same size (1×1) rather than the dimensions of the parent cell.
+  // This optimizes the layout for the current zoom state. Note that a wrapper
+  // object is created for the parent node for each group of siblings so that
+  // the parent’s dimensions are not discarded as we recurse. Since each group
+  // of sibling was laid out in 1×1, we must rescale to fit using absolute
+  // coordinates. This lets us use a viewport to zoom.
+  function layout(d) {
+    if (d._children) {
+      treemap.nodes({_children: d._children});
+      d._children.forEach(function(c) {
+        c.x = d.x + c.x * d.dx;
+        c.y = d.y + c.y * d.dy;
+        c.dx *= d.dx;
+        c.dy *= d.dy;
+        c.parent = d;
+        layout(c);
+      });
     }
   }
 
-  context.restore();
+  var mousemove = function(d){
+      var x = d3.event.pageX + 5;
+      var y = d3.event.pageY + 5;
+      d3.select("#tooltip").style("left", x + "px").style("top", y+"px");
+      d3.select("#tooltip #name").text("Category: "+d.name)
+      d3.select("#tooltip #value").text("Number: "+d.value)
+      d3.select("#tooltip").style("display", "inline");
+  }
+
+  var mouseout = function() {
+        d3.selectAll("#tooltip").style("display", "none");
+    };
+
+  function display(d) {
+    grandparent
+        .datum(d.parent)
+        .on("click", transition)
+        .select("text")
+        .text(name(d));
+
+    var g1 = svg.insert("g", ".grandparent")
+        .datum(d)
+        .attr("class", "depth");
+
+    var g = g1.selectAll("g")
+        .data(d._children)
+        .enter().append("g");
+
+    g.filter(function(d) { return d._children; })
+        .classed("children", true)
+        .on("click", transition);
+
+    g.selectAll(".child")
+        .data(function(d) { return d._children || [d]; })
+        .enter().append("rect")
+        .attr("class", "child")
+        .call(rect)
+
+    g.append("rect")
+        .attr("class", "parent")
+        .call(rect)
+        .style("fill", function(d){return color(d.name)}) //adding color to parents
+        .style("stroke", "#fff") //adding stroke to parents
+        .append("title")
+        .text(function(d) { return d.value; });
+
+/* write parent rectangle */
+	g.selectAll("rect")
+		/* get the top 10 business within the city and category*/
+		.on("click", function(d) {
+			if(!d._children){
+        category = d.name;
+        var filePath = city.replace(" ","")+"_"+category.replace(" ","").replace("/","")+".json";
+        getTopCheckin(filePath);
+        //TODO
+        //window.scrollTo(0,700);
+			}
+		});
+
+    g.append("text")
+        .attr("dy", ".75em")
+        .text(function(d) { return d.name; })
+        .call(text);
+
+    function transition(d) {
+      if (d.parent != null && d.parent.name == "Business Categories") {
+        city = d.name;
+      }
+      if (transitioning || !d) return;
+      transitioning = true;
+
+      var g2 = display(d),
+          t1 = g1.transition().duration(750),
+          t2 = g2.transition().duration(750);
+
+      // Update the domain only after entering new elements.
+      x.domain([d.x, d.x + d.dx]);
+      y.domain([d.y, d.y + d.dy]);
+
+      // Enable anti-aliasing during the transition.
+      svg.style("shape-rendering", null);
+
+      // Draw child nodes on top of parent nodes.
+      //svg.selectAll(".depth").sort(function(a, b) { return a.depth - b.depth; });
+
+      // Fade-in entering text.
+      g2.selectAll("text").style("fill-opacity", 0);
+
+      // Transition to the new view.
+      t1.selectAll("text").call(text).style("fill-opacity", 0);
+      t2.selectAll("text").call(text).style("fill-opacity", 1);
+      t1.selectAll("rect").call(rect);
+      t2.selectAll("rect").call(rect);
+
+      // Remove the old node when the transition is finished.
+      t1.remove().on("end", function() {
+        svg.style("shape-rendering", "crispEdges");
+        transitioning = false;
+      });
+    }
+
+    g.on("mousemove",mousemove).on("mouseout",mouseout)
+    return g;
+  }
+
+  function text(text) {
+    text.attr("x", function(d) { return x(d.x) + 6; })
+        .attr("y", function(d) { return y(d.y) + 6; });
+  }
+
+  function rect(rect) {
+    rect.attr("x", function(d) { return x(d.x); })
+        .attr("y", function(d) { return y(d.y); })
+        .attr("width", function(d) {
+          return x(d.x + d.dx) - x(d.x); })
+        .attr("height", function(d) {
+          return y(d.y + d.dy) - y(d.y); });
+  }
+
+  function name(d) {
+    return d.parent
+        ? name(d.parent) + "." + d.name
+        : d.name;
+  }
 });
 
+/* get the top ten checkin businesses given the city and innermost category */
+function getTopCheckin(filePath) {
+    var request = new XMLHttpRequest();
+    request.open('GET', filePath, true);
+    request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+    request.onreadystatechange = function() {
+        handleTopCheckin(request);
+    }
+    request.send(null);
+}
+
+function handleTopCheckin(req) {
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+  if(req.status === 200) {
+    var topTen = JSON.parse(req.responseText);
+    console.log("redraw");
+    drawBubbleChart(topTen);
+  }else {
+    console.log("cannot get top checkin");
+  }
+}
+
+// -------------------------------------------- bubble chart -----------------------------------------------------
+
+var width2="960", height2="500"
+var margin2 = {top: 20, right: 0, bottom: 0, left: 0};
+
+var svgbubble = d3.select("#bubbleChart")
+            .append("svg")
+            .attr("width", width2 + margin2.left + margin2.right)
+            .attr("height", height2 + margin2.bottom + margin2.top)
+            .style("margin-left", -margin2.left + "px")
+            .style("margin.right", -margin2.right + "px")
+            .append("g")
+            .attr("transform", "translate(" + margin2.left + "," + margin2.top + ")")
+            .style("shape-rendering", "crispEdges");
+
+
+var format = d3.format(",d");
+
+var color = d3.scaleOrdinal(d3.schemeCategory20c);
+
+var pack = d3.pack()
+    .size([width2, height2])
+    .padding(1.5);
+
+function drawBubbleChart(topTen) {
+
+//  d3.select("path.area").remove();
+  d3.selectAll("g.node").remove();
+
+    classes = topTen;
+    var rootb = d3.hierarchy({children: classes})
+        .sum(function(d) { return d.total_checkin; })
+        .each(function(d) {
+          if (id = d.data.id) {
+            var id, i = id.lastIndexOf(".");
+            d.id = id;
+            d.package = id.slice(0, i);
+            d.class = id.slice(i + 1);
+          }
+        });
+
+    var node = svgbubble.selectAll(".node")
+      .data(pack(rootb).leaves())
+        .enter().append("g")
+        .attr("class", "node")
+        .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
+
+    node.append("circle")
+        .attr("id", function(d) { return d.id; })
+        .attr("r", function(d) { return d.r; })
+        .style("fill", function(d) { return color(d.package); });
+
+    node.append("clipPath")
+        .attr("id", function(d) { return "clip-" + d.id; })
+      .append("use")
+        .attr("xlink:href", function(d) { return "#" + d.id; });
+
+    node.append("text")
+        .attr("clip-path", function(d) { return "url(#clip-" + d.data.business_id + ")"; })
+      .selectAll("tspan")
+      .data(function(d) {
+        var name = d.data.business_name;
+        return name.split(/(?=[A-Z][^A-Z])/g);
+      })
+      .enter().append("tspan")
+        .attr("x", 0)
+        .attr("y", function(d, i, nodes) {
+          return 20 + (i - nodes.length / 2 - 0.5) * 10; })
+        .attr("text-anchor", "middle")
+        .style("fill", "#ffffff")
+        .style("font-family", "sans-serif")
+        .text(function(d) {
+          return d; });
+
+    var mouseover = function(d){
+        var x = d3.event.pageX + 5;
+        var y = d3.event.pageY + 5;
+        d3.select("#bubbletip").style("left", x + "px").style("top", y+"px");
+        d3.select("#bubbletip #busName").text("Business Name: "+d.data.business_name)
+        d3.select("#bubbletip #totalCheckin").text("Total Checkin: "+d.data.total_checkin)
+        d3.select("#bubbletip").style("display", "inline");
+    }
+    node.on("mouseover", mouseover);
+
+    node.on("click", function(d){
+      writeCheckin(d.data);
+    });
+}
+
+/* write to zoom to domain */
+function writeCheckin(bus) {
+  var busID = bus.business_id;
+  var busName = bus.business_name;
+  var total = bus.total_checkin;
+
+  var mapDay = {
+          "0": "Sunday Dec 04 2016",
+          "1": "Monday Dec 05 2016",
+          "2": "Tuesday Dec 06 2016",
+          "3": "Wednesday Dec 07 2016",
+          "4": "Thursday Dec 08 2016",
+          "5": "Friday Dec 09 2016",
+          "6": "Saturday Dec 10 2016"
+      }
+  var result = [];
+  var day, i;
+  dayList = ['0', '1', '2', '3', '4', '5', '6']
+  var lineData = {};
+  for (day = 0; day < 7; day++){
+    for (i = 0; i < 24; i++) {
+      var checkinInfo = bus.checkin_info;
+      var key = i.toString() + '-' + day;
+      if (key in checkinInfo) {
+        numCheckin = checkinInfo[key];
+      } else {
+        numCheckin = 0;
+      }
+      var lineKey = i.toString()+' '+mapDay[day];
+      var lineData = { "time_day": lineKey , "num_checkin": numCheckin };
+      result.push(lineData);
+    }
+  }
+  drawZoomDomain(result);
+  return result;
+}
+// ------------------------------------------ Zoom to Domain -------------------------------------------------
+
+
+  var svg3 = d3.select("#zoomDomain"),
+      margin = {top: 20, right: 20, bottom: 30, left: 100},
+      width3 = +svg3.attr("width") - margin.left - margin.right,
+      height3 = +svg3.attr("height") - margin.top - margin.bottom;
+
+  var parseDate = d3.timeParse("%H %A %b %d %Y");
+
+  var x3 = d3.scaleTime().range([0, width3]),
+      y3 = d3.scaleLinear().range([height3, 0]);
+
+  var xAxis = d3.axisBottom(x3),
+      yAxis = d3.axisLeft(y3);
+
+  var zoom = d3.zoom()
+      .scaleExtent([1, 32])
+      .translateExtent([[0, 0], [width3, height3]])
+      .extent([[0, 0], [width3, height3]])
+      .on("zoom", zoomed);
+
+  var area = d3.area()
+      .curve(d3.curveMonotoneX)
+      .x(function(d) {
+        //console.log(x3(parseDate(d.time_day)));
+        return x3(parseDate(d.time_day)); })
+      .y0(height3)
+      .y1(function(d) {
+        return y3(d.num_checkin); });
+
+  svg3.append("defs").append("clipPath")
+      .attr("id", "clip")
+    .append("rect")
+      .attr("width", width3)
+      .attr("height", height3);
+
+  var g3 = svg3.append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+function drawZoomDomain(data){
+    x3.domain(d3.extent(data, function(d) { return parseDate(d.time_day); }));
+    y3.domain([0, d3.max(data, function(d) { return +d.num_checkin; })]);
+
+    d3.select("path.area").remove();
+    d3.select("g.axis--x").remove();
+    d3.select("g.axis--y").remove();
+
+    g3.append("path")
+        .datum(data)
+        .attr("class", "area")
+        .attr("d", area);
+
+    g3.append("g")
+        .attr("class", "axis axis--x")
+        .attr("transform", "translate(0," + height3 + ")")
+        .call(xAxis);
+
+    g3.append("g")
+        .attr("class", "axis axis--y")
+        .call(yAxis);
+
+    var d0 = new Date("Sun Dec 04 2016 00:00:00"),
+        d1 = new Date("Sat Dec 10 2016 05:00:00");
+
+
+    // Gratuitous intro zoom!
+    svg3.call(zoom).transition()
+        .duration(1500)
+        .call(zoom.transform, d3.zoomIdentity
+            .scale(width3 / (x3(d1) - x3(d0)))
+            .translate(-x3(d0), 0));
+
+  }
+
+function zoomed() {
+  var t = d3.event.transform, xt = t.rescaleX(x3);
+  g3.select(".area").attr("d", area.x(function(d) { return xt(parseDate(d.time_day)); }));
+  g3.select(".axis--x").call(xAxis.scale(xt));
+}
+    
+//---------------------------------------Search-----------------------------------------
+var checkedValue = [] //stroed checked values
+var idname = {} //dictionary matched id with name
+var ids = []
+var allSearchedInfo = {}
+//var needInfo = [] //info needed for build comparing table
+
+function advanceForm(){
+    var search = document.getElementById('form')
+    var form = document.getElementById('aform')
+    //console.log(form)
+    
+    if(search.style.display == 'none'){
+        search.style.display = 'inline'
+        form.style.display = 'none'
+    }else{
+        search.style.display = 'none'
+        form.style.display = 'inline'
+    }
+} 
+    
+function advanceSearch() {
+  //console.log("start")
+  var loc = document.getElementById('location').value;
+  var term = document.getElementById('term').value;
+  var price = document.getElementById('price').value;
+  var sort = document.getElementById('dropdown').value;
+  //console.log('Dropdown')
+  //console.log(sort)
+ /* if(loc.length == 0){
+      loc = 'null'
+  }
+  if(term.length == 0){
+      term = 'null'
+  }
+  if(price.length == 0){
+      price = 'null'
+  }*/
+  //console.log(el)
+  //var el = "+14159083801"
+  var req = new XMLHttpRequest();
+  req.open('POST', '/advanceSearch', true);
+  req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+  req.onreadystatechange = function() {
+    handleRes(req);
+  }
+  req.send(loc+ '/' + term + '/' + price + '/' + sort);
+}
+
+
+
+//search for completed information for business based on business id
+function getReview(){
+    if(ids.length>0){
+        //console.log('getReview function start')
+        var request = new XMLHttpRequest();
+        request.open('POST', '/getReview', true);
+        request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+        request.onreadystatechange = function(){
+            handleGetReview(request)
+        }   
+        request.send(ids)
+    }  
+}
+    
+function handleGetReview(req) {
+
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+  if(req.status === 200)
+     console.log('response')
+     console.log(JSON.parse(req.responseText))
+     var response = JSON.parse(req.responseText)
+     var needInfo = []
+     var review = []
+     response.forEach(function(i){
+         needInfo.push(i.business)
+         review.push(i.review)
+     })
+     
+     buildTable(needInfo, review)
+}
+ 
+    
+//After getting replied from server side, this function build the table    
+function buildTable(needInfo, review){
+    console.log('needInfo')
+    console.log(needInfo)
+    var table = document.getElementById('table');
+    table.innerHTML = ''
+    table.style.display = 'inline'
+    document.getElementById('getInfo').style.display = 'none'
+    document.getElementById('list_search').style.display = 'none'
+    buiding(table, needInfo, review)
+}
+    
+//building the comparing table
+function buiding(table, needInfo, review){
+    //console.log(review[0])
+    var htmlStr = ' '
+    htmlStr += '<tr><th class="rowID"> Name </th>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<th>'+bus.name+ ' </th>'
+    })
+    //table.innerHTML += '</tr>'
+    htmlStr += '<tr><td> Category </td>'
+    needInfo.forEach(function(bus){
+        var cat = ''
+        bus.categories.forEach(function(c){
+            cat = cat + c.title + '; '
+        })
+        htmlStr += '<td>'+cat+ ' </td>'
+    })
+    htmlStr += '<tr><td> Location </td>'
+    needInfo.forEach(function(bus){ 
+        var address = bus.location.address1 + ', '
+        address = address + bus.location.city + ', '
+        address = address + bus.location.state + ', '
+        address += bus.location.zip_code
+        htmlStr += '<td>'+ address +'</td>'
+    })
+    htmlStr += '<tr><td> Phone </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td>'+bus.phone+ ' </td>'
+    })
+    htmlStr += '<tr><td> Is Open Now</td>'
+    needInfo.forEach(function(bus){ 
+        var hour = bus.hours
+        if (hour === undefined){
+            hour = 'not avaliable'
+            htmlStr += '<td>'+ hour + ' </td>'
+        }else{
+            htmlStr += '<td>'+ hour[0].is_open_now + ' </td>'  
+        }         
+    })
+    htmlStr += '<tr><td>Open Hours</td>'
+    needInfo.forEach(function(bus){ 
+        var hour = bus.hours
+        if (hour === undefined){
+            hour = 'not avaliable'
+            htmlStr += '<td>'+ hour + ' </td>'
+        }else{
+            var m = hour[0].open[0]
+            var t = hour[0].open[1]
+            var w = hour[0].open[2]
+            var tr = hour[0].open[3]
+            var fr = hour[0].open[4]
+            var st = hour[0].open[5]
+            var sun = hour[0].open[6]
+            if(m === undefined){
+                htmlStr += '<td> Monday: Closed'
+            }else{
+                htmlStr += '<td> Monday: '+ hour[0].open[0].start.substring(0,2) + ':' + hour[0].open[0].start.substring(2,4)+ ' - '  + hour[0].open[0].end.substring(0,2) 
+                + ':' + hour[0].open[0].end.substring(2,4) + '</br>'
+            }
+            if(t === undefined){
+                htmlStr += 'Tuesday: Closed'
+            }else{
+                htmlStr += 'Tuesday: '+ hour[0].open[1].start.substring(0,2) + ':' + hour[0].open[1].start.substring(2,4)+ ' - '  + hour[0].open[1].end.substring(0,2) 
+                + ':' + hour[0].open[1].end.substring(2,4) + '</br>'
+            }
+            if(w === undefined){
+                htmlStr += 'Wednesday: Closed'
+            }else{
+                htmlStr += 'Wednesday: '+ hour[0].open[2].start.substring(0,2) + ':' + hour[0].open[2].start.substring(2,4)+ ' - '  + hour[0].open[2].end.substring(0,2) 
+                + ':' + hour[0].open[2].end.substring(2,4) + '</br>'
+            }
+            if(tr === undefined){
+                htmlStr += 'Thursday: Closed'
+            }else{
+                htmlStr += 'Thursday: '+ hour[0].open[3].start.substring(0,2) + ':' + hour[0].open[3].start.substring(2,4)+ ' - '  + hour[0].open[3].end.substring(0,2) 
+                + ':' + hour[0].open[3].end.substring(2,4) + '</br>'
+            }
+            if(fr === undefined){
+                htmlStr += 'Friday: Closed'
+            }else{
+                htmlStr += 'Friday: '+ hour[0].open[4].start.substring(0,2) + ':' + hour[0].open[4].start.substring(2,4)+ ' - '  + hour[0].open[4].end.substring(0,2) 
+                + ':' + hour[0].open[4].end.substring(2,4) + '</br>'
+            }
+            if(st === undefined){
+                htmlStr += 'Saturday: Closed'
+            }else{
+                htmlStr += 'Saturday: '+ hour[0].open[5].start.substring(0,2) + ':' + hour[0].open[5].start.substring(2,4)+ ' - '  + hour[0].open[5].end.substring(0,2) 
+                + ':' + hour[0].open[5].end.substring(2,4) + '</br>'
+            }
+           if(sun === undefined){
+                htmlStr += 'Sunday: Closed'
+            }else{
+                htmlStr += 'Sunday: '+ hour[0].open[6].start.substring(0,2) + ':' + hour[0].open[6].start.substring(2,4)+ ' - '  + hour[0].open[6].end.substring(0,2) 
+                + ':' + hour[0].open[6].end.substring(2,4) + '</br>'
+            }
+            htmlStr += ' </ul></td>'  
+        }         
+    })
+    
+    htmlStr += '<tr><td class="rowName"> Price </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td>'+bus.price+ ' </td>'
+    })
+    htmlStr += '<tr><td class="rowName"> Is Closed </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td>'+bus.is_closed+ ' </td>'
+    })
+    htmlStr += '<tr><td class="rowName"> Rating </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td>'+bus.rating+ ' </td>'
+    })
+    htmlStr += '<tr><td class="rowName"> Review Count </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td>'+bus.review_count+ ' </td>'
+    })
+    htmlStr += '<tr><td class="rowName"> Website </td>'
+    needInfo.forEach(function(bus){ 
+        htmlStr += '<td><a href="'+bus.url+ '">Enter</a> </td>'
+    }) 
+    htmlStr += '<tr><td class="rowName"> Review </td>'
+    for(var i = 0; i < needInfo.length; i++){ 
+        var text = review[i].reviews[0].text
+        if (text === undefined){
+            text = ' '
+        }
+        htmlStr += '<td>'+text +'</td>'
+    }
+    htmlStr += '<tr><td class="rowName">  </td>'
+    for(var i = 0; i < needInfo.length; i++){ 
+        var text = review[i].reviews[1].text
+        if (text === undefined){
+            text = ' '
+        }
+        htmlStr += '<td>'+text +'</td>'
+    }
+    htmlStr += '<tr><td class="rowName">  </td>'
+    for(var i = 0; i < needInfo.length; i++){    
+        var text = review[i].reviews[2].text
+        if (text === undefined){
+            text = ' '
+        }
+        htmlStr += '<td>'+text +'</td>'
+    }
+
+    table.innerHTML = htmlStr
+}
+
+
+//get id and add to comparing list
+function getname(){
+    //change the display of table which stores all info to none
+    var table_list = document.getElementById('table');
+     console.log("jjjj")
+    console.log(table_list.style.display)
+    if(table_list.style.display == 'inline'){
+        console.log('hehehehe')
+        table_list.style.display = 'none'
+    }
+    checkedValue = []
+    idname = {}
+    ids = []
+    needInfo = []
+    $('.store:checked').each(function(i){
+        checkedValue[i] = $(this).val();
+    })
+    if (checkedValue.length > 3){
+        alert("Choose at most three stores")
+        return
+    }
+    //console.log(checkedValue)
+    for(var i = 0; i< checkedValue.length; i++){
+        var str = checkedValue[i].split('/');
+        idname[str[0]] = str[1]
+    }
+  
+        var table = document.getElementById('list_search');
+        table.innerHTML = ' '
+        table.style.display = 'inline'
+        for(var key in idname){
+            ids.push(key)
+            needInfo.push(allSearchedInfo[key])
+            table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
+        }
+        document.getElementById('getInfo').style.display = 'inline'  
+}
+
+//search based on user entered information to get simple information
+function populate() {
+  //console.log("start")
+  var el = document.getElementById('inputBox').value;
+  //console.log(el)
+  //var el = "+14159083801"
+  var req = new XMLHttpRequest();
+  req.open('POST', '/search', true);
+  req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
+  req.onreadystatechange = function() {
+    handleRes(req);
+  }
+  req.send(el);
+}
+
+function handleRes(req) {
+  if( req.readyState !== XMLHttpRequest.DONE )
+    return;
+
+  if(req.status === 200)
+    buildList( JSON.parse(req.responseText) );
+}
+
+function buildList( A ) {
+  tableInfo = {}
+  //number of elements in json file
+  var number = A.total
+  //constructs an array to hold elements
+  tempInfo = A.businesses
+  //console.log(A.businesses)
+  var el = document.getElementById('storeList');
+  el.innerHTML = "";
+  tempInfo.forEach(function(e){
+      allSearchedInfo[e.id] = e
+      //console.log(e.name)
+      el.innerHTML +=  '<label><input type="checkbox" value="'+ e.id + '/' + e.name + '"  class="store">'+e.name+'</label>'
+      el.innerHTML += '<br>'
+  })
+  el.innerHTML+='<button type="button" onclick="getname()" class="btn btn-secondary">Add to Compare List</button>'
+}
+
+
 </script>
-<body>
-  <div class="title">
-    <a href="zoomableTM.html">Explore</a>
-    <h1>THEIA</h1>
-    <a href="table.html">Compare</a>
-</div>
 </body>
 </html>

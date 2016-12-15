@@ -115,17 +115,6 @@ function advanceSearch() {
   var sort = document.getElementById('dropdown').value;
   console.log('Dropdown')
   console.log(sort)
- /* if(loc.length == 0){
-      loc = 'null'
-  }
-  if(term.length == 0){
-      term = 'null'
-  }
-  if(price.length == 0){
-      price = 'null'
-  }*/
-  //console.log(el)
-  //var el = "+14159083801"
   var req = new XMLHttpRequest();
   req.open('POST', '/advanceSearch', true);
   req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
@@ -134,7 +123,6 @@ function advanceSearch() {
   }
   req.send(loc+ '/' + term + '/' + price + '/' + sort);
 }
-
 
 
 //search for completed information for business based on business id
@@ -167,9 +155,6 @@ function handleGetReview(req) {
      })
      
      buildTable(needInfo, review)
-      //buildTable(needInfo, JSON.parse(req.responseText));
-      //console.log('done')
-       //console.log("response")
 }
  
     
@@ -190,13 +175,11 @@ function buildTable(needInfo, review){
     
 //building the comparing table
 function buiding(table, needInfo, review){
-    //console.log(review[0])
     var htmlStr = ' '
     htmlStr += '<tr><td> Name </td>'
     needInfo.forEach(function(bus){ 
         htmlStr += '<td>'+bus.name+ ' </td>'
     })
-    //table.innerHTML += '</tr>'
     htmlStr += '<tr><td> Category </td>'
     needInfo.forEach(function(bus){
         var cat = ''
@@ -354,22 +337,20 @@ function getname(){
         alert("Choose at most five stores")
         return
     }
-    //console.log(checkedValue)
     for(var i = 0; i< checkedValue.length; i++){
         var str = checkedValue[i].split('/');
         idname[str[0]] = str[1]
     }
         console.log(idname)
         var table = document.getElementById('list');
+        table.innerHTML = '';
         for(var key in idname){
             ids.push(key)
             needInfo.push(allSearchedInfo[key])
             table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
         }
         document.getElementById('getInfo').style.display = 'inline'
-        //console.log("key ")
         console.log(ids)
-    //console.log(checkedValue)  
 
 }
 

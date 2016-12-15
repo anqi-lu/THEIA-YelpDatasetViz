@@ -39,10 +39,10 @@
 
     /*style for search----------------------------------*/
     table{
-        border-collapse:collapse; 
-        table-layout:fixed; 
+        border-collapse:collapse;
+        table-layout:fixed;
     }
-      
+
     #list_search{
         /*
         position: absolute;
@@ -64,34 +64,34 @@
         right: 300px;
         top:100px;*/
         display: none;
-        border-collapse:collapse; 
-        table-layout:fixed; 
-        width:500px;  
+        border-collapse:collapse;
+        table-layout:fixed;
+        width:500px;
     }
-    
+
     #table td {
         /*border:solid 1px; */
-        width:250px; 
+        width:250px;
         word-wrap:break-word;}
-    
-     
+
+
     #table tr {
         /*border:solid 1px; */
-        width:200px; 
+        width:200px;
         word-wrap:break-word;}
-    
+
     ul{
         list-style-type: none;
     }
-    
+
     #aform{
         display: none;
     }
-    
+
     .rowID{
         width:10%;
     }
-    
+
 
     /*style for d3------------------------------------------*/
     html {
@@ -105,7 +105,7 @@
     .bubbleChart{
       padding-top: 100px;
     }
-  
+
     #treemap {
         width: 960px;
         height: 500px;
@@ -114,7 +114,6 @@
     }
 
     #tooltip{
-        font-family: sans-serif;
          display: none;
          position: absolute;
           width: 220px;
@@ -125,7 +124,6 @@
     }
 
     #bubbletip{
-        font-family: sans-serif;
          display: none;
          position: absolute;
           width: 220px;
@@ -137,7 +135,6 @@
     }
 
     text {
-      font-family: sans-serif;
       pointer-events: none;
     }
 
@@ -187,15 +184,15 @@
       fill: #AECFE3;
       clip-path: url(#clip);
     }
-    
+
     header{
         background-image: url("background.jpg");
     }
-    
+
     #about{
         background-color: #66727f;
     }
-    
+
 </style>
 </head>
 
@@ -208,7 +205,7 @@
                 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" href="#page-top">Yelp Virtualization</a>
+                <a class="navbar-brand page-scroll" href="#page-top">THEIA</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -226,7 +223,7 @@
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
-                    
+
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -237,22 +234,23 @@
     <header>
         <div class="header-content">
             <div class="header-content-inner">
-                <h1 id="homeHeading">Your Favorite Source of Free Bootstrap Themes</h1>
+                <h1 id="homeHeading">THEIA</h1>
                 <hr>
-                <p>Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
+                <p>Gain Insight of vast amount of businesses on Yelp.</p>
                 <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
             </div>
         </div>
     </header>
-    
+
     <section class="bg-primary" id="about">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">We've got what you need!</h2>
                     <hr class="light">
-                    <p class="text-faded">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button">Get Started!</a>
+                    <p class="text-faded">We implemented search and comparison system that enables you to find what you are seeking and help you make decisions by presenting the differences.
+                      We also took the dataset from Yelp Dataset Challenge and turned those data into intuitive visualization and bring you insight about popular businesses in each business category.</p>
+                    <a href="#search" class="page-scroll btn btn-default btn-xl sr-button">Start Exploration</a>
                 </div>
             </div>
         </div>
@@ -260,7 +258,7 @@
     <aside id = 'search' class="bg-dark">
         <div class="container text-center">
             <div class="call-to-action">
-                  <h1>Compare!</h1>
+                  <h1>Search & Compare</h1>
                   <div class="col-lg-10 col-sm-6">
                       <div id="compare"> </div>
                       <form onsubmit="return false;" id = "form">
@@ -273,28 +271,28 @@
                       <div id='aform'>
                         <form onsubmit="return false;" >
                             <div class="col-lg-4 col-sm-6">
-                                <p>Location</p> 
+                                <p>Location</p>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <input type='text' id="location" placeholder="Enter Location" class="form-control"><br><br>
                             </div>
                             <div class="col-lg-4 col-sm-6">
-                                <p>Term</p> 
+                                <p>Term</p>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <input type='text' id="term" placeholder="Enter Term" class="form-control"><br><br>
                             </div>
                             <div class="col-lg-4 col-sm-6">
-                                <p>Price</p> 
+                                <p>Price</p>
                             </div>
                             <div class="col-lg-6 col-sm-6">
                                 <input type='text' id="price" placeholder="1 to 5" class="form-control"><br><br>
                             </div>
                              <div class="col-lg-4 col-sm-6">
-                                <p>Sort By</p> 
+                                <p>Sort By</p>
                             </div>
                             <div class="col-lg-6 col-sm-6">
-                            <select id='dropdown'>  
+                            <select id='dropdown'>
                                 <option value="best_match">Best Match</option>
                                 <option value="rating">Rating</option>
                                 <option value="review_count">Review Count</option>
@@ -318,81 +316,10 @@
                 <div id = "storeList"></div>
                 <br><br>
                 <div id = 'list_search'></div>
-                <button id="getInfo" onclick="getReview()" class="btn btn-secondary">Compare</button>  
+                <button id="getInfo" onclick="getReview()" class="btn btn-secondary">Compare</button>
             </div>
             <div class="col-lg-10 col-sm-6">
             <table id='table' class="table table-hover"></table>
-            </div>            
-        </div>
-    </section>
-
-
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Business Categories</h2>
-                    <hr class="primary">
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <h1>Zoomable Treemaps</h1>
-            <div>
-                <div class="top">
-                    <div id="tooltip">
-                        <p><span id="name"></span>
-                        </p>
-                        <p><span id="value"></span>
-                        </p>
-                    </div>
-                    <div>
-                        <p id="treemap"></p>
-                    </div>
-                </div>
-                <div class="bubbleChart bottom">
-                    <div id="bubbletip" display="none">
-                        <p><span id="busName"></span>
-                        </p>
-                        <p><span id="totalCheckin"></span>
-                        </p>
-                    </div>
-                    <svg id="bubbleChart" width="960" height="600"></svg>
-                </div>
-
-                <div class="zoomDomain">
-                    <svg id="zoomDomain" width="960" height="500"></svg>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-diamond text-primary sr-icons"></i>
-                        <h3>Sturdy Templates</h3>
-                        <p class="text-muted">Our templates are updated regularly so they don't break.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-paper-plane text-primary sr-icons"></i>
-                        <h3>Ready to Ship</h3>
-                        <p class="text-muted">You can use this theme as is, or you can make changes!</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-newspaper-o text-primary sr-icons"></i>
-                        <h3>Up to Date</h3>
-                        <p class="text-muted">We update dependencies to keep things fresh.</p>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 text-center">
-                    <div class="service-box">
-                        <i class="fa fa-4x fa-heart text-primary sr-icons"></i>
-                        <h3>Made with Love</h3>
-                        <p class="text-muted">You have to make your websites with love these days!</p>
-                    </div>
-                </div>
             </div>
         </div>
     </section>
@@ -414,7 +341,7 @@
                             </div>
                         </div>
                     </a>
-                </div>          
+                </div>
                 <div class="col-lg-4 col-sm-5">
                     <a href="https://www.kimptonhotels.com/blog/wp-content/uploads/2016/03/Charlotte-Hero.jpg" class="portfolio-box">
                         <img src="https://www.kimptonhotels.com/blog/wp-content/uploads/2016/03/Charlotte-Hero.jpg" class="img-responsive" alt="" style="width: 100%; height: 100%;">
@@ -475,7 +402,7 @@
                         </div>
                     </a>
                 </div>
-              
+
                 <div class="col-lg-4 col-sm-5">
                     <a href="https://s-media-cache-ak0.pinimg.com/originals/88/26/2c/88262c39ed19a3e113bb425a11c363f5.jpg" class="portfolio-box" style="width: 100%; height: 100%;">
                         <img src="https://s-media-cache-ak0.pinimg.com/originals/88/26/2c/88262c39ed19a3e113bb425a11c363f5.jpg" class="img-responsive" alt="">
@@ -494,24 +421,62 @@
             </div>
         </div>
     </section>
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Business Categories</h2>
+                    <hr class="primary">
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="d3">
+                <div class="top">
+                    <div id="tooltip">
+                        <p><span id="name"></span>
+                        </p>
+                        <p><span id="value"></span>
+                        </p>
+                    </div>
+                    <div>
+                        <p id="treemap"></p>
+                    </div>
+                </div>
+                <div class="bubbleChart bottom">
+                    <div id="bubbletip" display="none">
+                        <p><span id="busName"></span>
+                        </p>
+                        <p><span id="totalCheckin"></span>
+                        </p>
+                    </div>
+                    <h3 id="bubbleTitle"></h3>
+                    <svg id="bubbleChart" width="960" height="600" display="none"></svg>
+                </div>
 
+                <div class="zoomDomain">
+                  <h3 id="zoomTitle"></h3>
+                  <svg id="zoomDomain" width="960" height="500" display="none"></svg>
+                </div>
+            </div>
+        </div>
+    </section>
 
-    
     <section id="contact">
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">Let's Get In Touch!</h2>
                     <hr class="primary">
-                    <p>Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!</p>
+                    <p>What do you think of our project? What improvement could we make? Send us an email and we'd love to hear your feedback!</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-2 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact"></i>
-                    <p>123-456-6789</p>
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="alu@wpi.edu">alu@wpi.edu</a></p>
                 </div>
                 <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                    <p><a href="zding@wpi.edu">zding@wpi.edu</a></p>
                 </div>
             </div>
         </div>
@@ -537,7 +502,7 @@
 <script src="//d3js.org/d3.v4.min.js" charset="utf-8"></script>
 
 <script>
-    
+
 $('#inputBox').keyup(function (e) {
     if (e.keyCode === 13) {
        populate()
@@ -545,8 +510,13 @@ $('#inputBox').keyup(function (e) {
   });
 var city; //global variable to store the city
 var category; //global variable to store the category
+var colorDomain = [-.6, 0, .6],
+    colorRange = ["#373a93", 'white', "#936638"];
 
-var color = d3.scale.category20();
+//var color = d3.scale.category20c();
+var color = d3.scale.linear()
+    .domain(colorDomain)
+    .range(colorRange);
 
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
     width = 960,
@@ -560,6 +530,11 @@ var x = d3.scale.linear()
 var y = d3.scale.linear()
     .domain([0, height])
     .range([0, height]);
+
+
+function colorIncrements(d){
+    return (colorDomain[colorDomain.length - 1] - colorDomain[0])/18*d + colorDomain[0];
+}
 
 var treemap = d3.layout.treemap()
     .children(function(d, depth) {
@@ -675,7 +650,7 @@ d3.json("bus_cat.json", function(root) {
     g.append("rect")
         .attr("class", "parent")
         .call(rect)
-        .style("fill", function(d){return color(d.name)}) //adding color to parents
+        .style("fill", function(d){return color(d.value);}) //adding color to parents
         .style("stroke", "#fff") //adding stroke to parents
         .append("title")
         .text(function(d) { return d.value; });
@@ -688,8 +663,7 @@ d3.json("bus_cat.json", function(root) {
         category = d.name;
         var filePath = city.replace(" ","")+"_"+category.replace(" ","").replace("/","")+".json";
         getTopCheckin(filePath);
-        //TODO
-        //window.scrollTo(0,700);
+        d3.select("h3#bubbleTitle").text(function(d) { return "Top ten checked-in "+ category+" businesses in "+city; });
 			}
 		});
 
@@ -776,7 +750,7 @@ function handleTopCheckin(req) {
     return;
   if(req.status === 200) {
     var topTen = JSON.parse(req.responseText);
-    console.log("redraw");
+    d3.select("svg#bubbleChart").style("display", "unset");
     drawBubbleChart(topTen);
   }else {
     console.log("cannot get top checkin");
@@ -808,8 +782,7 @@ var pack = d3.pack()
     .padding(1.5);
 
 function drawBubbleChart(topTen) {
-
-//  d3.select("path.area").remove();
+  window.scrollBy(0, 600);
   d3.selectAll("g.node").remove();
 
     classes = topTen;
@@ -831,8 +804,9 @@ function drawBubbleChart(topTen) {
         .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
     node.append("circle")
-        .attr("id", function(d) { return d.id; })
+    //    .attr("id", function(d) { return d.id; })
         .attr("r", function(d) { return d.r; })
+        .attr("id", function(d) { return d.data.business_id; })
         .style("fill", function(d) { return color(d.package); });
 
     node.append("clipPath")
@@ -858,19 +832,23 @@ function drawBubbleChart(topTen) {
           return d; });
 
     var mouseover = function(d){
+
         var x = d3.event.pageX + 5;
         var y = d3.event.pageY + 5;
+
+        d3.select("circle#"+d.data.business_id).style("opacity", "0.5");
         d3.select("#bubbletip").style("left", x + "px").style("top", y+"px");
         d3.select("#bubbletip #busName").text("Business Name: "+d.data.business_name)
         d3.select("#bubbletip #totalCheckin").text("Total Checkin: "+d.data.total_checkin)
         d3.select("#bubbletip").style("display", "inline");
     }
-    var bubblemouseout = function() {
+    var bubblemouseout = function(d) {
+      d3.select("circle#"+d.data.business_id).style("opacity", "1");
         d3.selectAll("#bubbletip").style("display", "none");
     };
     node.on("mouseover", mouseover);
     node.on("mouseout", bubblemouseout);
-    
+
     node.on("click", function(d){
       writeCheckin(d.data);
     });
@@ -909,6 +887,8 @@ function writeCheckin(bus) {
       result.push(lineData);
     }
   }
+  d3.select("svg#zoomDomain").style("display", "unset");
+  d3.select("h3#zoomTitle").text(function(d){ return "Checkin Data for "+busName; });
   drawZoomDomain(result);
   return result;
 }
@@ -953,6 +933,7 @@ function writeCheckin(bus) {
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 function drawZoomDomain(data){
+    window.scrollBy(0, 500);
     x3.domain(d3.extent(data, function(d) { return parseDate(d.time_day); }));
     y3.domain([0, d3.max(data, function(d) { return +d.num_checkin; })]);
 
@@ -992,7 +973,7 @@ function zoomed() {
   g3.select(".area").attr("d", area.x(function(d) { return xt(parseDate(d.time_day)); }));
   g3.select(".axis--x").call(xAxis.scale(xt));
 }
-    
+
 //---------------------------------------Search-----------------------------------------
 var checkedValue = [] //stroed checked values
 var idname = {} //dictionary matched id with name
@@ -1004,7 +985,7 @@ function advanceForm(){
     var search = document.getElementById('form')
     var form = document.getElementById('aform')
     //console.log(form)
-    
+
     if(search.style.display == 'none'){
         search.style.display = 'inline'
         form.style.display = 'none'
@@ -1012,8 +993,8 @@ function advanceForm(){
         search.style.display = 'none'
         form.style.display = 'inline'
     }
-} 
-    
+}
+
 function advanceSearch() {
   //console.log("start")
   var loc = document.getElementById('location').value;
@@ -1053,11 +1034,11 @@ function getReview(){
         request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
         request.onreadystatechange = function(){
             handleGetReview(request)
-        }   
+        }
         request.send(ids)
-    }  
+    }
 }
-    
+
 function handleGetReview(req) {
 
   if( req.readyState !== XMLHttpRequest.DONE )
@@ -1072,12 +1053,12 @@ function handleGetReview(req) {
          needInfo.push(i.business)
          review.push(i.review)
      })
-     
+
      buildTable(needInfo, review)
 }
- 
-    
-//After getting replied from server side, this function build the table    
+
+
+//After getting replied from server side, this function build the table
 function buildTable(needInfo, review){
     console.log('needInfo')
     console.log(needInfo)
@@ -1088,13 +1069,13 @@ function buildTable(needInfo, review){
     document.getElementById('list_search').style.display = 'none'
     buiding(table, needInfo, review)
 }
-    
+
 //building the comparing table
 function buiding(table, needInfo, review){
     //console.log(review[0])
     var htmlStr = ' '
     htmlStr += '<tr><th class="rowID"> Name </th>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<th>'+bus.name+ ' </th>'
     })
     //table.innerHTML += '</tr>'
@@ -1107,7 +1088,7 @@ function buiding(table, needInfo, review){
         htmlStr += '<td>'+cat+ ' </td>'
     })
     htmlStr += '<tr><td scope="row"> Location </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         var address = bus.location.address1 + ', '
         address = address + bus.location.city + ', '
         address = address + bus.location.state + ', '
@@ -1115,21 +1096,21 @@ function buiding(table, needInfo, review){
         htmlStr += '<td>'+ address +'</td>'
     })
     htmlStr += '<tr><td scope="row"> Phone </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td>'+bus.phone+ ' </td>'
     })
     htmlStr += '<tr><td scope="row"> Is Open Now</td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         var hour = bus.hours
         if (hour === undefined){
             hour = 'not avaliable'
             htmlStr += '<td>'+ hour + ' </td>'
         }else{
-            htmlStr += '<td>'+ hour[0].is_open_now + ' </td>'  
-        }         
+            htmlStr += '<td>'+ hour[0].is_open_now + ' </td>'
+        }
     })
     htmlStr += '<tr><td scope="row">Open Hours</td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         var hour = bus.hours
         if (hour === undefined){
             hour = 'not avaliable'
@@ -1145,71 +1126,71 @@ function buiding(table, needInfo, review){
             if(m === undefined){
                 htmlStr += '<td> Monday: Closed'
             }else{
-                htmlStr += '<td> Monday: '+ hour[0].open[0].start.substring(0,2) + ':' + hour[0].open[0].start.substring(2,4)+ ' - '  + hour[0].open[0].end.substring(0,2) 
+                htmlStr += '<td> Monday: '+ hour[0].open[0].start.substring(0,2) + ':' + hour[0].open[0].start.substring(2,4)+ ' - '  + hour[0].open[0].end.substring(0,2)
                 + ':' + hour[0].open[0].end.substring(2,4) + '</br>'
             }
             if(t === undefined){
                 htmlStr += 'Tuesday: Closed'
             }else{
-                htmlStr += 'Tuesday: '+ hour[0].open[1].start.substring(0,2) + ':' + hour[0].open[1].start.substring(2,4)+ ' - '  + hour[0].open[1].end.substring(0,2) 
+                htmlStr += 'Tuesday: '+ hour[0].open[1].start.substring(0,2) + ':' + hour[0].open[1].start.substring(2,4)+ ' - '  + hour[0].open[1].end.substring(0,2)
                 + ':' + hour[0].open[1].end.substring(2,4) + '</br>'
             }
             if(w === undefined){
                 htmlStr += 'Wednesday: Closed'
             }else{
-                htmlStr += 'Wednesday: '+ hour[0].open[2].start.substring(0,2) + ':' + hour[0].open[2].start.substring(2,4)+ ' - '  + hour[0].open[2].end.substring(0,2) 
+                htmlStr += 'Wednesday: '+ hour[0].open[2].start.substring(0,2) + ':' + hour[0].open[2].start.substring(2,4)+ ' - '  + hour[0].open[2].end.substring(0,2)
                 + ':' + hour[0].open[2].end.substring(2,4) + '</br>'
             }
             if(tr === undefined){
                 htmlStr += 'Thursday: Closed'
             }else{
-                htmlStr += 'Thursday: '+ hour[0].open[3].start.substring(0,2) + ':' + hour[0].open[3].start.substring(2,4)+ ' - '  + hour[0].open[3].end.substring(0,2) 
+                htmlStr += 'Thursday: '+ hour[0].open[3].start.substring(0,2) + ':' + hour[0].open[3].start.substring(2,4)+ ' - '  + hour[0].open[3].end.substring(0,2)
                 + ':' + hour[0].open[3].end.substring(2,4) + '</br>'
             }
             if(fr === undefined){
                 htmlStr += 'Friday: Closed'
             }else{
-                htmlStr += 'Friday: '+ hour[0].open[4].start.substring(0,2) + ':' + hour[0].open[4].start.substring(2,4)+ ' - '  + hour[0].open[4].end.substring(0,2) 
+                htmlStr += 'Friday: '+ hour[0].open[4].start.substring(0,2) + ':' + hour[0].open[4].start.substring(2,4)+ ' - '  + hour[0].open[4].end.substring(0,2)
                 + ':' + hour[0].open[4].end.substring(2,4) + '</br>'
             }
             if(st === undefined){
                 htmlStr += 'Saturday: Closed'
             }else{
-                htmlStr += 'Saturday: '+ hour[0].open[5].start.substring(0,2) + ':' + hour[0].open[5].start.substring(2,4)+ ' - '  + hour[0].open[5].end.substring(0,2) 
+                htmlStr += 'Saturday: '+ hour[0].open[5].start.substring(0,2) + ':' + hour[0].open[5].start.substring(2,4)+ ' - '  + hour[0].open[5].end.substring(0,2)
                 + ':' + hour[0].open[5].end.substring(2,4) + '</br>'
             }
            if(sun === undefined){
                 htmlStr += 'Sunday: Closed'
             }else{
-                htmlStr += 'Sunday: '+ hour[0].open[6].start.substring(0,2) + ':' + hour[0].open[6].start.substring(2,4)+ ' - '  + hour[0].open[6].end.substring(0,2) 
+                htmlStr += 'Sunday: '+ hour[0].open[6].start.substring(0,2) + ':' + hour[0].open[6].start.substring(2,4)+ ' - '  + hour[0].open[6].end.substring(0,2)
                 + ':' + hour[0].open[6].end.substring(2,4) + '</br>'
             }
-            htmlStr += ' </ul></td>'  
-        }         
+            htmlStr += ' </ul></td>'
+        }
     })
-    
+
     htmlStr += '<tr><td class="rowName" scope="row"> Price </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td>'+bus.price+ ' </td>'
     })
     htmlStr += '<tr><td class="rowName" scope="row"> Is Closed </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td>'+bus.is_closed+ ' </td>'
     })
     htmlStr += '<tr><td class="rowName" scope="row"> Rating </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td>'+bus.rating+ ' </td>'
     })
     htmlStr += '<tr><td class="rowName" scope="row"> Review Count </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td>'+bus.review_count+ ' </td>'
     })
     htmlStr += '<tr><td class="rowName"> Website </td>'
-    needInfo.forEach(function(bus){ 
+    needInfo.forEach(function(bus){
         htmlStr += '<td><a href="'+bus.url+ '">Enter</a> </td>'
-    }) 
+    })
     htmlStr += '<tr><td class="rowName" scope="row"> Review </td>'
-    for(var i = 0; i < needInfo.length; i++){ 
+    for(var i = 0; i < needInfo.length; i++){
         var text = review[i].reviews[0].text
         if (text === undefined){
             text = ' '
@@ -1217,7 +1198,7 @@ function buiding(table, needInfo, review){
         htmlStr += '<td>'+text +'</td>'
     }
     htmlStr += '<tr><td class="rowName" scope="row">  </td>'
-    for(var i = 0; i < needInfo.length; i++){ 
+    for(var i = 0; i < needInfo.length; i++){
         var text = review[i].reviews[1].text
         if (text === undefined){
             text = ' '
@@ -1225,7 +1206,7 @@ function buiding(table, needInfo, review){
         htmlStr += '<td>'+text +'</td>'
     }
     htmlStr += '<tr><td class="rowName" scope="row">  </td>'
-    for(var i = 0; i < needInfo.length; i++){    
+    for(var i = 0; i < needInfo.length; i++){
         var text = review[i].reviews[2].text
         if (text === undefined){
             text = ' '
@@ -1263,7 +1244,7 @@ function getname(){
         var str = checkedValue[i].split('/');
         idname[str[0]] = str[1]
     }
-  
+
         var table = document.getElementById('list_search');
         table.innerHTML = ' '
         table.style.display = 'inline'
@@ -1272,7 +1253,7 @@ function getname(){
             needInfo.push(allSearchedInfo[key])
             table.innerHTML += '<p class="needsearch" value="'+key+'">' + idname[key] + '</p>'
         }
-        document.getElementById('getInfo').style.display = 'inline'  
+        document.getElementById('getInfo').style.display = 'inline'
 }
 
 //search based on user entered information to get simple information

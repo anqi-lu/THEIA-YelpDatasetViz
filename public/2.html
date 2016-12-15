@@ -47,94 +47,32 @@
     ul{
         list-style-type: none;
     }
-    
-    #aform{
-        display: none;
-    }
 </style>
 
 </header>
 <body>
   <h1>Compare</h1>
   <div id="compare"> </div>
-  <form onsubmit="return false;" id = "form">
-    Search:
-    <input type='text' id="inputBox" placeholder="Enter Location">
+  <form onsubmit="return false;">
+    New Class:
+    <input type='text' id="courseBox">
     <input type='submit' onclick="populate();">
   </form>
-  <button onclick=advanceForm()>Advance Search</button>
-  <div id='aform' >
-    <form onsubmit="return false;">
-        <input type='text' id="location" placeholder="Enter Location">  Location <br><br>
-        <input type='text' id="term" placeholder="Enter Term">  Term <br><br>
-        <input type='text' id="price" placeholder="1 to 5">  Price <br><br>
-        <select id='dropdown'>  
-            <option value="best_match">Best Match</option>
-            <option value="rating">Rating</option>
-            <option value="review_count">Review Count</option>
-            <option value="distance">Distance</option>
-        </select>
-        <p>Sort By</p>
-        <button onclick=advanceSearch()>Submit</button>
-    </form>
-  </div>
   <form id = "storeList">
     </form>
   <div id = 'list'></div>
   
  <table id='table'></table>
-<button id="getInfo" onclick="getReview()">Compare</button>     
+<button id="getInfo" onclick="getReview()">Compare</button>
+      
 </body>
+
 <script>
 var checkedValue = [] //stroed checked values
 var idname = {} //dictionary matched id with name
 var ids = []
 var allSearchedInfo = {}
 //var needInfo = [] //info needed for build comparing table
-
-function advanceForm(){
-    var search = document.getElementById('form')
-    var form = document.getElementById('aform')
-    console.log(form)
-    
-    if(search.style.display == 'none'){
-        search.style.display = 'inline'
-        form.style.display = 'none'
-    }else{
-        search.style.display = 'none'
-        form.style.display = 'inline'
-    }
-} 
-    
-function advanceSearch() {
-  //console.log("start")
-  var loc = document.getElementById('location').value;
-  var term = document.getElementById('term').value;
-  var price = document.getElementById('price').value;
-  var sort = document.getElementById('dropdown').value;
-  console.log('Dropdown')
-  console.log(sort)
- /* if(loc.length == 0){
-      loc = 'null'
-  }
-  if(term.length == 0){
-      term = 'null'
-  }
-  if(price.length == 0){
-      price = 'null'
-  }*/
-  //console.log(el)
-  //var el = "+14159083801"
-  var req = new XMLHttpRequest();
-  req.open('POST', '/advanceSearch', true);
-  req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
-  req.onreadystatechange = function() {
-    handleRes(req);
-  }
-  req.send(loc+ '/' + term + '/' + price + '/' + sort);
-}
-
-
 
 //search for completed information for business based on business id
 function getReview(){
@@ -372,16 +310,15 @@ function getname(){
 //search based on user entered information to get simple information
 function populate() {
   //console.log("start")
-  var el = document.getElementById('inputBox').value;
-  console.log(el)
-  //var el = "+14159083801"
+  //var el = document.getElementById('courseBox');
+  var el = "+14159083801"
   var req = new XMLHttpRequest();
   req.open('POST', '/search', true);
   req.setRequestHeader('Content-type', 'application/x-www-form-urlencoded');
   req.onreadystatechange = function() {
     handleRes(req);
   }
-  req.send(el);
+  req.send('search='+el);
 }
 
 function handleRes(req) {

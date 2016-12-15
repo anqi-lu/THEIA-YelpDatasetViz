@@ -29,8 +29,16 @@ app.post('/search', function(req, res){
   search(req, res);
 })
 
-app.post('/getInfo', function(req, res){
+app.post('/getReview', function(req, res){
   getInfo(req, res);
+})
+
+app.post('/advanceSearch', function(req, res){
+  advanceSearch(req, res);
+})
+
+app.get('/test', function(req, res){
+  test();
 })
 
 app.listen(process.env.PORT || port, function() {
@@ -39,28 +47,72 @@ app.listen(process.env.PORT || port, function() {
 
 //function to handle requests from table.html
 function search(req, res){
-    yelp.search({term:'food', location:'Carlifornia', limit: 10})
-        .then(function (data) { 
-            //console.log(data);
-            var output = JSON.parse(data);
-            //console.log(output);
-            console.log(output.total)
+    var chunk = ""
+    req.on('data', function(data) {
+        chunk += data;
+    })
+    req.on('end', function(data) {
+        console.log(chunk)
+        console.log(chunk.length)
+        yelp.search({location:chunk, limit:20})
+            .then(function (data) { 
+                //console.log(data);
+                var output = JSON.parse(data);
+                //console.log(output);
+                //console.log(output.total)
             res.end(JSON.stringify(output))
         })
         .catch(function (err) { console.error(err);});
-}
-
-function getSingleBus(id){
-    return new Promise(function(resolve, reject){
-        yelp.business(id).then(function(data){
-                temp = JSON.parse(data);
-                resolve(temp)
-            })
-         .catch(function (err){
-            console.error(err);
-            reject(err)})
     })
 }
+
+function advanceSearch(req, res){
+    var chunk = ""
+    req.on('data', function(data) {
+        chunk += data;
+    })
+    req.on('end', function(data) {
+        var obj = chunk.split("/")
+        console.log(chunk)
+        console.log(obj)
+        var loc = obj[0]
+        var term = obj[1]
+        var price = obj[2]
+        var sort = obj[3]
+        var dic = {}
+        dic['limit']=20
+        if(loc.length>0){
+            dic['location']=loc
+        }else{
+            dic['location']='Worcester'
+        }
+        
+        if(term.length>0){
+            dic['term']=term;
+        }
+        
+        if(price.length>0){
+            dic['price']=price;
+        }
+        
+        if(price.length>0){
+            dic['sort_by']=sort;
+        }
+        
+        yelp.search(dic)
+            .then(function (data) { 
+                //console.log(data);
+                var output = JSON.parse(data);
+                //console.log(output);
+                //console.log(output.total)
+            res.end(JSON.stringify(output))
+        })
+        .catch(function (err) { console.error(err);});
+    })
+}
+
+
+
 
 function getInfo(req, res){
     var chunk = ""
@@ -70,6 +122,7 @@ function getInfo(req, res){
     req.on('end', function(data) {
         //console.log(chunk)
         var obj = chunk.split(",")
+        //console.log(obj)
         var busInfoPromise = obj.map(getSingleBus)
         Promise.all(busInfoPromise).then(function(businfo){
             //console.log(businfo)
@@ -79,5 +132,28 @@ function getInfo(req, res){
         })
     }) 
 }
+
+
+function getSingleBus(id){
+    return new Promise(function(resolve, reject){
+        yelp.business(id).then(function(data){
+            var bus = JSON.parse(data);
+            yelp.reviews(id).then(function(review){
+                var temp = JSON.parse(review);
+                var array = {}
+                array['review'] = temp
+                array['business'] = bus
+                resolve(array)
+            })
+            .catch(function (err){
+                console.error(err);
+                reject(err)})
+        })
+         .catch(function (err){
+            console.error(err);
+            reject(err)})
+    })
+}
+
 
 

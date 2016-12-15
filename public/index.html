@@ -193,6 +193,7 @@
         background-color: #66727f;
     }
 
+
 </style>
 </head>
 
@@ -268,6 +269,12 @@
                 <div class="col-lg-2 col-sm-6">
                       <button onclick="advanceForm()" class="btn btn-link">Advance Search</button>
                 </div>
+                <div class="col-lg-12 col-sm-6"><p></p></div>
+
+                 <div class="col-lg-12 col-sm-6">
+                      <button onclick="populate()" type= "button" class="btn btn-default" id="form2">Submit</button>
+                </div>
+                
                       <div id='aform'>
                         <form onsubmit="return false;" >
                             <div class="col-lg-4 col-sm-6">
@@ -292,18 +299,24 @@
                                 <p>Sort By</p>
                             </div>
                             <div class="col-lg-6 col-sm-6">
-                            <select id='dropdown'>
-                                <option value="best_match">Best Match</option>
-                                <option value="rating">Rating</option>
-                                <option value="review_count">Review Count</option>
-                                <option value="distance">Distance</option>
-                            </select>
+
+                            <div class="btn-group">
+                                <button type="button" data-toggle="dropdown" id="drop" class="btn btn-default dropdown-toggle">Filter <span class="caret"></span></button>
+                                <ul class="dropdown-menu" id="dropdown" >
+                                    <li><a href="javascript:void(0)" value="best_match">Best Match</a></li>
+                                    <li><a href="javascript:void(0)" value="rating">Rating</a></li>
+                                    <li><a href="javascript:void(0)" value="review_count">Review Count</a></li>
+                                    <li><a href="javascript:void(0)" value="distance">Distance</a></li>
+                                </ul>
                             </div>
+                     
+                            </div>
+                            
                             <div class="col-lg-12 col-sm-6">
                                 <p>   </p>
                             </div>
                             <div class="col-lg-12 col-sm-6">
-                                <button type= "button" class="btn btn-default btn-xl sr-button" onclick="advanceSearch()">Submit</button>
+                                <button type= "button" class="btn btn-default btn-xl" onclick="advanceSearch()">Submit</button>
                             </div>
                         </form>
                       </div>
@@ -503,6 +516,14 @@
 
 <script>
 
+ $(function(){
+     $(".dropdown-menu li a").click(function(){
+         $("#drop:first-child").text($(this).text());
+         $("#drop:first-child").val($(this).text());
+   });
+
+});
+    
 $('#inputBox').keyup(function (e) {
     if (e.keyCode === 13) {
        populate()
@@ -983,14 +1004,17 @@ var allSearchedInfo = {}
 
 function advanceForm(){
     var search = document.getElementById('form')
+    var search2 = document.getElementById('form2')
     var form = document.getElementById('aform')
     //console.log(form)
 
     if(search.style.display == 'none'){
         search.style.display = 'inline'
+        search2.style.display = 'inline'
         form.style.display = 'none'
     }else{
         search.style.display = 'none'
+        search2.style.display = 'none'
         form.style.display = 'inline'
     }
 }
@@ -1000,9 +1024,20 @@ function advanceSearch() {
   var loc = document.getElementById('location').value;
   var term = document.getElementById('term').value;
   var price = document.getElementById('price').value;
-  var sort = document.getElementById('dropdown').value;
+  var sort = document.getElementById('drop').value;
+  if(sort == 'Best Match'){
+      sort = "best_match";
+  }else if (sort == 'Rating'){
+      sort = "rating";
+  }else if (sort == 'Review Count'){
+      sort = "review_count";
+  }else if (sort == 'Distance'){
+      sort = 'distance'
+  }else {
+      sort = ''
+  }
   //console.log('Dropdown')
-  //console.log(sort)
+  console.log(sort)
  /* if(loc.length == 0){
       loc = 'null'
   }

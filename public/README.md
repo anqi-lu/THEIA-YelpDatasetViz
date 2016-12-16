@@ -23,7 +23,7 @@ Purpose of learning how to utilize D3.js and data processing
 ###Usage:
 - [x]Navigation Bar:
 		- Jump to the matched session
-- [x]Search: 
+- [x]Search:
 		- Input a location to do simple search
 		- It generates 20 top best matched businesses
 		- Then you can add up to three business to comparing list(choosing more will cause an alert)
@@ -34,14 +34,13 @@ Purpose of learning how to utilize D3.js and data processing
 		- Input price from 1 to 5 (cheapest to most expensive)
 		- Choose how you want the list to be sorted
 		- Then it is same as simple search
-		- Both search pull the data through Yelp API. Through "search", "business search" and "review search" which grouped by business ID to get full list of 
-		business infomation and three reviews 
+		- Both search pull the data through Yelp API. Through "search", "business search" and "review search" which grouped by business ID to get full list of
+		business infomation and three reviews
 - [x]Treemap:
 		- Shows the category distribution in 6 cities, data provided by Yelp dataset
 		- Zoomin by clicking on subrectangle
 		- Zoomout by clicking on top bar
-- [x]Bubble Bar:
+- [x]Bubble Chart:
 		- When reaching the last level of Treemap(no subgroup anymore), clicking on the rectangle will generate the top 10 individual business in bubble chart
 		- Click on bubble chart will generate the chart with checkin distribution
 		- The checkin distribution chart can be zoom in from weekday to hours
-

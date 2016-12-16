@@ -386,11 +386,11 @@
                 </div>
                 <div class="timeline-body">
                   <ul id='toolsList'>
-                    <li>D3</li>
+                    <li>Python</li>
+                    <li>D3.js</li>
                     <li>Node.js</li>
-                    <li>Express</li>
+                    <li>Express Framework</li>
                     <li>Yelp API</li>
-                    <li>Python</li>           
                  </ul>
                 </div>
               </div>
@@ -408,7 +408,7 @@
             </li>
         </ul>
     </div>
-   
+
 
     <aside id = 'search' class="bg-dark">
         <div class="container text-center">
@@ -428,7 +428,7 @@
                  <div class="col-lg-12 col-sm-6">
                       <button onclick="populate()" type= "button" class="btn btn-default" id="form2">Submit</button>
                 </div>
-                
+
                       <div id='aform'>
                         <form onsubmit="return false;" >
                             <div class="col-lg-4 col-sm-6">
@@ -463,9 +463,9 @@
                                     <li><a href="javascript:void(0)" value="distance">Distance</a></li>
                                 </ul>
                             </div>
-                     
+
                             </div>
-                            
+
                             <div class="col-lg-12 col-sm-6">
                                 <p>   </p>
                             </div>
@@ -617,11 +617,11 @@
                         <p><span id="totalCheckin"></span>
                         </p>
                     </div>
-                    <h3 id="bubbleTitle"></h3>
+                    <h3 id="bubbleTitle"  href="#bubbleChart"></h3>
                     <svg id="bubbleChart" width="960" height="600" display="none"></svg>
                 </div>
 
-                <div class="zoomDomain">
+                <div class="zoomDomain" href="#zoomDomain">
                   <h3 id="zoomTitle"></h3>
                   <svg id="zoomDomain" width="960" height="500" display="none"></svg>
                 </div>
@@ -677,7 +677,7 @@
    });
 
 });
-    
+
 $('#inputBox').keyup(function (e) {
     if (e.keyCode === 13) {
        populate()
@@ -957,7 +957,7 @@ var pack = d3.pack()
     .padding(1.5);
 
 function drawBubbleChart(topTen) {
-  window.scrollBy(0, 600);
+  document.getElementById('bubbleTitle').scrollIntoView({block: "end", behavior: "smooth"});
   d3.selectAll("g.node").remove();
 
     classes = topTen;
@@ -979,7 +979,6 @@ function drawBubbleChart(topTen) {
         .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
     node.append("circle")
-    //    .attr("id", function(d) { return d.id; })
         .attr("r", function(d) { return d.r; })
         .attr("id", function(d) { return d.data.business_id; })
         .style("fill", function(d) { return color(d.package); });
@@ -1108,7 +1107,7 @@ function writeCheckin(bus) {
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
 function drawZoomDomain(data){
-    window.scrollBy(0, 500);
+    document.getElementById('zoomTitle').scrollIntoView({block: "end", behavior: "smooth"});
     x3.domain(d3.extent(data, function(d) { return parseDate(d.time_day); }));
     y3.domain([0, d3.max(data, function(d) { return +d.num_checkin; })]);
 

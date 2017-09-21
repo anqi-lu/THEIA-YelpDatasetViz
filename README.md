@@ -20,7 +20,7 @@ Purpose of learning how to utilize D3.js and data processing
 - [x] Implement bubble chart from top 10 businesses
 - [x] Implement zoom to domain diagram from each business's checkin data
 
-###Usage:
+### Usage:
 - [x] Navigation Bar:
 		- Jump to the matched session
 - [x] Search:
